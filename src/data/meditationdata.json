@@ -1913,5 +1913,134 @@
       "Post-Chemotherapy vs Active Infusion Timing: While highly effective for rehabilitating chemotherapy-induced neuropathy after cytostatic cycles, oncology guidelines recommend consulting the treating oncologist before using during active taxane (paclitaxel) infusion days to ensure no interference with intended tumor cell apoptotic kinetics.",
       "Zero Central Sedation or Dependency: None of the components interact with central GABA-A, benzodiazepine, or mu-opioid receptors; the formulation carries zero addiction liability, does not cause daytime drowsiness or cognitive dulling, and requires no tapering protocol upon discontinuation."
     ]
+  },
+  {
+    "id": "clopidogrel-bisulfate",
+    "name": "Clopidogrel Bisulfate",
+    "generic_names": [
+      "Clopidogrel Bisulfate 75mg/150mg/300mg",
+      "Plavix",
+      "Clopilet",
+      "Deplatt",
+      "Ceruvit",
+      "Clavix"
+    ],
+    "category": ["Cardiovascular", "Blood & Anticoagulant"],
+    "sub_category": "Second-Generation Thienopyridine Irreversible Platelet P2Y12 ADP Receptor Antagonist Prodrug",
+    "company_name": "CLP1",
+    "amount": "115/- (15 Tabs - 75mg)",
+    "main_cause": "Atherothrombotic Events (Recent Myocardial Infarction, Recent Ischemic Stroke, Established Peripheral Arterial Disease), Acute Coronary Syndromes (Unstable Angina, NSTEMI, STEMI), Percutaneous Coronary Intervention (PCI) In-Stent Thrombosis Prophylaxis",
+    "why_this_disease_happens": "Atherothrombosis occurs when an unstable atherosclerotic fibrous plaque in a coronary, cerebral, or peripheral artery fissures, erodes, or ruptures. Subendothelial collagen, tissue factor, and von Willebrand factor (vWF) become exposed to circulating blood, capturing flowing platelets. Upon initial tethering, platelets degranulate, releasing adenosine diphosphate (ADP) from their dense storage granules into the microenvironment. Extracellular ADP binds two surface purinergic receptors: P2Y1 (causing transient calcium mobilization and shape alteration) and P2Y12 (a Gi-protein-coupled receptor that suppresses adenylyl cyclase and lowers intracellular cyclic AMP). Sustained P2Y12 activation releases tonic inhibition over intracellular signaling, initiating a conformational shift in the platelet surface integrin glycoprotein IIb/IIIa (alpha-IIb/beta-3) from a low-affinity state into an active, high-affinity ligand-binding state. Multivalent circulating fibrinogen binds across adjacent activated glycoprotein IIb/IIIa receptors, cross-linking platelets into an occlusive, fibrin-dense white thrombus that abruptly terminates downstream arterial perfusion, precipitating acute myocardial infarction, ischemic stroke, or acute limb ischemia.",
+    "how_this_medicine_fights_it": "Provides permanent, irreversible antiplatelet inhibition through covalent modification of the platelet P2Y12 ADP receptor following two-step hepatic bioactivation: Clopidogrel Bisulfate is an inactive thienopyridine prodrug; approximately 85% of an ingested oral dose is rapidly hydrolyzed by serum carboxylesterases (hCE1) into an inactive carboxylic acid metabolite. The remaining 15% undergoes sequential, two-step cytochrome P450 oxidation in the liver (mediated by CYP1A2, CYP2B6, CYP2C19, CYP2C9, and CYP3A4/5) to generate 2-oxo-clopidogrel, followed by conversion into an active thiol metabolite (R-130964). This active thiol metabolite enters systemic circulation and forms a covalent disulfide bond with reactive cysteine residues (specifically Cys17 and Cys270) within the extracellular domain of the platelet P2Y12 receptor. This covalent alkylation irreversibly locks the P2Y12 receptor into an inactive state for the entire 7- to 10-day lifespan of the platelet, preventing ADP binding, disinhibiting adenylyl cyclase, maintaining elevated cyclic AMP (cAMP) levels, and blocking downstream inside-out activation of the glycoprotein IIb/IIIa receptor complex to stop arterial thrombus formation.",
+    "drug_class": "Thienopyridine Derivative / Irreversible Platelet P2Y12 Receptor Antagonist Prodrug",
+    "main_action": "Hepatic CYP2C19-dependent bioactivation into an active thiol metabolite that forms an irreversible covalent disulfide bridge with platelet P2Y12 ADP receptors, permanently preventing ADP-mediated glycoprotein IIb/IIIa activation and platelet aggregation.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Acute Coronary Syndrome (ACS) including Unstable Angina (UA), Non-ST Elevation Myocardial Infarction (NSTEMI), and ST-Elevation Myocardial Infarction (STEMI)",
+      "Dual Antiplatelet Therapy (DAPT) alongside Aspirin following Percutaneous Coronary Intervention (PCI) with bare-metal or drug-eluting coronary stents",
+      "Secondary prevention of atherothrombotic events in patients with a history of recent ischemic stroke (within 6 months) or established Peripheral Arterial Disease (PAD / intermittent claudication)",
+      "Short-term DAPT (21 to 90 days) alongside Aspirin for secondary stroke prevention in high-risk Transient Ischemic Attack (TIA) or minor acute ischemic stroke (ABCD2 score greater than or equal to 4)",
+      "Alternative antiplatelet therapy for patients with documented severe hypersensitivity or gastrointestinal intolerance to Aspirin"
+    ],
+    "how_patients_describe_symptoms": [
+      "I had a heart stent placed in my blocked artery, and my cardiologist told me I must take this blood thinner every single day to stop clots from forming inside the metal stent.",
+      "I notice dark purple bruises appearing on my arms and legs from very minor bumps, and small cuts bleed much longer than usual.",
+      "After my mild stroke, my doctor switched me to this medication to keep my cerebral blood vessels open and prevent a repeat attack.",
+      "My legs used to cramp when walking because of poor arterial circulation, and this tablet protects my peripheral arteries from sudden blockages."
+    ],
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults presenting with Acute Coronary Syndrome managed medically or undergoing coronary stenting via PCI",
+        "Patients with established symptomatic peripheral arterial disease (Fontaine stage II) or a history of recent ischemic stroke",
+        "Patients requiring secondary cardiovascular prophylaxis who have documented aspirin allergies or aspirin-induced asthma"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Patients with active pathological bleeding (such as an acute bleeding peptic ulcer or active intracranial hemorrhage)",
+        "Patients confirmed to be CYP2C19 Poor Metabolizers (*2 or *3 loss-of-function alleles) without dose adjustment or alternative therapy (FDA Black Box Warning: poor metabolizers produce inadequate active thiol metabolite, leading to therapeutic failure and high stent thrombosis risk)",
+        "Patients taking strong CYP2C19 inhibitors concurrently (specifically Omeprazole or Esomeprazole; competitively block bioactivation and reduce antiplatelet efficacy)",
+        "Patients with severe acute hepatic impairment (inadequate synthesis of cytochrome P450 enzymes and baseline coagulopathies)",
+        "Patients scheduled for elective major surgical procedures or coronary artery bypass grafting (CABG) within 5 to 7 days (requires pre-operative discontinuation to avoid severe hemostatic bleeding)",
+        "Pregnant or breastfeeding women unless explicitly required for maternal life-saving indications (limited safety data)"
+      ]
+    },
+    "common_side_effects": [
+      "Hemorrhagic manifestations: purpura, bruising (ecchymosis), epistaxis (nosebleeds), hematoma formation, or prolonged bleeding from skin punctures",
+      "Gastrointestinal symptoms: dyspepsia, abdominal pain, gastritis, diarrhea, or constipation",
+      "Cutaneous allergic reactions: pruritus, maculopapular rash, or urticaria",
+      "Transient headache or dizziness",
+      "Gastrointestinal occult microvascular bleeding (uncommon, higher with concurrent NSAIDs/Aspirin)"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "CYP2C19 Pharmacogenomic Black Box Warning: Clopidogrel's clinical efficacy depends strictly on its metabolic conversion to an active thiol compound by CYP2C19. In patients who are CYP2C19 poor metabolizers (approximately 2% of Caucasians, 4% of African Americans, and 14% of East Asians carrying *2/*3 non-functional alleles), standard doses exhibit significantly reduced platelet inhibition and elevated rates of stent thrombosis and cardiovascular death. Pharmacogenetic testing or alternative direct agents (such as Ticagrelor or Prasugrel) should be evaluated in high-risk PCI cohorts.",
+      "The Omeprazole / Esomeprazole Drug Interaction Trap: Co-administration with the proton pump inhibitors Omeprazole or Esomeprazole significantly decreases the systemic exposure of clopidogrel's active metabolite by competitively inhibiting CYP2C19, cutting antiplatelet protection in half. If gastroprotection is required during DAPT, guidelines mandate using non-CYP2C19-inhibiting PPIs such as Pantoprazole, Rabeprazole, or H2-receptor antagonists (Famotidine).",
+      "Irreversible Modification Lifespan: Because the drug covalently alkylates the P2Y12 receptor, platelet inhibition persists for the entire remainder of the platelet's physical life (7 to 10 days), long after parent drug plasma concentrations drop to zero. Normal hemostatic clotting recovers only as newly synthesized platelets emerge from megakaryocytes at a turnover rate of roughly 10% per day.",
+      "Elective Surgery Discontinuation Protocol: To restore adequate surgical hemostasis and prevent uncontrollable operative hemorrhage, Clopidogrel must be held for at least 5 days (and up to 7 days) prior to elective major surgery or CABG, balancing perioperative bleeding risks against stent thrombosis risks with the surgical and cardiology teams.",
+      "DAPT Adherence Mandate: Premature discontinuation of clopidogrel within the first 6 to 12 months following drug-eluting stent placement is the leading predictor of catastrophic in-stent thrombosis, massive transmural myocardial infarction, and sudden cardiac death; patients must never interrupt therapy without direct cardiological authorization."
+    ]
+  },
+  {
+    "id": "tamsulosin-hydrochloride-mr",
+    "name": "Tamsulosin Hydrochloride Modified-Release Tablets",
+    "generic_names": [
+      "Tamsulosin Hydrochloride Modified-Release Tablets 0.4mg",
+      "Flomax",
+      "Urimax MR",
+      "Veltam",
+      "Dynapres",
+      "Contiflo Icon"
+    ],
+    "category": ["Urology & Renal", "Men's Health"],
+    "sub_category": "Uroselective Alpha-1A/1D Adrenergic Receptor Antagonist (Modified-Release Formulation)",
+    "company_name": "TS1",
+    "amount": "145/- (10 Tabs - 0.4mg)",
+    "main_cause": "Lower Urinary Tract Symptoms (LUTS) secondary to Benign Prostatic Hyperplasia (BPH), Bladder Outlet Obstruction (BOO), Distal Ureteral Calculi Medical Expulsive Therapy (MET)",
+    "why_this_disease_happens": "Lower urinary tract obstruction in Benign Prostatic Hyperplasia (BPH) stems from two distinct pathological components: a static component (anatomical enlargement of the transition zone stroma and glandular tissue compressing the prostatic urethra) and a dynamic component (excessive sympathetic tone). Sympathetic noradrenergic fibers excessively stimulate alpha-1 adrenergic receptors within the fibromuscular stroma of the prostate gland, the bladder neck (internal urethral sphincter), and the prostatic urethra. Because the dynamic smooth muscle tone accounts for approximately 40% to 50% of the total outflow resistance, elevated sympathetic tone causes persistent hyper-constriction of the bladder outlet. This creates elevated post-void residual urine, weak urinary stream, hesitancy, and compensatory detrusor muscle hypertrophy, eventually leading to secondary detrusor overactivity manifesting as severe nocturia, frequency, and acute urinary retention. Similarly, in distal ureteral stone transit, local smooth muscle spasm around the calculus increases intraluminal hydrostatic pressure and provokes intense ureteral colic.",
+    "how_this_medicine_fights_it": "Provides targeted relaxation of lower urinary tract smooth musculature via subtype-selective adrenergic blockade without precipitating severe systemic vasodilation: (1) Uroselective Alpha-1A/1D Antagonism: Unlike non-selective first-generation alpha-blockers (such as doxazosin or terazosin) that block vascular alpha-1B receptors, Tamsulosin exhibits preferential affinity for the alpha-1A subtype (predominantly localized in the prostate stroma, capsule, and bladder neck) and the alpha-1D subtype (expressed in the bladder detrusor and sacral spinal cord). (2) Bladder Outlet Dynamic Decompression: By competitively blocking postjunctional alpha-1A receptors, it relaxes smooth muscle tone in the prostate and bladder neck, decreasing urethral resistance, increasing peak urinary flow rate (Qmax), and facilitating complete bladder emptying without reducing actual prostate volume. (3) Detrusor Overactivity Suppression: Selective alpha-1D receptor blockade dampens detrusor hyper-reflexia and sensory afferent hypersensitivity, relieving storage symptoms such as urgency, frequency, and nocturia. (4) Medical Expulsive Therapy (MET): In distal ureterolithiasis, alpha-1A/1D blockade relaxes distal ureteral smooth muscle, lowering basal tone and peristaltic spasm to accelerate spontaneous stone expulsion. The modified-release (MR / PR) tablet delivery system provides controlled, continuous drug release, flattening peak-to-trough plasma oscillations and minimizing peripheral orthostatic hypotension.",
+    "drug_class": "Benzenesulfonamide Derivative / Subtype-Selective Alpha-1A/1D Adrenoceptor Antagonist",
+    "main_action": "Selective competitive antagonism of alpha-1A and alpha-1D adrenergic receptors in the prostate stroma, bladder neck, and distal ureter, decreasing dynamic outflow resistance and increasing urinary flow rates.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Moderate to severe Lower Urinary Tract Symptoms (LUTS) due to Benign Prostatic Hyperplasia (BPH)",
+      "Adjunctive management of Acute Urinary Retention (AUR) to facilitate trial without catheter (TWOC)",
+      "Medical Expulsive Therapy (MET) for uncomplicated distal ureteral calculi (<10 mm in diameter)",
+      "Chronic non-bacterial prostatitis / Chronic Pelvic Pain Syndrome (CPPS) in men to relieve voiding dysfunctions and pelvic spasms",
+      "Bladder outlet dysfunction and neurogenic lower urinary tract dysfunction with high voiding pressures (under specialist supervision)"
+    ],
+    "how_patients_describe_symptoms": [
+      "I have to get up four or five times every night to urinate, and my urine stream is weak, hesitant, and constantly dribbling.",
+      "I have to strain and wait several seconds at the toilet before my urine starts flowing, and I never feel like my bladder is fully empty.",
+      "A small kidney stone is lodged near my bladder; my urologist gave me this to relax the urinary pipe so the stone can pass out without surgery.",
+      "Whenever I feel the urge to pass urine, it comes on suddenly and violently, making me rush to the bathroom."
+    ],
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adult men experiencing moderate to severe symptomatic BPH (International Prostate Symptom Score / IPSS greater than or equal to 8)",
+        "Men undergoing a trial without catheter (TWOC) following an episode of acute urinary retention secondary to BPH",
+        "Adults presenting with small, uncomplicated distal ureteral stones (<10 mm) without signs of sepsis or renal failure",
+        "Elderly hypertensive or normotensive men needing bladder outflow relief without requiring aggressive blood pressure down-titration"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Patients with a documented history of severe orthostatic hypotension or syncope",
+        "Patients undergoing cataract or glaucoma eye surgery without informing their ophthalmologist (risk of Intraoperative Floppy Iris Syndrome / IFIS)",
+        "Patients with severe hepatic impairment (Child-Pugh Class C; extensively metabolized by hepatic CYP3A4 and CYP2D6)",
+        "Patients taking strong CYP3A4 inhibitors concurrently (ketoconazole, itraconazole, clarithromycin; causes major spikes in tamsulosin plasma levels)",
+        "Patients with severe renal impairment (CrCl < 10 mL/min; lack of established safety data)",
+        "Pediatric patients and female patients for general use (except under specialized urological protocol for ureteral stones)"
+      ]
+    },
+    "common_side_effects": [
+      "Retrograde ejaculation / abnormal ejaculation (anejaculation or reduced ejaculate volume due to bladder neck smooth muscle relaxation; reversible upon drug cessation)",
+      "Mild dizziness, lightheadedness, or postural instability upon rapidly standing",
+      "Headache or feeling of mild mental fogginess",
+      "Nasal congestion or rhinitis (due to alpha-adrenergic antagonism in nasal mucosal blood vessels)",
+      "Asthenia, mild general fatigue, or somnolence"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "Intraoperative Floppy Iris Syndrome (IFIS) Warning: Tamsulosin binds to alpha-1A receptors on the iris dilator muscle. Patients exposed to tamsulosin—even if discontinued weeks or months prior—can develop IFIS during cataract phacoemulsification surgery, characterized by a flaccid iris stroma, progressive intraoperative miosis, and iris prolapse toward incision sites. Patients must notify their ophthalmic surgeon prior to elective eye procedures.",
+      "Administration After Meals: Tamsulosin modified-release formulations must be taken consistently approximately 30 minutes after the same meal each day (most commonly breakfast or dinner). Administration in a fasting state increases maximum plasma concentration (Cmax) by 40% to 70% and bioavailability by 30%, which significantly escalates the risk of first-dose orthostatic hypotension and syncope.",
+      "Swallow Whole Mandate: Modified-release (MR) tablets and capsules must be swallowed whole with a glass of water. They must never be crushed, chewed, divided, or dissolved, as destroying the matrix coating triggers immediate dose-dumping and rapid severe hypotension.",
+      "Does Not Shrink Prostate Volume or Alter PSA: Tamsulosin relaxes smooth muscle tone; it does NOT alter androgen metabolism, does not reduce physical prostate size, and does not lower serum Prostate-Specific Antigen (PSA) levels. To reduce actual epithelial volume and halt long-term disease progression, it is frequently co-administered with a 5-alpha reductase inhibitor (e.g., Dutasteride 0.5 mg).",
+      "Interaction with PDE5 Inhibitors: Co-administration with phosphodiesterase-5 inhibitors (such as Sildenafil, Tadalafil, or Vardenafil) can produce additive peripheral vasodilation and symptomatic orthostatic hypotension; clinical guidelines suggest initiating at the lowest effective dose with separated dosing times."
+    ]
   }
 ]
