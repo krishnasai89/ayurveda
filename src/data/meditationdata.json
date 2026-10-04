@@ -611,5 +611,75 @@
       "Take After Meals: Taking the tablet immediately after meals optimizes absorption and minimizes mild gastrointestinal upset or lightheadedness.",
       "Avoid Alcohol: Concurrent alcohol intake can compound central nervous system depression and orthostatic lightheadedness."
     ]
+  },
+  {
+    "id": "aceclofenac-paracetamol-serratiopeptidase",
+    "name": "Aceclofenac + Paracetamol + Serratiopeptidase",
+    "generic_names": [
+      "Aceclofenac 100mg + Paracetamol 325mg + Serratiopeptidase 15mg",
+      "Zerodol-SP",
+      "Hifenac-SP",
+      "Signoflam",
+      "Tri-Action NSAID & Enzyme Formulation"
+    ],
+    "category": [
+      "Painkiller",
+      "Anti-Inflammatory",
+      "Joint & Arthritis",
+      "Circulation & Edema",
+      "Wound & Tissue Repair",
+      "Fever"
+    ],
+    "sub_category": "Triple Fixed-Dose Combination: Preferential COX-2 NSAID, Central Analgesic & Proteolytic Fibrinolytic Enzyme",
+    "company_name": "APS1",
+    "amount": "140/- (10 Tabs)",
+    "main_cause": "Severe Post-Operative & Post-Traumatic Edema, Dental Extraction Pain & Swelling, Bone Fractures, Acute Osteoarthritic Synovitis, Maxillofacial & Orthopedic Injury",
+    "why_this_disease_happens": "Following significant mechanical trauma, surgical cutting, or bone injury, the body initiates a tripartite pathological cascade: (1) Ruptured capillaries dump fibrin and cellular debris into interstitial spaces, creating a dense, watertight fibrin cocoon that blocks lymphatic drainage and traps fluid into tense, painful swelling (induration). (2) Local synoviocytes and fibroblasts upregulate inducible COX-2, synthesizing massive amounts of Prostaglandin E2 (PGE2) which sensitizes primary nociceptors and causes intense localized heat and erythema. (3) Ascending sensory signals fire continuous volleys into the dorsal horn and hypothalamus, lowering central pain thresholds and triggering inflammatory systemic pyrexia (fever) and throbbing ache.",
+    "how_this_medicine_fights_it": "Provides a comprehensive, tri-vector attack against tissue injury: First, Serratiopeptidase (15 mg, enteric-coated) functions as an enzymatic scalpel, selectively cleaving trapped extravascular fibrin meshes and cellular protein aggregates, decompressing choked microcapillaries, improving fluid drainage, washing out stagnant tissue fluid, and degrading pain-inducing bradykinin. Second, Aceclofenac (100 mg) preferentially blocks peripheral COX-2 enzymes in inflamed joint and soft tissues, shutting off local PGE2 synthesis and halting cartilage degradation without severely compromising gastrointestinal prostaglandins. Third, Paracetamol (325 mg) rapidly crosses the blood-brain barrier to inhibit central prostaglandin synthesis and activate descending serotonergic pain-inhibitory pathways, providing fast-onset baseline analgesia and resetting elevated hypothalamic temperatures.",
+    "drug_class": "Fixed-Dose Triple Combination: Phenylacetic Acid NSAID + Para-Aminophenol Derivative + Enteric-Coated Bacterial Proteolytic Enzyme",
+    "main_action": "Synergistic extracellular fibrin mesh proteolysis, peripheral inducible COX-2 inhibition, and central hypothalamic cyclooxygenase and pain-pathway modulation.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Post-operative orthopedic rehabilitation (joint replacements, internal fixation of fractures, arthroscopic procedures)",
+      "Post-dental extractions, impaction surgeries, and severe maxillofacial soft-tissue swelling",
+      "Acute musculoskeletal sports injuries with heavy hematomas, sprains, and joint effusions",
+      "Severe osteoarthritis, ankylosing spondylitis, and rheumatoid arthritis flares with tense synovial effusions",
+      "Ear, Nose, and Throat (ENT) post-surgical inflammation and acute sinusitis with thick mucopurulent exudates"
+    ],
+    "how_patients_describe_symptoms": [
+      "My jaw is swollen like a baseball after my wisdom tooth surgery, and the surgical site is throbbing with painful pressure.",
+      "My ankle is badly sprained, black-and-blue from bruising, and the swelling feels rock-hard and warm.",
+      "The surgery wound is tight, stretched with fluid, and every step sends sharp, pounding pain through the joint.",
+      "My knee is swollen tight with fluid like a balloon, making it impossible to bend or straighten."
+    ],
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults aged 18 and older requiring short-term, intensive management of acute pain accompanied by significant tissue swelling and hematoma formation",
+        "Patients needing faster tissue drainage and antibiotic penetration at infected or surgically traumatized sites"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Patients with established ischemic heart disease, congestive heart failure (NYHA II-IV), or prior history of stroke/transient ischemic attacks (aceclofenac cardiovascular class contraindication)",
+        "Active or recurrent peptic ulcers, gastrointestinal hemorrhage, or perforation",
+        "Patients with severe coagulation disorders or taking therapeutic blood thinners (Warfarin, Heparin, DOACs) due to Serratiopeptidase fibrinolytic activity and NSAID platelet inhibition",
+        "Severe hepatic impairment, cirrhosis, or chronic heavy alcoholism (risk of paracetamol hepatotoxicity)",
+        "Severe renal failure (GFR < 30 mL/min)",
+        "Aspirin-Exacerbated Respiratory Disease (AERD) / triad asthma",
+        "Third trimester of pregnancy (causes premature closure of fetal ductus arteriosus) and nursing mothers",
+        "Children and adolescents under 18 years of age"
+      ]
+    },
+    "common_side_effects": [
+      "Dyspepsia, epigastric heartburn, nausea, or abdominal cramping",
+      "Diarrhea, loose stools, or flatulence",
+      "Mild dizziness, somnolence, or lightheadedness",
+      "Transient elevation of serum liver transaminases (ALT/AST)",
+      "Skin itching, erythema, or mild rash"
+    ],
+    "important_cautions": [
+      "Do Not Duplicate Paracetamol: The formulation already supplies 325 mg of Paracetamol per tablet. Patients must be strictly cautioned against concurrent over-the-counter paracetamol syrups, cold/flu sachets, or headache powders to avoid toxic liver necrosis (NAPQI poisoning).",
+      "Do Not Crush or Split (Enteric-Coating Integrity): Serratiopeptidase is degraded and destroyed by gastric stomach acid. The tablet must be swallowed whole with water so that the enzyme reaches the alkaline environment of the duodenum intact.",
+      "Administration Timing (Food Rule): Although standalone Serratiopeptidase is traditionally taken on an empty stomach, when co-formulated with Aceclofenac and Paracetamol, the tablet must be taken immediately after meals to protect the gastric mucosa from direct NSAID contact.",
+      "Short-Term Acute Use Only: Typically prescribed for a duration of 3 to 7 days during the acute inflammatory and swelling phase following surgery or trauma; not recommended for indefinite chronic therapy without regular cardiovascular, gastrointestinal, and hepatic reviews.",
+      "Cardiovascular Caution: Long-term or high-dose therapy with aceclofenac carries thrombotic arterial risks; keep doses to the minimum effective duration."
+    ]
   }
 ]
