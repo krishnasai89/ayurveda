@@ -681,5 +681,276 @@
       "Short-Term Acute Use Only: Typically prescribed for a duration of 3 to 7 days during the acute inflammatory and swelling phase following surgery or trauma; not recommended for indefinite chronic therapy without regular cardiovascular, gastrointestinal, and hepatic reviews.",
       "Cardiovascular Caution: Long-term or high-dose therapy with aceclofenac carries thrombotic arterial risks; keep doses to the minimum effective duration."
     ]
+  },
+  {
+    "id": "aceclofenac-paracetamol-trypsin-chymotrypsin",
+    "name": "Aceclofenac + Paracetamol + Trypsin-Chymotrypsin",
+    "generic_names": [
+      "Aceclofenac 100mg + Paracetamol 325mg + Trypsin-Chymotrypsin 50,000 AU",
+      "Chymoral-AP",
+      "Chymonet-AP",
+      "New Zixflam",
+      "Chymocad",
+      "Pancreatic Protease & NSAID Analgesic Combination"
+    ],
+    "category": [
+      "Painkiller",
+      "Anti-Inflammatory",
+      "Joint & Arthritis",
+      "Circulation & Edema",
+      "Wound & Tissue Repair",
+      "Fever"
+    ],
+    "sub_category": "Triple Fixed-Dose Combination: Preferential COX-2 NSAID, Central Analgesic & Pancreatic Serine Protease Complex",
+    "company_name": "APT1",
+    "amount": "170/- (10 Tabs)",
+    "main_cause": "Post-Operative Orthopedic & Maxillofacial Trauma, Fractures with Hematomas, Severe Osteoarthritis with Synovial Effusion, Post-Traumatic Soft Tissue Induration",
+    "why_this_disease_happens": "Extensive surgical dissection, bone fractures, or acute blunt trauma produce tissue disruption across three fronts: (1) Ruptured microvessels leak blood, plasma proteins, and fibrin into interstitial spaces, where clotting cascades cross-link fibrin into dense fibrinous barriers that trap cellular debris and red cells into dark, indurated hematomas and occlude lymphatic drainage. (2) Traumatized synoviocytes, osteoblasts, and fibroblasts express high levels of COX-2, driving sustained intra-articular Prostaglandin E2 (PGE2) synthesis that causes local hyperemia, joint capsule distension, and cartilage pain sensitization. (3) Ascending nociceptive traffic excites dorsal horn second-order neurons, generating persistent central pain perception, autonomic guarding, and systemic inflammatory pyrexia (fever).",
+    "how_this_medicine_fights_it": "Deploys a synergistic multimodal therapy combining enzymatic debris lysis with peripheral and central anti-inflammatory analgesia: Trypsin and Chymotrypsin (serine endopeptidases in a 6:1 ratio, 50,000 Armour Units) survive gastric transit via enteric coating, bind plasma alpha-1-antitrypsin/alpha-2-macroglobulin, and concentrate in inflamed tissue; they enzymatically cleave extravasated fibrin clots (trypsin cleaves basic lysine/arginine bonds, chymotrypsin cleaves aromatic residues), resolving trapped hematomas, opening microcapillaries, and draining protein-rich edema. Aceclofenac (100 mg) preferentially inhibits local COX-2, stopping peripheral PGE2 synthesis to clear erythema and articular swelling without severe gastrointestinal COX-1 suppression. Paracetamol (325 mg) rapidly crosses the blood-brain barrier to inhibit central prostaglandin synthesis and enhance descending serotonergic inhibitory pain pathways, delivering quick antipyresis and baseline analgesia.",
+    "drug_class": "Fixed-Dose Triple Combination: Phenylacetic Acid NSAID + Para-Aminophenol Derivative + Enteric-Coated Pancreatic Serine Protease Complex",
+    "main_action": "Targeted enzymatic fibrinolysis of hematomas and proteinaceous exudates combined with preferential peripheral COX-2 inhibition and central hypothalamic cyclooxygenase blockade.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Post-operative orthopedic rehabilitation (open reduction internal fixation of fractures, total knee/hip arthroplasty, tendon repairs)",
+      "Dental, maxillofacial, and reconstructive plastic surgery accompanied by heavy bruising, hematomas, and trismus",
+      "Severe sports injuries involving high-impact muscle contusions, sprains, torn ligaments, and joint effusions",
+      "Acute exacerbations of osteoarthritis and rheumatoid arthritis with tense joint swelling and restricted range of motion",
+      "Post-traumatic soft tissue swelling with localized tissue induration and ecchymosis"
+    ],
+    "how_patients_describe_symptoms": [
+      "My operated leg is swollen, purple with bruising, and the tissue around the surgical cut feels hard like a rock.",
+      "After my jaw surgery, my entire cheek is swollen tight, bruised black-and-blue, and throbbing with severe pain.",
+      "I took a heavy impact during sports; my joint is filled with fluid, dark bruises, and I cannot bear any weight on it.",
+      "My broken bone cast area is pulsing with tight fluid pressure and burning aches."
+    ],
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults aged 18 and older requiring intensive, short-term relief from acute moderate-to-severe pain accompanied by prominent hematomas, bruising, and hard inflammatory swelling",
+        "Surgical and trauma patients whose recovery is delayed by persistent extravasated blood clots and tense edema at the incision or fracture site"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Patients with established ischemic heart disease, congestive heart failure (NYHA II–IV), or a history of cerebrovascular accident / stroke (aceclofenac class cardiovascular contraindication)",
+        "Patients with severe bleeding diathesis, hemophilia, or active gastrointestinal ulceration/bleeding",
+        "Patients concurrently taking therapeutic systemic anticoagulants (Warfarin, Heparin, DOACs) due to combined platelet inhibition and enhanced enzymatic fibrinolysis",
+        "Severe hepatic impairment or chronic alcoholism (risk of paracetamol-induced hepatotoxicity)",
+        "Severe chronic renal failure (GFR < 30 mL/min) or acute kidney injury",
+        "Known hypersensitivity to bovine or porcine pancreatic enzymes, aceclofenac, or paracetamol",
+        "Pregnancy (contraindicated in the third trimester due to risk of premature ductus arteriosus closure) and breastfeeding mothers",
+        "Pediatric patients under 18 years of age"
+      ]
+    },
+    "common_side_effects": [
+      "Gastrointestinal upset: nausea, dyspepsia, mild epigastric discomfort, or heartburn",
+      "Loose stools, diarrhea, or flatulence",
+      "Dizziness, lightheadedness, or mild somnolence",
+      "Cutaneous hypersensitivity: itching, rash, or localized urticaria",
+      "Transient elevation of serum transaminases (ALT/AST)"
+    ],
+    "important_cautions": [
+      "Enteric Coating Integrity: The trypsin-chymotrypsin enzyme component is proteinaceous and will be rapidly denatured and inactivated by gastric hydrochloric acid and stomach pepsin. The tablet must be swallowed whole with water—never crushed, chewed, or divided.",
+      "Take Immediately After Meals: Although pure pancreatic enzymes are traditionally dosed on an empty stomach, when co-formulated in a single tablet with Aceclofenac and Paracetamol, the tablet must be taken directly after food to protect the gastric mucosal barrier from direct NSAID-induced dyspepsia.",
+      "Avoid Paracetamol Duplication: The formulation supplies 325 mg of Paracetamol per tablet; patients must strictly avoid additional over-the-counter paracetamol, cold/flu remedies, or headache powders to prevent exceeding the 4000 mg/day liver safety threshold.",
+      "Cardiovascular & Duration Limitation: Therapy should be restricted to the acute post-traumatic or post-surgical phase (typically 3 to 7 days). Prolonged or unmonitored use of aceclofenac carries arterial thrombotic risks and requires medical reassessment.",
+      "Comparison with Serratiopeptidase Formulations (e.g., Zerodol-SP): While Serratiopeptidase combinations are primarily favored for thin exudate drainage, bacterial biofilm clearance, and sinus/soft-tissue edema, Trypsin-Chymotrypsin combinations (Chymoral-AP) provide superior enzymatic efficacy in hydrolyzing dense organized hematomas, resolving deep blood bruises, and clearing post-fracture induration."
+    ]
+  },
+  {
+    "id": "bromelain-trypsin-rutoside-trihydrate",
+    "name": "Bromelain + Trypsin + Rutoside Trihydrate",
+    "generic_names": [
+      "Bromelain 90mg + Trypsin 48mg + Rutoside Trihydrate 100mg",
+      "Phlogenzym Formulation",
+      "Enzomac",
+      "Chymoral-Plus",
+      "Rutozyme",
+      "Enzocort"
+    ],
+    "category": [
+      "Circulation & Edema",
+      "Anti-Inflammatory",
+      "Wound & Tissue Repair",
+      "Vascular Health",
+      "Joint & Arthritis"
+    ],
+    "sub_category": "Enteric-Coated Systemic Enzyme & Bioflavonoid Anti-Edematous Complex",
+    "company_name": "BTR1",
+    "amount": "260/- (10 Tabs)",
+    "main_cause": "Post-Operative & Post-Traumatic Edema, Surgical Hematomas, Sports Contusions, Osteoarthritis Synovial Effusions, Chronic Venous Stasis Swelling",
+    "why_this_disease_happens": "Following surgical incisions, fractures, or blunt impact trauma, damaged microvessels leak blood, plasma proteins, and fluid into the interstitial space. Concurrently, inflammatory cytokines loosen endothelial junctions, maintaining persistent capillary hyperpermeability. As fibrin polymerizes into a dense cross-linked barrier, it traps cellular debris and erythrocytes, forming rigid hematomas and choking off lymphatic capillary drainage. This traps water via high oncotic pressure, producing tight, tense induration and persistent pressure-induced pain.",
+    "how_this_medicine_fights_it": "Employs a synergistic 'digest, clear, and seal' triad: (1) Bromelain (plant cysteine endopeptidase) activates plasminogen to plasmin, breaks down fibrinous exudate, downregulates pro-inflammatory prostaglandins (PGE2), and enzymatically cleaves nociceptive bradykinin. (2) Trypsin (pancreatic serine endopeptidase) hydrolyzes basic peptide bonds (lysine/arginine) in cross-linked fibrin networks and necrotic debris, dissolving organized blood clots and reopening occluded lymphatic channels. (3) Rutoside Trihydrate (bioflavonoid) inhibits hyaluronidase and collagenase to stabilize capillary basement membranes and endothelial tight junctions, shutting off microvascular leakage and preventing newly drained interstitial spaces from refilling with fluid.",
+    "drug_class": "Enteric-Coated Systemic Proteolytic Enzyme & Phlebotonic Bioflavonoid Combination",
+    "main_action": "Dual enzymatic fibrinolysis and protein debris clearance (Trypsin + Bromelain) coupled with endothelial tight-junction stabilization and capillary leakage inhibition (Rutoside).",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Post-surgical edema, hematoma resolution, and wound-healing acceleration (orthopedic, plastic, and general surgery)",
+      "Post-dental extraction trauma, impactions, and maxillofacial swelling",
+      "Acute sports trauma: ligament sprains, muscle tears, and deep intramuscular contusions",
+      "Osteoarthritis and rheumatoid arthritis joint effusions (as a non-NSAID anti-edema and anti-inflammatory adjunct)",
+      "Chronic venous insufficiency (CVI) flare-ups with marked lower-extremity pitting edema and stasis dermatitis"
+    ],
+    "how_patients_describe_symptoms": [
+      "My surgery wound is tight, hard as a rock, and surrounded by spreading black-and-purple bruises.",
+      "My sprained joint is swollen tight with trapped fluid and throbbing from internal pressure.",
+      "My legs feel heavy, stiff, and puffy by evening, and ordinary pain relievers do not reduce the swelling.",
+      "My face and jaw are swollen and tender after dental or reconstructive surgery."
+    ],
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults recovering from surgery, dental procedures, or acute blunt trauma requiring accelerated clearance of hematomas and tense tissue swelling",
+        "Patients needing an anti-inflammatory and anti-edematous regimen who cannot safely tolerate conventional NSAIDs due to active peptic ulcers, chronic kidney disease, or gastritis"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Patients with severe congenital or acquired bleeding diatheses (hemophilia, severe thrombocytopenia)",
+        "Patients receiving therapeutic systemic anticoagulants (Warfarin, Heparin, DOACs) or dual antiplatelet therapy without close specialist monitoring (compounded bleeding liability)",
+        "Patients with known hypersensitivity to pineapple/bromelain, porcine/bovine pancreatic extracts, or buckwheat/rutoside",
+        "Severe end-stage hepatic or renal impairment",
+        "Pregnancy and breastfeeding mothers (insufficient clinical safety trial data)"
+      ]
+    },
+    "common_side_effects": [
+      "Mild gastrointestinal symptoms: transient nausea, flatulence, stomach rumbling, or loose stools",
+      "Cutaneous allergic reactions: pruritus, erythema, or urticaria",
+      "Minor localized capillary oozing or extension of superficial bruising at high doses"
+    ],
+    "important_cautions": [
+      "Strict Fasting Rule: To act systemically on tissue edema rather than digestive food boluses, enteric-coated tablets must be swallowed whole on an empty stomach (at least 30 to 60 minutes before meals or 2 hours after meals). Ingestion with food consumes the enzymes on dietary proteins in the intestinal lumen.",
+      "Do Not Crush or Split: Trypsin and Bromelain are protein enzymes that are denatured and rendered inactive by gastric hydrochloric acid and pepsin; tablets must remain intact until they reach the alkaline environment of the small intestine.",
+      "Non-Ulcerogenic Alternative to NSAIDs: Because this combination does not inhibit gastroprotective COX-1 enzymes, it does not induce gastric erosions or peptic ulcers, making it an option for NSAID-intolerant patients.",
+      "Pre-Surgical Discontinuation: Due to mild fibrinolytic and antiplatelet properties, discontinue therapy 48 to 72 hours prior to scheduled major elective surgical procedures to prevent capillary oozing."
+    ]
+  },
+  {
+    "id": "deflazacort",
+    "name": "Deflazacort",
+    "generic_names": [
+      "Deflazacort 6mg/18mg/30mg",
+      "Emflaza",
+      "Defcort",
+      "Mahacort-DZ",
+      "Calcort"
+    ],
+    "category": [
+      "Steroid & Corticosteroid",
+      "Anti-Inflammatory",
+      "Joint & Arthritis",
+      "Allergy & Respiratory"
+    ],
+    "sub_category": "Oxazoline Glucocorticoid Derivative (Bone & Glucose-Sparing Systemic Steroid)",
+    "company_name": "DF1",
+    "amount": "125/- (10 Tabs - 6mg)",
+    "main_cause": "Duchenne Muscular Dystrophy (DMD), Severe Autoimmune Synovitis, Acute Asthma Exacerbations, Nephrotic Syndrome, Severe Cutaneous Allergies",
+    "why_this_disease_happens": "In severe autoimmune diseases, chronic inflammatory arthropathies, or allergic states, hyperactive lymphocytes, macrophages, and dendritic cells generate massive quantities of pro-inflammatory cytokines (IL-1, IL-2, IL-6, TNF-alpha) via transcription factors like NF-kB and AP-1. These signals trigger microvascular leakage, synovial inflammation, tissue destruction, and eosinophil/neutrophil infiltration. In genetic dystrophies like Duchenne Muscular Dystrophy (DMD), absence of the structural dystrophin protein causes repeated sarcolemmal micro-tears during contraction, triggering chronic macrophage infiltration, sustained muscular necrosis, and eventual fibro-fatty replacement of motor tissue.",
+    "how_this_medicine_fights_it": "Functions as an oxazoline-substituted synthetic glucocorticoid prodrug: Following rapid oral absorption, it is converted by plasma esterases to its active metabolite, 21-desacetyldeflazacort. It diffuses across target cell membranes, binds intracellular glucocorticoid receptors, and translocates to the nucleus. Here, it trans-represses NF-kB and AP-1 transcription factors, halting the synthesis of pro-inflammatory cytokines, inducible COX-2, nitric oxide synthase, and adhesion molecules. Simultaneously, it upregulates lipocortin-1 (annexin A1), blocking phospholipase A2 and shutting down arachidonic acid liberation. Due to its unique oxazoline ring structure, it exhibits reduced affinity for bone osteoblast glucocorticoid receptors and minimal mineralocorticoid activity, translating to less bone calcium loss (lower osteoporosis rate), reduced glucose deregulation (lower diabetogenic risk), and minimal sodium/water retention compared to equivalent doses of prednisolone or dexamethasone.",
+    "drug_class": "Synthetic Glucocorticoid (Oxazoline Derivative of Prednisolone)",
+    "main_action": "Nuclear glucocorticoid receptor agonism, trans-repression of pro-inflammatory transcription factor NF-kB, upregulation of lipocortin-1, and suppression of cellular immunity with bone/glucose-sparing properties.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Duchenne Muscular Dystrophy (DMD) in patients aged 2 years and older (FDA-approved to preserve muscle strength and delay loss of ambulation)",
+      "Severe rheumatoid arthritis, juvenile idiopathic arthritis (JIA), and systemic lupus erythematosus (SLE) flares",
+      "Severe refractory asthma, chronic obstructive pulmonary disease (COPD) exacerbations, and allergic bronchopulmonary aspergillosis",
+      "Nephrotic syndrome (minimal change disease) to induce remission of heavy proteinuria",
+      "Severe dermatological autoimmune conditions (pemphigus vulgaris, severe refractory eczema, erythema multiforme)",
+      "Idiopathic thrombocytopenic purpura (ITP) and autoimmune hemolytic anemias"
+    ],
+    "how_patients_describe_symptoms": [
+      "My joints are on fire, stiff, and inflamed across my whole body, and regular pain medicines aren't touching it.",
+      "My child has muscular dystrophy and is progressively losing strength in their legs when climbing stairs or standing up.",
+      "My asthma attack is so severe that my inhalers are not opening my chest; I am coughing and gasping for breath.",
+      "I have an intense, spreading autoimmune skin rash and swelling that burns constantly."
+    ],
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults and pediatric patients (aged 2 years and older) requiring systemic glucocorticoid therapy where minimizing bone demineralization and growth retardation is a priority",
+        "Diabetic or pre-diabetic patients with severe inflammatory conditions requiring steroids who cannot tolerate high hyperglycemia spikes caused by prednisolone or dexamethasone",
+        "Patients with Duchenne Muscular Dystrophy (DMD) to maintain muscle strength and prolong independent ambulation"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Patients with untreated systemic fungal, viral, or severe bacterial infections (systemic immunosuppression can mask symptoms and cause lethal dissemination)",
+        "Patients with active ocular herpes simplex (risk of corneal perforation)",
+        "Active or latent tuberculosis (TB) or strongyloides infestation (can cause catastrophic reactivation)",
+        "Patients due to receive live-attenuated viral vaccines (e.g., MMR, yellow fever, oral polio) during immunosuppressive dosing",
+        "Severe uncontrolled peptic ulcer disease",
+        "Pregnancy and breastfeeding mothers (benefits must clearly outweigh potential teratogenic risks of cleft palate or fetal adrenal suppression)"
+      ]
+    },
+    "common_side_effects": [
+      "Cushingoid features: facial rounding (moon face), upper back fat pad, and mild central weight gain",
+      "Increased appetite and fluid retention",
+      "Mild elevation in blood glucose levels (less severe than prednisolone, but still present)",
+      "Gastrointestinal dyspepsia, epigastric irritation, or nausea",
+      "Insomnia, irritability, or mood swings (central nervous system excitation)",
+      "Increased susceptibility to minor upper respiratory tract or urinary infections"
+    ],
+    "important_cautions": [
+      "Never Stop Abruptly (Adrenal Crisis Warning): Prolonged use suppresses the hypothalamic-pituitary-adrenal (HPA) axis. Abrupt cessation can trigger life-threatening acute adrenal crisis (severe hypotension, circulatory collapse, vomiting, hypoglycemia). The dose must be tapered down gradually under physician guidance.",
+      "Dosing Conversion Equivalence: 6 mg of Deflazacort is approximately therapeutically equivalent in anti-inflammatory potency to 5 mg of Prednisolone, 4 mg of Methylprednisolone, or 0.75 mg of Dexamethasone.",
+      "Take in the Morning with Food: Should be taken as a single morning dose (between 7:00 AM and 9:00 AM) with or directly after food to mimic the body's natural circadian cortisol peak and minimize gastric mucosal irritation.",
+      "Infection Masking & Monitoring: Deflazacort suppresses the immune response; signs of serious infection (like fever or localized tenderness) may be blunted. Regular monitoring of blood pressure, blood glucose, bone mineral density, and ocular pressure (cataract/glaucoma surveillance) is warranted with extended therapy."
+    ]
+  },
+  {
+    "id": "diclofenac-potassium-metaxalone",
+    "name": "Diclofenac Potassium + Metaxalone",
+    "generic_names": [
+      "Diclofenac Potassium 50mg + Metaxalone 400mg",
+      "Mobiswift-D",
+      "Flexura-D",
+      "Skelact-D",
+      "Dual-Action Rapid NSAID & Low-Sedation Myorelaxant Combination"
+    ],
+    "category": [
+      "Muscle Relaxant",
+      "Painkiller",
+      "Anti-Inflammatory",
+      "Joint & Arthritis"
+    ],
+    "sub_category": "Rapid-Release Phenylacetic Acid NSAID & Non-Sedating Oxazolidinone Myorelaxant",
+    "company_name": "DM1",
+    "amount": "195/- (10 Tabs)",
+    "main_cause": "Acute Mechanical Low Back Pain (Lumbago), Traumatic Muscle Tears with Inflammation, Cervical Radicular Muscle Spasms, Torticollis (Wryneck), Post-Surgical Orthopedic Muscle Guarding",
+    "why_this_disease_happens": "Acute musculoskeletal trauma or heavy mechanical strain initiates a vicious 'Pain-Spasm-Inflammation Cycle': damaged myofibers and connective tissues activate membrane phospholipase A2, liberating arachidonic acid. Cyclooxygenase enzymes (inducible COX-2 and constitutive COX-1) convert this into Prostaglandin E2 (PGE2) and prostacyclin, producing local tissue hyperemia, edema, and intense sensitization of peripheral nociceptors (hyperalgesia). Nociceptive afferents fire rapid volleys into the spinal dorsal horn, triggering continuous monosynaptic and polysynaptic reflex arcs through alpha and gamma motor neurons. This forces paraspinal muscles into tight, involuntary contractures (muscle guarding). The trapped contracture compresses local intramuscular microvessels, leading to ischemia, secondary lactic acid pooling, and persistent muscle ache that re-stimulates spinal reflex loops.",
+    "how_this_medicine_fights_it": "Breaks both the peripheral inflammatory and central reflex arms of the spasm-pain loop simultaneously: Diclofenac Potassium (50 mg) acts as a rapid-dissolution, fast-absorbing NSAID that reaches peak systemic levels ($C_{max}$) within 20 to 30 minutes, rapidly blocking peripheral COX-1 and COX-2 enzymes to halt PGE2 synthesis, resolve microvascular extravasation, and suppress nociceptor excitation. Simultaneously, Metaxalone (400 mg) acts centrally at the level of the brainstem and spinal interneurons to depress hyperactive polysynaptic reflex arcs, releasing the sustained skeletal muscle clamp without causing profound motor flaccidity or the debilitating daytime somnolence and cognitive fog characteristic of older muscle relaxants (such as Chlorzoxazone or Carisoprodol).",
+    "drug_class": "Fixed-Dose Combination: Phenylacetic Acid NSAID (Potassium Salt) + Centrally Acting Skeletal Muscle Relaxant (Oxazolidin-2-one Derivative)",
+    "main_action": "Rapid non-selective cyclooxygenase (COX-1/COX-2) inhibition to suppress pro-inflammatory PGE2 alongside central spinal interneuronal polysynaptic reflex arc depression.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Acute lumbago, locked back, and severe acute lumbar strain with paraspinal muscle contracture",
+      "Acute torticollis (wryneck) and severe cervical spondylitic neck stiffness",
+      "Post-traumatic skeletal muscle sprains, myofascial contusions, and sports injuries",
+      "Post-operative orthopedic rehabilitation (spine surgery, fracture reduction) complicated by reactive muscle guarding",
+      "Myofascial pain syndrome with active, hyper-irritable muscular trigger points"
+    ],
+    "how_patients_describe_symptoms": [
+      "My lower back locked up tight after lifting something heavy; the muscles feel like hard iron bands and every micro-movement causes sharp, stabbing pain.",
+      "My neck is frozen stiff and crooked; turning my head sends sharp, hot muscular spasms down into my shoulder blades.",
+      "Other muscle relaxers make me sleep all day and feel confused at work, but my back muscles won't stop throbbing and cramping.",
+      "The muscles around my injured hip and spine are constantly seizing up in painful, exhausting cramps."
+    ],
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults aged 18 and older requiring rapid-onset relief from acute, painful musculoskeletal spasms while maintaining daytime alertness and motor function",
+        "Patients needing a targeted dual-action combination who experience inadequate pain relief from simple standalone muscle relaxants or NSAIDs alone"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Patients with established ischemic heart disease, peripheral arterial disease, congestive heart failure (NYHA II–IV), or cerebrovascular disease (diclofenac cardiovascular black box warning)",
+        "Active or recurrent peptic ulcers, gastrointestinal hemorrhage, or active gastritis",
+        "Patients with known drug-induced, hemolytic, or other significant anemias (metaxalone hemolytic risk)",
+        "Severe active hepatic impairment or chronic liver disease (both drugs undergo extensive hepatic clearance)",
+        "Severe chronic renal impairment (GFR < 30 mL/min) or acute volume depletion",
+        "Aspirin-Exacerbated Respiratory Disease (AERD) / triad asthma (high risk of precipitating acute bronchospasm)",
+        "Third trimester of pregnancy (contraindicated: premature closure of fetal ductus arteriosus and oligohydramnios) and breastfeeding mothers",
+        "Pediatric patients under 18 years of age"
+      ]
+    },
+    "common_side_effects": [
+      "Mild gastrointestinal distress: dyspepsia, nausea, heartburn, or epigastric discomfort",
+      "Mild drowsiness, lightheadedness, or dizziness (substantially less sedation than chlorzoxazone/carisoprodol)",
+      "Headache or nervousness",
+      "Diarrhea or flatulence",
+      "Transient elevation of serum liver transaminases (ALT/AST)"
+    ],
+    "important_cautions": [
+      "Cardiovascular Thrombotic Black Box Warning: Diclofenac is associated with an increased risk of serious arterial thrombotic events (myocardial infarction and stroke). Use at the lowest effective dose for the shortest duration (typically 3 to 7 days in acute musculoskeletal episodes); strictly contraindicated in patients with known coronary artery disease.",
+      "Take with Food and Water: Swallow the tablet whole with a generous glass of water directly with or immediately after meals to reduce direct gastric mucosal irritation from the diclofenac component.",
+      "Avoid Alcohol & CNS Depressants: Concomitant alcohol consumption amplifies central nervous system depression, dizziness, and fall risk, while multiplying gastric mucosal bleeding risks.",
+      "Hemolytic Anemia & Serotonergic Cautions: Rare cases of metaxalone-induced hemolytic anemia have been documented. Furthermore, because metaxalone has weak monoamine oxidase inhibitory activity, monitor closely if used alongside serotonergic agents (SSRIs, SNRIs, tramadol).",
+      "Do Not Combine with Other NSAIDs: Avoid simultaneous administration with Ibuprofen, Naproxen, Aceclofenac, or Piroxicam, as it provides no added pain control while sharply elevating ulceration and nephrotoxicity hazards."
+    ]
   }
 ]
