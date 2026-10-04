@@ -231,5 +231,66 @@
       "Sulfa Pharmacophore Warning: Avoid use in patients with a confirmed severe allergic history to sulfa drugs.",
       "Administration Advice: Always swallow the tablet whole with a full glass of water after food to reduce potential gastric irritation."
     ]
+  },
+  {
+    "id": "flupirtine-paracetamol",
+    "name": "Flupirtine Maleate + Paracetamol",
+    "generic_names": [
+      "Flupirtine 100mg + Paracetamol 325mg",
+      "SNEPCO & Para-Aminophenol Analgesic Combination"
+    ],
+    "category": [
+      "Painkiller",
+      "Muscle Relaxant",
+      "Nerve & Neuropathy",
+      "Fever"
+    ],
+    "sub_category": "Neuronal Potassium Channel Opener & Central Non-Opioid Analgesic",
+    "company_name": "Flupikem-P",
+    "amount": "149/- (10 Tabs)",
+    "main_cause": "Moderate-to-Severe Musculoskeletal Pain with Spasm, Radicular Sciatica, Post-Operative Orthopedic Pain, Tension Myositis",
+    "why_this_disease_happens": "When trauma, disc herniation, or surgical incisions injure tissue and compress nerve roots, sensory nociceptors unleash continuous electrical volleys into the dorsal horn of the spinal cord. This causes persistent calcium influx, dislodging magnesium from NMDA receptors and driving central sensitization (amplified, chronic pain). Simultaneously, hyper-excited motor neurons cause reflexive paraspinal muscle contractures (ischemic muscle knots), while inflammatory cytokines stimulate hypothalamic prostaglandin production, making the entire body feel achy, feverish, and locked in pain.",
+    "how_this_medicine_fights_it": "Provides a dual central pain-gate blockade: Flupirtine opens neuronal Kv7/KCNQ potassium channels, causing potassium efflux that hyperpolarizes the resting neuronal membrane. This stabilizes nerve cells, prevents NMDA-mediated central sensitization, and dampens spinal reflex arcs to loosen locked muscle spasms without muscle weakness. In parallel, Paracetamol acts centrally to inhibit prostaglandin synthesis and activate descending serotonergic inhibitory pathways, providing rapid background analgesia and resetting elevated hypothalamic temperature. Neither component inhibits gastrointestinal COX-1, protecting the stomach lining from ulceration.",
+    "drug_class": "Fixed-Dose Combination: Selective Neuronal Potassium Channel Opener (SNEPCO) + Para-Aminophenol Analgesic",
+    "main_action": "Spinal membrane hyperpolarization and indirect NMDA receptor blockade combined with central hypothalamic cyclooxygenase inhibition and serotonergic pain-pathway stimulation.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Acute lumbago, degenerative disc disease, and locked lower back with radiculopathy (sciatica)",
+      "Cervical spondylosis with neck rigidity and tension-type headaches",
+      "Post-operative orthopedic rehabilitation and soft-tissue surgical trauma",
+      "Musculoskeletal sprains, fibrositis, and myofascial trigger-point pain",
+      "Patients with severe NSAID-induced gastritis or peptic ulcers requiring strong dual-action pain relief"
+    ],
+    "how_patients_describe_symptoms": [
+      "I have electric shocks and burning pain shooting down my leg, and my lower back is locked tight.",
+      "My neck and shoulder blades are stiff as stone, triggering a throbbing band-like headache.",
+      "Traditional painkillers like ibuprofen destroy my stomach and give me heartburn, but I need something strong for this muscle and nerve pain.",
+      "Every tiny movement causes my back muscles to seize up in unbearable cramps."
+    ],
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults aged 18 and older requiring short-term, acute relief from combined somatic, neuropathic, and spasmodic musculoskeletal pain",
+        "Patients with gastric ulcers, acid reflux, or renal sensitivity who cannot safely tolerate conventional NSAIDs (Diclofenac, Naproxen)"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Patients with active liver disease, hepatitis, cirrhosis, or pre-existing elevated serum transaminases (ALT/AST)",
+        "Chronic alcohol consumers or individuals using concurrent hepatotoxic agents (compounds risk of hepatic necrosis)",
+        "Patients with myasthenia gravis (due to flupirtine's central myorelaxant properties)",
+        "Pregnancy and breastfeeding mothers",
+        "Children and adolescents under 18 years of age"
+      ]
+    },
+    "common_side_effects": [
+      "Somnolence, lightheadedness, and daytime drowsiness",
+      "Fatigue, dry mouth, and mild dizziness",
+      "Nausea, mild epigastric fullness, or heartburn",
+      "Greenish or yellowish discoloration of urine (benign flupirtine metabolite chromaturia)",
+      "Transient elevation of liver transaminases"
+    ],
+    "important_cautions": [
+      "Compounded Hepatotoxicity Warning: Both Flupirtine (idiosyncratic drug-induced liver injury) and Paracetamol (NAPQI metabolite toxicity) place metabolic demands on the liver. Treatment duration must strictly be kept as short as possible (typically limited to 7–14 days) with baseline and periodic liver function monitoring.",
+      "Do Not Duplicate Paracetamol: The tablet already supplies 325 mg of Paracetamol per dose; patients must strictly avoid taking additional OTC paracetamol, cold/flu syrups, or headache remedies to prevent fatal hepatic overload.",
+      "Sedation & Driving Alert: Flupirtine's central potassium channel opening causes noticeable drowsiness and slows motor reflexes; avoid driving, operating power tools, or combining with alcohol/sedatives during therapy.",
+      "Take with Full Glass of Water: Best taken after food to facilitate even absorption and minimize potential light nausea."
+    ]
   }
 ]
