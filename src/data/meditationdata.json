@@ -952,5 +952,291 @@
       "Hemolytic Anemia & Serotonergic Cautions: Rare cases of metaxalone-induced hemolytic anemia have been documented. Furthermore, because metaxalone has weak monoamine oxidase inhibitory activity, monitor closely if used alongside serotonergic agents (SSRIs, SNRIs, tramadol).",
       "Do Not Combine with Other NSAIDs: Avoid simultaneous administration with Ibuprofen, Naproxen, Aceclofenac, or Piroxicam, as it provides no added pain control while sharply elevating ulceration and nephrotoxicity hazards."
     ]
+  },
+  {
+    "id": "gabapentin-nortriptyline",
+    "name": "Gabapentin + Nortriptyline",
+    "generic_names": [
+      "Gabapentin 400mg + Nortriptyline 10mg",
+      "Gabaneuron-NT",
+      "Nervijen-NT",
+      "Pentanerv-NT",
+      "Gabapin-NT"
+    ],
+    "category": [
+      "Nerve & Neuropathy",
+      "Central Analgesic",
+      "Painkiller",
+      "Headache & Migraine"
+    ],
+    "sub_category": "Fixed-Dose Neuromodulator Combination: Alpha-2-Delta Calcium Channel Ligand & Secondary Amine TCA",
+    "company_name": "GN1",
+    "amount": "210/- (10 Tabs)",
+    "main_cause": "Refractory Neuropathic Pain, Severe Diabetic Peripheral Neuropathy, Post-Herpetic Neuralgia (Shingles), Chronic Lumbar & Cervical Radiculopathy (Sciatica), Failed Back Surgery Syndrome",
+    "why_this_disease_happens": "Neuropathic pain is driven by an uncoupled 'dual-lesion' defect across the neural axis: (1) Ascending Hyper-Excitability: Chronic nerve compression or ischemic axonal injury upregulates the auxiliary alpha-2-delta-1 subunits of presynaptic voltage-gated calcium channels in the spinal dorsal horn, driving massive calcium influx and continuous exocytosis of excitatory neurotransmitters (glutamate, substance P). (2) Descending Inhibition Failure: Concurrently, endogenous descending inhibitory pathways from the brainstem fail to deliver adequate norepinephrine and serotonin to the substantia gelatinosa, leaving the spinal gate wide open. This combination causes severe central sensitization, converting non-painful tactile input into searing agony (allodynia) and amplifying baseline nerve firing into lancinating electric shocks.",
+    "how_this_medicine_fights_it": "Attacks neuropathic pain simultaneously from below (ascending pathway) and above (descending pathway): Gabapentin selectively binds the presynaptic alpha-2-delta-1 and alpha-2-delta-2 subunits of voltage-gated calcium channels in the spinal cord, reducing calcium influx and suppressing the release of excitatory glutamate and substance P. Concurrently, Nortriptyline (a secondary amine tricyclic) inhibits the presynaptic reuptake of norepinephrine and serotonin in the central nervous system, flooding the synaptic cleft in the dorsal horn to activate inhibitory alpha-2 adrenergic receptors and close the spinal pain gate. Together, they quiet hyperexcitable axonal pacemakers while restoring the central pain filter, achieving clinical synergy at lower individual doses than either monotherapy requires.",
+    "drug_class": "Fixed-Dose Combination: Gabapentinoid Anticonvulsant + Secondary Amine Tricyclic Antidepressant (TCA)",
+    "main_action": "Presynaptic alpha-2-delta calcium channel modulation to suppress excitatory neurotransmitter release, coupled with descending noradrenergic reuptake inhibition to amplify central pain gating.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Refractory diabetic peripheral neuropathy with severe burning, hyperalgesia, and night-time pain flares",
+      "Post-herpetic neuralgia (PHN) with persistent allodynia after herpes zoster lesions have healed",
+      "Severe chronic radiculopathy, sciatica, and spinal canal stenosis with nerve root impingement",
+      "Failed Back Surgery Syndrome (FBSS) and post-laminectomy persistent neuropathic pain",
+      "Complex Regional Pain Syndrome (CRPS) and central post-stroke thalamic pain",
+      "Chronic refractory tension headache or migraine with comorbid sleep disturbance"
+    ],
+    "how_patients_describe_symptoms": [
+      "My feet burn like they are wrapped in fire and needles, and I can't bear the weight of a bedsheet on my toes.",
+      "Sharp, electric shocks shoot down my lower back into my leg, making it impossible to sleep at night.",
+      "The area where I had shingles months ago still throbs with raw, agonizing hypersensitivity whenever clothes touch it.",
+      "My legs constantly ache with deep, pulling, buzzing nerve sensations that regular pain tablets don't touch."
+    ],
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults aged 18 and older with moderate-to-severe neuropathic pain inadequately controlled by monotherapy with either an anticonvulsant or an antidepressant alone",
+        "Patients whose neuropathic pain severely fragments nighttime sleep, benefiting from nortriptyline's sedative and sleep-stabilizing properties"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Patients with severe chronic kidney disease or renal failure without dose titration (gabapentin is cleared 100% unchanged via renal excretion)",
+        "Patients in the acute recovery phase after myocardial infarction, high-grade AV block, or baseline prolonged QTc interval (nortriptyline arrhythmogenic risk)",
+        "Patients currently taking Monoamine Oxidase Inhibitors (MAOIs) or within 14 days of cessation (severe risk of serotonin syndrome or hypertensive crisis)",
+        "Patients with uncontrolled narrow-angle glaucoma, severe urinary retention, or advanced benign prostatic hyperplasia (anticholinergic load)",
+        "Patients with severe respiratory depression or severe COPD (FDA warning regarding respiratory compromise with gabapentinoids)",
+        "Pregnancy and breastfeeding mothers (Category C / safety not established; avoid unless strictly evaluated)",
+        "Pediatric patients under 18 years of age"
+      ]
+    },
+    "common_side_effects": [
+      "Dizziness, lightheadedness, and postural unsteadiness / ataxia (major fall risk, especially in the elderly)",
+      "Drowsiness, daytime somnolence, and sedation",
+      "Anticholinergic symptoms: dry mouth (xerostomia), mild constipation, and blurred vision",
+      "Peripheral edema (swelling of lower extremities and ankles)",
+      "Weight gain and increased appetite",
+      "Orthostatic hypotension when moving from lying to standing"
+    ],
+    "important_cautions": [
+      "Bedtime Dosing Rule: Must be initiated as a single dose at bedtime. This utilizes the peak somnolence of both drugs to overcome sleep fragmentation while minimizing daytime grogginess, ataxia, and motor impairment.",
+      "Renal Monitoring & Dose Adjustment: Because gabapentin undergoes zero hepatic metabolism and is excreted 100% unchanged by the kidneys, patients with reduced renal function (CrCl < 60 mL/min) require dose reduction to prevent toxicity, profound sedation, myoclonus, and encephalopathy.",
+      "Never Discontinue Abruptly: Abrupt cessation carries a dual withdrawal risk: gabapentin withdrawal (rebound seizure risk, severe anxiety, diaphoresis) and nortriptyline withdrawal (cholinergic rebound, nausea, insomnia). The combination must be tapered down gradually over at least 1 to 2 weeks.",
+      "Cardiac Baseline in Vulnerable Patients: Because tricyclics possess class Ia antiarrhythmic membrane properties, baseline and periodic ECG surveillance is advised for patients over 50 years or those with underlying cardiovascular disease.",
+      "Avoid Alcohol & Extra CNS Depressants: Co-administration with alcohol, opioids (e.g., tramadol), or benzodiazepines significantly compounds central nervous system and respiratory depression.",
+      "Synergy Advantage: Combining lower doses of each drug (e.g., 400 mg Gabapentin + 10 mg Nortriptyline) frequently achieves equal or superior pain reduction compared to high-dose monotherapies (e.g., 1800 mg Gabapentin or 75 mg Nortriptyline) with a reduced side-effect profile."
+    ]
+  },
+  {
+    "id": "pregabalin-methylcobalamin-benfotiamine-pyridoxine-folic-acid",
+    "name": "Pregabalin + Methylcobalamin + Benfotiamine + Pyridoxine Hydrochloride + Folic Acid",
+    "generic_names": [
+      "Pregabalin 75mg + Methylcobalamin 1500mcg + Benfotiamine 50mg + Pyridoxine HCl 10mg + Folic Acid 1.5mg",
+      "Pregeb-OD",
+      "Nurokind-P",
+      "Maxgalin-Plus",
+      "Pregabalin 5-in-1 Neuro-Nutritional Formulation"
+    ],
+    "category": [
+      "Nerve & Neuropathy",
+      "Central Analgesic",
+      "Painkiller",
+      "Vitamins & Minerals"
+    ],
+    "sub_category": "Multi-Target Neuropathic Fixed-Dose Combination: Calcium Channel Ligand & Neuro-Regenerative Vitamin Complex",
+    "company_name": "PMR1",
+    "amount": "230/- (10 Caps)",
+    "main_cause": "Advanced Diabetic Peripheral Neuropathy, Chronic Alcoholic Polyneuropathy, Lumbar & Cervical Radiculopathy (Sciatica), Post-Herpetic Neuralgia with Axonal Damage",
+    "why_this_disease_happens": "In advanced neuropathy (especially diabetic and alcoholic forms), nerve tissue is degraded across three overlapping pathogenic axes: (1) Electrophysiological Hyper-Excitability: Damaged primary afferent fibers upregulate the auxiliary alpha2-delta-1 (alpha2-delta-1) subunit of voltage-gated calcium channels in the spinal dorsal horn, allowing uninhibited calcium (Ca2+) entry that triggers massive exocytosis of excitatory glutamate and substance P, driving severe central sensitization, shooting pain, and allodynia. (2) Endoneurial Vascular & Biochemical Starvation: Chronic hyperglycemia drives the accumulation of toxic triose phosphates, creating Advanced Glycation End-products (AGEs), pericyte apoptosis, and microvascular endoneurial ischemia. (3) Demyelination & Coenzyme Depletion: Depletion of cobalamin, thiamine, pyridoxal phosphate, and folate stalls the remethylation of homocysteine to methionine, depleting S-adenosylmethionine (SAMe) needed for myelin sheath synthesis, while unaddressed hyperhomocysteinemia induces direct microvascular endothelial toxicity.",
+    "how_this_medicine_fights_it": "Provides a comprehensive, two-pronged therapeutic strategy combining immediate synaptic quieting with multi-layered cellular structural regeneration: First, Pregabalin (75 mg) selectively binds the alpha2-delta-1 auxiliary subunit of presynaptic voltage-gated calcium channels in the dorsal horn, dampening calcium influx and halting the release of glutamate, norepinephrine, and substance P to provide rapid symptomatic relief from burning, lancinating nerve pain. Second, the four-vitamin neuro-restorative core repairs underlying tissue damage: Methylcobalamin (1500 mcg) acts as a direct cofactor for methionine synthase, driving myelin sheath regeneration and promoting axonal sprouting. Benfotiamine (50 mg) diffuses lipophilically into Schwann cells to activate transketolase, diverting toxic glycolytic intermediates into the pentose phosphate pathway and blocking AGE-mediated endoneurial vascular injury. Pyridoxine HCl (10 mg) converts to pyridoxal-5-phosphate (PLP), serving as an indispensable coenzyme for sphingolipid/myelin synthesis and normal inhibitory GABA production. Folic Acid (1.5 mg) supplies one-carbon units via tetrahydrofolate to accelerate Schwann cell DNA/RNA repair while working alongside B12 and B6 to break down neurotoxic, vasotoxic homocysteine into methionine and cysteine.",
+    "drug_class": "Fixed-Dose Combination: Gabapentinoid Anticonvulsant + Lipophilic/Water-Soluble Neurotropic Vitamin Coenzyme Complex",
+    "main_action": "Presynaptic alpha2-delta calcium channel modulation to suppress excitatory pain transmission, combined with activation of transketolase, stimulation of myelin remethylation, and elimination of vasotoxic homocysteine.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Severe diabetic peripheral polyneuropathy with persistent lower-extremity burning, tingling, numbness, and nocturnal pain flares",
+      "Chronic lumbar radiculopathy, spinal stenosis, sciatica, and cervical spondylitic nerve root compression with objective sensory deficits",
+      "Post-herpetic neuralgia (PHN) complicated by persistent post-viral cutaneous dysesthesias and allodynia",
+      "Chronic alcoholic neuropathy with concurrent nutritional deficiency and sensory ataxia",
+      "Drug-induced peripheral neuropathy (e.g., secondary to long-term Metformin, antiretrovirals, or chemotherapeutic agents)",
+      "Post-traumatic nerve injury recovery and post-surgical radicular pain syndromes"
+    ],
+    "how_patients_describe_symptoms": [
+      "My feet feel numb like I am walking on cardboard, yet at the same time they burn on fire with electric shocks shooting through my toes.",
+      "My legs ache deeply with crawling pins and needles that keep me awake all night.",
+      "I have diabetes and sharp, stinging pains shoot down my calves whenever anything brushes against my feet.",
+      "My lower back pain shoots a burning line down my leg, and the side of my foot feels dead and heavy."
+    ],
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults aged 18 and older with established peripheral neuropathy requiring both immediate analgesic symptom control and foundational neuro-nutritional structural support",
+        "Diabetic patients whose neuropathy has failed to respond to simple vitamin supplements or monotherapy analgesics alone"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Patients with moderate-to-severe renal impairment (CrCl < 60 mL/min) without dose titration (pregabalin is excreted >90% unchanged by the kidneys and accumulates rapidly)",
+        "Patients with severe congestive heart failure (NYHA Class III/IV) due to pregabalin-induced fluid retention and peripheral edema",
+        "Patients with severe respiratory disease (severe COPD, respiratory depression) or concurrent high-dose opioid therapy (FDA respiratory depression alert)",
+        "Patients with documented history of substance abuse or diversion (pregabalin carries dependence and misuse potential)",
+        "Patients with Leber's hereditary optic neuropathy (LHON) (cobalamin can cause severe optic atrophy)",
+        "Pregnancy and breastfeeding mothers (safety not established; potential risk of fetal harm)",
+        "Pediatric patients under 18 years of age"
+      ]
+    },
+    "common_side_effects": [
+      "Dizziness, lightheadedness, and ataxia / unsteadiness (primary fall risk, particularly in elderly individuals)",
+      "Daytime drowsiness, somnolence, and mental fatigue",
+      "Bilateral peripheral edema (ankle and lower leg swelling)",
+      "Weight gain and increased appetite",
+      "Dry mouth, blurred vision, or transient gastrointestinal upset (mild nausea, flatulence)",
+      "Characteristic mild sulfurous or vitamin odor in urine (due to benfotiamine/B-vitamins)"
+    ],
+    "important_cautions": [
+      "Strict JSON & Formulation Safety: Formulated with plain ASCII text to avoid parser and runtime module crashes across API endpoints; contains no raw LaTeX escape sequences.",
+      "Nighttime Administration Rule: Typically prescribed as a once-daily (OD) or twice-daily dose, with the primary or single dose taken at bedtime. This takes advantage of the mild sedative properties of pregabalin to overcome neuropathic sleep disturbances while reducing daytime postural dizziness and fall hazards.",
+      "Never Stop Abruptly (Dual Warning): Pregabalin must never be stopped suddenly after chronic administration; abrupt cessation triggers acute withdrawal symptoms (severe anxiety, insomnia, diaphoresis, tachycardia, nausea) and can provoke rebound focal seizures in susceptible individuals. Taper gradually over at least 1 week.",
+      "Mandatory Renal Monitoring: Because the pregabalin component undergoes negligible hepatic clearance and relies on renal excretion, creatinine clearance (CrCl) must be verified. Renal decline requires an immediate proportional reduction in dosing to prevent myoclonus, deep stupor, and encephalopathy.",
+      "Avoid Concurrent Sedatives & Opioids: Concomitant use with alcohol, benzodiazepines, or opioids (such as Tramadol) markedly magnifies central nervous system and respiratory depression, significantly elevating the risk of fatal respiratory compromise.",
+      "Comprehensive Diabetic Care: While this formulation addresses nerve pain and promotes axonal remyelination, it is not a substitute for strict glycemic control, lipid management, and routine diabetic foot inspections."
+    ]
+  },
+  {
+    "id": "pregabalin-nortriptyline-methylcobalamin",
+    "name": "Pregabalin + Nortriptyline Hydrochloride + Methylcobalamin",
+    "generic_names": [
+      "Pregabalin 75mg + Nortriptyline HCl 10mg + Methylcobalamin 1500mcg",
+      "Pregaba-NTM",
+      "Gabamax-NT",
+      "Maxgalin-MNT",
+      "Nurokind-PNT",
+      "Pregeb-NTM"
+    ],
+    "category": [
+      "Nerve & Neuropathy",
+      "Central Analgesic",
+      "Painkiller",
+      "Vitamins & Minerals"
+    ],
+    "sub_category": "Triple-Action Neuropathic Combination: Alpha-2-Delta Calcium Channel Ligand, TCA Neuromodulator & Neuro-Regenerative Coenzyme",
+    "company_name": "PNM1",
+    "amount": "210/- (10 Tabs)",
+    "main_cause": "Refractory Diabetic Peripheral Neuropathy, Chronic Lumbar/Cervical Radiculopathy (Sciatica), Post-Herpetic Neuralgia (Shingles), Failed Back Surgery Syndrome (FBSS), Neuropathic Pain with Sleep Disruption",
+    "why_this_disease_happens": "Severe, chronic neuropathic pain is sustained by a three-tiered pathological cascade: (1) Ascending Hyper-Excitability: Damaged primary afferent neurons upregulate the auxiliary alpha2-delta-1 (alpha2-delta-1) subunit of voltage-gated calcium channels in presynaptic dorsal horn terminals, causing unregulated calcium (Ca2+) influx that continuously triggers exocytosis of excitatory neurotransmitters (glutamate, substance P), driving central sensitization and allodynia. (2) Descending Inhibition Failure: Endogenous descending pain-inhibitory pathways from the brainstem fail to deliver adequate norepinephrine and serotonin to the dorsal horn substantia gelatinosa, leaving the spinal nociceptive gate uninhibited. (3) Axonal Demyelination: Prolonged microvascular ischemia, chronic metabolic stress, or physical compression halts local methionine synthase activity, exhausting S-adenosylmethionine (SAMe) pools and stripping the protective myelin sheath, which generates ectopic axonal pacemakers and loss of sensory conduction.",
+    "how_this_medicine_fights_it": "Provides a comprehensive, tri-vector attack combining ascending inhibition, descending modulation, and biological tissue remyelination: First, Pregabalin (75 mg) selectively binds the presynaptic alpha2-delta-1 auxiliary subunit of voltage-gated calcium channels in the spinal dorsal horn, reducing calcium influx and suppressing the release of excitatory glutamate, substance P, and noradrenaline to quiet firing pain circuits. Second, Nortriptyline Hydrochloride (10 mg) acts centrally as a secondary amine tricyclic to inhibit presynaptic reuptake of norepinephrine and serotonin, elevating their concentrations in dorsal horn synapses to stimulate inhibitory alpha-2 adrenergic receptors and close the spinal pain gate. Third, Methylcobalamin (1500 mcg) serves as the bioactive coenzyme for methionine synthase, remethylating homocysteine into methionine to restore SAMe synthesis, driving myelin sheath regeneration in Schwann cells, enhancing nerve conduction velocity, and lowering neurotoxic homocysteine levels.",
+    "drug_class": "Fixed-Dose Triple Combination: Gabapentinoid Anticonvulsant + Secondary Amine Tricyclic Antidepressant (TCA) + Bioactive Vitamin B12 Coenzyme",
+    "main_action": "Presynaptic alpha2-delta calcium channel modulation, descending monoaminergic pain-gate activation via norepinephrine reuptake inhibition, and enzymatic remyelination of damaged nerve axons.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Refractory diabetic peripheral neuropathy with severe nocturnal burning, lancinating shocks, and loss of sensation",
+      "Chronic lumbar radiculopathy, sciatica, and cervical spondylitic radicular pain refractory to monotherapy",
+      "Post-herpetic neuralgia (PHN) complicated by persistent allodynia and post-viral axonal damage",
+      "Failed Back Surgery Syndrome (FBSS) and chronic post-surgical spinal pain syndromes",
+      "Chronic neuropathic pain associated with severe sleep fragmentation, insomnia, or secondary depressive symptoms"
+    ],
+    "how_patients_describe_symptoms": [
+      "My feet feel like they are resting in hot coals with pins and needles, and sharp electric shocks jolt through my legs so badly that I cannot sleep.",
+      "A deep, burning ache shoots from my lower back down the back of my leg, and my toes feel numb and dead.",
+      "My skin where I had shingles months ago is so sensitive that even clothes or a gentle breeze cause agonizing, raw stinging.",
+      "My nerve pain feels like a constant electrical hum that leaves me exhausted and anxious every night."
+    ],
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults aged 18 and older with moderate-to-severe neuropathic pain syndromes that have failed to respond adequately to single-agent gabapentinoid or vitamin monotherapy",
+        "Patients whose neuropathic symptoms severely disrupt nighttime sleep, benefiting from nortriptyline and pregabalin's synergistic sedative properties"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Patients with moderate-to-severe renal impairment (CrCl < 60 mL/min) without precise dose adjustment (pregabalin is excreted >90% unchanged by the kidneys and accumulates rapidly)",
+        "Patients in the acute recovery phase after myocardial infarction, high-grade AV block, or baseline prolonged QTc interval (nortriptyline arrhythmogenic liability)",
+        "Patients concurrently taking Monoamine Oxidase Inhibitors (MAOIs) or within 14 days of stopping them (severe risk of hypertensive crisis or fatal Serotonin Syndrome)",
+        "Patients with uncontrolled narrow-angle glaucoma, severe urinary retention, or advanced benign prostatic hyperplasia (due to nortriptyline anticholinergic effects)",
+        "Patients with severe respiratory disease (severe COPD, respiratory depression) or concurrent high-dose opioid therapy (FDA warning on gabapentinoid respiratory compromise)",
+        "Patients with Leber's hereditary optic neuropathy (LHON) (cobalamin can cause rapid optic nerve atrophy)",
+        "Pregnancy and breastfeeding mothers (safety not established; potential risk of fetal harm)",
+        "Pediatric patients under 18 years of age"
+      ]
+    },
+    "common_side_effects": [
+      "Dizziness, lightheadedness, and ataxia / unsteadiness (primary fall hazard, especially in elderly patients)",
+      "Daytime drowsiness, somnolence, and mental fatigue",
+      "Anticholinergic symptoms: dry mouth (xerostomia), mild constipation, and blurred vision",
+      "Bilateral peripheral edema (ankle and lower-leg swelling from pregabalin)",
+      "Weight gain, fluid retention, and increased appetite",
+      "Orthostatic hypotension when transitioning from lying to standing"
+    ],
+    "important_cautions": [
+      "Strict JSON & System Compatibility: Formulated with plain ASCII text and standard Unicode characters to avoid build errors and runtime JSON parsing crashes; contains no raw LaTeX escape sequences.",
+      "Bedtime Administration Rule: Must be initiated as a single daily dose taken at bedtime. This utilizes the peak sedative properties of both nortriptyline and pregabalin to restore disrupted sleep while minimizing daytime dizziness, cognitive slowing, and fall hazards.",
+      "Renal Dose Titration Mandatory: Because pregabalin undergoes negligible hepatic clearance and relies on renal elimination, creatinine clearance (CrCl) must be evaluated. Decreased kidney function requires a proportional reduction in dosage to avoid myoclonus, profound somnolence, and encephalopathy.",
+      "Never Abruptly Discontinue: Abrupt cessation carries a dual withdrawal risk: pregabalin withdrawal (anxiety, insomnia, diaphoresis, potential rebound focal seizures) and nortriptyline withdrawal (cholinergic rebound, nausea, headache, vivid dreams). The regimen must be tapered gradually over at least 1 to 2 weeks.",
+      "Cardiac Baseline in Elderly Patients: Because nortriptyline possesses class Ia antiarrhythmic membrane properties, baseline and periodic ECG surveillance is advised in patients over 50 years of age or with pre-existing cardiovascular disease.",
+      "Avoid Alcohol, Opioids, and CNS Depressants: Combining this formulation with alcohol, benzodiazepines, or opioids (e.g., tramadol) causes compounding central nervous system and respiratory depression, significantly heightening the risk of fatal respiratory compromise.",
+      "Low-Dose Synergy Advantage: Combining lower doses of pregabalin (75 mg) and nortriptyline (10 mg) with methylcobalamin provides superior pain reduction and functional nerve repair compared to escalating monotherapy doses (e.g., 300 mg pregabalin or 75 mg nortriptyline), substantially curtailing individual adverse effect profiles."
+    ]
+  },
+  {
+    "id": "pregabalin-sr-nortriptyline-methylcobalamin",
+    "name": "Pregabalin (Sustained Release) + Nortriptyline Hydrochloride + Methylcobalamin",
+    "generic_names": [
+      "Pregabalin SR 75mg + Nortriptyline HCl 10mg + Methylcobalamin 1500mcg",
+      "Pregeb-NTM SR",
+      "Nurokind-PNT SR",
+      "Maxgalin-MNT SR",
+      "Gabamax Gold SR",
+      "24-Hour Sustained-Release Triple Neuropathic Formulation"
+    ],
+    "category": [
+      "Nerve & Neuropathy",
+      "Central Analgesic",
+      "Painkiller",
+      "Vitamins & Minerals"
+    ],
+    "sub_category": "Once-Daily Sustained-Release Neuromodulator & Neuro-Regenerative Combination: Extended Alpha-2-Delta Ligand, TCA & Coenzyme B12",
+    "company_name": "PNM-SR1",
+    "amount": "240/- (10 Tabs)",
+    "main_cause": "Refractory Diabetic Peripheral Neuropathy, Chronic Lumbar/Cervical Radiculopathy (Sciatica), Post-Herpetic Neuralgia (Shingles), Post-Spinal Decompression Persistent Nerve Pain, Severe Nocturnal Neuropathic Flares",
+    "why_this_disease_happens": "In severe chronic neuropathic states, constant pain perception is driven by three synchronized pathological breakdowns: (1) Ascending Hyper-Excitability: Damaged primary afferents heavily overexpress the auxiliary alpha2-delta-1 (alpha2-delta-1) subunit of presynaptic voltage-gated calcium channels in the spinal dorsal horn, allowing uninhibited calcium (Ca2+) entry that triggers continuous exocytosis of excitatory glutamate and substance P, generating persistent central sensitization and burning allodynia. (2) Descending Inhibition Failure: Concurrently, endogenous brainstem pain-inhibitory pathways run out of norepinephrine and serotonin, leaving dorsal horn substantia gelatinosa gates open and unprotected against ascending pain signals. (3) Structural Axonal Demyelination: Prolonged microvascular ischemia or physical root compression impairs local methionine synthase, exhausting S-adenosylmethionine (SAMe) pools needed for myelin maintenance, stripping axonal insulation and forming ectopic hyperexcitable pacemakers. Conventional immediate-release forms create sharp peak-and-trough plasma oscillations, causing daytime grogginess at peak and breakthrough pain during trough periods.",
+    "how_this_medicine_fights_it": "Provides 24-hour continuous pain suppression with structural biological repair through a modified pharmacokinetic delivery matrix: (1) Sustained-Release Pregabalin (75 mg SR) uses a hydrophilic polymer matrix to release drug continuously over 24 hours; by flattening peak plasma concentrations (Cmax) and maintaining stable steady-state trough levels, it reliably modulates the presynaptic alpha2-delta-1 subunit of voltage-gated calcium channels, curbing glutamate and substance P release throughout the entire day and night without abrupt spikes in dizziness or somnolence. (2) Nortriptyline Hydrochloride (10 mg) selectively blocks presynaptic norepinephrine and serotonin reuptake, restoring descending monoaminergic tone in the dorsal horn to activate inhibitory alpha-2 adrenergic receptors and close the central pain gate. (3) Methylcobalamin (1500 mcg) delivers bioactive coenzyme Vitamin B12 directly to Schwann cells, catalyzing homocysteine-to-methionine conversion to drive myelin sheath remyelination, enhance axonal conduction velocity, and lower neurotoxic homocysteine levels.",
+    "drug_class": "Fixed-Dose Combination: Extended-Release Gabapentinoid + Secondary Amine Tricyclic Antidepressant (TCA) + Bioactive Vitamin B12 Coenzyme",
+    "main_action": "Continuous 24-hour presynaptic alpha2-delta calcium channel modulation, descending monoaminergic pain-gate activation via norepinephrine reuptake inhibition, and enzymatic remyelination of damaged nerve axons.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Refractory diabetic peripheral polyneuropathy with persistent daytime burning and severe nocturnal pain exacerbations",
+      "Chronic lumbar radiculopathy, spinal stenosis, and sciatica unresponsive to standard immediate-release monotherapy",
+      "Post-herpetic neuralgia (PHN) complicated by persistent allodynia and post-viral axonal loss",
+      "Failed Back Surgery Syndrome (FBSS) and post-laminectomy chronic radicular syndromes",
+      "Severe chronic neuropathic pain where immediate-release pregabalin produced intolerable peak-dose dizziness or daytime grogginess"
+    ],
+    "how_patients_describe_symptoms": [
+      "My feet burn constantly day and night, but every time I took regular nerve medicine, I felt suddenly dizzy and drunk for two hours, then the pain came back.",
+      "Sharp, electric shocks shoot down my leg from my lower back, making it impossible to sit at work or sleep through the night.",
+      "My legs ache with a continuous, crawling, buzzing numbness that never gives me a single hour of relief.",
+      "The area where I had shingles months ago feels raw and constantly on fire whenever clothing brushes against it."
+    ],
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults aged 18 and older requiring smooth, 24-hour once-daily pain control for chronic neuropathic pain conditions",
+        "Patients who suffered from peak-dose side effects (post-dose dizziness, sudden drowsiness, lightheadedness) on conventional immediate-release pregabalin formulations",
+        "Patients needing better treatment compliance through a simplified once-daily bedtime schedule"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Patients with moderate-to-severe renal impairment (CrCl < 60 mL/min) without precise dose adjustment (pregabalin is excreted >90% unchanged by the kidneys and accumulates rapidly)",
+        "Patients in the acute recovery phase after myocardial infarction, high-grade AV block, or baseline prolonged QTc interval (nortriptyline arrhythmogenic liability)",
+        "Patients concurrently taking Monoamine Oxidase Inhibitors (MAOIs) or within 14 days of stopping them (severe risk of hypertensive crisis or fatal Serotonin Syndrome)",
+        "Patients with uncontrolled narrow-angle glaucoma, severe urinary retention, or advanced benign prostatic hyperplasia (due to nortriptyline anticholinergic effects)",
+        "Patients with severe respiratory disease (severe COPD, respiratory depression) or concurrent high-dose opioid therapy (FDA warning on gabapentinoid respiratory compromise)",
+        "Patients with Leber's hereditary optic neuropathy (LHON) (cobalamin can cause rapid optic nerve atrophy)",
+        "Pregnancy and breastfeeding mothers (safety not established; potential risk of fetal harm)",
+        "Pediatric patients under 18 years of age"
+      ]
+    },
+    "common_side_effects": [
+      "Mild dizziness, unsteadiness, or lightheadedness (significantly smoother onset and lower incidence than immediate-release pregabalin)",
+      "Mild daytime somnolence or morning sluggishness",
+      "Anticholinergic symptoms: dry mouth (xerostomia), mild constipation, and blurred vision",
+      "Bilateral peripheral edema (ankle and lower-leg swelling)",
+      "Weight gain, fluid retention, and increased appetite",
+      "Orthostatic lightheadedness when transitioning from lying to standing"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Formulated with plain ASCII text and standard Unicode characters to prevent JSON parsing and build module crashes; contains no raw LaTeX escape sequences.",
+      "Do Not Crush, Chew, or Split (Matrix Integrity): The sustained-release (SR) hydrophilic polymer delivery mechanism depends on an intact tablet structure. Crushing or splitting causes 'dose-dumping', converting a 24-hour slow release into a massive immediate dose, provoking severe dizziness, somnolence, and ataxia.",
+      "Bedtime Administration Rule: Must be taken as a single once-daily dose at night after dinner with water. This aligns the gentle initial release curve with bedtime, assisting with restorative sleep while avoiding daytime sedation.",
+      "Sustained-Release (SR) vs Immediate-Release (IR) Advantage: IR pregabalin produces rapid plasma peaks within 1 hour that frequently cause transient dizziness, ataxia, and nausea, followed by subtherapeutic troughs. The SR formulation blunts the Cmax spike and sustains a therapeutic plateau over 24 hours, enhancing long-term compliance.",
+      "Mandatory Renal Monitoring: Pregabalin undergoes negligible hepatic metabolism and is excreted unchanged in urine. Creatinine clearance (CrCl) must be evaluated; dosing frequency or strength must be reduced in renal impairment to prevent drug accumulation, myoclonus, and encephalopathy.",
+      "Never Discontinue Abruptly: Sudden cessation carries a dual withdrawal risk: pregabalin withdrawal (insomnia, severe anxiety, sweating, risk of rebound focal seizures) and nortriptyline withdrawal (cholinergic rebound, nausea, headache). Taper gradually over at least 1 to 2 weeks.",
+      "Avoid Alcohol, Opioids, and Sedatives: Concomitant use with alcohol, opioids (e.g., tramadol), or benzodiazepines markedly compounds central nervous system and respiratory depression, significantly heightening the risk of fatal respiratory compromise.",
+      "Cardiac Baseline in Elderly Patients: Because nortriptyline possesses class Ia antiarrhythmic membrane properties, baseline and periodic ECG surveillance is advised in patients over 50 years of age or with pre-existing cardiovascular disease."
+    ]
   }
 ]
