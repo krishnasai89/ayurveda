@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useMemo, useState } from "react";
+import { useMemo, useState } from "react";
 import Navbar from "../../components/navigation/Navbar";
 import {
   Pill,
