@@ -417,5 +417,72 @@
       "Gastrointestinal Mucosal Caution: Even though Domperidone accelerates gastric emptying (reducing the time Naproxen stays in the stomach), Naproxen systemically reduces mucosal protective prostaglandins. Patients with recurrent ulcers should take it with a sip of water after light food and avoid combining with other NSAIDs.",
       "Not for Daily Prophylaxis: This combination is strictly intended as an acute abortive attack therapy (taken PRN / as needed at the onset of a headache), NOT as a daily preventive regimen. Overuse (>10–15 days a month) can trigger Medication Overuse Headache (MOH / rebound headache)."
     ]
+  },
+  {
+    "id": "paracetamol-tramadol",
+    "name": "Paracetamol + Tramadol Hydrochloride",
+    "generic_names": [
+      "Paracetamol 325mg + Tramadol HCl 37.5mg",
+      "Ultracet Formulation",
+      "APAP with Tramadol"
+    ],
+    "category": [
+      "Painkiller",
+      "Central Analgesic",
+      "Nerve & Neuropathy",
+      "Fever"
+    ],
+    "sub_category": "Multimodal Analgesia: Atypical Centrally Acting Opioid / SNRI & Non-Opioid Antipyretic Analgesic",
+    "company_name": "Ultrazac",
+    "amount": "161/- (10 Tabs)",
+    "main_cause": "Moderate-to-Severe Acute Somatic Pain, Post-Surgical Recovery, Orthopedic Bone & Joint Trauma, Refractory Sciatica, Severe Osteoarthritic Flare-Ups",
+    "why_this_disease_happens": "Following extensive surgical incision, fractures, or advanced joint degeneration, tissue damage triggers two simultaneous waves of pain: rapidly firing peripheral A-delta fibers produce sharp, localized pain signals, while slower unmyelinated C-fibers drive dull, agonizing, long-lasting ache. In the spinal dorsal horn, continuous neurotransmitter release (substance P and glutamate) overwhelms natural descending inhibitory pathways. Simple non-opioid peripheral analgesics often prove inadequate against this heavy spinal pain traffic, while high doses of pure opioids risk severe respiratory depression, sedation, and rapid tolerance.",
+    "how_this_medicine_fights_it": "Employs rational multimodal analgesia to achieve superior synergistic pain relief at reduced, safer doses of each component: Paracetamol (325 mg) provides rapid-onset non-opioid analgesia by centrally inhibiting cyclooxygenase/peroxidase pathways and modulating descending serotonergic pain circuits. Concurrently, Tramadol HCl (37.5 mg) delivers sustained, deeper analgesia via a dual mechanism—weak-to-moderate μ-opioid (mu-opioid) receptor agonism (further amplified by its hepatic M1 metabolite) alongside neuronal reuptake inhibition of norepinephrine (NET) and serotonin (SERT) in spinal pain-damping pathways. The combination yields faster onset than Tramadol alone, deeper and longer-lasting pain relief than Paracetamol alone, and lowers the required opioid burden.",
+    "drug_class": "Fixed-Dose Multimodal Combination: Para-Aminophenol Derivative + Atypical Synthetic Opioid Agonist / Monoamine Reuptake Inhibitor",
+    "main_action": "Central hypothalamic prostaglandin synthesis inhibition combined with spinal μ-opioid receptor activation and descending serotonergic / noradrenergic pain pathway amplification.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Acute post-operative surgical pain (post-laparotomy, joint replacement, spinal fusion)",
+      "Orthopedic trauma, closed fractures, and severe ligament tears",
+      "Severe osteoarthritis and ankylosing spondylitis flare-ups unresponsive to standalone NSAIDs or paracetamol",
+      "Acute radicular neuropathic pain (severe acute sciatica, cervical radiculopathy)",
+      "Post-procedural dental and maxillofacial surgical pain",
+      "Patients with severe gastrointestinal ulcers or high bleeding risk who cannot take traditional NSAIDs (Diclofenac, Naproxen, Ibuprofen)"
+    ],
+    "how_patients_describe_symptoms": [
+      "The pain after my orthopedic surgery is throbbing, deep, and unbearable; normal pain tablets do nothing.",
+      "My lower back and hip are radiating sharp, burning nerve pain down to my foot that keeps me awake crying.",
+      "I had a complex tooth extraction or bone surgery, and the surgical site is pulsing with heavy, deep agony.",
+      "My joints are in so much agonizing pain that I cannot put any weight on my leg or get out of bed."
+    ],
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults and adolescents aged 16 years and older suffering from moderate-to-severe acute pain requiring multimodal central analgesia",
+        "Patients needing stronger pain control than plain paracetamol or NSAIDs, without the heavy sedation and respiratory risks associated with full-agonist opioids like morphine",
+        "Patients with active gastric ulcers, reflux, or renal sensitivity who cannot safely take NSAIDs"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Patients with epilepsy, a history of seizure disorders, or head trauma (Tramadol lowers the seizure threshold)",
+        "Patients concurrently taking or within 14 days of taking Monoamine Oxidase Inhibitors (MAOIs), or high doses of SSRIs, SNRIs, or triptans (high risk of life-threatening Serotonin Syndrome)",
+        "Patients with severe hepatic impairment, acute liver disease, or chronic alcoholism (impaired clearance of Tramadol and compounded risk of fatal paracetamol hepatotoxicity)",
+        "Severe acute respiratory depression or severe bronchial asthma",
+        "Patients with acute alcohol, hypnotic, or narcotic drug intoxication",
+        "Pregnancy and breastfeeding mothers (passes through the placenta and into breast milk; risks neonatal respiratory depression and withdrawal)",
+        "Children and adolescents under 16 years of age"
+      ]
+    },
+    "common_side_effects": [
+      "Nausea and transient vomiting (frequently observed on day 1–2; commonly co-managed with an anti-emetic)",
+      "Dizziness, lightheadedness, and somnolence (daytime sleepiness)",
+      "Constipation and dry mouth",
+      "Excessive sweating (diaphoresis)",
+      "Fatigue, headache, or mild confusion in elderly patients"
+    ],
+    "important_cautions": [
+      "Do Not Duplicate Paracetamol: Each tablet contains 325 mg of Paracetamol. Patients must be strictly warned NOT to take any concurrent over-the-counter cold/flu medications, headache powders, or fever syrups containing paracetamol, as doing so can rapidly breach the 4000 mg/day safety threshold and trigger fatal hepatic necrosis (NAPQI poisoning).",
+      "Seizure Risk Alert: Tramadol lowers the convulsive threshold. The risk of generalized seizures increases significantly if standard therapeutic doses are exceeded, or if co-administered with antidepressants (SSRIs, SNRIs, TCAs) or antipsychotics.",
+      "Serotonin Syndrome Liability: Combining this medication with other serotonergic agents (such as triptans for migraines, escitalopram, sertraline, or duloxetine) can precipitate Serotonin Syndrome (hyperthermia, autonomic instability, muscle clonus, agitation, and hyperreflexia).",
+      "Dependence & Controlled Substance Cautions: Tramadol is an atypical opioid capable of inducing physical tolerance and psychological dependence with prolonged daily use. This combination is intended strictly for short-to-medium-term acute episodes (typically 3 to 7 days). It must not be discontinued abruptly after extended use; gradual dose tapering is required to prevent opioid withdrawal symptoms.",
+      "Driving and Motor Tasks: Drowsiness and blunted reflexes are common; patients must refrain from driving, operating hazardous machinery, or consuming alcohol while taking this medicine."
+    ]
   }
 ]
