@@ -1,7 +1,6 @@
 "use client";
 
 import { useMemo, useState } from "react";
-import Navbar from "../../components/navigation/Navbar";
 import {
   Pill,
   ShieldCheck,
@@ -13,7 +12,8 @@ import {
   HeartPulse,
 } from "lucide-react";
 import meditationdata from "../../data/meditationdata.json";
-import MedicineCard from "./meditationcard";
+import MedicineCard, { Medicine } from "./meditationcard";
+import Navbar from "@/components/navigation/Navbar";
 
 /**
  * Patient Suitability criteria
