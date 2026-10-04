@@ -114,5 +114,59 @@
       "Seizure Risk: Use with extreme caution in patients with traumatic brain injury or a low threshold for convulsions; discontinue immediately if twitching or epileptic activity occurs.",
       "Take with Food: While gentler on the gastric mucosa than Aceclofenac + Thiocolchicoside combinations, taking this tablet with water after food minimizes nausea and mild gastric discomfort."
     ]
+  },
+  {
+    "id": "piroxicam-dt",
+    "name": "Piroxicam (Dispersible Tablet)",
+    "generic_names": ["Piroxicam DT 20mg", "Oxicam NSAID Dispersible"],
+    "category": ["Painkiller", "Anti-Inflammatory", "Joint & Arthritis"],
+    "sub_category": "Long-Acting Oxicam Non-Steroidal Anti-Inflammatory Drug",
+    "company_name": "Doloxicam DT",
+    "amount": "233/- (15 Tabs)",
+    "main_cause": "Severe Inflammatory Arthropathies, Osteoarthritis, Rheumatoid Arthritis, Ankylosing Spondylitis, Acute Gout Flare",
+    "why_this_disease_happens": "In degenerating joints or autoimmune arthritis, chronic synovial membrane irritation activates macrophages and chondrocytes to release pro-inflammatory cytokines (IL-1, TNF-α). This upregulates Cyclooxygenase-2 (COX-2), producing high local concentrations of Prostaglandin E2 (PGE2). PGE2 sensitizes nociceptive pain fibers, degrades cartilage extracellular matrix, and increases microvascular permeability, causing chronic joint swelling, erythema, heat, and debilitating morning stiffness.",
+    "how_this_medicine_fights_it": "Provides potent, long-acting non-selective inhibition of COX-1 and COX-2 enzymes to block prostaglandin synthesis. The dispersible form dissolves rapidly in water into a micro-fine suspension, resulting in quicker gastric mucosal dispersion, accelerated systemic absorption, and rapid joint penetration. Its exceptionally long plasma half-life (~50 hours) maintains sustained anti-inflammatory and pain-suppressive levels throughout the entire day with a single daily dose.",
+    "drug_class": "Oxicam Class NSAID (Non-Steroidal Anti-Inflammatory Drug)",
+    "main_action": "Inhibition of cyclooxygenase enzymes (COX-1 & COX-2), leukocyte migration inhibition into inflamed joints, and mild lysosomal enzyme stabilization.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Osteoarthritis flare-ups (severe knee, hip, or vertebral degeneration)",
+      "Rheumatoid arthritis (chronic autoimmune synovial joint inflammation)",
+      "Ankylosing spondylitis (sacroiliac and spinal ligament calcification & stiffness)",
+      "Acute gouty arthritis (sudden uric acid crystal inflammation in the big toe/ankle)",
+      "Severe post-operative or post-traumatic musculoskeletal inflammation"
+    ],
+    "how_patients_describe_symptoms": [
+      "My knees are warm, swollen, and cracking, and it hurts intensely just trying to stand up.",
+      "My hands and wrists are completely stiff and locked every morning for over an hour.",
+      "My lower spine and hips feel frozen, like I cannot bend or twist.",
+      "My big toe suddenly became bright red, burning hot, swollen, and too painful to even touch a bedsheet."
+    ],
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults aged 18 and older requiring once-daily relief for severe, persistent inflammatory joint conditions",
+        "Patients needing faster onset of pain relief via dispersible formulation rather than conventional slow-dissolving capsules"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Active or past history of peptic ulcer disease, gastrointestinal hemorrhage, or perforation (highest GI toxicity risk among classical NSAIDs due to long half-life)",
+        "Patients with severe congestive heart failure, ischemic heart disease, or post-CABG surgery",
+        "Severe renal impairment (CrCl < 30 mL/min) or severe hepatic insufficiency",
+        "Pregnancy (especially after week 20; strictly contraindicated in the third trimester due to risk of premature ductus arteriosus closure)",
+        "Elderly patients (>65 years) without concurrent gastroprotective PPI cover (high vulnerability to silent ulcers)",
+        "Children and adolescents under 18 years"
+      ]
+    },
+    "common_side_effects": [
+      "Dyspepsia, epigastric burning, nausea, and abdominal cramps",
+      "Dizziness, vertigo, and tension headache",
+      "Fluid retention, peripheral ankle edema, and elevated blood pressure",
+      "Tinnitus (ringing in the ears)",
+      "Pruritus, skin rash, or mild erythema"
+    ],
+    "important_cautions": [
+      "Dispersible Administration Method: The tablet must be dissolved completely in a tablespoon or small glass of plain water before drinking, or swallowed with plenty of liquid immediately after meals. Never swallow dry.",
+      "High Gastrointestinal Risk: Due to its 50-hour half-life, continuous COX-1 suppression leaves the stomach lining vulnerable. It should ideally be co-prescribed with a PPI (like Omeprazole) in vulnerable individuals.",
+      "Cardiovascular & Thrombotic Risk: Prolonged or high-dose therapy increases the risk of stroke, myocardial infarction, and worsening hypertension.",
+      "Serious Skin Reactions: Black Box Warning for rare but severe cutaneous adverse reactions (SCARs), such as Stevens-Johnson syndrome (SJS) and Toxic Epidermal Necrolysis (TEN). Discontinue immediately at the first sign of skin peeling or mucosal blisters."
+    ]
   }
 ]
