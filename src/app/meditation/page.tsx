@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import React, { useMemo, useState } from "react";
 import {
   Pill,
   ShieldCheck,
@@ -11,44 +11,9 @@ import {
   Activity,
   HeartPulse,
 } from "lucide-react";
-import meditationdata from "../../data/meditationdata.json";
-import MedicineCard, { Medicine } from "./meditationcard";
 import Navbar from "@/components/navigation/Navbar";
-
-/**
- * Patient Suitability criteria
- */
-export interface PatientSuitability {
-  who_can_use_it: string[];
-  who_should_avoid_or_limit_it: string[];
-}
-
-/**
- * High-fidelity Clinical Formulary Record Interface
- * Matches all modern pharmacological entries in medical.json / meditationdata.json
- */
-export interface MedicineItem {
-  id: string;
-  name: string;
-  generic_names: string[];
-  category: string[] | string;
-  sub_category?: string;
-  company_name?: string;
-  amount?: string;
-  main_cause: string;
-  why_this_disease_happens: string;
-  how_this_medicine_fights_it: string;
-  drug_class: string;
-  main_action: string;
-  diseases_and_conditions_it_may_be_used_for: string[];
-  how_patients_describe_symptoms?: string[];
-  patient_suitability: PatientSuitability;
-  common_side_effects: string[];
-  important_cautions: string[];
-}
-
-// Backwards-compatibility alias
-export type Medicine = MedicineItem;
+import meditationdata from "@/data/meditationdata.json";
+import MedicineCard, { Medicine } from "@/app/meditation/meditationcard";
 
 /**
  * Vedic Botanical Alternative Interface
@@ -193,10 +158,10 @@ const COMPARATIVE_REGISTRY: ModernComparativeMedicine[] = [
 ];
 
 export default function MedicalPage() {
-  // Safe cast with fallback array to prevent crashes
+  // Directly type-cast to Medicine[] from meditationcard.tsx to eliminate type mismatch
   const medicines = useMemo(() => {
     if (!Array.isArray(meditationdata)) return [];
-    return meditationdata as unknown as MedicineItem[];
+    return meditationdata as unknown as Medicine[];
   }, []);
 
   const [selectedCategory, setSelectedCategory] = useState<string>("All");
@@ -204,12 +169,13 @@ export default function MedicalPage() {
   const [selectedComparativeMed, setSelectedComparativeMed] =
     useState<ModernComparativeMedicine>(COMPARATIVE_REGISTRY[0]);
 
-  // 1. Flatten all categories and extract unique distinct tags safely
+  // 1. Flatten all categories safely (supporting category as array or string)
   const categories = useMemo(() => {
     const allTags = medicines.flatMap((m) => {
-      if (Array.isArray(m?.category)) return m.category;
-      if (typeof m?.category === "string" && m.category.trim() !== "") {
-        return [m.category];
+      const item = m as unknown as { category?: string[] | string };
+      if (Array.isArray(item?.category)) return item.category;
+      if (typeof item?.category === "string" && item.category.trim() !== "") {
+        return [item.category];
       }
       return [];
     });
@@ -223,10 +189,20 @@ export default function MedicalPage() {
     return medicines.filter((med) => {
       if (!med) return false;
 
-      const medCategories: string[] = Array.isArray(med.category)
-        ? med.category
-        : typeof med.category === "string"
-          ? [med.category]
+      const item = med as unknown as {
+        category?: string[] | string;
+        name?: string;
+        company_name?: string;
+        amount?: string;
+        main_cause?: string;
+        generic_names?: string[];
+        how_patients_describe_symptoms?: string[];
+      };
+
+      const medCategories: string[] = Array.isArray(item.category)
+        ? item.category
+        : typeof item.category === "string"
+          ? [item.category]
           : [];
 
       const matchesCategory =
@@ -235,17 +211,17 @@ export default function MedicalPage() {
       if (!matchesCategory) return false;
       if (query === "") return true;
 
-      // Targeted search matches:
-      const nameMatch = med.name?.toLowerCase().includes(query) ?? false;
+      const nameMatch = item.name?.toLowerCase().includes(query) ?? false;
       const companyMatch =
-        med.company_name?.toLowerCase().includes(query) ?? false;
-      const amountMatch = med.amount?.toLowerCase().includes(query) ?? false;
-      const causeMatch = med.main_cause?.toLowerCase().includes(query) ?? false;
-      const genericMatch = Array.isArray(med.generic_names)
-        ? med.generic_names.some((g) => g?.toLowerCase().includes(query))
+        item.company_name?.toLowerCase().includes(query) ?? false;
+      const amountMatch = item.amount?.toLowerCase().includes(query) ?? false;
+      const causeMatch =
+        item.main_cause?.toLowerCase().includes(query) ?? false;
+      const genericMatch = Array.isArray(item.generic_names)
+        ? item.generic_names.some((g) => g?.toLowerCase().includes(query))
         : false;
-      const symptomMatch = Array.isArray(med.how_patients_describe_symptoms)
-        ? med.how_patients_describe_symptoms.some((s) =>
+      const symptomMatch = Array.isArray(item.how_patients_describe_symptoms)
+        ? item.how_patients_describe_symptoms.some((s) =>
             s?.toLowerCase().includes(query),
           )
         : false;
@@ -282,7 +258,7 @@ export default function MedicalPage() {
             pricing, and patient indications.
           </p>
 
-          {/* Search Input (Searches name, company_name, amount, symptoms) */}
+          {/* Search Input */}
           <div className="pt-4 max-w-md mx-auto">
             <div className="relative">
               <Search className="w-4 h-4 absolute left-4 top-1/2 -translate-y-1/2 text-stone-500" />
@@ -296,7 +272,7 @@ export default function MedicalPage() {
             </div>
           </div>
 
-          {/* Independent Category Filter Buttons */}
+          {/* Category Filter Buttons */}
           <div className="flex flex-wrap items-center justify-center gap-2 pt-4">
             {categories.map((cat) => {
               const isActive = selectedCategory === cat;
