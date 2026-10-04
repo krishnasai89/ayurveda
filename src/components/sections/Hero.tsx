@@ -1,7 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
 import React from "react";
-import Navbar from "@/components/navigation/Navbar";
 
 /* --- High-Contrast Blush Pink & Ruby Lotus Blossom --- */
 function LotusBlossom({ className = "w-12 h-12" }: { className?: string }) {
@@ -184,9 +183,7 @@ export default function Hero() {
       </div>
 
       {/* 3. Navigation Bar */}
-      <header className="relative z-10 w-full px-6 md:px-16 pt-8 flex items-center justify-between">
-        <Navbar />
-      </header>
+      <header className="relative z-10 w-full px-6 md:px-16 pt-8 flex items-center justify-between"></header>
 
       {/* 4. Hero Editorial Content */}
       <div className="relative z-10 w-full max-w-7xl mx-auto px-6 md:px-16 py-16 md:py-24 flex items-center">

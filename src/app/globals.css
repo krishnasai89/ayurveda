@@ -1,26 +1,95 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+/* -------------------------------------------------------------------------- */
+/* Tailwind v4 Theme Tokens & Flowing Lotus Top-to-Bottom Falling Animations   */
+/* -------------------------------------------------------------------------- */
+@theme {
+  --animate-fall-slow: fallDriftSlow 16s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+  --animate-fall-medium: fallDriftMedium 12s cubic-bezier(0.4, 0, 0.6, 1)
+    infinite;
+  --animate-fall-fast: fallDriftFast 9s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+  --animate-glow-pulse: pulseGlow 4s ease-in-out infinite;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+/* 1. Slow, Gentle Drifting Fall */
+@keyframes fallDriftSlow {
+  0% {
+    transform: translateY(-15vh) translateX(0) rotate(0deg);
+    opacity: 0;
+  }
+  10% {
+    opacity: 0.9;
+  }
+  50% {
+    transform: translateY(50vh) translateX(25px) rotate(15deg);
+  }
+  90% {
+    opacity: 0.85;
+  }
+  100% {
+    transform: translateY(115vh) translateX(-20px) rotate(35deg);
+    opacity: 0;
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+/* 2. Medium Swaying Fall */
+@keyframes fallDriftMedium {
+  0% {
+    transform: translateY(-15vh) translateX(0) rotate(0deg);
+    opacity: 0;
+  }
+  15% {
+    opacity: 0.85;
+  }
+  55% {
+    transform: translateY(50vh) translateX(-30px) rotate(-18deg);
+  }
+  85% {
+    opacity: 0.8;
+  }
+  100% {
+    transform: translateY(115vh) translateX(20px) rotate(-35deg);
+    opacity: 0;
+  }
+}
+
+/* 3. Fast Drifting Fall */
+@keyframes fallDriftFast {
+  0% {
+    transform: translateY(-15vh) translateX(0) rotate(0deg);
+    opacity: 0;
+  }
+  12% {
+    opacity: 0.9;
+  }
+  60% {
+    transform: translateY(55vh) translateX(18px) rotate(12deg);
+  }
+  90% {
+    opacity: 0.85;
+  }
+  100% {
+    transform: translateY(115vh) translateX(-15px) rotate(25deg);
+    opacity: 0;
+  }
+}
+
+/* 4. Ambient Sparkle Pulse */
+@keyframes pulseGlow {
+  0%,
+  100% {
+    opacity: 0.3;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 0.75;
+    transform: scale(1.2);
+  }
+}
+
+/* Hardware Acceleration Helpers */
+.animate-fall-slow,
+.animate-fall-medium,
+.animate-fall-fast {
+  will-change: transform, opacity;
 }
