@@ -547,5 +547,69 @@
       "Hepatotoxicity Monitoring (Coumarin): Pure coumarin can form epoxide intermediates in poor CYP2A6 metabolizers; baseline and periodic liver function tests are necessary.",
       "Reversal Protocol: Life-threatening Warfarin bleeding must be reversed rapidly with Intravenous Vitamin K1 (Phytonadione) alongside 4-Factor Prothrombin Complex Concentrate (4F-PCC) or Fresh Frozen Plasma (FFP)."
     ]
+  },
+  {
+    "id": "eperisone-paracetamol",
+    "name": "Eperisone Hydrochloride + Paracetamol",
+    "generic_names": [
+      "Eperisone HCl 50mg + Paracetamol 325mg/500mg",
+      "Non-Sedating Myorelaxant & Antipyretic Analgesic Combination"
+    ],
+    "category": [
+      "Muscle Relaxant",
+      "Painkiller",
+      "Joint & Arthritis",
+      "Fever",
+      "Circulation & Edema"
+    ],
+    "sub_category": "Dual-Action Vasodilatory Myorelaxant & Central Prostaglandin Inhibitor",
+    "company_name": "EP2",
+    "amount": "165/- (10 Tabs)",
+    "main_cause": "Painful Skeletal Muscle Spasms with Somatic Pain, Acute Cervical Spondylosis, Lumbago, Stiff Neck (Torticollis), Post-Traumatic Muscle Knotting",
+    "why_this_disease_happens": "Trauma, sudden twist, or spinal disc degeneration triggers a self-sustaining vicious loop: hyperactive alpha and gamma spinal motor neurons cause sustained, involuntary muscle contracture. This rock-hard clamping crushes localized intramuscular capillary beds, precipitating tissue ischemia (depriving the tissue of oxygen and glucose). Trapped lactic acid, substance P, and bradykinin accumulate within the under-perfused muscle, while tissue damage stimulates central COX enzymes to synthesize PGE2. This generates severe, throbbing somatic pain, which reflexively signals the spinal cord to clamp the muscle even tighter ('Pain-Spasm-Ischemia Cycle').",
+    "how_this_medicine_fights_it": "Breaks all three arms of the 'Pain-Spasm-Ischemia Cycle' simultaneously: Eperisone HCl acts centrally on the brainstem and spinal cord to dampen hyperactive mono- and polysynaptic reflex arcs, releasing the muscle clamp without causing debilitating daytime sedation or general muscle weakness. Concurrently, Eperisone's peripheral calcium-channel blocking property dilates compressed microcapillaries, restoring oxygenated blood flow and flushing out stagnant ischemic toxins. Simultaneously, Paracetamol crosses into the central nervous system to inhibit prostaglandin synthesis and activate descending serotonergic pain-dampening pathways, shutting down pain signals before they can re-trigger reflex spasms. Neither drug irritates the stomach lining, making it gentle on gastric mucosa.",
+    "drug_class": "Fixed-Dose Combination: Centrally Acting Piperidine Myorelaxant & Para-Aminophenol Non-Opioid Analgesic",
+    "main_action": "Spinal reflex attenuation and microcirculatory vascular smooth muscle relaxation combined with central hypothalamic prostaglandin synthesis inhibition.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Acute lumbago and locked lower back with localized aching",
+      "Cervical spondylosis with paraspinal muscle contracture, stiff neck (wryneck), and occipital tension headaches",
+      "Scapulohumeral periarthritis and frozen shoulder with secondary muscle guarding",
+      "Post-traumatic skeletal muscle sprains, myofascial trigger points, and sports injuries",
+      "Patients with muscle spasms who cannot tolerate sedating relaxants (Chlorzoxazone, Methocarbamol) or gastric-irritating NSAIDs (Ibuprofen, Diclofenac)"
+    ],
+    "how_patients_describe_symptoms": [
+      "My lower back locked up while bending, and there's a throbbing ache spreading across my waist that makes it hard to stand straight.",
+      "My neck and traps feel like solid stone; it hurts to turn my head and I have a tension headache building up.",
+      "Other muscle relaxants make me so drowsy I can't work or drive, but my muscle knots keep throbbing with pain.",
+      "I have tight, burning muscle ropes in my shoulders that ache with continuous dull pain."
+    ],
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults aged 18 and older requiring dual muscle relaxation and pain relief without heavy daytime sedation or brain fog",
+        "Patients needing improved blood flow to ischemic muscle knots alongside fast central analgesia",
+        "Individuals with sensitive stomachs or histories of GERD/mild ulcers who cannot safely take Aceclofenac + Thiocolchicoside combinations"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Patients with severe active hepatic impairment, cirrhosis, or chronic alcoholism (risk of paracetamol hepatotoxicity)",
+        "Patients with severe renal failure (requires dosage adjustment or avoidance)",
+        "Individuals with documented hypersensitivity to eperisone, piperidine derivatives, or paracetamol",
+        "Pregnancy and breastfeeding mothers (safety is not established for eperisone; contra-indicated unless strictly evaluated by a specialist)",
+        "Pediatric patients under 18 years of age",
+        "Patients with myasthenia gravis or generalized severe muscular flaccidity"
+      ]
+    },
+    "common_side_effects": [
+      "Mild lightheadedness or dizziness (significantly lower incidence than benzodiazepines or chlorzoxazone)",
+      "Mild stomach fullness, nausea, or dry mouth",
+      "Transient fatigue, limb weakness, or daytime tiredness",
+      "Loose stools or mild diarrhea",
+      "Skin itching, erythema, or rash (uncommon)"
+    ],
+    "important_cautions": [
+      "Do Not Duplicate Paracetamol: The tablet contains Paracetamol (usually 325 mg or 500 mg). Patients must strictly avoid taking any concurrent OTC cold/flu tablets, cough syrups, or headache remedies containing paracetamol, ensuring the total 24-hour dose does not exceed 4000 mg to prevent irreversible liver necrosis (NAPQI poisoning).",
+      "Superior Daytime Alertness vs. Other Relaxants: Unlike traditional muscle relaxants that heavily sedate patients via general CNS depression, Eperisone specifically targets pathologically hypertonic muscle spindles while sparing voluntary muscle power. However, patients should still assess their personal response before driving or operating machinery.",
+      "Take After Meals: Taking the tablet immediately after meals optimizes absorption and minimizes mild gastrointestinal upset or lightheadedness.",
+      "Avoid Alcohol: Concurrent alcohol intake can compound central nervous system depression and orthostatic lightheadedness."
+    ]
   }
 ]
