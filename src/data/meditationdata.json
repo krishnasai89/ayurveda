@@ -168,5 +168,68 @@
       "Cardiovascular & Thrombotic Risk: Prolonged or high-dose therapy increases the risk of stroke, myocardial infarction, and worsening hypertension.",
       "Serious Skin Reactions: Black Box Warning for rare but severe cutaneous adverse reactions (SCARs), such as Stevens-Johnson syndrome (SJS) and Toxic Epidermal Necrolysis (TEN). Discontinue immediately at the first sign of skin peeling or mucosal blisters."
     ]
+  },
+  {
+    "id": "polmacoxib-paracetamol",
+    "name": "Polmacoxib + Paracetamol",
+    "generic_names": [
+      "Polmacoxib 2mg + Paracetamol 325mg",
+      "Dual-Action Selective COX-2 Analgesic Combination"
+    ],
+    "category": [
+      "Painkiller",
+      "Anti-Inflammatory",
+      "Joint & Arthritis",
+      "Fever"
+    ],
+    "sub_category": "Targeted Selective COX-2 Inhibitor & Central Antipyretic Analgesic",
+    "company_name": "Painvon Plus",
+    "amount": "161/- (10 Tabs)",
+    "main_cause": "Acute & Chronic Arthritic Pain Flares, Osteoarthritis with Breakthrough Pain, Post-Surgical & Dental Orthopedic Pain",
+    "why_this_disease_happens": "In acute joint flares, post-operative trauma, or dental procedures, tissue injury sparks dual nociceptive pathways: locally, damaged cells activate COX-2 to generate excessive Prostaglandin E2 (PGE2), causing edema, synovial microvascular dilation, and cartilage pain sensitization; centrally, incoming pain volleys travel up the spinal cord to the brain, lowering central pain thresholds and intensifying perceived pain, stiffness, and distress.",
+    "how_this_medicine_fights_it": "Provides simultaneous peripheral and central blockade: Polmacoxib (2 mg) binds to red blood cell carbonic anhydrase to be transported directly into inflamed joint tissues, selectively shutting down local COX-2 and clearing swelling; concurrently, Paracetamol (325 mg) crosses the blood-brain barrier to inhibit central prostaglandin synthesis and activate descending serotonergic pain-dampening pathways, providing rapid onset relief while Polmacoxib delivers sustained anti-inflammatory control.",
+    "drug_class": "Fixed-Dose Combination: Targeted Selective COX-2 Inhibitor + Para-aminophenol Analgesic",
+    "main_action": "Dual-action: selective peripheral COX-2 inhibition with erythrocyte-mediated joint delivery, coupled with central hypothalamic prostaglandin and pain-pathway modulation.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Osteoarthritis flare-ups with breakthrough pain (knee, hip, and lumbar spine)",
+      "Post-operative orthopedic rehabilitation and soft tissue trauma",
+      "Post-dental extraction pain and periodontal inflammation",
+      "Acute musculoskeletal strains and inflammatory backaches",
+      "Ankylosing spondylitis and persistent arthralgia"
+    ],
+    "how_patients_describe_symptoms": [
+      "My knee arthritis is throbbing and swollen, and standard paracetamol isn't touching the pain.",
+      "I had a dental extraction / surgery; my jaw is pounded with sharp pain and swelling.",
+      "My lower back and hips feel deeply inflamed, stiff, and painful whenever I try to get out of a chair.",
+      "Every step feels like bone rubbing on bone with continuous dull burning pain."
+    ],
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults aged 18 and older requiring dual peripheral anti-inflammatory and fast-acting central pain relief",
+        "Patients needing stronger pain coverage than standard paracetamol alone, but with fewer gastric ulcer complications than traditional non-selective NSAIDs (Ibuprofen, Diclofenac)"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Individuals with documented hypersensitivity to sulfonamides, Polmacoxib, or Paracetamol",
+        "Patients with severe active hepatic impairment or chronic alcohol dependence (risk of paracetamol-induced hepatotoxicity)",
+        "Individuals with ischemic heart disease, peripheral arterial disease, or history of stroke/myocardial infarction",
+        "Active gastrointestinal bleeding or peptic ulcer disease",
+        "Severe renal impairment (GFR < 30 mL/min)",
+        "Pregnancy (strictly contraindicated in the third trimester due to risks of premature closure of the fetal ductus arteriosus) and nursing mothers",
+        "Children and adolescents under 18 years of age"
+      ]
+    },
+    "common_side_effects": [
+      "Mild nausea, heartburn, or epigastric discomfort",
+      "Headache or transient lightheadedness",
+      "Fluid retention or mild peripheral ankle swelling",
+      "Mild transient rise in blood pressure",
+      "Loose stools or flatulence"
+    ],
+    "important_cautions": [
+      "Do Not Duplicate Paracetamol: Because this tablet already contains 325 mg of Paracetamol per dose, patients must strictly avoid concurrent over-the-counter cold, flu, cough, or fever medicines containing paracetamol to prevent toxic NAPQI accumulation in the liver.",
+      "Short to Medium Term Course: Typically prescribed for acute pain flares or post-surgical recovery; do not extend long-term without periodic blood pressure and liver enzyme evaluations.",
+      "Sulfa Pharmacophore Warning: Avoid use in patients with a confirmed severe allergic history to sulfa drugs.",
+      "Administration Advice: Always swallow the tablet whole with a full glass of water after food to reduce potential gastric irritation."
+    ]
   }
 ]
