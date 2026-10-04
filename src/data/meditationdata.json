@@ -2042,5 +2042,62 @@
       "Does Not Shrink Prostate Volume or Alter PSA: Tamsulosin relaxes smooth muscle tone; it does NOT alter androgen metabolism, does not reduce physical prostate size, and does not lower serum Prostate-Specific Antigen (PSA) levels. To reduce actual epithelial volume and halt long-term disease progression, it is frequently co-administered with a 5-alpha reductase inhibitor (e.g., Dutasteride 0.5 mg).",
       "Interaction with PDE5 Inhibitors: Co-administration with phosphodiesterase-5 inhibitors (such as Sildenafil, Tadalafil, or Vardenafil) can produce additive peripheral vasodilation and symptomatic orthostatic hypotension; clinical guidelines suggest initiating at the lowest effective dose with separated dosing times."
     ]
+  },
+  {
+    "id": "coumarin",
+    "name": "Coumarin",
+    "generic_names": [
+      "1,2-Benzopyrone",
+      "5,6-Benzo-alpha-pyrone",
+      "Coumarin 50mg/100mg"
+    ],
+    "category": ["Circulation & Edema", "Anti-Inflammatory", "Vascular Health"],
+    "sub_category": "Benzopyrone Anti-Edematous & Lymphagogue Agent (Macrophage-Mediated Proteolysis Inducer)",
+    "company_name": "Lympedim",
+    "amount": "199/- (10 Tabs)",
+    "main_cause": "High-Protein Lymphedema, Chronic Venous Insufficiency (CVI), Post-Surgical & Post-Mastectomy Limb Swelling, Soft Tissue Bruising",
+    "why_this_disease_happens": "In conditions like primary lymphedema, post-mastectomy radiation injury, lymph node dissection, or advanced chronic venous insufficiency, fluid and plasma proteins (mainly albumin) leak out into the interstitial tissue spaces faster than damaged lymphatics can reabsorb them. This creates stagnant, protein-rich interstitial edema. High oncotic pressure traps water, preventing fluid drainage, while chronic protein stagnation induces macrophage activation, fibroblasts proliferation, persistent inflammation, localized tissue fibrosis (brawny induration), and progressive limb enlargement.",
+    "how_this_medicine_fights_it": "Stimulates and enhances physiological macrophage-mediated proteolysis: Coumarin activates tissue histiocytes and circulating macrophages to synthesize and release neutral lysosomal proteases directly into the interstitial fluid. These enzymes break down high-molecular-weight stagnant plasma proteins into tiny, low-molecular-weight peptide fragments. Because smaller fragments enter local capillaries and remaining lymphatic pathways by simple oncotic diffusion, the interstitial colloid osmotic pressure collapses. This reverses the osmotic gradient, drawing trapped fluid back into vascular circulation, reducing tissue tension, and halting chronic fibrosclerotic remodeling of the limb.",
+    "drug_class": "Benzopyrone Class Anti-Edema / Lymphagogue Agent",
+    "main_action": "Induction of macrophage lysosomal proteolysis to fragment interstitial protein aggregates, enhancement of lymphatic drainage, and microvascular permeability stabilization.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Primary and secondary lymphedema (post-mastectomy arm swelling, pelvic surgery lymphedema, filarial elephantiasis adjunct)",
+      "Chronic Venous Insufficiency (CVI) accompanied by heavy, swollen legs and stasis dermatitis",
+      "Post-surgical and post-traumatic orthopedic tissue edema (sprains, crush injuries, hematomas)",
+      "Post-radiation fibrosis and localized soft-tissue lymphedematous induration",
+      "Hemorrhoidal disease and anorectal venous congestion (frequently co-formulated with bioflavonoids like Troxerutin)"
+    ],
+    "how_patients_describe_symptoms": [
+      "My arm or leg feels tight, heavy, and swollen like a solid tree trunk after my surgery.",
+      "My legs are heavily swollen with pitting dents at the end of the day, making walking exhausting.",
+      "My skin feels thick, woody, and hard because of chronic fluid trapped in my tissues.",
+      "The swelling around my injured joint refuses to go down even after resting and elevating it."
+    ],
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults suffering from persistent high-protein lymphedema or refractory chronic venous edema under specialist medical supervision",
+        "Patients recovering from extensive oncological or vascular surgeries requiring pharmacological lymphatic decongestion"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Patients with pre-existing hepatic impairment, acute or chronic hepatitis, or baseline elevated liver transaminases (ALT/AST)",
+        "Individuals with a history of alcohol abuse or concurrent intake of hepatotoxic medications",
+        "Patients with active bleeding disorders or concurrent systemic anticoagulant therapy without tight clinical monitoring",
+        "Pregnancy and breastfeeding mothers (insufficient safety data and risk of maternal/fetal toxicity)",
+        "Pediatric patients under 18 years of age"
+      ]
+    },
+    "common_side_effects": [
+      "Mild gastrointestinal distress, epigastric nausea, or loose stools",
+      "Headache or transient dizziness",
+      "Flushing and warm sensation in the limbs",
+      "Asymptomatic elevation of serum transaminases (ALT/AST)",
+      "Pruritus or mild cutaneous rash"
+    ],
+    "important_cautions": [
+      "Black Box Hepatotoxicity & Liver Monitoring: Coumarin undergoes hepatic metabolism primarily via CYP2A6 (to 7-hydroxycoumarin in humans), but shunting into alternative epoxide pathways can cause idiosyncratic, potentially severe drug-induced liver injury (DILI). Baseline and regular monthly liver function tests (LFTs) are mandatory during therapy; discontinue immediately if transaminases rise or jaundice occurs.",
+      "Distinction from Anticoagulants (Not Warfarin): Pure coumarin (1,2-benzopyrone) acts primarily on macrophages to reduce edema; it is NOT the same molecule as 4-hydroxycoumarin anticoagulants (such as Warfarin, Dicoumarol, or Phenprocoumon) and does not primarily target the vitamin K epoxide reductase complex, though bleeding times should still be observed.",
+      "Multimodal Decongestive Therapy: Coumarin is not a cure on its own; it provides optimal clinical results when used as an adjunct alongside Complete Decongestive Therapy (CDT), including graduated compression bandaging/garments, manual lymphatic drainage (MLD), and limb elevation.",
+      "Administration Timing: Take tablet whole with a full glass of water with or immediately after meals to reduce gastric irritation."
+    ]
   }
 ]
