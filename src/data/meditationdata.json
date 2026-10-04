@@ -1442,5 +1442,407 @@
       "Glaucoma and Bladder Screening: Due to camylofin's muscarinic receptor antagonism, verify absence of untreated narrow-angle glaucoma and significant urinary outflow obstruction before prescribing.",
       "Not for Undiagnosed Acute Abdomen: Never administer in suspected surgical emergencies (e.g., acute appendicitis, peritonitis, or mechanical strangulation), as relieving spasms and suppressing fever can mask life-threatening clinical signs."
     ]
+  },
+  {
+    "id": "albendazole",
+    "name": "Albendazole",
+    "generic_names": [
+      "Albendazole 400mg",
+      "Zentel",
+      "Bandey",
+      "Noworm",
+      "Albezole",
+      "Bendex"
+    ],
+    "category": [
+      "Infections & Parasites",
+      "Gastrointestinal",
+      "Pediatric Care"
+    ],
+    "sub_category": "Broad-Spectrum Synthetic Benzimidazole Anthelmintic & Larvicidal Agent",
+    "company_name": "AB1",
+    "amount": "18/- (1 Chewable Tab - 400mg)",
+    "main_cause": "Enterobiasis (Pinworm), Ascariasis (Roundworm), Ancylostomiasis / Necatoriasis (Hookworm), Trichuriasis (Whipworm), Strongyloidiasis, Neurocysticercosis (Taenia solium tapeworm larvae), Hydatid Disease / Echinococcosis (Echinococcus granulosus), Cutaneous Larva Migrans",
+    "why_this_disease_happens": "Parasitic helminth infections occur via ingestion of embryonated ova from contaminated soil, water, or poorly washed vegetables, fecal-oral autoinfection, or direct transdermal larval penetration (as in hookworm species). Once inside the human gastrointestinal tract, larvae hatch, migrate, and mature into adult nematodes or cestodes that anchor themselves to the intestinal mucosa using scoleces, hooks, or cutting plates. These parasites feed on host chyme, mucosal tissue fluids, and erythrocytes, causing microvascular blood loss, iron-deficiency anemia, protein malnutrition, and intestinal lumen obstruction. In tissue-invasive tapeworm zoonoses (cysticercosis and echinococcosis), oncospheres penetrate the mesenteric venules and hematogenously seed deep tissues—predominantly the parenchyma of the central nervous system (neurocysticercosis) and liver/lungs (hydatid cyst formation). There, they develop encysted metacestodes that evade host immunity, exert mass effect, and provoke severe focal edema, seizures, and anaphylaxis upon cyst rupture.",
+    "how_this_medicine_fights_it": "Acts through selective degenerative disruption of parasitic microtubular dynamics and energy metabolism: Albendazole selectively binds with high affinity to the colchicine-sensitive site of free beta-tubulin in susceptible helminths, preventing its polymerization with alpha-tubulin into functional cytoskeletal microtubules. This loss of cytoplasmic microtubules causes structural collapse of absorptive intestinal and tegumental cells in the parasite, selectively blocking glucose uptake and depleting endogenous glycogen stores. Deprived of glucose, the parasite cannot generate adenosine triphosphate (ATP), leading to metabolic exhaustion, flaccid paralysis, tegumental degradation, and natural peristaltic expulsion from the human intestinal tract. For systemic, deep-tissue infections (such as neurocysticercosis and hydatid disease), the active hepatic sulfoxide metabolite (albendazole sulfoxide) achieves high systemic bioavailability and crosses the blood-brain barrier and fibrous hydatid cyst walls to exert direct larvicidal and ovicidal actions.",
+    "drug_class": "Benzimidazole Anthelmintic Derivative",
+    "main_action": "Selective high-affinity inhibition of parasitic beta-tubulin polymerization, collapsing cytoplasmic microtubules, arresting cellular glucose uptake, and depleting ATP stores to induce parasite paralysis and death.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Single-dose community deworming and mass drug administration (MDA) for soil-transmitted helminths",
+      "Intestinal nematode infestations: Ascariasis (roundworm), Enterobius vermicularis (pinworm/threadworm), Ancylostoma duodenale / Necator americanus (hookworms), and Trichuris trichiura (whipworm)",
+      "Strongyloides stercoralis intestinal infestation (alternative or adjunctive to ivermectin)",
+      "Parenchymal neurocysticercosis caused by larval forms of the pork tapeworm (Taenia solium)",
+      "Cystic hydatid disease of the liver, lung, and peritoneum caused by the larval stage of Echinococcus granulosus",
+      "Cutaneous larva migrans (creeping eruption caused by animal hookworm species)",
+      "Giardiasis in pediatric patients (used as an effective alternative to nitroimidazoles)"
+    ],
+    "how_patients_describe_symptoms": [
+      "My child is constantly scratching their anal area, especially at night, and is restless and irritable (pinworms).",
+      "I have dull abdominal discomfort, poor appetite, bloating, and have noticed small worms passed in my stools.",
+      "I have unexplained chronic fatigue, paleness, and iron deficiency from suspected intestinal hookworm blood loss.",
+      "I have been having new unexplained focal seizures, intense headaches, and scans showed calcified cyst lesions in my brain (neurocysticercosis)."
+    ],
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults and children aged 1 year and older for routine luminal intestinal deworming (standard 400 mg single dose for adults and children over 2 years; 200 mg for children 1-2 years)",
+        "Patients requiring targeted systemic treatment for invasive tissue helminthiasis (neurocysticercosis or echinococcal hydatid cysts) under close specialist supervision"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Pregnant women, especially during the first trimester (Category X / teratogenic risk; demonstrated embryotoxicity and skeletal malformations in animal studies; rule out pregnancy before treatment)",
+        "Women of childbearing potential unless a negative pregnancy test is confirmed and reliable contraception is used during and for at least 1 month post-therapy",
+        "Patients with known hypersensitivity to benzimidazole class compounds (albendazole, mebendazole, thiabendazole)",
+        "Patients with pre-existing severe hepatic impairment or baseline bone marrow depression (during prolonged high-dose courses, albendazole can induce reversible hepatotoxicity and fatal leukopenia/pancytopenia)",
+        "Infants under 1 year of age (routine safety and established dosing guidelines are limited)"
+      ]
+    },
+    "common_side_effects": [
+      "Transient gastrointestinal upset: epigastric discomfort, nausea, abdominal cramps, or mild diarrhea (frequently caused by the dying parasites themselves)",
+      "Transient headache, lightheadedness, or dizziness",
+      "Reversible elevation of serum transaminases (ALT/AST) during extended systemic courses",
+      "Mild alopecia / hair thinning (reversible, observed during extended high-dose regimens)",
+      "Low-grade fever or mild pruritic allergic rash"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "Fatty Meal Administration Rule (The Bioavailability Fork): Absorption behavior depends directly on the therapeutic target: (1) For intestinal luminal worms (pinworm, roundworm, hookworm), administer on an empty stomach to minimize systemic absorption and concentrate the drug in the bowel lumen. (2) For deep tissue infections (neurocysticercosis, hydatid cysts), administer strictly with a high-fat meal or whole milk, which increases systemic absorption of the active albendazole sulfoxide metabolite up to 5-fold.",
+      "Mandatory Chewable Administration: The tablet must be chewed thoroughly before swallowing (or crushed and mixed with food/water for young children); swallowing intact whole tablets significantly impairs dissolution and luminal efficacy.",
+      "Neurocysticercosis Steroid Co-Prescription Rule: In neurocysticercosis, killing encysted larvae triggers an acute, massive inflammatory response that causes severe cerebral edema, status epilepticus, and elevated intracranial pressure. High-dose systemic corticosteroids (dexamethasone or prednisolone) and anticonvulsants MUST be initiated prior to or concurrently with albendazole.",
+      "Retinal Lesion Pre-Screening: Prior to treating neurocysticercosis, examine the patient for retinal cysticercal lesions; albendazole-induced destruction of intraocular parasites can provoke severe retinal inflammation resulting in permanent blindness.",
+      "Hematological & Hepatic Surveillance: For prolonged regimens (e.g., 28-day cycles for hydatid disease), complete blood counts (CBC) and liver function tests (LFTs) must be performed at baseline and every two weeks due to the risks of bone marrow suppression (agranulocytosis) and transaminitis."
+    ]
+  },
+  {
+    "id": "baclofen",
+    "name": "Baclofen",
+    "generic_names": [
+      "Baclofen 10mg/20mg/25mg",
+      "Lioresal",
+      "Baclof",
+      "Liofen",
+      "Riclofen"
+    ],
+    "category": ["Central Muscle Relaxant", "Nerve & Neuropathy", "Painkiller"],
+    "sub_category": "Centrally Acting Selective GABA-B Receptor Agonist & Antispasticity Agent",
+    "company_name": "BF-CL1",
+    "amount": "145/- (10 Tabs - 10mg)",
+    "main_cause": "Spasticity from Multiple Sclerosis (MS), Spinal Cord Injuries / Transverse Myelitis, Cerebral Palsy, Post-Stroke Spastic Diplegia, Intractable Trigeminal Neuralgia, Muscle Spasms of Central Nervous Origin",
+    "why_this_disease_happens": "In intact upper motor neuron pathways, cortical and brainstem descending tracts maintain calibrated tonic inhibition over spinal alpha and gamma motor neurons in the spinal cord dorsal and ventral horns. Following structural lesions or demyelination (as seen in multiple sclerosis, traumatic spinal cord transection, or cerebral vascular accidents), this supraspinal inhibitory control is severed. Sensory afferent Ia fibers from muscle spindles enter the spinal cord and trigger uninhibited, exaggerated monosynaptic and polysynaptic stretch reflex arcs. Without inhibitory tone, excessive excitatory neurotransmitters (primarily glutamate and aspartate) are released at neuromuscular junctions and spinal synapses, leading to persistent hypertonia, involuntary painful muscle clonic spasms, flexor or extensor rigidity, joint contractures, and severely restricted voluntary mobility.",
+    "how_this_medicine_fights_it": "Functions as a selective agonist at metabotropic presynaptic and postsynaptic GABA-B receptors within the spinal cord dorsal horn: As a lipophilic para-chlorophenyl derivative of the inhibitory neurotransmitter gamma-aminobutyric acid (GABA), Baclofen crosses the blood-brain barrier and selectively binds to the Gi/Go protein-coupled GABA-B receptor complex. (1) Presynaptic Inhibition: Receptor activation closes voltage-gated calcium (Ca2+) channels, suppressing calcium influx into presynaptic primary afferent terminals. This directly blocks the exocytosis of excitatory neurotransmitters (glutamate, aspartate, and substance P). (2) Postsynaptic Inhibition: On spinal interneurons and motor neurons, it opens inwardly rectifying potassium (GIRK) channels, allowing potassium efflux that hyperpolarizes the neuronal membrane and raises the threshold required for firing action potentials. By simultaneously dampening monosynaptic and polysynaptic reflex arcs in the spinal cord, Baclofen suppresses involuntary skeletal muscle spasms, reduces muscle tone, alleviates sustained clonus, and restores voluntary motor function without producing generalized flaccidity or directly weakening peripheral muscle fibers.",
+    "drug_class": "Centrally Acting Skeletal Muscle Relaxant / GABA-B Receptor Agonist",
+    "main_action": "Selective stimulation of presynaptic and postsynaptic spinal GABA-B receptors, leading to decreased calcium influx, increased potassium efflux, and suppression of monosynaptic and polysynaptic stretch reflexes.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Severe reversible spasticity associated with Multiple Sclerosis (MS) to improve mobility and reduce painful flexor spasms",
+      "Spasticity secondary to traumatic spinal cord lesions, transverse myelitis, syringomyelia, and spinal cord tumors",
+      "Cerebral palsy in pediatric and adult patients (oral therapy or continuous intrathecal infusion via programmable pump)",
+      "Post-stroke spastic hemiplegia and spastic diplegia (used cautiously to avoid destabilizing compensatory muscle tone)",
+      "Refractory trigeminal neuralgia (as a synergistic second-line adjunct to Carbamazepine)",
+      "Hiccups (singultus) that are persistent, intractable, and resistant to standard dopamine antagonists",
+      "Gastroesophageal reflux disease (GERD) refractory cases (reduces transient lower esophageal sphincter relaxations / tLESRs)"
+    ],
+    "how_patients_describe_symptoms": [
+      "My legs lock up in sudden, agonizing, stiff spasms that jerk uncontrollably, especially when I try to sleep or stretch.",
+      "My thigh and calf muscles feel like solid rock, making it impossible to bend my knees or walk smoothly without tripping.",
+      "My arms and fingers curl inward tightly from my spinal injury, and it hurts when someone tries to straighten them.",
+      "I have constant, exhausting muscle tightness that triggers sharp shooting nerve aches down my spine."
+    ],
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults and pediatric patients aged 2 years and older with documented spinal or cerebral upper motor neuron spasticity",
+        "Patients with chronic spinal cord injury or multiple sclerosis experiencing sleep disruption and pain due to sustained involuntary spasms",
+        "Patients whose spasticity is severe enough to cause pain, impede personal hygiene, or limit rehabilitation exercises"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Patients who rely on their spastic hypertonicity to maintain an upright posture, balance, and locomotion (reducing muscle tone can precipitate falls and functional deterioration)",
+        "Patients with moderate-to-severe renal impairment (CrCl < 60 mL/min) without precise dose reduction (cleared >85% unchanged by the kidneys; toxic accumulation produces rapid CNS depression, coma, and seizures)",
+        "Patients with a history of epilepsy or seizure disorders (baclofen lowers the seizure threshold and can exacerbate convulsive episodes)",
+        "Patients with active peptic ulcer disease (baclofen can stimulate gastric acid secretion)",
+        "Patients with severe psychiatric illness, schizophrenia, or confusional states (may precipitate hallucinations and psychosis)",
+        "Pregnancy and breastfeeding mothers (crosses the placental barrier and passes into breast milk; safety not established)"
+      ]
+    },
+    "common_side_effects": [
+      "Transient somnolence, drowsiness, and daytime sedation (most frequent adverse effect, especially during initial titration)",
+      "Dizziness, ataxia, lightheadedness, and motor unsteadiness",
+      "Muscular hypotonia or generalized muscle weakness (loss of necessary supporting tone)",
+      "Nausea, dry mouth, constipation, or mild dyspepsia",
+      "Headache, confusion, or mental fatigue",
+      "Urinary frequency, dysuria, or occasional urinary retention"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure build and runtime stability in Next.js and Turbopack.",
+      "Critical Black Box Warning on Abrupt Discontinuation (Intrathecal & Oral): Chronic Baclofen therapy must NEVER be stopped suddenly. Abrupt cessation provokes a severe, life-threatening withdrawal syndrome characterized by high rebound spasticity, hyperthermia, visual and auditory hallucinations, delirium, seizures, rhabdomyolysis, multi-organ failure, and death. Oral and intrathecal doses must be gradually tapered off over at least 1 to 2 weeks under close physician surveillance.",
+      "Start Low and Titrate Slow: Initial treatment must begin at low doses (typically 5 mg two to three times daily) and be increased gradually by 5 mg every three days to reach the optimal therapeutic window while minimizing somnolence and excessive muscular weakness.",
+      "Compensatory Tone Assessment: Carefully evaluate patient gait before prescribing; many patients with severe neurological deficits use spastic extensor tone to stand and walk. Eliminating too much tone can cause the knees to buckle and impair ambulation.",
+      "Renal Elimination Watch: Excreted almost exclusively by the kidneys; in elderly patients or those with declining glomerular filtration rates, standard doses can cause severe neurotoxicity (myoclonus, respiratory depression, stupor). Dosing must strictly reflect creatinine clearance.",
+      "Additive CNS Depression: Concomitant use with alcohol, benzodiazepines, tricyclic antidepressants, or opioids produces potent additive sedative and respiratory depressant effects; co-prescribing requires careful clinical oversight."
+    ]
+  },
+  {
+    "id": "ticagrelor",
+    "name": "Ticagrelor",
+    "generic_names": [
+      "Ticagrelor 60mg/90mg",
+      "Brilinta",
+      "Brilique",
+      "Ticasave",
+      "Axcer",
+      "Ticazap"
+    ],
+    "category": [
+      "Cardiovascular",
+      "Blood & Anticoagulant",
+      "Central Analgesic"
+    ],
+    "sub_category": "Direct-Acting Reversible P2Y12 Platelet Adenosine Diphosphate (ADP) Receptor Antagonist",
+    "company_name": "TG1",
+    "amount": "390/- (14 Tabs - 90mg)",
+    "main_cause": "Acute Coronary Syndromes (ACS) including Unstable Angina, Non-ST Elevation Myocardial Infarction (NSTEMI), ST-Elevation Myocardial Infarction (STEMI), Percutaneous Coronary Intervention (PCI) Stent Thrombosis Prophylaxis, Secondary Atherothrombotic Prevention in Prior MI",
+    "why_this_disease_happens": "Atherosclerotic cardiovascular events occur when an unstable coronary fibroatheroma ruptures or erodes, exposing subendothelial collagen, tissue factor, and von Willebrand factor (vWF) to circulating platelets. Resting platelets adhere via glycoprotein Ib/IX receptors, become activated, and degranulate. Dense granules secrete adenosine diphosphate (ADP), which binds to two distinct purinergic surface receptors: P2Y1 (triggering transient shape change and calcium mobilization) and P2Y12 (coupled to Gi proteins, which inhibits adenylyl cyclase and lowers intracellular cyclic AMP). Sustained P2Y12 activation leads to conformational shifting of platelet glycoprotein IIb/IIIa receptors into high-affinity fibrinogen-binding complexes. Cross-linking by multivalent fibrinogen creates platelet-dense white thrombi that rapidly occlude coronary epicardial arteries, leading to myocardial ischemia, infarction, malignant ventricular arrhythmias, or post-stenting subacute stent thrombosis.",
+    "how_this_medicine_fights_it": "Provides immediate, potent, and reversible antiplatelet inhibition without requiring hepatic prodrug bioactivation: Unlike thienopyridine derivatives (such as clopidogrel and prasugrel) that require cytochrome P450 hepatic oxidation to generate an active metabolite that irreversibly alkylates receptors, Ticagrelor is a cyclopentyltriazolopyrimidine (CPTP) that functions directly as an active drug. It acts as an allosteric, non-competitive, reversible antagonist at the platelet P2Y12 ADP receptor. By locking the receptor in an inactive conformation without preventing ADP binding, it preserves intracellular adenylyl cyclase activity and sustains elevated cyclic AMP (cAMP) levels, shutting down downstream intracellular signaling required for glycoprotein IIb/IIIa integrin activation and platelet aggregation. In addition, Ticagrelor uniquely inhibits equilibrative nucleoside transporter-1 (ENT-1), preventing the cellular reuptake and clearance of endogenous adenosine; elevated local extracellular adenosine levels stimulate cardioprotective A1/A2A receptors, promoting coronary vasodilation, myocardial infarct-size reduction, and anti-inflammatory pathways.",
+    "drug_class": "Cyclopentyltriazolopyrimidine (CPTP) / Direct Reversible P2Y12 Receptor Antagonist",
+    "main_action": "Reversible allosteric antagonism of platelet P2Y12 ADP receptors combined with inhibition of cellular adenosine uptake via ENT-1, preventing glycoprotein IIb/IIIa activation and arterial thrombus formation.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Acute Coronary Syndrome (ACS) including STEMI, NSTEMI, and unstable angina (reduces rates of cardiovascular death, recurrent myocardial infarction, and stent thrombosis)",
+      "Adjunctive dual antiplatelet therapy (DAPT) with low-dose Aspirin following Percutaneous Coronary Intervention (PCI) with drug-eluting stents",
+      "Extended secondary prophylaxis (60 mg twice daily) in high-risk patients with a documented history of myocardial infarction occurring 1 to 3 years prior",
+      "Reduction of stroke risk in patients with acute non-severe ischemic stroke or high-risk transient ischemic attack (TIA)",
+      "Coronary artery bypass graft (CABG) surgical patients managed for ACS (resumed post-operatively to preserve graft patency)"
+    ],
+    "how_patients_describe_symptoms": [
+      "I suffered a sudden heart attack and received a cardiac stent; my cardiologist prescribed this to keep my blood thin and prevent clots from blocking the stent.",
+      "I bruise very easily, notice small purple spots on my arms, and minor paper cuts bleed longer than they used to.",
+      "Shortly after starting this heart medicine, I feel a sudden sensation of breathlessness or air hunger, even when sitting quietly at rest.",
+      "I feel a dull tightness in my chest when walking uphill, and this medication protects my bypass grafts from clogging."
+    ],
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults presenting with Acute Coronary Syndrome (ACS) managed medically, with PCI, or with CABG surgery",
+        "Post-PCI patients with drug-eluting stents who require potent, predictable platelet inhibition, particularly clopidogrel non-responders or CYP2C19 poor metabolizers",
+        "High-risk post-MI patients (>1 year post-event) without prior bleeding complications (at the maintenance dose of 60 mg twice daily)"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Patients with active pathological bleeding (such as bleeding peptic ulcer or intracranial hemorrhage)",
+        "Patients with a documented history of intracranial hemorrhage (absolute contraindication; significantly escalates fatal rebleeding risks)",
+        "Patients with severe hepatic impairment (metabolized extensively by hepatic CYP3A4; severe dysfunction increases drug exposure and hemorrhage risk)",
+        "Patients with sick sinus syndrome, second-degree or third-degree AV block without a functioning permanent pacemaker (adenosine reuptake inhibition can cause profound bradyarrhythmias)",
+        "Patients requiring concurrent administration of strong CYP3A4 inhibitors (ketoconazole, clarithromycin) or strong CYP3A4 inducers (rifampin, carbamazepine, phenytoin)",
+        "Patients undergoing elective major surgery or CABG within 3 to 5 days (requires preoperative discontinuation to prevent surgical bleeding)"
+      ]
+    },
+    "common_side_effects": [
+      "Bleeding: minor bleeding (epistaxis, gingival bleeding, gastrointestinal micro-bleeding, cutaneous hematomas / ecchymosis)",
+      "Dyspnea: sudden self-limiting sensation of shortness of breath (occurring in 10-15% of patients due to elevated adenosine levels, typically benign and without bronchospasm or heart failure)",
+      "Ventricular pauses and asymptomatic bradycardia (due to increased extracellular adenosine concentration)",
+      "Hyperuricemia: asymptomatic elevation of serum uric acid levels, occasionally triggering acute gouty arthritis",
+      "Transient serum creatinine elevations during therapy initiation",
+      "Gastrointestinal symptoms: nausea, dyspepsia, or diarrhea"
+    ],
+    "important_cautions": [
+      "Strict JSON & System Compatibility: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure build and runtime stability in Next.js and Turbopack.",
+      "Aspirin Dosing Ceiling Hazard (PLATO Trial Black Box Warning): When used in Dual Antiplatelet Therapy (DAPT), the co-administered Aspirin dose MUST NOT EXCEED 100 mg daily (typically 75 to 81 mg once daily). Maintenance doses of Aspirin above 100 mg significantly blunt the superior clinical efficacy of Ticagrelor compared to Clopidogrel.",
+      "Twice-Daily (BID) Compliance Mandate: Because Ticagrelor binds reversibly to the P2Y12 receptor and has an elimination half-life of 7 to 9 hours, it must be taken strictly twice daily (e.g., 90 mg BID with morning and evening meals). Missing consecutive doses causes rapid recovery of platelet aggregation (within 24-48 hours), heightening the acute risk of catastrophic in-stent thrombosis.",
+      "The Adenosine-Mediated Dyspnea Phenomenon: Roughly 10-15% of patients experience dyspnea during the first few days of therapy due to ENT-1 inhibition elevating local adenosine. It is essential to distinguish this non-cardiac, non-bronchospastic symptom from acute heart failure or pulmonary embolism before prematurely discontinuing this vital antiplatelet therapy.",
+      "Preoperative Discontinuation Timing: For patients undergoing elective coronary artery bypass graft (CABG) surgery or other major surgical interventions, Ticagrelor should be discontinued at least 3 to 5 days prior to the procedure to balance hemostatic control against thrombotic risk.",
+      "Reversible Binding vs Irreversible Antagonists: Unlike clopidogrel and prasugrel, which permanently deactivate platelets for their remaining 7 to 10-day lifespan, platelet function recovers more rapidly upon stopping ticagrelor as free drug clears from circulating plasma."
+    ]
+  },
+  {
+    "id": "domperidone",
+    "name": "Domperidone",
+    "generic_names": [
+      "Domperidone 10mg/30mg SR",
+      "Motilium",
+      "Vomistop",
+      "Domstal",
+      "Gastrosil",
+      "Nauzidil"
+    ],
+    "category": ["Gastrointestinal", "Central Analgesic"],
+    "sub_category": "Peripheral Dopamine D2-Receptor Antagonist & Upper Gastrointestinal Prokinetic",
+    "company_name": "DM1",
+    "amount": "42/- (10 Tabs - 10mg)",
+    "main_cause": "Nausea and Vomiting (Chemotherapy-, Dopaminergic-, or Migraine-Induced), Diabetic Gastroparesis, Gastroesophageal Reflux Disease (GERD), Functional Dyspepsia with Postprandial Fullness",
+    "why_this_disease_happens": "Nausea, emesis, and gastric hypomotility are governed by the interplay between the chemoreceptor trigger zone (CTZ) and the enteric nervous system. In the gastrointestinal tract, endogenous dopamine acts on dopamine D2 receptors located on presynaptic cholinergic neurons within the myenteric plexus, suppressing the release of acetylcholine and blunting smooth muscle motility. This causes lower esophageal sphincter (LES) laxity, delayed gastric emptying, antral hypomotility, and duodenogastric reflux, triggering early satiety, severe bloating, and epigastric discomfort. When toxic metabolites, cytostatic drugs, or severe migraine cascades circulate, they stimulate dopamine D2 receptors in the area postrema / CTZ—a circumventricular brain structure devoid of a functional blood-brain barrier—transmitting emetogenic efferents directly to the medullary vomiting center to initiate retrograde peristalsis, abdominal wall contraction, and vomiting.",
+    "how_this_medicine_fights_it": "Exerts targeted prokinetic and antiemetic actions via peripheral dopamine D2 receptor blockade without crossing the blood-brain barrier: (1) Upper Gastrointestinal Prokinetic Action: Domperidone competitively antagonizes dopamine D2 receptors on presynaptic cholinergic motor neurons in the myenteric (Auerbach) plexus. Relieving dopamine-mediated inhibition unlocks the presynaptic release of acetylcholine. Elevated acetylcholine stimulates postjunctional muscarinic (M3) receptors on smooth muscle cells, increasing the tone and amplitude of lower esophageal sphincter (LES) contractions, coordinating gastroduodenal peristalsis, enhancing gastric antral contractions, and accelerating gastric emptying of both solids and liquids. (2) Targeted Antiemetic Action: Domperidone selectively antagonizes dopamine D2 receptors in the circumventricular area postrema (chemoreceptor trigger zone / CTZ). Because it has poor lipid solubility and high affinity for the P-glycoprotein efflux pump, it does not penetrate the blood-brain barrier into the corpus striatum; thus, it potently suppresses the emetic signaling cascade at the CTZ without provoking central extrapyramidal symptoms (dystonia, parkinsonism, or akathisia) commonly seen with metoclopramide.",
+    "drug_class": "Peripheral Dopamine D2 Receptor Antagonist / Upper GI Prokinetic & Antiemetic",
+    "main_action": "Competitive peripheral dopamine D2 receptor blockade, promoting myenteric acetylcholine release to stimulate upper GI motility and blocking CTZ dopaminergic emetic triggers.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Symptomatic relief of acute nausea and vomiting of various etiologies (infectious gastroenteritis, dietary indiscretion, or post-surgical states)",
+      "Nausea and vomiting induced by dopamine agonists (such as Levodopa or Bromocriptine) in Parkinson's disease (preferred agent because it does not cross into basal ganglia)",
+      "Diabetic gastroparesis characterized by delayed gastric emptying, early satiety, nausea, and persistent postprandial fullness",
+      "Gastroesophageal reflux disease (GERD) as an adjunctive prokinetic combined with Proton Pump Inhibitors (PPIs)",
+      "Functional non-ulcer dyspepsia with dysmotility-like symptoms (epigastric heaviness and bloating)",
+      "Acute migraine attacks (taken alongside analgesics to enhance drug absorption delayed by migraine-induced gastroparesis)"
+    ],
+    "how_patients_describe_symptoms": [
+      "Even a few bites of food leave my stomach feeling uncomfortably heavy, bloated, and stuffed for hours.",
+      "I have persistent nausea that makes me want to throw up whenever I try to swallow solid food or drink water.",
+      "My acid reflux makes food sit in my chest, and I taste sour, undigested food coming back up into my throat.",
+      "My Parkinson's medicine makes me feel intensely sick to my stomach, and my doctor gave me this to stop the nausea without making my tremors worse."
+    ],
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults and adolescents aged 12 years and older (weighing at least 35 kg) requiring short-term relief from nausea and vomiting",
+        "Patients with Parkinson's disease suffering from dopamine-agonist-induced emesis (where central antagonists like metoclopramide are strictly contraindicated)",
+        "Diabetic patients with autonomic gastroparesis unresponsive to dietary modifications alone"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Patients with baseline prolongation of cardiac conduction intervals, particularly QTc prolongation or known congenital Long QT Syndrome",
+        "Patients with significant electrolyte disturbances (hypokalemia, hypomagnesemia) or underlying structural heart disease (congestive heart failure)",
+        "Patients concurrently taking strong CYP3A4 inhibitors (ketoconazole, clarithromycin, ritonavir) or other QTc-prolonging medications (amiodarone, escitalopram, ciprofloxacin)",
+        "Patients with moderate-to-severe hepatic impairment (extensively metabolized by the liver; toxic parent compound accumulates rapidly)",
+        "Patients with mechanical gastrointestinal obstruction, perforation, or active gastrointestinal hemorrhage (prokinetic stimulation risks bowel rupture)",
+        "Patients with prolactinoma (prolactin-secreting pituitary tumor; D2 blockade stimulates prolactin exocytosis)"
+      ]
+    },
+    "common_side_effects": [
+      "Dry mouth (xerostomia)",
+      "Transient headache or mild lightheadedness",
+      "Gastrointestinal cramping, mild diarrhea, or transient abdominal discomfort",
+      "Hyperprolactinemia-related symptoms: breast enlargement (gynecomastia), breast tenderness, galactorrhea, or menstrual irregularities (due to anterior pituitary D2 blockade)",
+      "Mild anxiety, somnolence, or fatigue"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "Cardiac Arrhythmia and QTc Prolongation Hazard (FDA / EMA Alert): Domperidone blocks the cardiac HERG/K+ voltage-gated potassium channel (IKr), delaying ventricular repolarization and prolonging the QTc interval. This creates a recognized risk for malignant ventricular arrhythmias, Torsades de Pointes, and sudden cardiac death. The risk is significantly elevated in patients over 60 years of age, those taking daily doses exceeding 30 mg, or those on concurrent CYP3A4 inhibitors. Use the lowest effective dose for the shortest duration (typically not exceeding 7 days).",
+      "Timing Before Meals Rule: Must be administered 15 to 30 minutes before meals and, if needed, before retiring to bed. If taken with or after meals, gastric absorption is delayed and its prokinetic coordination with postprandial motility is impaired.",
+      "Preferred in Parkinson's Disease: Unlike metoclopramide, which crosses the blood-brain barrier and precipitates acute dystonic crises or worsens parkinsonian motor deficits, Domperidone's exclusion from the central nervous system makes it the international agent of choice for nausea in Parkinsonian patients.",
+      "PPI + Domperidone Fixed-Dose Combinations: Commonly co-formulated with enteric-coated proton pump inhibitors (e.g., Rabeprazole-DSR, Pantoprazole-DSR, Esomeprazole-DSR) where sustained-release (SR) domperidone restores lower esophageal sphincter tone and accelerates antral clearance while the PPI suppresses gastric acid production."
+    ]
+  },
+  {
+    "id": "cilostazol",
+    "name": "Cilostazol",
+    "generic_names": [
+      "Cilostazol 50mg/100mg",
+      "Pletal",
+      "Cilodoc",
+      "Pletoz",
+      "Stiloz",
+      "Cilotab"
+    ],
+    "category": [
+      "Cardiovascular",
+      "Blood & Anticoagulant",
+      "Central Analgesic"
+    ],
+    "sub_category": "Selective Phosphodiesterase-3 (PDE3) Inhibitor, Vasodilator & Antiplatelet Agent",
+    "company_name": "CZ1",
+    "amount": "195/- (10 Tabs - 100mg)",
+    "main_cause": "Intermittent Claudication in Peripheral Arterial Disease (PAD / Fontaine Stage II), Secondary Prevention of Non-Cardioembolic Ischemic Stroke, Microvascular Diabetic Leg Ischemia",
+    "why_this_disease_happens": "Peripheral arterial disease (PAD) is driven by progressive atherosclerotic stenosis and occlusion of large-to-medium peripheral arteries (e.g., superficial femoral and popliteal arteries). During physical exertion or walking, metabolic oxygen demand in calf and thigh musculature rises dramatically. Because fixed atherosclerotic plaques and impaired endothelial vasodilation prevent downstream compensatory arteriolar dilation, skeletal myocytes experience severe acute microvascular ischemia and oxygen debt. This triggers rapid accumulation of anaerobic metabolites (lactic acid, adenosine, bradykinin) that activate unmyelinated group IV nociceptive afferents, producing severe, cramping muscular pain that forces the patient to halt ambulation (intermittent claudication). Concurrently, dysfunctional endothelium and elevated shear stress activate circulating platelets, promoting in situ arterial microthrombosis and vascular smooth muscle intimal hyperplasia.",
+    "how_this_medicine_fights_it": "Provides a synergistic triple-action therapeutic mechanism by selectively targeting cyclic nucleotide degradation in vascular smooth muscle and platelets: Cilostazol acts as a potent, reversible, and selective inhibitor of phosphodiesterase isoenzyme 3 (PDE3, cyclic AMP-inhibited phosphodiesterase). By blocking the enzymatic hydrolysis of cyclic adenosine monophosphate (cAMP) into 5'-AMP, it markedly raises intracellular cAMP concentrations in target tissues: (1) Arterial Vasodilation: In vascular smooth muscle cells, elevated cAMP activates protein kinase A (PKA). PKA phosphorylates and deactivates myosin light-chain kinase (MLCK) while promoting sarcoplasmic calcium extrusion, producing direct vasodilation of peripheral arterial beds (particularly femoral and popliteal branches) to increase end-organ perfusion and skeletal muscle tissue oxygenation during ambulation. (2) Antiplatelet Action: In circulating platelets, high cAMP levels suppress primary aggregation triggers (ADP, collagen, thrombin, arachidonic acid) and block glycoprotein IIb/IIIa activation without lengthening bleeding times as excessively as irreversible cyclooxygenase or P2Y12 blockers. (3) Anti-Proliferative & Endothelial Remodeling: PKA activation inhibits platelet-derived growth factor (PDGF)-mediated vascular smooth muscle cell proliferation and neointimal hyperplasia while improving vascular endothelial nitric oxide synthase (eNOS) expression.",
+    "drug_class": "Quinolinone Derivative / Selective Phosphodiesterase-3 (PDE3) Inhibitor",
+    "main_action": "Selective PDE3 enzyme inhibition, elevating intracellular cyclic AMP (cAMP) to induce peripheral arterial vasodilation, inhibit platelet aggregation, and suppress vascular smooth muscle proliferation.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Symptomatic management of intermittent claudication secondary to chronic peripheral arterial disease (PAD) to increase maximal and pain-free walking distance",
+      "Secondary prevention of non-cardioembolic ischemic stroke and transient ischemic attack (TIA), particularly in East Asian populations and patients with intracranial arterial stenosis",
+      "Adjunctive prevention of target vessel restenosis following peripheral percutaneous transluminal angioplasty (PTA) or stent placement",
+      "Microvascular insufficiency and ischemic rest pain in advanced diabetic vasculopathy (under specialist supervision)",
+      "Raynaud's phenomenon refractory to calcium channel blockers"
+    ],
+    "how_patients_describe_symptoms": [
+      "Every time I walk more than 100 meters, my calves cramp up in severe, tightening pain that forces me to stop and rest for several minutes.",
+      "My feet and lower legs feel cold, pale, and ache deeply after climbing a single flight of stairs.",
+      "My vascular specialist gave me this tablet to increase the distance I can walk before my legs freeze in agonizing muscle cramps.",
+      "Since starting the medicine, I feel a mild throbbing headache and a pounding heart, but my leg endurance is slowly improving."
+    ],
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults with symptomatic peripheral arterial disease suffering from disabling intermittent claudication without tissue necrosis or rest pain (Fontaine Stage II)",
+        "Patients who have engaged in structured exercise therapy and risk factor modification (smoking cessation, statin therapy) but require pharmacological enhancement of walking distance",
+        "Patients with stable ischemic cerebrovascular disease requiring non-cardioembolic secondary stroke prophylaxis"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Patients with Congestive Heart Failure (CHF) of ANY severity (absolute FDA Black Box Warning: PDE3 inhibitors decrease survival in patients with heart failure classes II-IV due to ventricular arrhythmogenesis)",
+        "Patients with active severe bleeding disorders (e.g., active bleeding peptic ulcers, intracranial hemorrhage)",
+        "Patients with severe coronary artery disease, history of unstable angina, myocardial infarction within the past 6 months, or severe tachyarrhythmias",
+        "Patients with moderate-to-severe hepatic impairment or severe renal impairment (CrCl < 25 mL/min)",
+        "Patients with baseline prolonged QTc interval or taking multiple concurrent QTc-prolonging agents",
+        "Pregnant and breastfeeding women (contraindicated; embryotoxicity observed in animal models)"
+      ]
+    },
+    "common_side_effects": [
+      "Headache: pounding or throbbing headache (very common; occurs in up to 30% of patients due to cerebral vasodilation, typically softens after 2-3 weeks)",
+      "Palpitations, sinus tachycardia, or sensation of rapid heartbeat",
+      "Diarrhea or frequent loose bowel movements",
+      "Dizziness, lightheadedness, or postural hypotension",
+      "Peripheral edema (mild lower-extremity fluid retention)",
+      "Nausea, flatulence, or mild dyspepsia"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "Congestive Heart Failure Black Box Warning: Cilostazol and other PDE3 inhibitors (like milrinone and inamrinone) are strictly contraindicated in patients with heart failure of any degree. In patients with compromised ejection fractions, PDE3 inhibition increases intracellular myocardial calcium, provoking malignant ventricular ectopy and significantly reducing overall survival.",
+      "The Empty Stomach Administration Rule: Cilostazol must be taken on an empty stomach—specifically at least 30 minutes before breakfast and dinner or 2 hours after a meal. High-fat meals increase the peak plasma concentration (Cmax) of cilostazol by approximately 90% and AUC by 25%, drastically worsening headaches, reflex tachycardia, and palpitations.",
+      "Therapeutic Latency (4 to 12 Weeks): Clinical benefit does not appear immediately; meaningful improvements in pain-free and maximal walking distance generally require 2 to 4 weeks of consistent therapy, with full clinical efficacy peaking between 12 and 24 weeks.",
+      "CYP3A4 and CYP2C19 Interactions: Extensively metabolized by CYP3A4 and CYP2C19 enzymes into active metabolites (3,4-dehydro-cilostazol and 4'-trans-hydroxy-cilostazol). Concomitant use with strong CYP3A4 inhibitors (ketoconazole, erythromycin) or CYP2C19 inhibitors (omeprazole) requires an immediate 50% dose reduction to 50 mg twice daily.",
+      "Does Not Substitute for Core PAD Interventions: Cilostazol is a functional symptom-modifying agent for claudication; it does not replace the mandatory foundational triad of high-intensity statin therapy, antiplatelet therapy (aspirin or clopidogrel), and supervised exercise rehabilitation."
+    ]
+  },
+  {
+    "id": "pea-ump-folic-acid-cyanocobalamin",
+    "name": "Palmitoylethanolamide (PEA) + Uridine Monophosphate (UMP) + Folic Acid + Cyanocobalamin",
+    "generic_names": [
+      "Palmitoylethanolamide 300mg/400mg + Uridine Monophosphate 50mg/100mg + Folic Acid 1.5mg + Cyanocobalamin 1500mcg",
+      "Palmi Uridin Plus",
+      "Palmita Plus",
+      "Neuro-PEA UMP Complex",
+      "Axo-Regen Forte"
+    ],
+    "category": [
+      "Nerve & Neuropathy",
+      "Anti-Inflammatory",
+      "Vitamins & Minerals",
+      "Wound & Tissue Repair"
+    ],
+    "sub_category": "Multi-Target Neuro-Restorative & Neuro-Immuno-Modulatory Fixed-Dose Combination: ALIAmide Lipid, Pyrimidine Nucleotide & Neurotropic Vitamin Complex",
+    "company_name": "PUF1",
+    "amount": "385/- (10 Tabs)",
+    "main_cause": "Chronic Compressive & Entrapment Neuropathies (Lumbosacral Radiculopathy, Sciatica, Carpal Tunnel Syndrome), Diabetic Polyneuropathy Axonal Breakdown, Neuroinflammation-Driven Dysesthesias, Post-Surgical Nerve Axotomy / Trauma, Age-Associated Axonal Myelin Thinning",
+    "why_this_disease_happens": "Chronic nerve injury and neuropathic dysesthesias represent a self-sustaining tri-compartmental pathology involving immune, structural, and metabolic breakdowns: (1) Neurogenic Neuroinflammation: Following mechanical nerve root entrapment or metabolic ischemia, endoneurial mast cells and spinal microglia degranulate, releasing excessive TNF-alpha, nerve growth factor (NGF), and pro-inflammatory interleukins. This chronic local neuroinflammation lowers nociceptor thresholds and promotes central sensitization. (2) Structural Membrane Lipid & Myelin Depletion: To repair denuded myelin sheaths and injured axolemmas, Schwann cells require massive quantities of phosphatidylcholine and sphingomyelin. However, neurons and supporting glia cannot synthesize pyrimidine rings de novo fast enough; when endogenous uridine pools are depleted, the rate-limiting Kennedy CDP-choline pathway halts, causing remyelination failure and impaired nerve conduction velocity. (3) Coenzyme Starvation & Homocysteine Toxicity: A lack of bioactive cobalamin and folate cofactors shuts down methionine synthase, depleting S-adenosylmethionine (SAMe) needed for myelin basic protein methylation and allowing neurotoxic, vasotoxic homocysteine to accumulate in endoneurial microvessels.",
+    "how_this_medicine_fights_it": "Provides a comprehensive four-pillar neuro-reparative attack combining immediate neuro-immune stabilization, structural membrane lipid synthesis, and coenzymatic DNA/myelin remethylation: (1) Palmitoylethanolamide (PEA, 300-400 mg) operates via the Autacoid Local Inflammation Antagonism (ALIA) mechanism: it directly binds nuclear PPAR-alpha receptors to block NF-kB transcription, downregulating pro-inflammatory cytokines while quenching hyper-reactive endoneurial mast cells and spinal microglia. It also augments endogenous protective endocannabinoid tone through the 'entourage effect' without psychoactive CB1 binding. (2) Uridine Monophosphate (UMP, 50-100 mg) supplies the critical pyrimidine nucleotide precursor that is converted into Cytidine Triphosphate (CTP), directly fueling the rate-limiting Kennedy pathway to generate CDP-choline, phosphatidylcholine, and sphingomyelin. This enables Schwann cells to reconstruct the multilamellar myelin sheath, restore axonal membrane integrity, and re-establish action potential conduction. (3) Folic Acid (Vitamin B9) supplies one-carbon units via active tetrahydrofolate (THF) to facilitate rapid RNA/DNA repair in regenerating Schwann cells and works synergistically to break down toxic homocysteine. (4) Cyanocobalamin (Vitamin B12) acts as the essential cofactor for methionine synthase, driving the conversion of homocysteine to methionine to replenish SAMe pools for myelin sheath protein methylation and axonal sprouting. This quad-action synergy halts neurogenic burning pain, accelerates structural nerve healing, and improves functional conduction velocity without causing sedation.",
+    "drug_class": "Fixed-Dose Combination: Endogenous ALIAmide Fatty Acid + Pyrimidine Nucleotide Kennedy Substrate + Neurotropic Methyl-Donor Vitamin Complex",
+    "main_action": "Genomic PPAR-alpha mast cell/microglial anti-inflammatory stabilization, Kennedy-pathway-driven phospholipid myelin sheath reconstruction, and coenzymatic remethylation of myelin basic proteins with clearance of neurotoxic homocysteine.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Compressive radiculopathies including lumbosacral disc herniation, sciatica, and cervical spondylitic nerve root impingement",
+      "Entrapment neuropathies such as Carpal Tunnel Syndrome (CTS), cubital tunnel syndrome, and tarsal tunnel syndrome",
+      "Diabetic peripheral polyneuropathy characterized by tingling, numbness, nocturnal burning, and loss of protective sensation",
+      "Post-surgical nerve decompression rehabilitation (accelerates axonal regrowth following laminectomy or neurolysis)",
+      "Chemotherapy-induced peripheral neuropathy (CIPN) structural and functional recovery",
+      "Chronic neuroinflammatory pain syndromes and fibromyalgia with peripheral mast cell activation components"
+    ],
+    "how_patients_describe_symptoms": [
+      "A pinched nerve in my lower back sends burning electric shocks down my buttock and leg, and the side of my foot feels completely numb.",
+      "My hands wake me up every night with painful, tingling pins and needles like my fingers are asleep.",
+      "My feet feel numb like I am walking on thick velvet, but at the same time they sting and ache with a deep, bruised tenderness.",
+      "My doctor gave me this non-drowsy nerve-repairing formula to help my damaged nerve sheaths heal back together after my back surgery."
+    ],
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults aged 18 and older suffering from compressive or metabolic neuropathy requiring both structural nerve repair and neuro-inflammatory relief",
+        "Elderly patients who cannot tolerate the severe dizziness, drowsiness, ataxia, or fall hazards associated with central gabapentinoids (Pregabalin/Gabapentin) or tricyclic antidepressants",
+        "Patients already taking gabapentinoids who require an adjunctive, disease-modifying nerve regenerator to allow tapering down of prescription analgesic doses"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Patients with undiagnosed megaloblastic anemia prior to evaluating baseline serum Vitamin B12 levels (folic acid can mask the hematological signs of severe B12 deficiency while neurological damage progresses)",
+        "Patients with Leber's hereditary optic neuropathy (LHON) (cyanocobalamin can precipitate rapid, severe optic nerve atrophy; methylcobalamin/hydroxocobalamin is preferred if B12 is needed)",
+        "Patients with known active neoplasms or undergoing active cancer therapy (theoretical caution: exogenous pyrimidine nucleotide supplementation could support accelerated cellular replication in malignant cells)",
+        "Patients with known hypersensitivity to synthetic palmitoylethanolamide, uridine, or cobalamin formulations",
+        "Pregnant or breastfeeding mothers (safety and controlled clinical trials for the quad combination are limited; use only under specialist guidance)"
+      ]
+    },
+    "common_side_effects": [
+      "Exceptionally well-tolerated with an adverse effect profile similar to placebo",
+      "Mild gastrointestinal fullness, transient nausea, mild bloating, or soft stools (uncommon, usually at initiation)",
+      "Mild transient headache or feeling of head fullness",
+      "Mild daytime restlessness or difficulty falling asleep if consumed late in the evening (due to uridine dopamine-turnover activation)"
+    ],
+    "important_cautions": [
+      "Strict JSON & System Compatibility: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "Structural & Neuro-Immune Modulator vs. Immediate Anesthetic: This combination does not act as an immediate ion-channel blocker (like pregabalin or lidocaine). It functions as a biological restorative and mast cell stabilizer. Clinical improvements in nerve conduction, numbness, and burning dysesthesias develop progressively over 3 to 12 weeks of continuous daily administration.",
+      "Fat-Containing Meal Administration: Because Palmitoylethanolamide is a lipophilic lipid amide, this formulation must be taken with or immediately after a fat-containing meal (such as breakfast with milk or yogurt) to maximize intestinal micellar incorporation and oral bioavailability.",
+      "Zero Central Sedation or Dependency Risk: None of the four components bind to central opioid receptors or GABA-A/alpha2-delta channel complexes; it carries no addiction liability, does not cause cognitive slowing or morning hangovers, and requires no tapering protocol upon discontinuation.",
+      "Synergy with Symptomatic Analgesics: Can be safely co-prescribed with low-dose Pregabalin, Gabapentin, or Duloxetine. By quenching the neuro-inflammatory microenvironment and rebuilding damaged myelin, it often permits a 30-50% dose reduction of sedating neuro-analgesics."
+    ]
   }
 ]
