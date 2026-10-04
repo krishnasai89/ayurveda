@@ -1,4 +1,5 @@
 import Navbar from "@/components/navigation/Navbar";
+import ApothecarySection from "@/components/sections/ApothecarySection";
 import Hero from "@/components/sections/Hero";
 import TridoshaSection from "@/components/sections/TridoshaSection";
 
@@ -9,6 +10,7 @@ export default function Home() {
         <Navbar />
         <Hero />
         <TridoshaSection />
+        <ApothecarySection />
       </div>
     </main>
   );

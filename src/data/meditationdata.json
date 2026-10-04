@@ -1,0 +1,118 @@
+[
+  {
+    "id": "paracetamol",
+    "name": "Paracetamol",
+    "generic_names": ["Acetaminophen", "APAP"],
+    "category": ["Fever", "Painkiller"],
+    "sub_category": "Antipyretic & Non-Opioid Analgesic",
+    "company_name": "PM1",
+    "amount": "20/-",
+    "why_this_disease_happens": "Infections or tissue injuries stimulate white blood cells to release cytokines (pyrogens like IL-1, TNF-alpha). These pyrogens trigger the preoptic area of the hypothalamus to produce Prostaglandin E2 (PGE2), resetting the body's natural thermostat to a higher fever setpoint, causing chills, shivering, and systemic body aches.",
+    "how_this_medicine_fights_it": "Crosses the blood-brain barrier to inhibit central prostaglandin synthesis and modulate descending serotonergic pain pathways. This lowers hypothalamic PGE2 levels, resetting the thermostat back to 37°C (98.6°F) and inducing vasodilation and sweating to cool the body down.",
+    "main_cause": "Fever(Pyrexia,Febrile Response, Hyperpyrexia, Hyperthermia)",
+    "drug_class": "Non-opioid Analgesic and Antipyretic (para-aminophenol derivative)",
+    "main_action": "Central inhibition of prostaglandin synthesis within the central nervous system (likely via COX-3 or peroxidase inhibition) and activation of descending serotonergic inhibitory pathways; resets the hypothalamic thermoregulatory set-point to lower elevated body temperature.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Pyrexia (fever from viral or bacterial infections like cold, flu, dengue)",
+      "Tension headaches and mild migraine attacks",
+      "Post-immunization or vaccine-related fevers and aches",
+      "Dental pain (toothache, post-extraction discomfort)",
+      "Dysmenorrhea (mild menstrual cramps)",
+      "Osteoarthritis (first-line conservative management for mild-to-moderate joint ache)",
+      "Musculoskeletal pain (mild sprains, backaches, neck stiffness)",
+      "Post-operative pain (as part of multimodal analgesia)"
+    ],
+    "how_patients_describe_symptoms": [
+      "My forehead feels burning hot and my whole body is shivering.",
+      "I have a dull, throbbing band of pressure around my head and temples.",
+      "My body feels completely beaten up, sore, and achy from this fever.",
+      "My teeth and gums are throbbing after a filling or extraction.",
+      "My knees are stiff and aching after walking up the stairs.",
+      "I have a mild fever and tender arm after taking my injection."
+    ],
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults and adolescents requiring first-line fever or pain relief",
+        "Pediatric patients (using weight-appropriate syrup/drops)",
+        "Pregnant and breastfeeding individuals (widely considered the safest first-line antipyretic/analgesic under medical guidance)",
+        "Individuals with gastric ulcers, acid reflux, or bleeding tendencies who cannot tolerate NSAIDs like Ibuprofen or Aspirin"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Patients with severe hepatic impairment or acute liver disease (absolute caution)",
+        "Chronic heavy alcohol consumers (elevated risk of fatal hepatotoxicity due to glutathione depletion)",
+        "Severely malnourished or underweight individuals (low basal hepatic glutathione reserves)",
+        "Severe chronic renal failure (requires dosage interval lengthening)",
+        "Individuals with documented hypersensitivity to paracetamol"
+      ]
+    },
+    "common_side_effects": [
+      "Mild nausea or transient gastrointestinal upset",
+      "Dizziness or lightheadedness (rare)",
+      "Transient elevation of liver transaminases (ALT/AST)",
+      "Allergic skin reactions, itching, or rash (uncommon)"
+    ],
+    "important_cautions": [
+      "Maximum daily dose for healthy adults must strictly not exceed 4000 mg (4 grams) in 24 hours, often capped at 2000-3000 mg/day in elderly or liver-compromised patients.",
+      "High risk of accidental overdose: Paracetamol is frequently combined in over-the-counter cold, flu, and cough syrups—taking multiple branded remedies simultaneously can lead to acute liver failure.",
+      "Toxicity mechanism: Overdose saturates normal glucuronidation/sulfation pathways, causing an excess of the toxic intermediate metabolite NAPQI, which depletes hepatic glutathione and triggers massive liver necrosis.",
+      "Immediate antidote for acute overdose is intravenous or oral N-acetylcysteine (NAC), most effective within 8 to 10 hours of ingestion.",
+      "Unlike NSAIDs (ibuprofen, naproxen), Paracetamol has minimal anti-inflammatory action at standard clinical doses and will not reduce tissue swelling."
+    ]
+  },
+  {
+    "id": "paracetamol-thiocolchicoside",
+    "name": "Paracetamol + Thiocolchicoside",
+    "generic_names": [
+      "Acetaminophen with Thiocolchicoside",
+      "Analgesic & Muscle Relaxant Combination"
+    ],
+    "category": ["Painkiller", "Muscle Relaxant", "Fever"],
+    "sub_category": "Dual Analgesic & Muscle Relaxant",
+    "company_name": "Thionach-P 4/325",
+    "amount": "200/-",
+    "main_cause": "Painful Muscle Spasms with Inflammation, Acute Lumbago, Stiff Neck, Post-Traumatic Musculoskeletal Spasms",
+    "drug_class": "Fixed-Dose Combination: Non-Opioid Central Analgesic (Paracetamol) + Centrally Acting Muscle Relaxant (Thiocolchicoside)",
+    "main_action": "Provides dual-action somatic relief: Paracetamol centrally inhibits prostaglandin synthesis and activates descending serotonergic pain-inhibitory pathways to blunt acute pain perception, while Thiocolchicoside selectively modulates spinal GABA-A and glycinergic inhibitory pathways to stop motor neuron hyperactivity, breaking the vicious cycle of 'Pain -> Spasm -> More Pain'.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Acute lumbago (severe lower back spasms with locked mobility)",
+      "Cervical spondylosis with paraspinal muscle contracture and radiating neck stiffness (torticollis)",
+      "Acute sciatica associated with intense piriformis or paraspinal muscle spasm",
+      "Post-traumatic skeletal muscle strain, sprains, and sports injuries",
+      "Fibrositis, myofascial trigger point pain, and tension myositis",
+      "Post-surgical orthopaedic and spinal rehabilitation pain with involuntary contractures"
+    ],
+    "how_patients_describe_symptoms": [
+      "I bent down to lift something heavy and my lower back seized up with stabbing pain; I can barely stand or straighten my torso.",
+      "I woke up unable to turn my neck to the side, and there is a throbbing ache spreading down into my shoulder blade.",
+      "My back muscles feel like clenched, rock-hard ropes that throb every time I move.",
+      "I pulled a muscle at the gym; it's cramping uncontrollably and throbbing with pain."
+    ],
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults and adolescents aged 16 years and older experiencing painful skeletal muscle spasms and contractures",
+        "Patients needing simultaneous muscle relaxation and pain relief without the intense stomach irritation of strong NSAIDs",
+        "Short-term acute therapy patients (strictly capped at 7 days maximum duration)"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Pregnant women, women planning pregnancy, or women of childbearing potential not utilizing strict, reliable contraception (Black Box warning for Thiocolchicoside's aneugenic metabolite M2/SL59.0955)",
+        "Nursing/breastfeeding mothers (thiocolchicoside and paracetamol pass into breast milk)",
+        "Patients with epilepsy or a history of seizure disorders (Thiocolchicoside lowers the seizure threshold)",
+        "Patients with severe liver disease, acute hepatitis, or chronic alcoholism (high risk of paracetamol hepatotoxicity)",
+        "Children and adolescents under 16 years of age"
+      ]
+    },
+    "common_side_effects": [
+      "Drowsiness, lightheadedness, or slight daytime fatigue",
+      "Nausea, mild epigastric discomfort, and dyspepsia",
+      "Loose stools, mild diarrhea, or flatulence",
+      "Transient dizziness or vasovagal lightheadedness",
+      "Skin rash, erythema, or localized itching (uncommon)"
+    ],
+    "important_cautions": [
+      "Strict 7-Day Limit: Because of Thiocolchicoside's cellular aneugenicity risk (risk of chromosomal division abnormalities at higher doses), oral treatment must strictly be limited to an acute course of 7 consecutive days.",
+      "Do Not Duplicate Paracetamol: Patients must be warned NOT to take any concurrent over-the-counter cold, flu, cough syrups, or fever tablets containing paracetamol, as doing so can easily push total daily paracetamol above the 4000 mg hepatotoxicity threshold.",
+      "Seizure Risk: Use with extreme caution in patients with traumatic brain injury or a low threshold for convulsions; discontinue immediately if twitching or epileptic activity occurs.",
+      "Take with Food: While gentler on the gastric mucosa than Aceclofenac + Thiocolchicoside combinations, taking this tablet with water after food minimizes nausea and mild gastric discomfort."
+    ]
+  }
+]
