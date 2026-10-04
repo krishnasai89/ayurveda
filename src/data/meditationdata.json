@@ -3996,5 +3996,205 @@
       "Long-Term Clinical Latency: Reversal of hepatic steatosis in MASLD/NAFLD and stabilization of cerebral white matter lesions are structural, metabolic processes; meaningful ultrasound, fibroscan, and transaminase improvements require 6 to 12 months of consistent daily administration (typically 200 mg twice daily).",
       "Bleeding Parameter Surveillance with Concurrent Antiplatelets: While safer than high-dose tocopherol, tocotrienols mildly inhibit thromboxane A2. When combining with aspirin, clopidogrel, or cilostazol, monitor for easy bruising or prolonged epistaxis."
     ]
+  },
+  {
+    "id": "flunarizine-tablets-ip-10mg",
+    "name": "Flunarizine Tablets IP 10mg",
+    "generic_names": [
+      "Flunarizine Dihydrochloride 10mg",
+      "Sibelium",
+      "Flunarin",
+      "Nomigrain",
+      "Migarid",
+      "Flugon"
+    ],
+    "category": ["Central Analgesic", "Nerve & Neuropathy"],
+    "sub_category": "Selective Dual T-Type / L-Type Calcium Channel Blocker, Histaminergic & Dopaminergic Antagonist",
+    "company_name": "FLN1",
+    "amount": "68/- (10 Tabs - 10mg)",
+    "main_cause": "Prophylaxis of Classic & Common Migraine (with or without Aura), Vestibular Vertigo & Labyrinthine Dysfunction, Peripheral Vascular Insufficiency, Alternating Hemiplegia of Childhood",
+    "why_this_disease_happens": "Migraine aura and neurovascular cephalalgia are initiated by a wave of sustained, profound neuronal and glial depolarization known as Cortical Spreading Depression (CSD), which propagates slowly across the cerebral cortex. Excessive activation of presynaptic Cav2.1 (P/Q-type) and low-voltage-activated T-type/L-type voltage-gated calcium channels triggers massive intracellular calcium influx. This calcium overload provokes uncontrolled exocytosis of excitatory neurotransmitters—predominantly glutamate and Calcitonin Gene-Related Peptide (CGRP)—from primary trigeminovascular sensory afferents. In the cerebrovascular tree, this sequence causes biphasic microvascular instability: an initial cortical hypoperfusion/vasospasm followed by sustained neurogenic vasodilation, mast cell degranulation, sterile perivascular inflammation, and central sensitization of the trigeminal nucleus caudalis. Concurrently, in peripheral vestibular apparatus dysfunction, pathological calcium accumulation in hair cells and endolymphatic microvessels disrupts vestibulocochlear signal transduction, provoking debilitating rotational vertigo, postural instability, and vestibular nausea.",
+    "how_this_medicine_fights_it": "Acts through multi-mechanistic neuroprotection by selectively preventing cellular calcium overload without altering normal cardiovascular calcium fluxes: (1) Selective Intracellular Calcium Overload Blockade: Flunarizine is a highly lipophilic difluorinated piperazine derivative that crosses the blood-brain barrier. It binds and blocks low-voltage-activated T-type calcium channels and state-dependent L-type calcium channels on cerebral neurons and vascular smooth muscle cells. Crucially, it selectively prevents pathological cellular calcium overload during ischemic or depolarizing events without disturbing physiological, resting transmembrane calcium currents, directly suppressing cortical spreading depression (CSD). (2) Trigemino-Vascular Stabilization: By blocking excessive calcium entry into presynaptic nerve terminals, it inhibits the release of algogenic neuro-peptides (CGRP, Substance P) and glutamate, preventing neurogenic dural inflammation and blunting trigeminovascular nociceptive sensitization. (3) Vestibular Labyrinthine Suppression: In the inner ear, it preserves microcirculatory perfusion, prevents endolymphatic calcium cytotoxicity, and exerts mild central anti-dopaminergic and anti-H1 histaminergic properties to dampen vestibular nuclear hyper-reactivity, halting rotational vertigo. (4) Hemorheologic Enhancement: It stabilizes erythrocyte membranes against calcium-induced rigidification, maintaining red blood cell deformability and enhancing microvascular cerebral perfusion.",
+    "drug_class": "Fluorinated Piperazine Derivative / Selective Calcium Channel Blocker with Central Antihistaminic & Antidopaminergic Properties",
+    "main_action": "Selective inhibition of neuronal and vascular calcium overload via T-type and L-type channel blockade, suppression of cortical spreading depression, and stabilization of vestibular hair cell microcirculation.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Prophylactic maintenance therapy of frequent, disabling migraine attacks (reduces attack frequency, intensity, and duration)",
+      "Peripheral and central vestibular vertigo (vestibular neuronitis, labyrinthitis, benign paroxysmal positional vertigo adjunct)",
+      "Adjuvant treatment of tinnitus and vestibulocochlear disturbances of vascular origin",
+      "Alternating Hemiplegia of Childhood (AHC) (first-line orphan therapeutic agent to reduce paroxysmal hemiplegic episodes)",
+      "Adjunctive therapy in refractory partial epilepsies (suppresses burst firing via T-type calcium modulation)"
+    ],
+    "how_patients_describe_symptoms": [
+      "I get blinding, throbbing headaches several times a month with visual flashing lights, nausea, and extreme light sensitivity.",
+      "The room spins around me violently whenever I turn my head, leaving me off-balance, nauseous, and unsteady.",
+      "My neurologist gave me this preventive tablet to stop my severe migraine attacks from starting in the first place.",
+      "Since taking this at night, I feel drowsy in the morning and have noticed an increased appetite and mild weight gain."
+    ],
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults aged 18 to 65 years suffering from chronic or high-frequency episodic migraine (3 or more disabling attacks per month) requiring long-term prophylaxis",
+        "Patients with recurrent peripheral vestibular vertigo who have failed or cannot tolerate pure antihistaminic vestibuloplegics",
+        "Migraineurs who cannot tolerate beta-blockers (e.g., asthmatics) or topiramate (e.g., cognitive side effects or nephrolithiasis history)"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Patients with pre-existing Parkinson's disease or a personal/family history of extrapyramidal movement disorders (Flunarizine crosses the blood-brain barrier and exhibits dopamine D2-receptor antagonist properties, frequently precipitating or worsening parkinsonism, bradykinesia, and tardive dyskinesia)",
+        "Patients with a documented history of severe recurrent depressive illness or bipolar disorder (substantial risk of triggering severe clinical depression and suicidal ideation)",
+        "Elderly patients over 65 years of age (substantially elevated risk of drug-induced parkinsonism, daytime sedation, depression, and gait unsteadiness)",
+        "Patients with active acute liver failure (extensively cleared via hepatic cytochrome P450 pathways)",
+        "Pregnant or breastfeeding mothers (safety in pregnancy has not been established; lipophilic excretion into maternal milk)",
+        "Not indicated for the treatment of an acute migraine attack (strictly a prophylactic maintenance drug)"
+      ]
+    },
+    "common_side_effects": [
+      "Drowsiness, daytime somnolence, and sedation (very common; up to 20-30% of patients during early therapy)",
+      "Increased appetite and significant body weight gain (common; related to anti-H1 histaminergic appetite stimulation)",
+      "Depressive mood changes, emotional blunting, or apathy",
+      "Mild extrapyramidal symptoms: subtle resting hand tremors, facial hypomimia, or muscle stiffness (requires drug withdrawal)",
+      "Transient heartburn, epigastric discomfort, or nausea",
+      "Dry mouth (xerostomia) and asthenia / chronic lethargy"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "Bedtime Dosing Rule: Must be administered as a single dose strictly at night before retiring to bed to utilize its sedative properties and minimize daytime psychomotor slowing and somnolence.",
+      "Prophylactic Only - Ineffective in Acute Attacks: Flunarizine is purely a prophylactic medication and has zero therapeutic efficacy for aborting an active acute migraine headache in progress; abortive therapy (triptans, NSAIDs) must be prescribed separately.",
+      "Latency of Therapeutic Benefit (4 to 8 Weeks): Clinical reduction in migraine frequency is cumulative and requires 4 to 8 weeks of consistent daily therapy. If no significant reduction in migraine frequency is observed after 8 weeks of treatment, it should be regarded as a non-response and discontinued.",
+      "Drug Holidays & Six-Month Ceiling: To prevent the gradual accumulation of drug in adipose tissue and mitigate the emergence of extrapyramidal symptoms or refractory clinical depression, guidelines mandate a treatment pause: evaluate maintenance after 6 months; if attacks are controlled, interrupt therapy and re-evaluate only upon recurrence.",
+      "Depression and Parkinsonism Surveillance: Prescribers must perform regular neurological surveillance for early signs of drug-induced parkinsonism (cogwheel rigidity, tremor, masked facies) and mood changes. If depressive feelings or movement abnormalities emerge, the drug must be withdrawn immediately."
+    ]
+  },
+  {
+    "id": "sumatriptan-succinate",
+    "name": "Sumatriptan Succinate",
+    "generic_names": [
+      "Sumatriptan Succinate Tablets IP 25mg/50mg/100mg",
+      "Imitrex",
+      "Suminat",
+      "Migriptan",
+      "Headset",
+      "Treximet (Adjunct Component)"
+    ],
+    "category": ["Central Analgesic", "Nerve & Neuropathy"],
+    "sub_category": "First-Generation Selective 5-HT1B/1D Serotonin Receptor Agonist & Cranial Vasoconstrictor",
+    "company_name": "SM1",
+    "amount": "135/- (4 Tabs - 50mg)",
+    "main_cause": "Acute Migraine Cephalalgia with or without Aura, Acute Episodic Cluster Headache Attacks, Intractable Neurogenic Headache with Nausea & Photophobia",
+    "why_this_disease_happens": "An acute migraine attack is propelled by acute neurovascular dysregulation across the trigeminovascular system. Triggering events cause depolarization of primary trigeminal sensory neurons that innervate dural and meningeal blood vessels. Upon activation, presynaptic unmyelinated C-fibers and A-delta fibers release potent vasodilatory and pro-inflammatory neuropeptides, predominantly Calcitonin Gene-Related Peptide (CGRP), Substance P, and Neurokinin A. This neuropeptide exocytosis produces profound sterile neurogenic inflammation, characterized by extensive dural vasodilation, mast cell degranulation, microvascular plasma protein extravasation, and mechanical stretching of perivascular nerve endings. These nociceptive signals ascend through the trigeminal ganglion to the trigeminal nucleus caudalis in the brainstem, driving central sensitization, throbbing unilateral pain, nausea, and intense sensory hypersensitivity (photophobia, phonophobia, cutaneous allodynia).",
+    "how_this_medicine_fights_it": "Provides targeted abortive relief of acute migraine attacks by selectively agonizing 5-HT1 receptor subtypes across cranial vessels and central sensory terminals: (1) Cranial Vasoconstriction via Vascular 5-HT1B Receptors: Sumatriptan selectively binds to G-protein-coupled 5-HT1B receptors located on smooth muscle cells of meningeal, dural, and cerebral blood vessels. Receptor activation inhibits adenylyl cyclase, lowering cyclic AMP (cAMP) and triggering selective vasoconstriction of engorged, pulsing cranial arteries to extinguish the mechanical stretching of perivascular pain receptors without significantly constricting peripheral systemic vascular beds. (2) Neuropeptide Exocytosis Blockade via Presynaptic 5-HT1D Receptors: It binds presynaptic 5-HT1D autoreceptors located on primary trigeminal sensory nerve endings. This presynaptic agonism inhibits voltage-gated calcium channels, directly halting the exocytosis of inflammatory neuropeptides (especially CGRP and Substance P) to extinguish neurogenic dural inflammation. (3) Central Brainstem Transmission Suppression: In the trigeminal nucleus caudalis within the brainstem and upper cervical spine, it activates central 5-HT1D and 5-HT1F receptors, attenuating second-order neuronal firing and blocking ascending pain projection to the thalamus and sensory cortex. This triple action terminates throbbing headache, relieves nausea, and reverses photophobia during an active migraine episode.",
+    "drug_class": "Tryptamine Derivative / Selective Serotonin (5-HT1B/1D) Receptor Agonist (Triptan Class)",
+    "main_action": "Selective agonism of vascular 5-HT1B and neuronal presynaptic 5-HT1D receptors, inducing cranial vasoconstriction and blocking trigeminovascular CGRP/Substance P release to abort acute migraine pain.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Acute treatment of migraine attacks with or without aura in adults (first-line acute abortive therapy)",
+      "Acute treatment of cluster headache episodes (predominantly via subcutaneous auto-injector 6 mg or nasal spray 20 mg formulations)",
+      "Menstrual migraine acute attacks resistant to conventional NSAIDs",
+      "Fixed-dose combination therapy with Naproxen Sodium (e.g., Treximet) for superior sustained pain freedom and lower headache recurrence"
+    ],
+    "how_patients_describe_symptoms": [
+      "A blinding, throbbing pain is pounding on one side of my head, accompanied by nausea, and any glimpse of light or sound feels unbearable.",
+      "My migraine hit full force an hour ago and my usual painkillers did nothing; this tablet knocked out the severe throbbing within 45 minutes.",
+      "Shortly after taking the medicine, I felt a heavy, warm tightness in my chest and neck, but my head pain cleared up completely.",
+      "I have sharp, stabbing pain centered behind my eye that strikes in sudden agonizing clusters."
+    ],
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults aged 18 to 65 years with a confirmed clinical diagnosis of migraine who require acute abortive relief from moderate-to-severe attacks",
+        "Patients whose acute attacks fail to respond to standard simple analgesics or NSAIDs (paracetamol, ibuprofen, mefenamic acid)",
+        "Patients capable of taking medication early in the headache phase (at the first sign of pain) for optimal clinical efficacy"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Patients with established Ischemic Heart Disease (coronary artery disease, history of myocardial infarction, or documented silent myocardial ischemia) due to potential coronary vasospasm",
+        "Patients with coronary vasospasm (Prinzmetal's / variant angina), Wolff-Parkinson-White syndrome, or cardiac accessory conduction pathway disorders",
+        "Patients with uncontrolled or severe systemic hypertension (transient vasoconstriction can cause dangerous blood pressure spikes)",
+        "Patients with a documented history of stroke, transient ischemic attack (TIA), or hemiplegic/basilar migraine",
+        "Patients with severe peripheral vascular disease (PVD) or ischemic bowel disease",
+        "Patients with severe hepatic impairment (Child-Pugh Class C; extensively cleared by hepatic monoamine oxidase-A)",
+        "Patients concurrently taking Monoamine Oxidase-A (MAO-A) inhibitors or within 2 weeks of discontinuing them (major spike in sumatriptan bioavailability)",
+        "Patients who have taken another triptan (e.g., zolmitriptan, rizatriptan) or ergotamine-containing medication within the preceding 24 hours (additive vasospastic risk)"
+      ]
+    },
+    "common_side_effects": [
+      "'Triptan Sensations': transient chest tightness, throat tightness, heaviness, pressure, or tingling (experienced by up to 15% of patients; usually non-cardiac in origin)",
+      "Dizziness, lightheadedness, vertigo, or feeling of warm flushes/chills",
+      "Fatigue, drowsiness, sedation, or asthenia following headache resolution",
+      "Transient nausea, dry mouth, or vomiting",
+      "Paresthesias (numbness or burning tingling sensations on the scalp, neck, or extremities)"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "Acute Treatment Only - Not for Prophylaxis: Sumatriptan is indicated strictly for aborting an active acute migraine attack in progress; it has zero prophylactic benefit and must NEVER be taken as a daily preventive medication.",
+      "Take Early at Headache Onset: Most effective when administered at the earliest onset of the headache phase. It is relatively ineffective when taken during the visual aura phase prior to the onset of head pain.",
+      "Medication-Overuse Headache (MOH) Rebound Warning: Using sumatriptan on 10 or more days per month can induce chronic daily rebound headaches (medication-overuse headache). If attack frequency exceeds 3 to 4 days per month, initiate preventive therapy (such as flunarizine, propranolol, or topiramate).",
+      "24-Hour Maximum Dose Ceiling: For oral tablets, standard single dose is 50 mg to 100 mg. If the headache partially resolves and returns, a second dose may be taken at least 2 hours after the first. The total oral dose MUST NOT exceed 200 mg in any 24-hour window.",
+      "Serotonin Syndrome Surveillance: Co-administration with Selective Serotonin Reuptake Inhibitors (SSRIs like sertraline, escitalopram) or Serotonin-Norepinephrine Reuptake Inhibitors (SNRIs like duloxetine, venlafaxine) carries a potential risk of central Serotonin Syndrome; monitor for hyperreflexia, clonus, tremor, and autonomic instability."
+    ]
+  },
+  {
+    "id": "sumatriptan-naproxen-sodium",
+    "name": "Sumatriptan Succinate + Naproxen Sodium",
+    "generic_names": [
+      "Sumatriptan 85mg + Naproxen Sodium 500mg",
+      "Sumatriptan 50mg + Naproxen Sodium 500mg",
+      "Treximet",
+      "Suminat Plus",
+      "Headset Plus",
+      "Napra-D (Adjunct Comparator)"
+    ],
+    "category": [
+      "Central Analgesic",
+      "Nerve & Neuropathy",
+      "Painkiller",
+      "Anti-Inflammatory"
+    ],
+    "sub_category": "Fixed-Dose Dual-Mechanism Neurovascular 5-HT1B/1D Agonist & Cyclooxygenase (COX-1/COX-2) Inhibitor",
+    "company_name": "SN1",
+    "amount": "210/- (6 Tabs - 85mg/500mg)",
+    "main_cause": "Refractory Acute Migraine Attacks with or without Aura, Migraine Recurrence within 24 Hours, Menstrual-Related Migraine Flares, Severe Neurogenic Inflammation with Cutaneous Allodynia",
+    "why_this_disease_happens": "Acute migraine involves two concurrent pathological phases: a rapid neurovascular surge and sustained neurogenic inflammatory cascade. First, trigeminovascular unmyelinated C-fibers depolarize, releasing potent vasodilatory neuropeptides—predominantly Calcitonin Gene-Related Peptide (CGRP) and Substance P. This causes acute meningeal and cerebral arterial engorgement, mast cell degranulation, and mechanical stretching of perivascular pain endings, initiating the throbbing cephalalgia. Second, this sterile neurovascular irritation triggers localized inflammatory enzyme upregulation: cyclooxygenase-1 (COX-1) and cyclooxygenase-2 (COX-2) catalyze the cleavage of membrane arachidonic acid into pro-inflammatory prostaglandins (PGE2, PGI2). Prostaglandins sensitize peripheral meningeal nociceptors and ascend to second-order neurons in the trigeminal nucleus caudalis, establishing central sensitization and cutaneous allodynia. When triptan monotherapy is used alone, its relatively short elimination half-life (around 2 hours) allows post-receptor inflammatory prostaglandins to re-ignite trigeminovascular firing once triptan plasma levels drop, causing painful migraine recurrence in 30% to 40% of patients within 24 hours.",
+    "how_this_medicine_fights_it": "Delivers a synergistic dual-target attack combining rapid cranial vasoconstriction with prolonged suppression of neurogenic inflammatory cascade pathways: (1) Rapid Cranial Vasoconstriction & Neuropeptide Arrest (Sumatriptan): Sumatriptan selectively agonizes vascular 5-HT1B receptors on meningeal smooth muscle, lowering cyclic AMP (cAMP) to rapidly constrict engorged, throbbing dural arteries. Concurrently, it binds presynaptic 5-HT1D autoreceptors on trigeminal sensory nerve endings, blocking calcium influx to stop the exocytosis of CGRP and Substance P. (2) Sustained Cyclooxygenase Inhibition & Anti-Sensitization (Naproxen Sodium): Naproxen sodium provides non-selective, long-acting inhibition of COX-1 and COX-2 enzymes, suppressing downstream PGE2 and thromboxane synthesis. Because naproxen has a prolonged elimination half-life (12 to 17 hours), it prevents secondary neurogenic inflammation and blocks central sensitization long after sumatriptan has cleared. The rapid-dissolution sodium salt formulation of naproxen ensures synchronized peak plasma absorption alongside sumatriptan. Clinical trials demonstrate this dual mechanism delivers significantly higher 2-hour pain-free rates and superior 24-hour sustained headache relief compared to either agent administered alone.",
+    "drug_class": "Fixed-Dose Combination: Selective Serotonin (5-HT1B/1D) Receptor Agonist + Propionic Acid Derivative Non-Steroidal Anti-Inflammatory Drug (NSAID)",
+    "main_action": "Selective cranial 5-HT1B/1D receptor agonism to abort acute vasodilation and CGRP release, combined with long-acting COX-1/COX-2 inhibition to halt prostaglandin-mediated neurogenic inflammation and prevent 24-hour migraine recurrence.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Acute treatment of migraine attacks with or without aura in adults (especially patients with poor response to single-agent triptans or NSAIDs)",
+      "Migraine attacks characterized by high rates of early headache recurrence within 24 hours",
+      "Severe acute menstrual migraine attacks with heavy neuro-inflammatory components and dysmenorrheic cramps",
+      "Migraine presentations with early-onset cutaneous allodynia (scalp tenderness, painful hair brushing)"
+    ],
+    "how_patients_describe_symptoms": [
+      "My migraine attacks always bounce back 8 to 12 hours after taking regular pain pills, but this combination kept the headache away all day and night.",
+      "A blinding, throbbing pain grips one side of my temple and eye, accompanied by scalp tenderness, severe nausea, and sensitivity to light.",
+      "My usual triptan takes the edge off, but a dull, sore ache lingers; this combination clears the throbbing and the deep inflammatory soreness together.",
+      "My period brings severe hormonal migraines that strike alongside painful lower pelvic cramps."
+    ],
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults aged 18 to 65 years with established migraine who experience incomplete pain relief or frequent headache recurrence on single-agent therapies",
+        "Patients requiring rapid abortive action coupled with extended 24-hour sustained pain freedom",
+        "Migraineurs who have adequate cardiovascular and gastrointestinal tolerance for both triptans and NSAIDs"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Patients with established Ischemic Heart Disease (coronary artery disease, history of myocardial infarction, angina pectoris) or coronary vasospasm (Prinzmetal's angina)",
+        "Patients with a history of stroke, transient ischemic attack (TIA), peripheral vascular disease, or uncontrolled systemic hypertension",
+        "Patients with active peptic ulcer disease, recent gastrointestinal bleeding, or severe gastrointestinal ulceration history",
+        "Patients with severe renal impairment (CrCl < 30 mL/min) or advanced decompensated congestive heart failure",
+        "Patients with 'Aspirin Triad' (aspirin-exacerbated respiratory disease: asthma, nasal polyps, and bronchospasm provoked by NSAIDs)",
+        "Third-trimester pregnancy (absolute contraindication: NSAID component causes premature closure of fetal ductus arteriosus and oligohydramnios)",
+        "Patients concurrently taking Monoamine Oxidase-A (MAO-A) inhibitors or within 2 weeks of discontinuation",
+        "Patients who have taken another triptan or ergotamine-containing preparation within the preceding 24 hours"
+      ]
+    },
+    "common_side_effects": [
+      "'Triptan Sensations': transient chest tightness, throat tightness, neck heaviness, warmth, or tingling sensations",
+      "Gastrointestinal symptoms: nausea, dyspepsia, heartburn, epigastric discomfort, or dry mouth",
+      "Dizziness, somnolence, sedation, or post-migraine fatigue",
+      "Paresthesias (scalp, facial, or extremity tingling / numbness)",
+      "Mild fluid retention or mild blood pressure elevation"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "Acute Abortive Use Only: Indicated strictly for aborting an active acute migraine attack in progress; it must never be taken as a daily preventive medication.",
+      "Take with Food or Water: Because of the high-dose naproxen sodium component (500 mg), the tablet should be swallowed whole with a full glass of water, preferably with food or milk to minimize direct chemical gastric mucosal irritation.",
+      "Medication-Overuse Headache (MOH) Rebound Warning: Using combination abortive therapies on 10 or more days per month can cause chronic daily rebound headaches and refractory neurovascular sensitization. If headache frequency exceeds 3 to 4 days per month, initiate daily prophylactic therapy (such as flunarizine, propranolol, or topiramate).",
+      "Dosing Interval Ceiling: If the headache improves and subsequently recurs, a second tablet may be administered at least 2 hours after the initial dose. Do not exceed 2 tablets in any 24-hour period.",
+      "Cardiovascular & Cerebrovascular Dual Warning: Combines the vascular smooth muscle 5-HT1B contractile properties of sumatriptan with the systemic pro-thrombotic and fluid-retention risks of NSAIDs; screen patients for cardiovascular risk factors prior to therapy."
+    ]
   }
 ]
