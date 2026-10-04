@@ -1,5 +1,6 @@
 import Navbar from "@/components/navigation/Navbar";
 import Hero from "@/components/sections/Hero";
+import TridoshaSection from "@/components/sections/TridoshaSection";
 
 export default function Home() {
   return (
@@ -7,6 +8,7 @@ export default function Home() {
       <div className="relative z-10">
         <Navbar />
         <Hero />
+        <TridoshaSection />
       </div>
     </main>
   );
