@@ -1238,5 +1238,74 @@
       "Avoid Alcohol, Opioids, and Sedatives: Concomitant use with alcohol, opioids (e.g., tramadol), or benzodiazepines markedly compounds central nervous system and respiratory depression, significantly heightening the risk of fatal respiratory compromise.",
       "Cardiac Baseline in Elderly Patients: Because nortriptyline possesses class Ia antiarrhythmic membrane properties, baseline and periodic ECG surveillance is advised in patients over 50 years of age or with pre-existing cardiovascular disease."
     ]
+  },
+  {
+    "id": "hydroxychloroquine",
+    "name": "Hydroxychloroquine Sulfate",
+    "generic_names": [
+      "HCQ 200mg/400mg",
+      "Plaquenil",
+      "HCQS",
+      "Hydroquin",
+      "Zy-Q"
+    ],
+    "category": [
+      "Joint & Arthritis",
+      "Anti-Inflammatory",
+      "Infections & Parasites"
+    ],
+    "sub_category": "Conventional Synthetic Disease-Modifying Antirheumatic Drug (csDMARD) & 4-Aminoquinoline Antimalarial",
+    "company_name": "HCQ1",
+    "amount": "140/- (10 Tabs - 200mg)",
+    "main_cause": "Systemic Lupus Erythematosus (SLE), Rheumatoid Arthritis (RA), Juvenile Idiopathic Arthritis, Discoid Lupus, Antiphospholipid Syndrome (APS) Flares, Uncomplicated Malaria",
+    "why_this_disease_happens": "In systemic autoimmune disorders like SLE and rheumatoid arthritis, loss of self-tolerance permits autoreactive B and T lymphocytes to produce high-affinity autoantibodies against nuclear antigens (such as anti-dsDNA and rheumatoid factor). Self-antigens form circulating immune complexes that deposit in synovial tissue, skin microvasculature, and renal glomeruli. Plasmacytoid dendritic cells and macrophages internalize these complexes into endosomes, where endosomal Toll-like receptors (chiefly TLR-7 and TLR-9) recognize self-nucleic acids. This triggers an intracellular signaling cascade (via MyD88 and NF-kB) that produces massive amounts of pro-inflammatory cytokines, type-1 interferons (IFN-alpha), and tumor necrosis factor (TNF-alpha), driving synovial inflammation, cartilage destruction, and multisystem flares.",
+    "how_this_medicine_fights_it": "Functions as a weak, lipophilic base that diffuses across cell membranes and concentrates inside acidic intracellular organelles: Within endosomes and lysosomes, Hydroxychloroquine becomes protonated and trapped, raising the intra-endosomal/lysosomal pH. This pH neutralization exerts dual immunomodulatory actions: (1) It prevents the acidification required for endosomal Toll-like receptors (TLR-7 and TLR-9) to cleave and bind nucleic acids, shutting down downstream transcription factors (NF-kB) and suppressing interferon-alpha, IL-1, and TNF-alpha production. (2) It impairs lysosomal proteolysis and enzymatic loading of autoantigenic peptides onto Major Histocompatibility Complex (MHC) Class II molecules, blunting autoantigen presentation to helper CD4+ T-lymphocytes. Unlike biological DMARDs, it dampens autoimmune signaling without causing severe systemic immunosuppression, lowering lupus flares, preserving renal function, preventing vascular thrombosis, and reducing rheumatoid synovial proliferation.",
+    "drug_class": "4-Aminoquinoline Antimalarial Derivative / Conventional Synthetic Disease-Modifying Antirheumatic Drug (csDMARD)",
+    "main_action": "Inhibition of endosomal acidification and TLR-7/TLR-9 signaling, disruption of MHC Class II antigen presentation, and downregulation of pro-inflammatory cytokines and type-1 interferons.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Systemic Lupus Erythematosus (SLE) - foundational lifelong therapy to control disease activity, prevent organ damage, and reduce mortality",
+      "Rheumatoid arthritis (RA) - used as monotherapy in mild disease or as part of 'triple DMARD' therapy alongside Methotrexate and Sulfasalazine",
+      "Discoid lupus erythematosus (DLE) and subacute cutaneous lupus with refractory skin lesions",
+      "Juvenile idiopathic arthritis (JIA) with polyarticular course",
+      "Antiphospholipid syndrome (APS) adjunct for antithrombotic and vascular endothelial protection",
+      "Treatment and chemoprophylaxis of acute uncomplicated malaria caused by chloroquine-sensitive Plasmodium species"
+    ],
+    "how_patients_describe_symptoms": [
+      "My hands, wrists, and finger joints are stiff, swollen, and tender for hours every single morning.",
+      "I have systemic lupus with extreme fatigue, joint pain, and a red butterfly rash spreading across my cheeks and nose whenever I go out in the sun.",
+      "My lupus flares without warning, causing feverishness, mouth ulcers, hair thinning, and chest aches when I breathe deeply.",
+      "My doctor prescribed this long-term medication to protect my kidneys and joints from being damaged by my own immune system."
+    ],
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults and adolescents diagnosed with SLE, discoid lupus, or active rheumatoid arthritis",
+        "Pregnant women with SLE (crucial clinical exception: HCQ is continued throughout pregnancy and lactation because stopping it triggers severe maternal lupus flares, preeclampsia, and congenital heart block)",
+        "Patients requiring a mild, non-myelosuppressive DMARD with a favorable metabolic profile (improves lipid markers and improves insulin sensitivity)"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Patients with pre-existing maculopathy, retinal dystrophy, or visual field deficits involving the macula (irreversible retinal toxicity risk)",
+        "Patients with documented hypersensitivity to 4-aminoquinoline derivatives (hydroxychloroquine or chloroquine)",
+        "Patients with known Glucose-6-Phosphate Dehydrogenase (G6PD) deficiency (risk of acute drug-induced hemolytic anemia)",
+        "Patients with porphyria or psoriasis (may precipitate acute severe exacerbations)",
+        "Patients with baseline prolonged QTc interval, sick sinus syndrome, or severe cardiomyopathy (arrhythmogenic risk)",
+        "Patients with severe end-stage renal disease (GFR < 30 mL/min) without substantial dosage reduction"
+      ]
+    },
+    "common_side_effects": [
+      "Gastrointestinal upset: nausea, abdominal cramping, loose stools, or loss of appetite (often improves over time)",
+      "Mild headache or transient lightheadedness",
+      "Cutaneous hyperpigmentation: dark grayish-blue patches on shins, forearms, palate, or face (with long-term therapy)",
+      "Skin rash, pruritus, or mild hair thinning",
+      "Transient visual accommodation difficulties (blurring upon initial therapy)"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability.",
+      "Retinal Toxicity & Weight-Based Dosing Limit: Hydroxychloroquine deposits in the retinal pigment epithelium. To prevent irreversible retinal toxicity ('bull's-eye' retinopathy) and vision loss, the daily dose must not exceed 5.0 mg/kg of actual body weight (per American Academy of Ophthalmology guidelines). Baseline dilated retinal examination with optical coherence tomography (OCT) and automated visual fields (10-2) is required within the first year, followed by annual screenings after 5 years of therapy (or earlier if high-risk).",
+      "Take with Food or Milk: Always administer with meals or a glass of milk to minimize gastrointestinal discomfort and nausea.",
+      "Delayed Therapeutic Latency (2 to 6 Months): HCQ is a slow-acting DMARD that accumulates gradually in tissue reservoirs; noticeable clinical benefits in joint stiffness and lupus rash typically take 8 to 12 weeks, with peak therapeutic effect achieved at 6 months.",
+      "Cardiac Conduction & QTc Prolongation: Hydroxychloroquine can prolong the QTc interval. Avoid concurrent use with other QTc-prolonging agents (e.g., azithromycin, ciprofloxacin, amiodarone, tricyclic antidepressants) without ECG monitoring.",
+      "Safe in Pregnancy: Unlike many other antirheumatic agents (such as Methotrexate, Leflunomide, or Mycophenolate, which are teratogenic), HCQ is safe and recommended to maintain clinical remission throughout pregnancy in lupus patients.",
+      "Hypoglycemia in Diabetics: HCQ enhances peripheral glucose utilization and decreases insulin degradation; monitor blood glucose closely in diabetic patients receiving sulfonylureas or insulin to prevent sudden hypoglycemia."
+    ]
   }
 ]
