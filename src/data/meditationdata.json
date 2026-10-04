@@ -484,5 +484,68 @@
       "Dependence & Controlled Substance Cautions: Tramadol is an atypical opioid capable of inducing physical tolerance and psychological dependence with prolonged daily use. This combination is intended strictly for short-to-medium-term acute episodes (typically 3 to 7 days). It must not be discontinued abruptly after extended use; gradual dose tapering is required to prevent opioid withdrawal symptoms.",
       "Driving and Motor Tasks: Drowsiness and blunted reflexes are common; patients must refrain from driving, operating hazardous machinery, or consuming alcohol while taking this medicine."
     ]
+  },
+  {
+    "id": "coumarin-warfarin-class",
+    "name": "Coumarin & Warfarin (Vitamin K Antagonist Group)",
+    "generic_names": [
+      "Benzopyrones & 4-Hydroxycoumarin Derivatives",
+      "Coumarin (1,2-Benzopyrone) vs. Warfarin Sodium (VKA)"
+    ],
+    "category": [
+      "Blood Thinner & Anticoagulant",
+      "Circulation & Edema",
+      "Cardiovascular",
+      "Vascular Health"
+    ],
+    "sub_category": "Vascular Benzopyrones & Hepatic Vitamin K Antagonists",
+    "company_name": "CW1",
+    "amount": "65/- to 180/-",
+    "main_cause": "Systemic Thromboembolism (DVT/PE/AF/Valves) & High-Protein Interstitial Lymphedema",
+    "why_this_disease_happens": "Vascular disease manifests along two distinct pathways: (1) Intravascular Clotting: Endothelial damage, venous stasis, or chaotic atrial turbulence activates prothrombinase complexes, polymerizing fibrinogen into fibrin clots that occlude deep veins or embolize to the brain and lungs. (2) Microvascular Extravasation: Compromised lymph vessels or high capillary venous pressure allow high-molecular-weight plasma proteins (albumin) to flood interstitial spaces, trapping water, driving chronic inflammatory tissue induration, and causing elephantine limb lymphedema.",
+    "how_this_medicine_fights_it": "Acts through two distinct structural mechanisms: (1) Warfarin (4-hydroxycoumarin) blocks the recycling of oxidized vitamin K by inhibiting VKORC1 in hepatocytes, halting gamma-carboxylation of clotting factors II, VII, IX, and X, thereby preventing fibrin mesh stabilization and clot propagation. (2) Pure Coumarin (1,2-benzopyrone) does not alter the clotting cascade; instead, it stimulates interstitial macrophages to produce lysosomal proteases that fragment large, trapped extracellular proteins into tiny peptides, allowing them to drain through local microcapillaries and resolving persistent interstitial swelling.",
+    "drug_class": "Benzopyrone Vascular Decongestant & 4-Hydroxycoumarin Oral Anticoagulant Group",
+    "main_action": "VKORC1 enzyme inhibition with clotting factor depletion (Warfarin) and macrophage-mediated extracellular proteolysis with lymphatic drainage acceleration (Coumarin).",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Deep vein thrombosis (DVT) and pulmonary embolism (PE) prevention and therapy (Warfarin)",
+      "Stroke prophylaxis in atrial fibrillation and mechanical prosthetic heart valves (Warfarin)",
+      "Secondary chronic venous insufficiency (CVI) and stasis dermatitis (Coumarin)",
+      "Post-mastectomy and pelvic surgical high-protein lymphedema (Coumarin)",
+      "Post-thrombotic syndrome with residual swelling (integrated vascular therapy)"
+    ],
+    "how_patients_describe_symptoms": [
+      "My calf suddenly became red, swollen, tight, and hot, like a rock inside my muscle (DVT).",
+      "I have an irregular, fluttering heartbeat and need medication so a clot doesn't travel to my brain.",
+      "My arm or leg feels hard, thick, and swollen like a tree trunk after lymph node surgery (Lymphedema).",
+      "I have an artificial heart valve that clicks, and I must keep my blood thin so it doesn't jam."
+    ],
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Patients requiring targeted long-term systemic clot prevention (Warfarin)",
+        "Patients with mechanical heart valves where direct oral anticoagulants (DOACs) are contraindicated (Warfarin)",
+        "Patients requiring non-surgical decongestion for protein-rich lymphatic pooling (Coumarin)"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Pregnancy (Absolute Teratogen: Warfarin crosses the placenta, causing skeletal chondrodysplasia punctata and fatal fetal hemorrhage)",
+        "Patients with active major internal bleeding, intracranial hemorrhage, or malignant hypertension",
+        "Patients with severe pre-existing hepatic cirrhosis (Warfarin clearance becomes erratic; Coumarin risks idiosyncratic drug-induced liver injury)",
+        "Patients unable to undergo mandatory INR blood monitoring or maintain a stable dietary intake of vitamin K",
+        "Individuals taking NSAIDs (Ibuprofen, Naproxen, Piroxicam) concurrently due to compounded gastric hemorrhage risk"
+      ]
+    },
+    "common_side_effects": [
+      "Easy bruising (ecchymosis), recurrent nosebleeds (epistaxis), and bleeding gums (Warfarin)",
+      "Gastrointestinal nausea, epigastric discomfort, and loose stools (Coumarin)",
+      "Transient elevation of liver transaminases (ALT/AST)",
+      "Temporary hair thinning (alopecia)",
+      "Rare Warfarin-induced skin necrosis (due to initial transient Protein C depletion)"
+    ],
+    "important_cautions": [
+      "Distinct Clinical Entities: Coumarin (1,2-benzopyrone for lymphedema) must NOT be confused with 4-hydroxycoumarin anticoagulants (Warfarin). Coumarin does not reliably thin the blood, and Warfarin cannot be used casually for simple leg swelling.",
+      "INR Monitoring Rule (Warfarin): Therapy requires strict maintenance within a target INR window (typically 2.0–3.0 for DVT/AF; 2.5–3.5 for mechanical valves). Subtherapeutic levels cause clot recurrence; supratherapeutic levels (>4.5) cause fatal hemorrhage.",
+      "Dietary Vitamin K Interaction: Green vegetables (spinach, kale, broccoli) contain vitamin K1 that directly bypasses Warfarin's inhibition. Consistency in dietary intake is essential.",
+      "Hepatotoxicity Monitoring (Coumarin): Pure coumarin can form epoxide intermediates in poor CYP2A6 metabolizers; baseline and periodic liver function tests are necessary.",
+      "Reversal Protocol: Life-threatening Warfarin bleeding must be reversed rapidly with Intravenous Vitamin K1 (Phytonadione) alongside 4-Factor Prothrombin Complex Concentrate (4F-PCC) or Fresh Frozen Plasma (FFP)."
+    ]
   }
 ]
