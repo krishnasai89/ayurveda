@@ -292,5 +292,68 @@
       "Sedation & Driving Alert: Flupirtine's central potassium channel opening causes noticeable drowsiness and slows motor reflexes; avoid driving, operating power tools, or combining with alcohol/sedatives during therapy.",
       "Take with Full Glass of Water: Best taken after food to facilitate even absorption and minimize potential light nausea."
     ]
+  },
+  {
+    "id": "paracetamol-domperidone",
+    "name": "Paracetamol + Domperidone",
+    "generic_names": [
+      "Paracetamol 500mg + Domperidone 20mg",
+      "Analgesic & Prokinetic Anti-Emetic Combination"
+    ],
+    "category": [
+      "Painkiller",
+      "Fever",
+      "Acidity & Digestion",
+      "Anti-Emetic & Prokinetic",
+      "Headache & Migraine"
+    ],
+    "sub_category": "Non-Opioid Analgesic-Antipyretic & Peripheral D2-Receptor Antagonist",
+    "company_name": "Omnacortil",
+    "amount": "12/- or 26/- (10 Tabs)",
+    "main_cause": "Migraine-Associated Headaches with Nausea/Vomiting, Febrile Illness with Gastric Stasis, Tension Headaches with Motion/Digestive Sickness",
+    "why_this_disease_happens": "During migraine attacks or severe systemic viral fevers, sympathetic tone shifts dramatically, paralyzing normal digestive peristalsis—a clinical phenomenon known as 'gastric stasis' or gastroparesis. The stomach ceases to churn, the lower esophageal sphincter relaxes, and dopamine signaling surges in the brainstem's Chemoreceptor Trigger Zone (CTZ). This induces severe nausea, retching, and sour regurgitation. Crucially, because the stomach is static, any regular oral painkiller swallowed just sits unabsorbed in the stomach, failing to treat the throbbing cranial pain while gastric acid pools and worsens vomiting.",
+    "how_this_medicine_fights_it": "Solves the pharmacological bottleneck through a dual synergistic action: Domperidone blocks peripheral dopamine D2 receptors in the stomach wall and CTZ, overcoming gastric stasis, tightening the lower esophageal sphincter, and rapidly driving stomach contents forward into the duodenum while halting nausea. By opening this gastric exit pathway, it forces the co-administered Paracetamol straight into the small intestine where it is rapidly absorbed into systemic circulation. Paracetamol then crosses into the central nervous system to inhibit prostaglandin synthesis and activate descending serotonergic pain-dampening pathways, relieving throbbing headache and fever quickly before vomiting can expel the dose.",
+    "drug_class": "Fixed-Dose Combination: Para-Aminophenol Analgesic-Antipyretic + Peripheral Dopamine D2 Antagonist Prokinetic",
+    "main_action": "Upper gastrointestinal prokinetic acceleration and CTZ antiemesis coupled with central hypothalamic cyclooxygenase inhibition and antipyresis.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Acute migraine headaches accompanied by moderate-to-severe nausea or vomiting",
+      "Viral pyrexia (flu, dengue, gastroenteritis) presenting with fever, body aches, and emetic urges",
+      "Tension headaches exacerbated by dyspepsia, biliousness, or motion sickness",
+      "Dental and post-operative pain accompanied by post-anesthetic nausea",
+      "Dysmenorrhea associated with systemic nausea and gastric discomfort"
+    ],
+    "how_patients_describe_symptoms": [
+      "I have a pounding, one-sided headache and whenever it hits, I feel intensely sick to my stomach and throw up.",
+      "My fever and body ache are terrible, but every time I try to swallow a plain fever tablet, I vomit it straight back up.",
+      "My head is throbbing, food is stuck like a brick in my upper stomach, and I feel nauseous every time I open my eyes to light.",
+      "I have a fever and sick stomach where I can't keep any fluids down."
+    ],
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults and adolescents (aged 12 and older, weighing ≥35 kg) experiencing pain or fever complicated by nausea, vomiting, or delayed gastric emptying",
+        "Migraine sufferers who find standalone oral painkillers ineffective due to migraine-induced gastric stasis"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Patients with cardiac rhythm disorders, prolonged baseline QT interval (QTc > 450ms in men, > 470ms in women), or taking concurrent QT-prolonging agents (cardiac toxicity risk from Domperidone)",
+        "Patients with severe pre-existing hepatic impairment or active liver disease (risk of Paracetamol-induced hepatotoxicity and impaired Domperidone clearance)",
+        "Patients with mechanical gastrointestinal obstruction, active stomach perforation, or massive gastrointestinal bleeding",
+        "Patients with prolactinoma (prolactin-secreting pituitary tumor)",
+        "Concurrent administration with potent CYP3A4 inhibitors (Ketoconazole, Itraconazole, Clarithromycin, Erythromycin)",
+        "Severe chronic renal failure (requires dosage interval adjustment)"
+      ]
+    },
+    "common_side_effects": [
+      "Dry mouth (xerostomia)",
+      "Mild headache or transient lightheadedness",
+      "Abdominal cramping or loose stools (due to prokinetic peristalsis)",
+      "Transient drowsiness or daytime tiredness",
+      "Hyperprolactinemia (rare in short courses; potential breast tenderness or galactorrhea)"
+    ],
+    "important_cautions": [
+      "Cardiac QT Warning (Domperidone): Domperidone can block cardiac hERG potassium channels, which may lead to QT prolongation and ventricular arrhythmias at higher doses or in patients over 60 years. Use strictly at recommended therapeutic doses and avoid prolonged unmonitored use.",
+      "Hepatic Paracetamol Ceiling: Do NOT combine with any other paracetamol-containing syrups, cold/flu sachets, or headache powders. Total daily Paracetamol intake must strictly remain below 4000 mg (4g) to avoid lethal liver necrosis (NAPQI buildup).",
+      "Optimal Timing for Migraines: For acute migraine attacks, take the tablet at the earliest warning sign (prodrome or aura). Starting treatment early ensures the prokinetic mechanism empties the stomach before complete gastric paralysis sets in.",
+      "Short-Term Use Recommended: Primarily formulated for acute symptomatic episodes (1 to 3 days). If migraine or nausea symptoms persist beyond 48–72 hours, formal medical evaluation is required."
+    ]
   }
 ]
