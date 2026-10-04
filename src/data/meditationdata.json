@@ -355,5 +355,67 @@
       "Optimal Timing for Migraines: For acute migraine attacks, take the tablet at the earliest warning sign (prodrome or aura). Starting treatment early ensures the prokinetic mechanism empties the stomach before complete gastric paralysis sets in.",
       "Short-Term Use Recommended: Primarily formulated for acute symptomatic episodes (1 to 3 days). If migraine or nausea symptoms persist beyond 48–72 hours, formal medical evaluation is required."
     ]
+  },
+  {
+    "id": "naproxen-sodium-domperidone",
+    "name": "Naproxen Sodium + Domperidone",
+    "generic_names": [
+      "Naproxen Sodium 500mg/250mg + Domperidone 10mg",
+      "Anti-Migraine Dual Analgesic & Prokinetic Combination"
+    ],
+    "category": [
+      "Headache & Migraine",
+      "Painkiller",
+      "Anti-Inflammatory",
+      "Anti-Emetic & Prokinetic",
+      "Acidity & Digestion"
+    ],
+    "sub_category": "Neurovascular COX-Inhibitor & Peripheral Dopamine D2 Antagonist",
+    "company_name": "praxidom-500",
+    "amount": "160/- (10 Tabs)",
+    "main_cause": "Acute Migraine Attack with Severe Nausea/Vomiting, Throbbing Vascular Hemicrania, Migraine-Induced Gastroparesis",
+    "why_this_disease_happens": "During an acute migraine cascade, trigeminovascular activation triggers the release of vasoactive neuropeptides (like CGRP and substance P), inducing neurogenic inflammation and painful vasodilation of meningeal dural vessels. Concurrently, sympathetic nervous system dysfunction causes 'migraine-associated gastric stasis' (acute gastroparesis)—the stomach stops churning and the pyloric sphincter clamps shut. Dopamine surges stimulate the Chemoreceptor Trigger Zone (CTZ) in the brainstem, causing intense nausea and vomiting. Because the stomach is paralyzed, standard oral painkillers sit trapped in gastric acid without being absorbed, rendering them useless while the throbbing headache escalates.",
+    "how_this_medicine_fights_it": "Delivers a targeted two-pronged pharmacological solution: Domperidone (10 mg) selectively blocks peripheral dopamine D2 receptors in the gastric wall and the CTZ. It relieves acute nausea and reactivates gastric motility, opening the pyloric sphincter to drive stomach contents forward into the duodenum. This rapid prokinetic clearing propels the co-formulated Naproxen Sodium into the upper small intestine, where it is rapidly absorbed into systemic circulation. Naproxen then provides potent, long-acting non-selective inhibition of COX-1 and COX-2 enzymes, suppressing pro-inflammatory prostaglandin synthesis, resolving neurogenic dural inflammation, and stabilizing meningeal vascular tone for sustained relief lasting 12 to 17 hours.",
+    "drug_class": "Fixed-Dose Combination: Propionic Acid NSAID (Rapid-Absorbing Sodium Salt) + Peripheral D2 Dopamine Receptor Antagonist Prokinetic",
+    "main_action": "Peripheral and central cyclooxygenase (COX-1 & COX-2) blockade coupled with peripheral dopamine D2-receptor antagonism, gastric emptying acceleration, and CTZ antiemesis.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Acute migraine attacks with or without aura, especially when complicated by nausea, bilious retching, or vomiting",
+      "Menstrually related migraine (MRM) attacks driven by hormonal prostaglandin surges",
+      "Severe episodic tension-type headaches complicated by dyspepsia and light/sound sensitivity",
+      "Secondary cluster-type headaches or vascular cephalalgias refractory to standalone simple analgesics"
+    ],
+    "how_patients_describe_symptoms": [
+      "I have a violent, throbbing, one-sided headache that pulses behind my eyeball, and every pulse makes me want to throw up.",
+      "Whenever my migraine starts, my stomach completely freezes—I feel sick, light and sound hurt my eyes, and ordinary painkillers do nothing.",
+      "My period headache is so intense with nausea that I can't keep food or water down.",
+      "I see flashing zigzag lights or blind spots, followed by nausea and blinding head pain."
+    ],
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults and adolescents (aged 12 and older, weighing ≥35 kg) requiring rapid abortive therapy for moderate-to-severe migraine attacks accompanied by nausea or gastric stasis",
+        "Patients who experience failure or delayed onset with standard oral analgesics (paracetamol, ibuprofen) during migraine attacks"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Patients with baseline cardiac conduction abnormalities (prolonged QT interval, congenital long QT syndrome) or taking concurrent QTc-prolonging drugs (domperidone cardiac liability)",
+        "Active or recurrent peptic ulcer disease, gastrointestinal hemorrhage, or active gastritis (Naproxen COX-1 inhibition damages gastric mucosa)",
+        "Severe chronic renal failure (GFR < 30 mL/min) or acute kidney injury",
+        "Patients with Aspirin-Exacerbated Respiratory Disease (AERD) / asthma (risk of severe bronchospasm)",
+        "Third trimester of pregnancy (strictly contraindicated: causes premature closure of fetal ductus arteriosus and oligohydramnios) and breastfeeding mothers",
+        "Patients with mechanical intestinal obstruction, bowel perforation, or prolactinoma"
+      ]
+    },
+    "common_side_effects": [
+      "Dry mouth and transient dizziness",
+      "Mild epigastric discomfort, heartburn, or acid belching",
+      "Drowsiness, fatigue, or daytime somnolence",
+      "Abdominal cramping or loose stools (due to prokinetic peristalsis)",
+      "Transient tinnitus (ringing in ears)"
+    ],
+    "important_cautions": [
+      "Golden Window Rule: Must be taken at the earliest onset of migraine symptoms or during the aura phase. Once the stomach becomes completely paralyzed by full-blown migraine gastroparesis, oral absorption drops dramatically.",
+      "Cardiovascular & QT Warning: Domperidone carries a low but documented risk of cardiac ventricular arrhythmias / QT prolongation (especially in patients over 60 years or with electrolyte imbalances); keep to prescribed doses and avoid continuous unmonitored use.",
+      "Gastrointestinal Mucosal Caution: Even though Domperidone accelerates gastric emptying (reducing the time Naproxen stays in the stomach), Naproxen systemically reduces mucosal protective prostaglandins. Patients with recurrent ulcers should take it with a sip of water after light food and avoid combining with other NSAIDs.",
+      "Not for Daily Prophylaxis: This combination is strictly intended as an acute abortive attack therapy (taken PRN / as needed at the onset of a headache), NOT as a daily preventive regimen. Overuse (>10–15 days a month) can trigger Medication Overuse Headache (MOH / rebound headache)."
+    ]
   }
 ]
