@@ -1307,5 +1307,140 @@
       "Safe in Pregnancy: Unlike many other antirheumatic agents (such as Methotrexate, Leflunomide, or Mycophenolate, which are teratogenic), HCQ is safe and recommended to maintain clinical remission throughout pregnancy in lupus patients.",
       "Hypoglycemia in Diabetics: HCQ enhances peripheral glucose utilization and decreases insulin degradation; monitor blood glucose closely in diabetic patients receiving sulfonylureas or insulin to prevent sudden hypoglycemia."
     ]
+  },
+  {
+    "id": "prednisolone-dispersible",
+    "name": "Prednisolone Dispersible",
+    "generic_names": [
+      "Prednisolone Dispersible Tablets 5mg/10mg/20mg/40mg",
+      "Wysolone",
+      "Omnacortil",
+      "Predone",
+      "Kidpred"
+    ],
+    "category": [
+      "Steroid",
+      "Anti-Inflammatory",
+      "Respiratory",
+      "Joint & Arthritis"
+    ],
+    "sub_category": "Synthetic Intermediate-Acting Glucocorticoid (Rapid-Dissolution Dispersible Formulation)",
+    "company_name": "PS1",
+    "amount": "38/- (15 Tabs - 10mg)",
+    "main_cause": "Acute Asthma Exacerbations, Pediatric Croup (Laryngotracheobronchitis), Nephrotic Syndrome Relapses, Severe Allergic Angioedema, Systemic Autoimmune Flares (SLE, Rheumatoid Arthritis), Inflammatory Eye & Skin Disorders",
+    "why_this_disease_happens": "In severe inflammatory or autoimmune flares, environmental allergens, viral triggers, or autoantibodies trigger massive activation of antigen-presenting cells, mast cells, and T-helper lymphocytes. Intracellular signaling cascades phosphorylate the nuclear factor kappa B (NF-kB) and activator protein 1 (AP-1) transcription complexes, translocating them into the cell nucleus. These factors bind gene promoter regions to transcribe high levels of pro-inflammatory cytokines (IL-1, IL-2, IL-4, IL-5, IL-13, TNF-alpha), chemokines, and inducible inflammatory enzymes (COX-2, inducible nitric oxide synthase / iNOS). This leads to extensive microvascular endothelial leakage, mucosal edema, smooth muscle bronchospasm, dense tissue eosinophil/neutrophil infiltration, and destructive autoimmune tissue inflammation.",
+    "how_this_medicine_fights_it": "Exerts rapid and potent genomic and non-genomic anti-inflammatory and immunosuppressive actions via the glucocorticoid receptor: Being lipophilic, Prednisolone diffuses across target cell membranes and binds high-affinity cytoplasmic glucocorticoid receptors (GR-alpha). The activated drug-receptor complex dissociates from heat shock proteins and enters the nucleus to perform two primary regulatory functions: (1) Transrepression: It directly complexes with NF-kB and AP-1, preventing their transcriptional binding and shutting down the synthesis of pro-inflammatory interleukins, TNF-alpha, COX-2, and inducible nitric oxide synthase. (2) Transactivation: It upregulates anti-inflammatory genes, notably Lipocortin-1 (Annexin A1), which inhibits Phospholipase A2 (PLA2) to cut off the release of arachidonic acid and suppress downstream prostaglandins and leukotrienes. In addition, it stabilizes lysosomal membranes, inhibits capillary permeability, induces apoptosis in autoreactive lymphocytes and eosinophils, and upregulates pulmonary beta-2 adrenergic receptor density. The dispersible formulation disintegrates rapidly in a small volume of water, ensuring rapid systemic absorption and reliable weight-based dosing for pediatric, geriatric, or dysphagic patients.",
+    "drug_class": "Synthetic Glucocorticoid (Intermediate-Acting Corticosteroid / Delta-1 Derivative of Hydrocortisone)",
+    "main_action": "High-affinity glucocorticoid receptor activation, driving transrepression of NF-kB pro-inflammatory cytokine pathways and induction of Lipocortin-1 (Annexin A1) to halt arachidonic acid cascade signaling.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Acute severe asthma exacerbations and status asthmaticus (burst anti-inflammatory therapy)",
+      "Pediatric croup (laryngotracheobronchitis) and acute allergic airway obstruction",
+      "Nephrotic syndrome (initial remission induction and maintenance in minimal change disease)",
+      "Severe systemic hypersensitivity reactions, urticaria, drug eruptions, and contact dermatitis",
+      "Active flares of Rheumatoid Arthritis, Systemic Lupus Erythematosus (SLE), and Polymyalgia Rheumatica",
+      "Ulcerative colitis and Crohn's disease exacerbations",
+      "Immune Thrombocytopenia (ITP) and autoimmune hemolytic anemia"
+    ],
+    "how_patients_describe_symptoms": [
+      "My child is barking like a seal when coughing, gasping for breath, and cannot swallow solid tablets.",
+      "My asthma suddenly flared up with severe chest tightness and wheezing that my inhaler can no longer relieve.",
+      "My joints are red-hot, stiff, and locked up from an autoimmune flare, making it impossible to step out of bed.",
+      "My face and lips swelled up suddenly with a hot, red, stinging allergic hives reaction."
+    ],
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Pediatric and adult patients requiring rapid, high-potency systemic anti-inflammatory or immunosuppressive control",
+        "Patients with dysphagia (difficulty swallowing) or young children who cannot swallow intact solid tablets (dissolves cleanly in 5 to 10 mL of water)",
+        "Patients requiring short-course oral steroid burst therapy (3 to 5 days) for acute respiratory or allergic distress"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Patients with untreated systemic fungal, bacterial, or active tuberculosis infections (steroid immunosuppression can cause life-threatening dissemination)",
+        "Patients with active, untreated peptic ulcer disease (high risk of gastric ulceration and gastrointestinal bleeding)",
+        "Patients with uncontrolled systemic hypertension or severe congestive heart failure (risk of sodium and water retention)",
+        "Patients with uncontrolled Diabetes Mellitus (stimulates hepatic gluconeogenesis and causes severe acute hyperglycemia)",
+        "Individuals scheduled for live-attenuated viral vaccines (measles, mumps, rubella, BCG, yellow fever) during high-dose immunosuppressive courses",
+        "Patients with ocular herpes simplex (high risk of corneal perforation)",
+        "Patients with known hypersensitivity to prednisolone or formulation binders"
+      ]
+    },
+    "common_side_effects": [
+      "Transient epigastric irritation, dyspepsia, or increased appetite",
+      "Central nervous system excitation: insomnia, restlessness, irritability, or mood swings",
+      "Transient elevation in blood glucose levels (acute steroid-induced hyperglycemia)",
+      "Mild fluid retention, facial puffiness (early moon facies), or weight gain",
+      "Increased susceptibility to minor superficial infections (oral candidiasis/thrush)"
+    ],
+    "important_cautions": [
+      "Administration Method for Dispersible Tablets: Disperse the tablet completely in approximately 5 to 10 mL (one to two teaspoonfuls) of drinking water or boiled and cooled water before administration; consume the suspension immediately. It must never be swallowed whole or dry without liquid.",
+      "Take with Food or Breakfast: Administer in the morning directly with or immediately after food or milk to synchronize with endogenous circadian cortisol peaks and to reduce direct gastric mucosal irritation.",
+      "Hypothalamic-Pituitary-Adrenal (HPA) Axis Suppression Warning: Courses exceeding 14 to 21 days cause suppression of the endogenous pituitary-adrenal axis. Never discontinue prolonged courses abruptly; gradual dose tapering is required to prevent acute adrenal crisis (severe hypotension, vomiting, collapse, shock).",
+      "Infection Risk and Masking: Prednisolone suppresses the cardinal signs of infection (fever, erythema, localized tenderness); patients should be monitored closely for opportunistic bacterial, fungal, or reactivation tuberculosis infections.",
+      "Avoid Live Vaccines: Do not administer live-attenuated vaccines to patients taking high-dose immunosuppressive prednisolone (2 mg/kg/day or >20 mg/day for over two weeks) due to potential vaccine strain replication.",
+      "Potency Relationship: Possesses approximately 4 times the glucocorticoid anti-inflammatory potency of hydrocortisone, with approximately 0.8 times its mineralocorticoid (salt-retaining) activity."
+    ]
+  },
+  {
+    "id": "camylofin-mefenamic-acid",
+    "name": "Camylofin Dihydrochloride + Mefenamic Acid",
+    "generic_names": [
+      "Camylofin Dihydrochloride 50mg + Mefenamic Acid 250mg",
+      "Anafortan Plus",
+      "Spasmo-Proxyvon Plus",
+      "Camylofin Mefenamic Tablets"
+    ],
+    "category": ["Painkiller", "Gastrointestinal", "Women's Health"],
+    "sub_category": "Dual-Mechanism Visceral Antispasmodic & Cyclooxygenase/Prostaglandin Receptor Blocker Formulation",
+    "company_name": "CM-MF1",
+    "amount": "110/- (10 Tabs)",
+    "main_cause": "Spasmodic Primary Dysmenorrhea (Severe Menstrual Colic), Acute Intestinal Colic, Renal and Ureteric Calculus Spasm, Biliary Spasmodic Pain, Spastic Post-Operative Pelvic Pain",
+    "why_this_disease_happens": "Visceral colic and spasmodic pelvic pain represent a compound pathology involving simultaneous neuro-muscular hyper-reactivity and inflammatory mediator hyper-production: (1) Excessive Prostaglandin Surge: High levels of endometrial or mucosal arachidonic acid are oxidized by cyclooxygenase (COX-1/COX-2) enzymes into excessive prostaglandin F2-alpha (PGF2-alpha) and PGE2. PGF2-alpha stimulates myometrial and visceral smooth muscle FP receptors, driving continuous, uncoordinated tonic contractures that cause local microvascular compression, transient ischemia, and anoxia. (2) Autonomic & Intracellular Muscular Hyper-Excitation: Simultaneously, parasympathetic postganglionic cholinergic terminals release excessive acetylcholine (ACh), which binds muscarinic M3 receptors to trigger inositol trisphosphate (IP3)-dependent calcium influx. Intracellular phosphodiesterases degrade cyclic adenosine monophosphate (cAMP), preventing smooth muscle relaxation. The combined outcome is severe rhythmic muscular spasm, elevated visceral wall tension, microvascular ischemia, and sharp stimulation of splanchnic nociceptive pain fibers.",
+    "how_this_medicine_fights_it": "Provides a comprehensive triple-action attack targeting autonomic innervation, visceral smooth muscle tone, and biochemical prostaglandin signaling simultaneously: (1) Neurotropic Parasympathetic Blockade: Camylofin Dihydrochloride (50 mg) acts as a competitive antagonist at muscarinic acetylcholine receptors on visceral smooth muscle, blocking parasympathetic spastic motor transmission. (2) Musculotropic Phosphodiesterase Inhibition: Camylofin also directly inhibits phosphodiesterase (PDE) enzymes inside smooth muscle cells, elevating cyclic adenosine monophosphate (cAMP) levels. Elevated cAMP drives intracellular calcium sequestration into the sarcoplasmic reticulum, inducing direct, reliable smooth muscle relaxation regardless of autonomic innervation. (3) Prostaglandin Synthesis & Receptor Antagonism: Mefenamic Acid (250 mg) acts as an anthranilic acid derivative that competitively inhibits cyclooxygenase-1 (COX-1) and cyclooxygenase-2 (COX-2) to shut down de novo synthesis of PGF2-alpha and PGE2. Uniquely among NSAIDs, it also acts as a competitive antagonist directly at pre-formed prostaglandin receptors on smooth muscle. This combined mechanism eliminates uterine and intestinal ischemic contractions, relieves severe visceral colic, and halts inflammatory pain transmission.",
+    "drug_class": "Fixed-Dose Combination: Dual Neurotropic/Musculotropic Antispasmodic + Anthranilic Acid (Fenamate) Non-Steroidal Anti-Inflammatory Drug (NSAID)",
+    "main_action": "Dual muscarinic receptor blockade and smooth muscle phosphodiesterase (PDE) inhibition combined with cyclooxygenase (COX) enzyme suppression and direct peripheral prostaglandin receptor antagonism.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Severe spasmodic dysmenorrhea with incapacitating pelvic and lower back cramping",
+      "Acute intestinal colic and spastic enteropathy associated with gastroenteritis or functional bowel irritation",
+      "Ureteric and renal colic spasms caused by the transit of urinary calculi",
+      "Biliary colic spasms associated with cholelithiasis or biliary tract dyskinesia",
+      "Post-operative or post-instrumentation pelvic and visceral spastic discomfort"
+    ],
+    "how_patients_describe_symptoms": [
+      "My menstrual cramps are so violent they make me curl up into a ball with cold sweats, nausea, and sharp pelvic spasms.",
+      "I have sharp, twisting intestinal cramps that strike in waves, making my entire stomach feel clenched like a tight fist.",
+      "A kidney stone is causing unbearable, stabbing flank pain that shoots down into my groin with severe rhythmic spasms.",
+      "My lower abdomen feels swollen, aching, and tightly locked in painful muscular spasms that regular painkillers cannot calm."
+    ],
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults and adolescent females aged 14 years and older suffering from severe spasmodic dysmenorrhea or acute visceral colic requiring dual spasmolytic and anti-inflammatory relief",
+        "Patients whose visceral spasms failed to respond adequately to single-agent NSAIDs (such as plain mefenamic acid or ibuprofen) or single-mechanism antispasmodics"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Patients with narrow-angle glaucoma (camylofin anticholinergic pupillary dilation can trigger dangerous spikes in intraocular pressure)",
+        "Patients with mechanical gastrointestinal obstruction, paralytic ileus, or toxic megacolon (relaxing smooth muscle masks emergency bowel perforation)",
+        "Patients with urinary outflow obstruction or significant prostatic hypertrophy / benign prostatic hyperplasia (BPH) (risk of acute urinary retention)",
+        "Patients with active gastric or duodenal peptic ulceration, recent gastrointestinal bleeding, or severe inflammatory bowel disease (Crohn's disease / ulcerative colitis)",
+        "Patients with severe renal impairment (CrCl < 30 mL/min) or acute decompensated heart failure",
+        "Third-trimester pregnancy (absolute contraindication: NSAID component causes premature closure of fetal ductus arteriosus and oligohydramnios)",
+        "Patients with Aspirin-exacerbated respiratory disease (aspirin triad: asthma, nasal polyps, and bronchospasm provoked by NSAIDs)",
+        "Pediatric patients under 12 years of age"
+      ]
+    },
+    "common_side_effects": [
+      "Epigastric discomfort, nausea, heartburn, or dyspeptic bloating",
+      "Mild dry mouth (xerostomia) or mild thirst",
+      "Transient loose stools or diarrhea (associated with mefenamic acid fenamate activity)",
+      "Mild dizziness, lightheadedness, or transient accommodation blur",
+      "Mild drowsiness or feeling of fatigue",
+      "Transient flushing or mild palpitations in sensitive individuals"
+    ],
+    "important_cautions": [
+      "Strict JSON & System Compatibility: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure build and runtime stability in Next.js and Turbopack.",
+      "Take Directly with or After Meals: Must always be administered with a full glass of water immediately after food or milk to minimize direct chemical gastric mucosal irritation caused by mefenamic acid.",
+      "Short-Term Acute Use Only: Indicated strictly for short-course relief of acute episodes (typically 2 to 3 days during peak menstrual cramps or acute colic flares). Prolonged use must be avoided to prevent peptic ulceration, gastrointestinal hemorrhage, and NSAID-induced nephrotoxicity.",
+      "Discontinue if Severe Diarrhea Occurs: Mefenamic acid can cause fenamate-induced enteropathy and diarrhea; if persistent loose or watery stools occur, immediately stop therapy.",
+      "Glaucoma and Bladder Screening: Due to camylofin's muscarinic receptor antagonism, verify absence of untreated narrow-angle glaucoma and significant urinary outflow obstruction before prescribing.",
+      "Not for Undiagnosed Acute Abdomen: Never administer in suspected surgical emergencies (e.g., acute appendicitis, peritonitis, or mechanical strangulation), as relieving spasms and suppressing fever can mask life-threatening clinical signs."
+    ]
   }
 ]
