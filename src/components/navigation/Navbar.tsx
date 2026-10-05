@@ -8,6 +8,7 @@ const NAV_LINKS = [
   { name: "HOME", href: "/" },
   { name: "DOSHAS", href: "#doshas" },
   { name: "MEDICINE", href: "/meditation" },
+  { name: "INJECTIONS", href: "/injections" },
   { name: "APOTHECARY", href: "#apothecary" },
   { name: "TREATMENTS", href: "#treatments" },
   { name: "ABOUT", href: "#about" },

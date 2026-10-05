@@ -1,0 +1,185 @@
+[
+  {
+    "id": "ondansetron-injection",
+    "name": "Ondansetron Injection IP (2mg/mL)",
+    "generic_names": [
+      "Ondansetron Injection 4mg/2mL",
+      "Emeset",
+      "Zofran",
+      "Vomikind"
+    ],
+    "category": [
+      "Gastrointestinal",
+      "Emergency & Critical Care",
+      "Oncology Adjunct"
+    ],
+    "sub_category": "Competitive Serotonin 5-HT3 Receptor Antagonist (Parenteral Antiemetic)",
+    "company_name": "ON1",
+    "amount": "28/- (2 mL Ampoule)",
+    "routes_of_administration": [
+      "Slow Intravenous (IV)",
+      "Intramuscular (IM)",
+      "IV Infusion"
+    ],
+    "main_cause": "Chemotherapy-Induced Nausea & Vomiting (CINV), Radiation-Induced Emesis, Postoperative Nausea & Vomiting (PONV) Prevention and Treatment",
+    "why_this_disease_happens": "Cytotoxic chemotherapy, abdominal irradiation, and anesthetic agents cause extensive enterochromaffin mucosal cellular necrosis in the small bowel. These damaged cells release massive surges of serotonin (5-HT), which bind to 5-HT3 receptors on vagal primary afferent nerve fibers. This initiates uninhibited afferent impulses to the nucleus tractus solitarius (NTS) and area postrema / chemoreceptor trigger zone (CTZ) in the medulla, triggering severe emesis and retching.",
+    "how_this_medicine_fights_it": "Selectively and competitively antagonizes peripheral vagal terminal 5-HT3 receptors in the gut as well as central 5-HT3 receptors in the solitary tract nucleus and CTZ, blocking acute emetic signals before they reach the vomiting center.",
+    "drug_class": "Carbazole Derivative / Selective 5-HT3 Receptor Antagonist",
+    "main_action": "Competitive peripheral and central 5-HT3 receptor blockade, suppressing vagal-mediated emetic signaling.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Severe post-operative nausea and vomiting (PONV) rescue and prophylaxis",
+      "Highly emetogenic chemotherapy (HEC) and moderately emetogenic chemotherapy (MEC) cycles",
+      "Acute intractable gastroenteritis with persistent oral medication intolerance"
+    ],
+    "how_patients_describe_symptoms": [
+      "I cannot keep a sip of water or oral tablets down; I am dry-heaving violently after surgery.",
+      "My chemo session started this morning and the waves of nausea are relentless."
+    ],
+    "reconstitution_and_dilution": "Can be administered undiluted via slow IV push over 2 to 5 minutes, or diluted in 50 mL of 5% Dextrose or 0.9% Normal Saline for 15-minute piggyback infusions.",
+    "infusion_rate_and_timing": "Slow IV injection over a minimum of 2 to 5 minutes. Rapid bolus injection is strictly discouraged to avoid transient cardiac arrhythmias.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults and pediatric patients aged 6 months and older requiring parenteral antiemetic control when oral intake is compromised",
+        "Patients undergoing surgical procedures under general anesthesia"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Patients with congenital Long QT Syndrome or significant baseline QTc prolongation",
+        "Patients with severe hypokalemia or hypomagnesemia without prior electrolyte repletion",
+        "Patients receiving concurrent Apomorphine (contraindicated: severe profound hypotension and loss of consciousness)"
+      ]
+    },
+    "common_side_effects": [
+      "Transient headache (most common)",
+      "Flushing or warm sensation along the injected vein",
+      "Transient constipation or abdominal cramping",
+      "Mild transient transaminitis"
+    ],
+    "important_cautions": [
+      "Dose-Dependent QTc Prolongation: Maximum single IV dose must not exceed 16 mg in adults due to torsadogenic cardiac liabilities.",
+      "Inspect Ampoule: Inspect visually for particulate matter and discoloration before drawing into the syringe.",
+      "Do Not Autoclave: Store protected from light at room temperature below 30°C."
+    ]
+  },
+  {
+    "id": "tramadol-injection",
+    "name": "Tramadol Hydrochloride Injection (50mg/mL)",
+    "generic_names": [
+      "Tramadol 100mg/2mL",
+      "Supridol",
+      "Contramal",
+      "Tramazac"
+    ],
+    "category": ["Painkiller", "Emergency & Critical Care"],
+    "sub_category": "Dual-Action Centrally Acting Synthetic Opioid Analgesic & Monoamine Reuptake Inhibitor",
+    "company_name": "TR1",
+    "amount": "42/- (2 mL Ampoule)",
+    "routes_of_administration": ["Slow IV", "Deep IM", "Subcutaneous (SC)"],
+    "main_cause": "Moderate to Severe Acute Post-Operative Pain, Orthopedic Fracture Trauma, Acute Renal Colic, Post-Traumatic Visceral Pain",
+    "why_this_disease_happens": "Mechanical surgical trauma, bone fracture, or visceral capsular distension causes continuous firing of peripheral nociceptors (A-delta and C fibers). Excitatory signals release substance P and glutamate into the spinal dorsal horn, overwhelming descending inhibitory pathways and resulting in acute, disabling postoperative pain.",
+    "how_this_medicine_fights_it": "Operates through a dual analgesic pathway: parent drug and active M1 metabolite bind to mu-opioid receptors on ascending pain pathways, while the parent molecule inhibits neuronal reuptake of norepinephrine and serotonin (5-HT), augmenting descending spinal inhibitory pain controls.",
+    "drug_class": "Synthetic Cyclohexanol Derivative / Atypical Opioid Analgesic",
+    "main_action": "Weak mu-opioid receptor agonism coupled with central norepinephrine and serotonin (5-HT) reuptake inhibition.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Post-operative acute surgical pain management",
+      "Trauma and emergency room orthopedic analgesia",
+      "Renal colic spasms when NSAIDs are contraindicated due to acute renal risk"
+    ],
+    "how_patients_describe_symptoms": [
+      "My surgical incision is throbbing with unbearable, stabbing pain whenever I try to breathe or move.",
+      "A fracture in my arm is causing intense throbbing agony that simple paracetamol cannot calm."
+    ],
+    "reconstitution_and_dilution": "Administer slowly over 2 to 3 minutes or dilute in 100 mL Normal Saline / Dextrose for slow IV infusion over 20-30 minutes.",
+    "infusion_rate_and_timing": "Never inject rapidly. Rapid intravenous push triggers immediate nausea, diaphoresis, and severe orthostatic vomiting.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults and adolescents aged 12 years and older needing parenteral relief for moderate-to-severe acute pain"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Patients with uncontrolled epilepsy or seizure history (lowers the seizure threshold)",
+        "Patients taking MAO inhibitors or high-dose serotonergic agents (risk of Serotonin Syndrome)",
+        "Patients with severe acute respiratory depression or compromised airway reflexes"
+      ]
+    },
+    "common_side_effects": [
+      "Nausea and retching (very common upon injection)",
+      "Dizziness, somnolence, and sedation",
+      "Diaphoresis (heavy sweating)",
+      "Dry mouth and orthostatic hypotension"
+    ],
+    "important_cautions": [
+      "Slow Injection Mandate: Always inject over at least 2 to 3 minutes; fast bolus induces immediate emesis.",
+      "Seizure Risk: Even therapeutic doses can provoke seizures in patients with epilepsy or head injuries.",
+      "Respiratory Monitoring: Have Naloxone available in settings where repeated high doses are administered."
+    ]
+  },
+  {
+    "id": "doxycycline-for-injection-usp",
+    "name": "Doxycycline for Injection USP 100mg",
+    "generic_names": [
+      "Doxycycline Hyclate for Injection USP 100mg/Vial",
+      "Vibramycin IV",
+      "Doxicip IV",
+      "Microdox IV",
+      "Doxypal"
+    ],
+    "category": [
+      "Infections & Parasites",
+      "Respiratory",
+      "Emergency & Critical Care"
+    ],
+    "sub_category": "Broad-Spectrum Semisynthetic Tetracycline Class Bacterial 30S Ribosomal Inhibitor (Lyophilized Parenteral Formulation)",
+    "company_name": "DX1",
+    "amount": "260/- (1 Lyophilized Vial - 100mg)",
+    "routes_of_administration": ["Intravenous Infusion Only (IV Infusion)"],
+    "main_cause": "Severe Rickettsial Infections (Rocky Mountain Spotted Fever, Scrub Typhus), Inhalation Anthrax (Bacillus anthracis Post-Exposure Prophylaxis & Treatment), Severe Community-Acquired Atypical Pneumonia (Mycoplasma, Chlamydia pneumoniae, Legionella), Leptospirosis, Severe Pelvic Inflammatory Disease (PID), Hospitalized Malaria (Plasmodium falciparum adjunct)",
+    "why_this_disease_happens": "Severe systemic intracellular bacterial infections occur when obligate or facultative intracellular pathogens (e.g., Orientia tsutsugamushi, Rickettsia rickettsii, Legionella pneumophila, Chlamydia trachomatis) evade host humoral immunity, invade microvascular endothelial cells, alveolar pneumocytes, or reproductive tract mucosa. Pathogens establish intracellular replicative niches, driving severe microvascular endothelial necrosis, perivascular round cell infiltration, microthrombosis, and extensive capillary leakage. In conditions such as severe scrub typhus or Rocky Mountain spotted fever, this microvascular inflammation precipitates systemic vascular collapse, acute respiratory distress syndrome (ARDS), meningoencephalitis, and multi-organ failure. Standard hydrophilic beta-lactam antibiotics fail because they cannot cross eukaryotic host cell membranes in sufficient concentrations to reach intracellular organisms.",
+    "how_this_medicine_fights_it": "Exerts potent bacteriostatic activity via intracellular bacterial ribosomal arrest and host tissue anti-inflammatory matrix metalloproteinase inhibition: (1) 30S Ribosomal Protein Synthesis Arrest: Doxycycline is a lipophilic semisynthetic tetracycline that traverses the outer bacterial membrane via porin channels and is actively transported across the cytoplasmic membrane. It reversibly binds with high affinity to the 30S subunit of the bacterial ribosome, sterically blocking the accession of aminoacyl-tRNA to the ribosomal acceptor (A) site. This prevents elongation of peptide chains, halting bacterial protein synthesis, cellular division, and toxin elaboration. (2) Deep Intracellular Penetration: High lipid solubility enables rapid passage through human eukaryotic cellular membranes, accumulating inside phagocytes and endothelial cells to eradicate intracellular rickettsiae, chlamydiae, and atypical respiratory pathogens. (3) Anti-Inflammatory / Non-Antibiotic Action: Doxycycline inhibits host-derived matrix metalloproteinases (MMP-2, MMP-8, MMP-9) and suppresses pro-inflammatory cytokine expression (TNF-alpha, IL-1beta), blunting tissue-destructive capillary leakage and microvascular lung damage during systemic sepsis.",
+    "drug_class": "Semisynthetic Tetracycline Derivative / Reversible Bacterial 30S Ribosomal Subunit Antagonist",
+    "main_action": "High-affinity reversible binding to the bacterial 30S ribosomal subunit, blocking aminoacyl-tRNA binding to the ribosomal A-site and arresting bacterial protein synthesis.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Severe rickettsial infections: Scrub typhus, Rocky Mountain spotted fever (RMSF), murine typhus, Q fever (first-line treatment)",
+      "Inhalation, cutaneous, or gastrointestinal Anthrax (Bacillus anthracis) treatment and post-exposure prophylaxis",
+      "Severe community-acquired atypical pneumonia requiring hospitalization (Mycoplasma pneumoniae, Legionella, Chlamydia pneumoniae)",
+      "Severe Leptospirosis (Weil's disease) and acute brucellosis (in combination with streptomycin/gentamicin)",
+      "Severe acute Pelvic Inflammatory Disease (PID) in hospitalized female patients (combined with parenteral cephalosporins)",
+      "Adjunctive treatment of chloroquine-resistant Plasmodium falciparum malaria"
+    ],
+    "how_patients_describe_symptoms": [
+      "I have high spiking fevers with a black scab (eschar) on my skin, severe head throbbing, and body aches after a rural trek (scrub typhus).",
+      "I am hospitalized with severe atypical lung infection, breathing difficulty, and persistent dry hacking cough.",
+      "My fever is accompanied by bloodshot eyes, intense calf muscle soreness, and dark urine after floodwater exposure (leptospirosis).",
+      "The IV infusion line in my arm feels sore and tender along the vein if the drip runs too quickly."
+    ],
+    "reconstitution_and_dilution": "Reconstitute each 100 mg lyophilized vial with 10 mL of Sterile Water for Injection or 0.9% Sodium Chloride Injection. The resulting concentrate (10 mg/mL) must then be further diluted into 100 mL to 1000 mL of 0.9% Normal Saline Injection or 5% Dextrose Injection to achieve a final infusion concentration between 0.1 mg/mL and 1.0 mg/mL. Never administer the reconstituted concentrate undiluted.",
+    "infusion_rate_and_timing": "Administer strictly by slow IV infusion over a minimum duration of 1 to 4 hours. A standard 100 mg dose diluted in 100 mL must be infused over at least 1 hour (recommended rate: 100 mL/hr). Rapid IV injection, bolus administration, or direct IV push is strictly prohibited due to severe thrombophlebitis and risk of cardiac arrest.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Hospitalized adult and adolescent patients with severe, life-threatening rickettsial, atypical respiratory, or anthrax infections requiring parenteral therapy",
+        "Patients with severe infections who are vomiting, intubated, or cannot tolerate or absorb oral formulations",
+        "Pediatric patients of ANY AGE with life-threatening infections such as Rocky Mountain Spotted Fever, Scrub Typhus, or Anthrax (benefit outweighs tooth-staining risk according to CDC and AAP guidelines)"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Strict contraindication: Intramuscular (IM) or Subcutaneous (SC) administration (causes severe local tissue necrosis and sterile abscesses)",
+        "Strict contraindication: Direct IV push or rapid IV bolus (causes severe venous spasm, thrombophlebitis, and cardiovascular collapse)",
+        "Patients with documented severe hypersensitivity to any tetracycline class antibiotic",
+        "Routine, non-life-threatening use in children under 8 years of age or during the second and third trimesters of pregnancy (causes permanent yellow-gray-brown tooth discoloration and reversible suppression of long-bone fibular growth, unless treating life-threatening RMSF or Anthrax where no alternative exists)",
+        "Patients with severe acute hepatic necrosis (cleared primarily by hepatic non-renal mechanisms and bile)"
+      ]
+    },
+    "common_side_effects": [
+      "Infusion-site thrombophlebitis: erythema, localized burning pain, and venous hardening along the cannulated vein",
+      "Gastrointestinal: nausea, anorexia, or vomiting during or immediately after the infusion",
+      "Cutaneous photosensitivity / phototoxic skin erythema on sun-exposed areas",
+      "Jarisch-Herxheimer reaction: sudden fever spike, rigors, tachycardia, and transient hypotension within hours of initiating therapy for spirochetal or rickettsial infections",
+      "Reversible elevation of serum transaminases and alkaline phosphatase"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "Intravenous Infusion Only Mandate: Doxycycline for Injection USP is formulated strictly for intravenous infusion. It must never be injected by direct IV push, intramuscularly, or subcutaneously. Parenteral extravasation or IM injection causes severe local chemical pain, inflammatory tissue necrosis, and sloughing.",
+      "Minimum 1-Hour Infusion Time: Infusion of 100 mg must take at least 60 minutes. Rapid infusion triggers severe vascular burning, chemical phlebitis, and vein thrombosis.",
+      "Protect Infusion Bags from Light: Diluted solutions must be protected from direct sunlight during prolonged administration to prevent photodegradation of the tetracycline core.",
+      "No Adjustment Needed for Renal Failure: Unlike older tetracyclines, doxycycline is excreted primarily via non-renal biliary and intestinal pathways; it does not accumulate in patients with renal impairment, and dosage adjustments are not required in chronic kidney disease or hemodialysis.",
+      "CDC Pediatric Life-Threatening Exception: While tetracyclines are generally restricted in children under 8 due to enamel hypoplasia and bone binding, medical guidelines (CDC, AAP) state that Doxycycline is the first-line therapy of choice for ALL pediatric patients with suspected Rocky Mountain Spotted Fever or Scrub Typhus; delay in therapy significantly escalates pediatric mortality."
+    ]
+  }
+]

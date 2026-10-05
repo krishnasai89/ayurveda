@@ -4008,7 +4008,11 @@
       "Migarid",
       "Flugon"
     ],
-    "category": ["Central Analgesic", "Nerve & Neuropathy"],
+    "category": [
+      "Headache & Migraine",
+      "Nerve & Neuropathy",
+      "Vestibular & Neurological Disorders"
+    ],
     "sub_category": "Selective Dual T-Type / L-Type Calcium Channel Blocker, Histaminergic & Dopaminergic Antagonist",
     "company_name": "FLN1",
     "amount": "68/- (10 Tabs - 10mg)",
@@ -4054,7 +4058,6 @@
       "Dry mouth (xerostomia) and asthenia / chronic lethargy"
     ],
     "important_cautions": [
-      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
       "Bedtime Dosing Rule: Must be administered as a single dose strictly at night before retiring to bed to utilize its sedative properties and minimize daytime psychomotor slowing and somnolence.",
       "Prophylactic Only - Ineffective in Acute Attacks: Flunarizine is purely a prophylactic medication and has zero therapeutic efficacy for aborting an active acute migraine headache in progress; abortive therapy (triptans, NSAIDs) must be prescribed separately.",
       "Latency of Therapeutic Benefit (4 to 8 Weeks): Clinical reduction in migraine frequency is cumulative and requires 4 to 8 weeks of consistent daily therapy. If no significant reduction in migraine frequency is observed after 8 weeks of treatment, it should be regarded as a non-response and discontinued.",
@@ -4073,7 +4076,11 @@
       "Headset",
       "Treximet (Adjunct Component)"
     ],
-    "category": ["Central Analgesic", "Nerve & Neuropathy"],
+    "category": [
+      "Headache & Migraine",
+      "Nerve & Neuropathy",
+      "Central Analgesic"
+    ],
     "sub_category": "First-Generation Selective 5-HT1B/1D Serotonin Receptor Agonist & Cranial Vasoconstrictor",
     "company_name": "SM1",
     "amount": "135/- (4 Tabs - 50mg)",
@@ -4119,7 +4126,6 @@
       "Paresthesias (numbness or burning tingling sensations on the scalp, neck, or extremities)"
     ],
     "important_cautions": [
-      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
       "Acute Treatment Only - Not for Prophylaxis: Sumatriptan is indicated strictly for aborting an active acute migraine attack in progress; it has zero prophylactic benefit and must NEVER be taken as a daily preventive medication.",
       "Take Early at Headache Onset: Most effective when administered at the earliest onset of the headache phase. It is relatively ineffective when taken during the visual aura phase prior to the onset of head pain.",
       "Medication-Overuse Headache (MOH) Rebound Warning: Using sumatriptan on 10 or more days per month can induce chronic daily rebound headaches (medication-overuse headache). If attack frequency exceeds 3 to 4 days per month, initiate preventive therapy (such as flunarizine, propranolol, or topiramate).",
@@ -4139,10 +4145,10 @@
       "Napra-D (Adjunct Comparator)"
     ],
     "category": [
-      "Central Analgesic",
-      "Nerve & Neuropathy",
+      "Headache & Migraine",
       "Painkiller",
-      "Anti-Inflammatory"
+      "Anti-Inflammatory",
+      "Nerve & Neuropathy"
     ],
     "sub_category": "Fixed-Dose Dual-Mechanism Neurovascular 5-HT1B/1D Agonist & Cyclooxygenase (COX-1/COX-2) Inhibitor",
     "company_name": "SN1",
@@ -4189,7 +4195,6 @@
       "Mild fluid retention or mild blood pressure elevation"
     ],
     "important_cautions": [
-      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
       "Acute Abortive Use Only: Indicated strictly for aborting an active acute migraine attack in progress; it must never be taken as a daily preventive medication.",
       "Take with Food or Water: Because of the high-dose naproxen sodium component (500 mg), the tablet should be swallowed whole with a full glass of water, preferably with food or milk to minimize direct chemical gastric mucosal irritation.",
       "Medication-Overuse Headache (MOH) Rebound Warning: Using combination abortive therapies on 10 or more days per month can cause chronic daily rebound headaches and refractory neurovascular sensitization. If headache frequency exceeds 3 to 4 days per month, initiate daily prophylactic therapy (such as flunarizine, propranolol, or topiramate).",
