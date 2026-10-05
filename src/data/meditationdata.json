@@ -4201,5 +4201,147 @@
       "Dosing Interval Ceiling: If the headache improves and subsequently recurs, a second tablet may be administered at least 2 hours after the initial dose. Do not exceed 2 tablets in any 24-hour period.",
       "Cardiovascular & Cerebrovascular Dual Warning: Combines the vascular smooth muscle 5-HT1B contractile properties of sumatriptan with the systemic pro-thrombotic and fluid-retention risks of NSAIDs; screen patients for cardiovascular risk factors prior to therapy."
     ]
+  },
+  {
+    "id": "albendazole-ivermectin",
+    "name": "Albendazole + Ivermectin",
+    "generic_names": [
+      "Albendazole 400mg + Ivermectin 6mg",
+      "Albendazole 400mg + Ivermectin 12mg",
+      "Bandrone Plus",
+      "Bandocare Plus",
+      "Ivecop-AB",
+      "Zentel Plus (Adjunct Comparator)",
+      "Bendex Plus"
+    ],
+    "category": [
+      "Antiparasitic",
+      "Anthelmintic",
+      "Infectious Disease",
+      "Gastrointestinal & Tropical Medicine"
+    ],
+    "sub_category": "Fixed-Dose Dual-Mechanism Benzimidazole Microtubule Polymerization Inhibitor & Avermectin Glutamate-Gated Chloride Channel Opener",
+    "company_name": "Mankind / Leeford / Intas",
+    "amount": "28/- to 45/- (1 Chewable Tab / Strip - 400mg/6mg)",
+    "main_cause": "Mixed Gastrointestinal Helminthiasis, Refractory Intestinal Nematode Infestations, Cutaneous Larva Migrans, Soil-Transmitted Helminths (STHs) with Concurrent Ectoparasitic or Tissue Microfilarial Burdens",
+    "why_this_disease_happens": "Parasitic helminthic infections occur via the ingestion of embryonated ova (such as Ascaris lumbricoides, Trichuris trichiura, Enterobius vermicularis) from contaminated food, water, or soil, or through direct transdermal penetration of infective filariform larvae (such as hookworms: Ancylostoma duodenale, Necator americanus; or Strongyloides stercoralis). Once inside the human host, larvae migrate through pulmonary or vascular beds before maturing into sexually active adult worms within the intestinal lumen or regional lymphatic vessels. Adult nematodes anchor to the mucosal architecture, consuming host erythrocytes, tissue fluids, and intraluminal nutrients, leading to microcytic iron-deficiency anemia, protein-losing enteropathy, chronic gastrointestinal inflammation, and growth stunting. When adult females oviposit, microfilariae or juvenile larvae migrate through dermal, ocular, or subcutaneous tissues, provoking intense host eosinophilic and hypersensitivity responses. Monotherapy with single-agent benzimidazoles often exhibits suboptimal cure rates against whipworm (Trichuris trichiura) and fails against tissue microfilariae or autoinfective Strongyloides larvae; conversely, ivermectin alone lacks broad-spectrum ovicidal and adulticidal activity against lumen-dwelling cestodes and hookworms.",
+    "how_this_medicine_fights_it": "Delivers a complementary two-stage systemic and luminal antiparasitic blockade: (1) Parasitic Microtubule Disruption & Energy Depletion (Albendazole): Albendazole is metabolized to albendazole sulfoxide, selectively binding with high affinity to nematode free beta-tubulin. This halts tubulin polymerization into functional microtubules, disrupting cytoplasmic vesicular transport, mitotic spindle assembly, and glucose uptake via parasite intestinal absorptive cells. Deprived of glycogen reserves, the parasite suffers irreversible ATP depletion, leading to adult worm metabolic failure, ovicidal destruction, and eventual detachment. (2) Neuromuscular Hyperpolarization & Flaccid Paralysis (Ivermectin): Ivermectin binds selectively to invertebrate glutamate-gated chloride ion channels found across nematode nerve and muscle cells. This binding causes continuous influx of chloride ions across the cell membrane, hyperpolarizing the cellular resting potential and halting neuromuscular neurotransmission. The resulting flaccid paralysis immobilizes the parasite, preventing mucosal re-attachment and microfilarial migration, enabling natural peristalsis to expel paralyzed worms intact. Furthermore, ivermectin suppresses microfilariae release by adult female filarial worms and paralyzes ectoparasites. Combined administration produces synergistic broad-spectrum clearance of adult nematodes, tissue-migrating larvae, and juvenile microfilariae with significantly higher parasitological cure rates than either agent alone.",
+    "drug_class": "Fixed-Dose Combination: Synthetic Benzimidazole Carbamate Derivative + Macrocyclic Lactone (Avermectin Class) Anthelmintic",
+    "main_action": "Selective inhibition of parasite beta-tubulin polymerization to induce glycogen starvation and ovicidal arrest, paired with glutamate-gated chloride channel activation causing irreversible neuromuscular flaccid paralysis and rapid host expulsion.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Mixed soil-transmitted helminthic infections (Ascaris lumbricoides, Trichuris trichiura, Necator americanus, Ancylostoma duodenale)",
+      "Strongyloidiasis (intestinal and disseminated larvae caused by Strongyloides stercoralis)",
+      "Lymphatic filariasis mass drug administration (MDA) prophylaxis and microfilaria clearance (Wuchereria bancrofti, Brugia malayi)",
+      "Cutaneous larva migrans (creeping eruption caused by animal hookworm larvae)",
+      "Enterobiasis (pinworm/threadworm infestations with persistent nocturnal perianal pruritus)",
+      "Adjunctive treatment for scabies or pediculosis capitis accompanied by intestinal roundworms"
+    ],
+    "how_patients_describe_symptoms": [
+      "I have constant perianal itching at night along with restless sleep and grinding teeth, and my stool routine showed roundworm eggs.",
+      "A dull, gnawing abdominal pain keeps returning with chronic bloating, unintended weight loss, and severe fatigue despite eating well.",
+      "I noticed a creeping, intensely itchy, winding red rash under the skin of my foot after walking barefoot on damp sand.",
+      "My blood work revealed unexplained, persistent high eosinophil counts alongside long-standing digestive discomfort and intermittent loose stools."
+    ],
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults and pediatric patients aged 2 years and older weighing at least 15 kg with confirmed or highly suspected parasitic helminth infections",
+        "Patients residing in or traveling from endemic regions with high rates of mixed soil-transmitted helminths and microfilariae",
+        "Patients requiring synchronized, single-dose deworming targeting both intestinal adult worms and migrating microfilariae"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Known hypersensitivity to albendazole, other benzimidazoles (mebendazole), or ivermectin",
+        "Pregnancy (contraindicated, especially during the first trimester; both components show potential teratogenic and embryotoxic risks in preclinical models)",
+        "Lactating women nursing infants under 15 kg body weight or neonates",
+        "Children weighing less than 15 kg or under 2 years of age (safety and pharmacokinetic profiles not fully established)",
+        "Co-infection with severe Loa loa (African eye worm) with high microfilarial loads (risk of fatal encephalopathy caused by massive rapid microfilarial death)",
+        "Patients with severe hepatic dysfunction or active cirrhosis (both agents undergo extensive hepatic metabolism and clearance)",
+        "Patients with pre-existing disorders affecting blood-brain barrier integrity (e.g., advanced meningitis or sleeping sickness, where ivermectin may cross into the CNS and provoke GABAergic toxicity)"
+      ]
+    },
+    "common_side_effects": [
+      "Gastrointestinal upset: transient nausea, vomiting, abdominal cramping, loose stools, or flatulence",
+      "Neurological symptoms: mild dizziness, headache, vertigo, or drowsiness",
+      "Mazzotti-type inflammatory reaction (fever, pruritus, cutaneous rash, tender lymphadenopathy provoked by the death of microfilariae)",
+      "Transient, reversible elevation of serum liver transaminases (ALT/AST)",
+      "Mild perianal pruritus or sensation of passing worm debris in stool"
+    ],
+    "important_cautions": [
+      "High-Fat Meal for Systemic Target vs. Empty Stomach for Intestinal Target: To treat luminal intestinal worms (Ascaris, Enterobius, Trichuris), taking the tablet on an empty stomach minimizes systemic absorption and concentrates albendazole in the gut lumen. When treating deep tissue parasites (Strongyloides larvae, neurocysticercosis, tissue microfilariae), administer with a fatty meal or milk to increase systemic bioavailability of albendazole sulfoxide up to five-fold.",
+      "Loa Loa Encephalopathy Screening: In individuals with exposure history to West or Central Africa, evaluate for Loa loa microfilaremia before initiating treatment; massive rapid killing of high-density Loa loa microfilariae by ivermectin can trigger life-threatening encephalopathy, coma, and retinal hemorrhage.",
+      "Thorough Chewing Required: The tablet is commonly formulated as a chewable tablet and must be thoroughly crushed or chewed before swallowing with water to achieve proper particle dispersion and therapeutic efficacy.",
+      "Repeat Dosing for Pinworm Life Cycles: For Enterobius vermicularis (pinworm) infestations, while the drug is ovicidal, autoinfection from previously laid perianal eggs can occur; a repeat single dose is recommended 2 to 3 weeks later to eradicate newly hatched juveniles.",
+      "Neurocysticercosis Warning: When treating patients with suspected concurrent neurocysticercosis, killing dormant cerebral cysts can trigger severe inflammatory edema, seizures, and elevated intracranial pressure; pre-treatment with systemic corticosteroids and anticonvulsants is mandatory in such settings."
+    ]
+  },
+  {
+    "id": "doxycycline-lactic-acid-bacillus",
+    "name": "Doxycycline + Lactic Acid Bacillus",
+    "generic_names": [
+      "Doxycycline 100mg + Lactic Acid Bacillus 5 Billion Spores",
+      "Doxycycline 100mg + Lactobacillus (Sporogenes)",
+      "Doxy-1 L-DR",
+      "Doxt-SL",
+      "Microdox-LBX",
+      "Doxybond-LB",
+      "Adoxa-LB (Adjunct Comparator)"
+    ],
+    "category": [
+      "Antibacterial",
+      "Antibiotic",
+      "Probiotic",
+      "Dermatology & Infectious Disease"
+    ],
+    "sub_category": "Fixed-Dose Dual-Action Broad-Spectrum Second-Generation Tetracycline 30S Ribosomal Inhibitor & Spore-Forming Gut Microbiota Restorative Probiotic",
+    "company_name": "Dr. Reddy's / Micro Labs / Ranbaxy",
+    "amount": "115/- to 195/- (10 Capsules/Strip - 100mg/5 Billion Spores)",
+    "main_cause": "Moderate-to-Severe Inflammatory Acne Vulgaris, Pelvic Inflammatory Disease (PID), Chlamydial Urogenital Infections, Respiratory Tract Infections, Tick-Borne Rickettsioses, and Prevention of Antibiotic-Associated Dysbiosis or Diarrhea",
+    "why_this_disease_happens": "Bacterial infections occur when pathogenic microorganisms breach epithelial and mucosal barriers, multiply within tissue compartments, and trigger host inflammatory cascades. In conditions like acne vulgaris, hyperkeratinization traps sebum within the pilosebaceous unit, creating an anaerobic niche where *Cutibacterium acnes* thrives, producing lipases and chemotactic factors that drive leukocyte infiltration and painful inflammatory papules. In respiratory and urogenital infections (*Chlamydia trachomatis*, *Mycoplasma pneumoniae*, atypical bacteria, rickettsiae), pathogens invade intracellular or epithelial microenvironments, provoking mucosal damage, purulent discharge, and systemic fever. While broad-spectrum antibiotics eliminate these target pathogens, they simultaneously decimate the native anaerobic commensal flora (such as *Bifidobacterium* and *Lactobacillus* species) residing in the intestinal lumen. This collateral disruption—termed antibiotic-induced dysbiosis—impairs short-chain fatty acid (SCFA) synthesis, alters intestinal osmotic equilibrium, weakens mucosal colonization resistance, and allows opportunistic pathogens like *Clostridioides difficile* or pathogenic *Candida* to overgrow, causing severe cramping, bloating, and antibiotic-associated diarrhea (AAD).",
+    "how_this_medicine_fights_it": "Delivers an integrated therapeutic regimen combining broad-spectrum antimicrobial eradication with synchronized, resistant gut microbiome replenishment: (1) Reversible 30S Ribosomal Protein Synthesis Arrest (Doxycycline): Doxycycline is a lipophilic second-generation tetracycline that passively diffuses through outer bacterial membranes and undergoes active transport across the inner cytoplasmic membrane. Inside the pathogen, it reversibly binds to the 30S ribosomal subunit, sterically blocking the access of aminoacyl-tRNA to the ribosomal acceptor (A) site. This halts codon-anticodon pairing and immediately arrests bacterial peptide chain elongation. Beyond bacteriostatic action, doxycycline exerts potent matrix metalloproteinase (MMP) inhibition and neutrophil chemotaxis suppression, attenuating tissue-destructive inflammation in acne, rosacea, and periodontal structures. (2) Endospore-Forming Microbiota Preservation (Lactic Acid Bacillus / *Bacillus coagulans*): Standard probiotics are rapidly killed by co-administered antibiotics, but *Lactic Acid Bacillus* (*Bacillus coagulans*) is delivered as dormant, acid-resistant micro-encapsulated endospores. These spores survive gastric hydrochloric acid and pancreatic bile salts to germinate in the alkaline milieu of the small intestine. Once active, they produce L-(+) lactic acid, bacteriocins, and short-chain fatty acids, lowering intraluminal pH and creating an inhospitable environment for enteric pathogens while restoring commensal barrier integrity and suppressing antibiotic-associated diarrhea.",
+    "drug_class": "Fixed-Dose Combination: Synthetic Tetracycline-Class Antibiotic (Protein Synthesis Inhibitor) + Spore-Forming Probiotic (Gut Flora Modifier)",
+    "main_action": "Bacteriostatic inhibition of bacterial protein synthesis via selective 30S ribosomal subunit blockade, supplemented by live endospore-mediated restoration of gut microflora to prevent antibiotic-associated gastrointestinal toxicity and dysbiosis.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Moderate to severe papulopustular and nodulocystic inflammatory acne vulgaris and acne rosacea",
+      "Urogenital and sexually transmitted infections caused by *Chlamydia trachomatis* (non-gonococcal urethritis, cervicitis, epididymitis)",
+      "Acute pelvic inflammatory disease (PID) when used in synergistic combination with broad-spectrum parenteral cephalosporins",
+      "Community-acquired respiratory tract infections (atypical pneumonia, acute exacerbation of chronic bronchitis caused by *Mycoplasma*, *Chlamydia*, or *Haemophilus*)",
+      "Tick-borne and vector-borne rickettsial diseases (Scrub typhus, Rocky Mountain spotted fever, Lyme disease, leptospirosis)",
+      "Prophylaxis and empirical management of Traveler's Diarrhea and prevention of *Clostridioides difficile*-associated enteritis"
+    ],
+    "how_patients_describe_symptoms": [
+      "Every time I take a strong antibiotic, I get severe stomach cramps and watery diarrhea; this formula cleared my skin without ruining my digestion.",
+      "I have deep, painful, swollen red bumps and cystic blemishes across my jawline and cheeks that fail to clear with face washes.",
+      "A persistent urethral burning sensation and thin, watery discharge developed along with pelvic discomfort.",
+      "High fever, shaking chills, and body aches started after an outdoor trek where I noticed a small dark crust or insect bite on my skin."
+    ],
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults and adolescents aged 12 years and older with confirmed or clinically indicated bacterial infections responsive to tetracyclines",
+        "Patients undergoing prolonged antimicrobial therapy (such as a 6-to-12-week acne course) vulnerable to gut dysbiosis and antibiotic-associated diarrhea",
+        "Patients with atypical respiratory, chlamydial, or vector-borne rickettsial infections requiring broad intracellular tissue penetration"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Known hypersensitivity to doxycycline, minocycline, tetracycline class agents, or excipients in the formulation",
+        "Children under 8 years of age (doxycycline binds to calcium orthophosphate complexes during odontogenesis, causing permanent yellow-gray-brown tooth discoloration and enamel hypoplasia)",
+        "Pregnant women (FDA Category D: crosses the placental barrier, impairs fetal skeletal bone development, and leads to permanent fetal dentition staining)",
+        "Nursing mothers (excreted in human breast milk where it forms unabsorbable calcium chelates that inhibit infant bone growth)",
+        "Patients with severe hepatic decompensation or advanced liver failure",
+        "Patients suffering from systemic lupus erythematosus (risk of drug-induced lupus exacerbation)",
+        "Severely immunocompromised or critically ill patients with central venous lines (rare risk of probiotic spore-mediated bacteremia or fungemia)"
+      ]
+    },
+    "common_side_effects": [
+      "Gastrointestinal tract irritation: nausea, epigastric burning, dyspepsia, anorexia, or abdominal cramps",
+      "Pill-induced chemical esophagitis or esophageal ulceration (manifesting as retrosternal burning and painful swallowing/odynophagia)",
+      "Cutaneous drug photosensitivity (accelerated erythema, sunburn, and blister formation upon brief sunlight exposure)",
+      "Benign intracranial hypertension (pseudotumor cerebri) presenting as persistent headache, blurred vision, or papilledema",
+      "Superficial mucocutaneous candidiasis (oral thrush or vaginal yeast infection due to suppression of native vaginal flora)"
+    ],
+    "important_cautions": [
+      "Pill Esophagitis & Strict Posture Rules: Because doxycycline monohydrate/hyclate is chemically caustic to mucosal membranes, capsules must be swallowed whole with a full glass of water (at least 200 to 250 mL). The patient must remain fully upright (sitting or standing) for at least 30 minutes after swallowing; never take right before lying down or immediately prior to sleeping.",
+      "Mineral Chelation Binding Window: Polyvalent metal cations—including calcium (milk, yogurt, cheese), iron supplements, antacids containing magnesium or aluminum, and zinc—bind doxycycline in the gastrointestinal tract to form insoluble, unabsorbable chelates. Administer doxycycline at least 2 hours before or 4 hours after consuming dairy products, antacids, or mineral supplements.",
+      "Solar Photosensitivity Precautions: Doxycycline lowers the threshold for ultraviolet (UV-A) radiation damage. Advise patients to avoid tanning beds, minimize direct sun exposure, wear protective clothing, and apply broad-spectrum sunscreen (SPF 50+) throughout therapy.",
+      "Oral Contraceptive Interaction: Concurrent tetracycline use may transiently reduce enterohepatic recirculation of estrogen metabolites; advise female patients using combined oral contraceptive pills to employ an additional non-hormonal barrier method during antimicrobial treatment.",
+      "Probiotic Viability and Administration Timing: While *Bacillus coagulans* spores are considerably hardier than vegetative bacteria, taking the capsule alongside food rather than on an empty stomach enhances gut transit and maximizes therapeutic spore survivability without significantly dampening doxycycline absorption."
+    ]
   }
 ]
