@@ -1879,5 +1879,1033 @@
       "Glaucoma Screening Precaution: Always rule out undiagnosed narrow-angle glaucoma prior to elective administration. Mydriasis folds the peripheral iris into the iridocorneal angle, choking off aqueous humor outflow and raising intraocular pressure to dangerous levels.",
       "Cardiac Ischemic Hazard: Hyoscyamine-mediated acceleration of heart rate decreases diastolic coronary perfusion time while increasing myocardial work; avoid use in patients with active angina pectoris or unstable coronary artery disease."
     ]
+  },
+  {
+    "id": "camylofin-dihydrochloride-diclofenac-sodium-injection-25mg-25mg-1ml",
+    "name": "Camylofin Dihydrochloride & Diclofenac Sodium Injection (25mg + 25mg/mL)",
+    "generic_names": [
+      "Camylofin 25mg + Diclofenac Sodium 25mg Injection",
+      "Camylofin Dihydrochloride and Diclofenac Sodium Injection",
+      "Anafortan Plus Injection",
+      "Spasmonorm Injection",
+      "Camyloprime-D Injection",
+      "Diclocam Injection"
+    ],
+    "category": ["Gastrointestinal", "Painkiller", "Emergency & Critical Care"],
+    "sub_category": "Dual-Mechanism Direct Myotropic-Neurotropic Antispasmodic & Cyclooxygenase (COX-1/COX-2) Inhibiting Analgesic",
+    "company_name": "CD1",
+    "amount": "42/- (2 mL Glass Ampoule / Pack)",
+    "routes_of_administration": ["Deep Intramuscular Only (Deep IM Injection)"],
+    "main_cause": "Acute Severe Renal & Ureteric Colic, Acute Biliary Colic & Cholecystitis Pain, Spasmodic Dysmenorrhea, Post-Surgical & Post-Instrumental Visceral Spasms, Severe Intestinal Colic / Irritable Bowel Syndrome Spastic Attacks",
+    "why_this_disease_happens": "Acute visceral hollow-organ colic—most prominently ureteric or biliary colic—is triggered when an intraluminal obstruction (such as a migrated nephrolith, ureteric calculus, or gallstone in the cystic duct) obstructs muscular outflow. The visceral smooth muscle wall undergoes uncoordinated, high-pressure hyperperistalsis in an attempt to dislodge the impaction. This excessive stretching activates intramural mechanoreceptors and triggers uninhibited cholinergic (muscarinic M3) transmission, driving sarcoplasmic reticulum calcium release and hypertonic muscular spasms. At the same time, mechanical distension and acute mucosal micro-trauma stimulate mucosal Cyclooxygenase-2 (COX-2) and constitutive COX-1. This causes a massive local surge in vasodilatory and algogenic prostaglandins—principally Prostaglandin E2 (PGE2) and Prostacyclin (PGI2). In renal colic, PGE2 causes afferent renal arteriolar vasodilation, increasing renal blood flow, elevating glomerular filtration rate (GFR), and sharply escalating hydrostatic pressure within the obstructed renal pelvis. Furthermore, PGE2 directly sensitizes visceral unmyelinated C-fiber nociceptors to local ischemic and mechanical wall tension, sending intense noxious afferents via sympathetic splanchnic pathways to produce agonizing, radiating flank or abdominal colic with nausea and diaphoresis. A single-action agent (antispasmodic alone or NSAID alone) leaves either the high pelvic hydrostatic pressure or the painful smooth muscle contraction unmanaged.",
+    "how_this_medicine_fights_it": "Provides a synchronized, dual-action therapeutic intervention targeting both the biochemical inflammatory drive and the mechanical smooth muscle spasm: (1) Direct Myotropic & Neurotropic Antispasmodic Action (Camylofin Dihydrochloride): Camylofin acts via a unique two-tier mechanism: (a) Neurotropic Parasympatholytic Blockade: Competitively antagonizes postganglionic muscarinic acetylcholine receptors on visceral smooth muscle, blocking acetylcholine-mediated calcium mobilization. (b) Direct Myotropic Phosphodiesterase-IV (PDE4) Inhibition: Directly enters smooth muscle myocytes independently of autonomic innervation to inhibit phosphodiesterase enzymes (primarily PDE4). This prevents cyclic adenosine monophosphate (cAMP) degradation, elevating intracellular cAMP. High cAMP activates Protein Kinase A (PKA), which phosphorylates and inactivates Myosin Light Chain Kinase (MLCK) while stimulating sarcoplasmic reticulum calcium re-uptake. This rapidly terminates hyperactive spasms in the ureter, bile duct, and intestinal loops without causing generalized atony. (2) Prostaglandin Synthesis Arrest & Hydrostatic Decompression (Diclofenac Sodium): Diclofenac is a potent phenylacetic acid nonsteroidal anti-inflammatory drug (NSAID). It reversibly inhibits both COX-1 and COX-2 enzymes, stopping the conversion of arachidonic acid into PGE2 and PGI2. In the kidney, shutting down PGE2 synthesis induces compensatory vasoconstriction of the renal afferent arteriole, reducing renal blood flow and GFR. This lowers urine production above the obstruction, immediately decompressing renal pelvic hydrostatic pressure and ending capsule distension. Concurrently, it abolishes peripheral sensitization of visceral afferent nociceptors, halting pain impulses at the source.",
+    "drug_class": "Combined Antispasmodic & NSAID / Neurotropic-Myotropic Smooth Muscle Relaxant + Cyclooxygenase Inhibitor",
+    "main_action": "Inhibits smooth muscle PDE4 and muscarinic receptors (camylofin) to abolish visceral spasms while inhibiting COX-1/COX-2 (diclofenac) to reduce renal pelvic hydrostatic pressure and eliminate inflammatory nociceptor sensitization.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Acute emergency relief of severe renal colic and ureteric calculus spasms",
+      "Acute biliary colic, acute cholecystitis pain, and spasm of the Sphincter of Oddi",
+      "Severe acute spasmodic dysmenorrhea unresponsive to oral analgesics",
+      "Post-instrumentation visceral pain following cystoscopy, ureteroscopy (URS), or double-J (DJ) stent placement",
+      "Severe acute intestinal colic, tenesmus, and acute exacerbation of spastic colon"
+    ],
+    "how_patients_describe_symptoms": [
+      "I was curled in a ball with agonizing, knife-like pain starting in my flank and shooting down into my groin from a kidney stone.",
+      "My right upper abdomen was gripped by violent, tight cramping waves that made me vomit and sweat during a gallbladder attack.",
+      "After my urinary stent procedure, my bladder was having severe painful spasms until this deep hip shot calmed both the ache and the cramping."
+    ],
+    "reconstitution_and_dilution": "Ready-to-inject clear, pale yellow to straw-colored sterile aqueous-glycolic solution (supplied in 2 mL ampoules containing Camylofin Dihydrochloride 25 mg/mL + Diclofenac Sodium 25 mg/mL; total 50 mg Camylofin + 50 mg Diclofenac per 2 mL ampoule). No reconstitution or secondary dilution required. Must be drawn directly into a sterile syringe and administered undiluted. Inspect visually for crystal precipitation or discoloration before administration; do not freeze.",
+    "infusion_rate_and_timing": "Deep Intramuscular (IM) Injection Only. Administer slowly into the upper outer quadrant of the gluteus maximus muscle using a long-bore (21G or 22G) needle to ensure deep intragluteal placement and avoid subcutaneous tracking. Intravenous (IV) administration of this combination is strictly prohibited.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adult and adolescent patients presenting with acute visceral colic (renal, ureteric, or biliary) requiring emergency parenteral intervention",
+        "Patients in acute agony from hollow-organ smooth muscle spasms who are vomiting or unable to retain oral spasmolytics"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Strict Route Contraindication: Must NEVER be administered by direct Intravenous (IV) push or IV infusion (risk of severe venous thrombosis and endothelial damage from glycol solvent vehicles)",
+        "Patients with active peptic ulcer disease, history of gastrointestinal bleeding or mechanical gastrointestinal perforation",
+        "Patients with severe pre-existing renal impairment (eGFR < 30 mL/min), acute hypovolemic dehydration, or bilateral renal artery stenosis (diclofenac induces acute renal ischemia)",
+        "Patients with Narrow-Angle Glaucoma (anticholinergic action of camylofin dilates pupils and can trigger acute angle closure)",
+        "Patients with Benign Prostatic Hyperplasia (BPH) or bladder outlet obstruction (anticholinergic effect precipitates acute urinary retention)",
+        "Patients with active ischemic heart disease, peripheral arterial disease, or congestive heart failure (NYHA II-IV)",
+        "Patients with known hypersensitivity to diclofenac, aspirin-induced asthma ('aspirin triad'), or camylofin",
+        "Third trimester of pregnancy (diclofenac triggers premature closure of the fetal ductus arteriosus; camylofin can alter uterine tone)"
+      ]
+    },
+    "common_side_effects": [
+      "Localized injection-site pain, soreness, or sterile induration at the gluteal injection site",
+      "Anticholinergic symptoms: dry mouth (xerostomia), transient pupillary blurriness, or mild flushing",
+      "Gastrointestinal: epigastric discomfort, nausea, heartburn, or transient loose stools",
+      "Cardiovascular: transient mild tachycardia, palpitations, or dizziness upon standing",
+      "Mild transient drowsiness or headache"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "Deep Intramuscular Only Mandate: This combination formulation is formulated strictly for Deep Intramuscular (IM) gluteal administration. It must NEVER be administered via direct intravenous (IV) push or subcutaneous (SC) routes. Intravascular injection can cause severe chemical phlebitis, vascular necrosis, and precipitous cardiovascular instability. Always aspirate before injection.",
+      "Synergistic Renal Colic Rationale: Monotherapy with antispasmodics (e.g., hyoscine, drotaverine) only relieves local spasm but does not lower high intrapelvic pressure. Monotherapy with NSAIDs lowers filtration pressure but may take 20 to 30 minutes to relieve dynamic smooth muscle gripping. Combining Camylofin with Diclofenac achieves instant smooth muscle relaxation via PDE4/M3 inhibition and halts PGE2-mediated renal pelvic hydrostatic pressure buildup.",
+      "Acute Renal Hemodynamics Warning: In patients with underlying severe volume depletion, sepsis, or advanced chronic kidney disease, diclofenac-mediated blockade of renal vasodilatory PGE2 can provoke acute ischemic tubular necrosis and oliguria; rehydrate hypovolemic patients with crystalloids before administration.",
+      "Glaucoma & BPH Screening: Because camylofin retains moderate anticholinergic/antimuscarinic properties, always screen for closed-angle glaucoma and prostatic hypertrophy before administering, as it can precipitate acute intraocular pressure spikes or acute urinary retention.",
+      "Nicolau Syndrome Precaution: As with all deep gluteal NSAID injections, strict adherence to deep intragluteal injection technique (Z-track or deep perpendicular placement in the upper outer quadrant) is mandatory to prevent accidental intra-arterial embolization or perivascular inflammation (Nicolau syndrome / livedoid dermatitis)."
+    ]
+  },
+  {
+    "id": "torsemide-injection-ip-usp-20mg-2ml",
+    "name": "Torsemide (Torasemide) Injection IP/USP (10mg/mL)",
+    "generic_names": [
+      "Torsemide Injection 20mg/2mL (10mg/mL)",
+      "Torasemide 10mg/mL IV Injection",
+      "Dytor 20mg/2mL Injection",
+      "Demadex IV",
+      "Torsinex 20mg",
+      "Torget 2mL",
+      "Retor 20mg"
+    ],
+    "category": [
+      "Cardiovascular",
+      "Emergency & Critical Care",
+      "Urology & Renal"
+    ],
+    "sub_category": "Pyridine-Sulfonylurea Class Long-Acting Loop Diuretic & Myocardial Antifibrotic Aldosterone-Receptor Modulator",
+    "company_name": "TS1",
+    "amount": "46/- (2 mL Glass Ampoule - 20mg)",
+    "routes_of_administration": [
+      "Slow Intravenous Injection (Slow IV Push over 2 mins)",
+      "Intravenous Infusion (IV Piggyback over 15 to 30 mins)"
+    ],
+    "main_cause": "Acute Decompensated Congestive Heart Failure (ADHF) with Fluid Overload, Diuretic-Resistant Edema / Furosemide Resistance, Pulmonary Edema & Cardiorenal Syndrome, Chronic Kidney Disease (CKD) Extracellular Fluid Expansion, Hepatic Cirrhotic Ascites & Peripheral Edema, Acute Volume-Dependent Hypertensive Crisis",
+    "why_this_disease_happens": "In congestive heart failure (CHF) and cardiorenal syndromes, declining forward stroke volume triggers chronic neurohormonal activation: the sympathetic nervous system and renin-angiotensin-aldosterone system (RAAS) stimulate sodium and water retention. Chronic aldosterone excess stimulates cardiac fibroblasts via mineralocorticoid receptors, depositing collagen type I and III, which promotes progressive myocardial fibrosis, ventricular stiffness, and adverse remodeling. When patients develop acute decompensation, elevated central venous and pulmonary capillary pressures cause severe pulmonary congestion and dependent edema. Intestinal mucosal edema impairs the oral bioavailability of traditional loop diuretics like furosemide (which has erratic, variable absorption of 10% to 90%). Furthermore, prolonged short-acting loop diuretic use provokes post-diuretic compensatory sodium retention ('rebound retention') as the drug clears rapidly. A long-acting, highly bioavailable loop diuretic that concurrently blunts aldosterone-induced myocardial fibrosis is required to restore diuresis and decongestion.",
+    "how_this_medicine_fights_it": "Provides sustained natriuresis, medullary gradient dissipation, and cardioprotective neurohormonal modulation: (1) Apical NKCC2 Co-Transporter Blockade: Torsemide is a pyridine-sulfonylurea loop diuretic. Following intravenous injection, it is transported into the tubular fluid via organic anion transporters (OAT1/OAT3/OAT4) in the proximal tubule. It travels to the thick ascending limb of the loop of Henle, where it binds the chloride-binding site of the apical Na+/K+/2Cl- (NKCC2) co-transporter. Blocking NKCC2 arrests the reabsorption of 20% to 25% of filtered sodium and chloride, abolishing the hypertonic renal medullary countercurrent gradient and promoting water and solute excretion. (2) Myocardial Aldosterone Receptor Antagonism: Unlike furosemide or bumetanide, torsemide competitively antagonizes mineralocorticoid (aldosterone) receptors in cardiac and vascular tissues. It downregulates procollagen type I carboxy-terminal proteinase (PCP), suppressing myocardial collagen cross-linking and interstitial collagen deposition. This blunts adverse left ventricular remodeling, improves chamber compliance, and decreases the incidence of arrhythmogenic heart failure readmissions. (3) Prolonged Duration of Action & Elimination Kinetics: Torsemide has an elimination half-life of 3 to 4 hours and a therapeutic duration of action lasting 6 to 8 hours (significantly longer than furosemide's 2-hour window). This prevents acute post-diuretic rebound sodium retention. (4) Predictable Hepatic Metabolism: Approximately 80% is metabolized by hepatic cytochrome P450 (CYP2C9) into inactive metabolites, with only 20% eliminated unchanged by the kidneys. Consequently, its elimination kinetics remain stable even in patients with severe renal failure or declining glomerular filtration rates.",
+    "drug_class": "Pyridine-Sulfonylurea Derivative / High-Ceiling Loop Diuretic & Aldosterone Antagonist",
+    "main_action": "Inhibits the apical Na+/K+/2Cl- (NKCC2) co-transporter in the thick ascending limb of Henle to promote natriuresis and diuresis, while blocking mineralocorticoid receptors to reduce myocardial fibrosis and adverse cardiac remodeling.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Acute decompensated heart failure (ADHF) with severe systemic congestion, jugular venous distention, and pulmonary rales",
+      "Overcoming diuretic resistance in patients failing high-dose intravenous furosemide regimens",
+      "Edema associated with Chronic Kidney Disease (CKD stages 3 to 5) and nephrotic syndrome",
+      "Ascites and peripheral edema secondary to hepatic cirrhosis (co-prescribed with spironolactone)",
+      "Adjunctive decongestion in acute hypertensive crisis with acute volume overload",
+      "Smooth transition therapy: switching from IV Torsemide (20mg) to Oral Torsemide (20mg) on a 1:1 milligram-equivalent basis upon clinical stabilization"
+    ],
+    "how_patients_describe_symptoms": [
+      "My legs were swollen like tree trunks and I couldn't lie flat to sleep without gasping for breath from heart failure fluid.",
+      "My regular water pills stopped working and the fluid kept backing up until the hospital switched me to this stronger diuretic IV.",
+      "Within an hour of receiving this injection, I began passing urine steadily throughout the afternoon and the heaviness in my chest lifted."
+    ],
+    "reconstitution_and_dilution": "Supplied ready-to-inject as a clear, colorless to pale yellow sterile alkaline aqueous solution (20 mg per 2 mL ampoule = 10 mg/mL; pH 8.3 to 9.5). No reconstitution required. For Slow IV Push, administer undiluted directly into an IV port. For IV Piggyback Infusion, dilute 20 mg to 100 mg in 50 mL to 100 mL of 0.9% Normal Saline, 5% Dextrose (D5W), or Sterile Water for Injection. Do not mix directly in the same syringe or line with acidic solutions.",
+    "infusion_rate_and_timing": "Slow IV Push: Administer over a minimum duration of 2 minutes directly into a patent vein. Rapid direct bolusing should be avoided. Intermittent IV Infusion: Infuse the diluted 50-100 mL solution over 15 to 30 minutes. Continuous Infusion: In refractory diuretic-resistant acute heart failure, administer via a volumetric infusion pump at continuous rates (typically 5 to 20 mg/hr).",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adult patients with acute decompensated heart failure requiring prolonged decongestion without post-diuretic rebound retention",
+        "Patients with chronic kidney disease who exhibit erratic responses or resistance to furosemide",
+        "Hospitalized patients requiring predictable diuresis with planned step-down to 1:1 oral therapy"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Absolute Contraindication: Anuria unresponsive to a diagnostic test dose (non-functional kidneys cannot respond to loop diuretics)",
+        "Absolute Contraindication: Severe hepatic coma / encephalopathy (diuretic-induced alkalosis and hypokalemia exacerbate cerebral ammonia toxicity)",
+        "Absolute Contraindication: Severe uncorrected hypokalemia, hyponatremia, or profound intravascular hypovolemia / shock",
+        "Patients with documented hypersensitivity to torsemide or sulfonylurea-class drugs",
+        "Concomitant high-dose aminoglycoside therapy (additive risk of permanent cochlear and vestibular ototoxicity)"
+      ]
+    },
+    "common_side_effects": [
+      "Electrolyte derangements: hypokalemia, hyponatremia, hypomagnesemia, and hypochloremic metabolic alkalosis (less abrupt potassium loss than furosemide due to aldosterone antagonism)",
+      "Orthostatic dizziness, lightheadedness, and symptomatic hypotension secondary to volume contraction",
+      "Transient elevations in blood urea nitrogen (BUN), serum creatinine, and serum uric acid (hyperuricemia / gout triggers)",
+      "Headache, asthenia, and generalized muscle cramping",
+      "Gastrointestinal: nausea, dyspepsia, or diarrhea"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "Potency Equivalence (2:1 Ratio to Furosemide): Torsemide is TWICE as potent as furosemide on a milligram-for-milligram basis. A 20 mg IV dose of Torsemide provides natriuretic decongestion equivalent to 40 mg of IV Furosemide. Do not interchange doses directly without adjusting for this 2:1 potency difference.",
+      "The 1:1 Oral-to-IV Bioavailability Advantage: Unlike furosemide (which has erratic oral bioavailability ranging from 10% to 90%, requiring a doubling of the oral dose compared to IV), torsemide exhibits predictable 80% to 100% oral absorption. A patient stabilized on 20 mg IV Torsemide can be converted directly to 20 mg oral Torsemide upon discharge without loss of natriuretic efficacy.",
+      "Anti-Aldosterone & Antifibrotic Clinical Superiority: Unlike older loop diuretics, torsemide inhibits myocardial aldosterone binding and blocks collagen-producing enzymes. Landmark clinical trials (e.g., TORIC study) demonstrated a significant reduction in overall and cardiovascular mortality and fewer heart failure hospitalizations with torsemide compared to furosemide.",
+      "pH Precipitation Incompatibility: Because torsemide is formulated at an alkaline pH (8.3 to 9.5) to maintain drug solubility, it will precipitate as insoluble crystals if mixed in the same line with acidic drugs (such as Ondansetron, Dobutamine, Midazolam, or Amiodarone). Flush lines thoroughly before and after administration.",
+      "Ototoxicity Threshold: Although torsemide has a lower documented risk of cochlear toxicity than ethacrynic acid or rapid high-dose furosemide boluses, rapid administration or high doses in advanced renal failure can cause tinnitus and sensorineural hearing loss; push slowly over at least 2 minutes."
+    ]
+  },
+  {
+    "id": "diclofenac-sodium-injection-ip-75mg-1ml",
+    "name": "Diclofenac Sodium Injection IP (75mg/1mL)",
+    "generic_names": [
+      "Diclofenac Sodium 75mg/1mL Aqueous Injection",
+      "Dynapar AQ 75mg/1mL",
+      "Voveran 1mL / 3mL",
+      "Jonac 75mg",
+      "Dicloran IV/IM",
+      "Reactin 75mg"
+    ],
+    "category": [
+      "Painkiller",
+      "Anti-Inflammatory",
+      "Emergency & Critical Care"
+    ],
+    "sub_category": "Phenylacetic Acid Derivative Non-Selective Cyclooxygenase (COX-1/COX-2) Inhibitor & Prostaglandin Synthesis Blocker",
+    "company_name": "DS1",
+    "amount": "28/- (1 mL Glass Ampoule - 75mg AQ)",
+    "routes_of_administration": [
+      "Slow Intravenous Injection (Slow IV Bolus over 1–2 mins - AQ formulation only)",
+      "Intravenous Infusion (IV Piggyback over 15–30 mins)",
+      "Deep Intramuscular (IM - Intragluteal or Intradeltoid for low-volume AQ)",
+      "Subcutaneous Injection (SC - Specialized aqueous brands)"
+    ],
+    "main_cause": "Acute Severe Renal & Ureteric Colic, Acute Biliary Colic, Acute Postoperative Surgical Pain (Orthopedic, Gynecological, Visceral), Severe Post-Traumatic Musculoskeletal Injury / Fractures, Acute Gout Flares & Inflammatory Arthritis Exacerbations",
+    "why_this_disease_happens": "Surgical tissue disruption, skeletal fractures, or visceral smooth-muscle stretching (e.g., from an impacted ureteral or biliary stone) triggers mechanical and ischemic lysis of cellular membranes. Phospholipase A2 hydrolyzes membrane phospholipids into arachidonic acid, which is rapidly converted by constitutive Cyclooxygenase-1 (COX-1) and inducible Cyclooxygenase-2 (COX-2) into pro-inflammatory prostanoids—principally Prostaglandin E2 (PGE2) and Prostacyclin (PGI2). In the periphery, PGE2 sensitizes high-threshold unmyelinated C-fibers and thinly myelinated A-delta primary afferent nociceptors, lowering their activation thresholds to chemical and mechanical stimuli (peripheral hyperalgesia). In acute renal colic, PGE2 causes profound vasodilation of the afferent glomerular arteriole, driving an acute surge in renal blood flow and glomerular filtration rate (GFR). In the presence of downstream ureteral obstruction, this causes rapid elevation of intrarenal and renal pelvic hydrostatic pressure, distending the pain-sensitive renal capsule and triggering excruciating, radiating flank agony with reflex vomiting. Concurrently, PGE2 increases post-capillary venular permeability, producing edema, erythema, and leukocyte recruitment at the site of trauma.",
+    "how_this_medicine_fights_it": "Provides rapid, high-potency analgesia and anti-inflammatory relief through multi-pathway prostanoid inhibition, renal pelvic decompression, and leukocyte modulation: (1) Balanced Cyclooxygenase (COX-1/COX-2) Arrest: Diclofenac is an amino-phenylacetic acid derivative. It competitively and reversibly inhibits both COX-1 and COX-2 enzymes, stopping the conversion of arachidonic acid into cyclic endoperoxides (PGG2 and PGH2). This eliminates downstream synthesis of PGE2, PGD2, PGF2-alpha, and prostacyclin, preventing peripheral nociceptor sensitization and terminating inflammatory microvascular hyperpermeability. (2) Renal Hydrostatic Decompression in Colic: In acute ureteric colic, diclofenac-mediated blockade of renal PGE2 synthesis triggers compensatory vasoconstriction of the renal afferent arteriole. This reduces renal blood flow and lowers glomerular capillary filtration pressure, decreasing urine formation above the obstruction. Renal pelvic hydrostatic tension falls within 15 to 20 minutes, relieving tension on stretch receptors in the renal capsule. (3) Arachidonic Acid Shunt Regulation: Exhibits unique inhibitory effects on leukocyte lipoxygenase enzymes and intracellular arachidonic acid release at high concentrations, blunting leukotriene B4 (LTB4) synthesis and attenuating neutrophil chemotaxis and superoxide free-radical generation. (4) Central Spinal Nociceptive Attenuation: Readily crosses the blood-brain barrier into spinal cord dorsal horn synapses, where it suppresses central COX-2 expression and modulates the L-arginine-nitric oxide-cGMP antinociceptive pathway, dampening central pain transmission.",
+    "drug_class": "Phenylacetic Acid Derivative / Nonsteroidal Anti-Inflammatory Drug (NSAID)",
+    "main_action": "Inhibits cyclooxygenase (COX-1 and COX-2) to abolish prostaglandin E2 synthesis, reducing afferent nociceptive signaling, blunting peripheral inflammation, and decompressing renal pelvic hydrostatic pressure in acute colic.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "First-line emergency pharmacotherapy for acute renal colic and ureteric calculus spasms",
+      "Acute biliary colic and acute cholecystitis pain management",
+      "Moderate to severe acute postoperative pain following orthopedic, abdominal, and dental procedures",
+      "Acute post-traumatic musculoskeletal injuries, sprains, strains, and acute closed fractures",
+      "Acute severe exacerbations of Rheumatoid Arthritis, Osteoarthritis, Ankylosing Spondylitis, and acute gouty arthritis flares"
+    ],
+    "how_patients_describe_symptoms": [
+      "I had excruciating, knife-like pain starting in my lower back and shooting straight into my groin from a kidney stone before this injection stopped the spasms.",
+      "After my bone surgery, the throbbing ache was overwhelming until the nurse gave me this pain shot in my arm/hip.",
+      "My knee was swollen, red-hot, and stiff from an arthritis flare, and within 30 minutes of this injection, I was able to bend my joint without agonizing pain."
+    ],
+    "reconstitution_and_dilution": "75mg/1mL Aqueous Formulation (e.g., Dynapar AQ): Supplied ready-to-inject as a clear, colorless to pale straw-yellow sterile aqueous solution. No reconstitution required. For IV Bolus, modern 1 mL aqueous formulations can be administered directly into an IV line over 1 to 2 minutes. For IV Infusion, dilute 75mg into 50 mL to 100 mL of 0.9% Normal Saline or 5% Dextrose (D5W) buffered with 0.5 mL of 8.4% Sodium Bicarbonate (if using conventional formulations). Note: Older conventional 3 mL ampoules (containing propylene glycol/benzyl alcohol) are strictly contraindicated for direct IV bolus and require 100 mL dilution over 30 to 60 minutes.",
+    "infusion_rate_and_timing": "Slow IV Push (Aqueous 1 mL form): Administer slowly over 1 to 2 minutes. Intermittent IV Infusion: Infuse the diluted 50-100 mL piggyback solution over 15 to 30 minutes. Deep IM: Inject slowly deep into the muscle (upper outer quadrant of gluteus maximus or mid-deltoid for low-volume 1 mL aqueous form).",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adult and adolescent patients aged 16 and older presenting with acute severe renal/biliary colic or surgical trauma requiring rapid non-opioid parenteral analgesia",
+        "Hospitalized post-operative patients who are fasting (NPO) or vomiting and unable to swallow oral NSAIDs",
+        "Patients requiring multimodal analgesia to achieve an opioid-sparing effect in acute surgical settings"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Absolute Contraindication: Active peptic ulcer disease, active gastrointestinal bleeding, or history of gastrointestinal perforation",
+        "Absolute Contraindication: Severe heart failure (NYHA Class II-IV), established ischemic heart disease, peripheral arterial disease, or post-operative CABG surgery (FDA Black Box Warning: elevated risk of myocardial infarction and thrombotic events)",
+        "Absolute Contraindication: Severe renal impairment (eGFR < 30 mL/min) or severe hypovolemic dehydration (inhibition of vasodilatory PGE2 induces acute ischemic tubular necrosis and anuria)",
+        "Absolute Contraindication: Third trimester of pregnancy (causes premature closure of the fetal ductus arteriosus, persistent pulmonary hypertension, and oligohydramnios)",
+        "Patients with 'Aspirin Triad' (aspirin-exacerbated respiratory disease: asthma, chronic rhinosinusitis with nasal polyposis, severe bronchospasm)",
+        "Patients with severe hepatic failure (Child-Pugh Class C)"
+      ]
+    },
+    "common_side_effects": [
+      "Localized injection-site pain, transient burning, or mild soreness at the IM injection site",
+      "Gastrointestinal: epigastric discomfort, nausea, dyspepsia, heartburn, or transient diarrhea",
+      "Cardiovascular: fluid retention, peripheral edema, and mild elevation in arterial blood pressure",
+      "Central nervous system: headache, dizziness, lightheadedness, or vertigo",
+      "Transient elevations in serum transaminases (ALT/AST) and mild bumps in serum creatinine"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "Formulation Distinction (1mL Aqueous vs. 3mL Conventional): Healthcare personnel must distinguish modern 1 mL aqueous formulations (such as Dynapar AQ, which use solubilizing hydroxypropyl-beta-cyclodextrin/glycofurol) from older 3 mL ampoules (which rely on high concentrations of propylene glycol and benzyl alcohol). The 1 mL aqueous form can be given via slow IV push or intradeltoid/intragluteal IM with significantly less pain, whereas traditional 3 mL ampoules MUST NEVER be given by IV push (causes severe chemical phlebitis, hemolysis, and vascular collapse) and must be injected exclusively deep intragluteal.",
+      "Gold-Standard Superiority in Renal Colic: International urological guidelines (EAU, AUA) establish parenteral NSAIDs like Diclofenac as superior to parenteral opioids (such as pethidine or tramadol) for acute renal colic. NSAIDs not only relieve pain through central and peripheral mechanisms but also directly lower intrarenal pelvic hydrostatic pressure by constricting the afferent arteriole, addressing the mechanical driver of the colic.",
+      "Cardiovascular Thrombotic Black Box Warning: Diclofenac possesses a slightly higher selectivity for COX-2 relative to COX-1 compared to traditional non-selective NSAIDs like naproxen, resulting in an unfavorable prostacyclin-to-thromboxane balance. Clinical trials show an elevated relative risk of acute myocardial infarction and stroke, similar to selective coxibs. Avoid use in patients with established coronary artery disease or recent stenting.",
+      "Nicolau Syndrome Precaution (Embolia Cutis Medicamentosa): Accidental intra-arterial or perivascular injection during deep gluteal administration of traditional oily/glycol-based diclofenac can trigger acute arterial thrombosis, severe localized ischemic pain, livedoid skin discoloration, and extensive muscular necrosis (Nicolau syndrome). Always aspirate before deep IM injection.",
+      "Dehydration & Acute Renal Failure Trap: Never administer diclofenac to a patient who is severely dehydrated, hypovolemic from severe vomiting, or in septic shock. In hypovolemia, glomerular filtration is maintained by PGE2-mediated afferent arteriolar dilation; blocking this defense causes immediate pre-renal azotemia and acute kidney injury."
+    ]
+  },
+  {
+    "id": "tranexamic-acid-injection-ip-500mg-5ml",
+    "name": "Tranexamic Acid Injection IP (500mg/5mL)",
+    "generic_names": [
+      "Tranexamic Acid Injection IP 500mg/5mL (100mg/mL)",
+      "TXA Injection 500mg",
+      "Pause 5mL",
+      "Texakind 500mg/5mL",
+      "Cyklokapron IV",
+      "Traxage 500mg",
+      "Clip 500mg"
+    ],
+    "category": [
+      "Emergency & Critical Care",
+      "Surgery & Trauma",
+      "Cardiovascular"
+    ],
+    "sub_category": "Synthetic Lysine-Analogue Antifibrinolytic & Reversible Plasminogen Kringle-Domain Antagonist",
+    "company_name": "TX1",
+    "amount": "85/- (5 mL Glass Ampoule - 500mg)",
+    "routes_of_administration": [
+      "Slow Intravenous Injection (Slow IV Push at <= 100mg/min)",
+      "Intravenous Infusion (IV Piggyback / Loading Dose & Infusion)",
+      "Local Topical Wound Application (Topical Rinse / Surgical Packing)",
+      "Nebulization (Off-label for massive hemoptysis)"
+    ],
+    "main_cause": "Acute Major Traumatic Hemorrhage (CRASH-2 Protocol), Postpartum Hemorrhage (PPH - WOMAN Trial Protocol), Perioperative Surgical Hemorrhage Control (Orthopedic Arthroplasty, Cardiac Surgery, Liver Resection), Refractory Epistaxis, Upper Gastrointestinal Mucosal Hemorrhage, Dental Extractions in Hemophilic / Anticoagulated Patients, Severe Hyperfibrinolytic Bleeding",
+    "why_this_disease_happens": "In severe mechanical trauma, major orthopedic disruption, cardiopulmonary bypass, or postpartum placental separation, extensive endothelial disruption unleashes a surge of Tissue Plasminogen Activator (tPA) into circulating and local microvascular beds. Circulating plasminogen binds via its lysine-binding sites (kringle domains) to exposed C-terminal lysine residues on insoluble fibrin polymers forming the nascent hemostatic clot. Bound tPA converts bound plasminogen into active plasmin. In hyperfibrinolytic states, excessive, unregulated plasmin acts as an endopeptidase that systematically hydrolyzes the alpha, beta, and gamma chains of fibrin polymers into soluble Fibrin Degradation Products (FDPs) and D-dimers. Nascent hemostatic clots dissolve before vascular re-endothelialization can occur ('fibrinolytic shutdown failure' or acute trauma-induced hyperfibrinolysis). This premature enzymatic clot dissolution causes catastrophic microvascular oozing, worsening hypovolemic shock, dilutional coagulopathy, hypothermia, metabolic acidosis (the lethal trauma triad), and exsanguination unless plasminogen-fibrin binding is competitively blocked.",
+    "how_this_medicine_fights_it": "Preserves structural clot integrity and halts hyperfibrinolysis via stereospecific competitive lysine-binding site blockade: (1) Reversible Plasminogen Kringle-Domain Inactivation: Tranexamic acid (trans-4-(aminomethyl)cyclohexanecarboxylic acid / TXA) is a synthetic cyclic analogue of the amino acid lysine. It exhibits approximately 6 to 10 times higher antifibrinolytic potency than epsilon-aminocaproic acid (EACA). TXA binds with high affinity to the lysine-binding sites (specifically the high-affinity kringle-1 and lower-affinity kringle-4 domains) of both circulating plasminogen and plasmin. (2) Prevention of Fibrin Clot Dissolution: By occupying these kringle domains, TXA prevents plasminogen and plasmin from binding to C-terminal lysine residues on fibrin fibers. Because plasmin cannot dock onto fibrin, its catalytic domain cannot hydrolyze the cross-linked fibrin matrix. Nascent physiological clots remain intact, allowing stable microvascular sealing and preventing recurrent bleeding. (3) Direct Plasmin Inactivation at High Concentrations: At higher therapeutic concentrations, TXA non-competitively inhibits the enzymatic activity of free plasmin directly, preventing systemic fibrinogenolysis and stabilizing circulating coagulation factors. (4) Anti-Inflammatory Modulation: Plasmin also activates monocytes, neutrophils, and the complement cascade (cleaving C3 and C5). By blocking plasmin generation, TXA dampens the secondary systemic inflammatory response syndrome (SIRS) seen following major trauma and cardiopulmonary bypass.",
+    "drug_class": "Synthetic Lysine Analogue / Potent Antifibrinolytic Hemostatic Agent",
+    "main_action": "Competitive saturation of the lysine-binding kringle domains of plasminogen and plasmin, preventing binding to fibrin and halting enzymatic clot breakdown (fibrinolysis) without stimulating de novo thrombus formation.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Severe acute traumatic hemorrhage presenting within 3 hours of injury (CRASH-2 protocol: 1g IV loading dose over 10 minutes followed by 1g IV infusion over 8 hours)",
+      "Postpartum Hemorrhage (PPH) prevention and treatment (WOMAN trial protocol: 1g IV within 3 hours of delivery, repeatable once after 30 minutes if bleeding continues)",
+      "Elective major orthopedic surgery (total knee and hip arthroplasty) to reduce perioperative blood loss and eliminate allogeneic blood transfusion requirements",
+      "Open heart surgery using cardiopulmonary bypass to prevent post-pump hyperfibrinolytic bleeding",
+      "Anterior and posterior refractory epistaxis (administered via slow IV or topical application on gauze packing)",
+      "Dental extractions and oral surgery in patients with congenital bleeding disorders (hemophilia A/B, von Willebrand disease) or therapeutic anticoagulation",
+      "Severe menorrhagia and abnormal uterine bleeding with acute hemodynamic compromise"
+    ],
+    "how_patients_describe_symptoms": [
+      "After my car accident, I was bleeding heavily from internal injuries and my blood pressure crashed before this clot-saving drip stabilized me.",
+      "Following childbirth, I began bleeding heavily; the doctor administered this injection into my IV line to halt the hemorrhaging.",
+      "Before my joint replacement surgery, the orthopedic surgeon gave me this injection to prevent blood loss and keep me from needing a blood transfusion."
+    ],
+    "reconstitution_and_dilution": "Ready-to-inject clear, colorless sterile aqueous solution in a 5 mL glass ampoule (500 mg per 5 mL = 100 mg/mL). No reconstitution required. For Slow IV Push, administer undiluted at a strictly controlled rate not exceeding 100 mg/min (1 mL/min). For IV Infusion (piggyback), dilute 500 mg to 1000 mg in 50 mL to 100 mL of 0.9% Normal Saline, 5% Dextrose (D5W), or Ringer's Lactate. Compatible with blood products and heparinized solutions, but must NOT be admixed with penicillins or solutions containing urokinase/streptokinase. For topical surgical use, 500mg to 1000mg can be poured directly into the surgical joint capsule or soaked into packing gauze.",
+    "infusion_rate_and_timing": "Slow IV Push: Administer over a minimum duration of 5 minutes per 500 mg (maximum injection rate: 100 mg/minute or 1 mL/minute). Rapid bolus injection is strictly contraindicated due to acute hypotension and lightheadedness. Trauma / PPH Protocol: 1g IV loading dose infused over 10 minutes, followed by maintenance infusion of 1g over 8 hours.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Trauma patients presenting with significant hemorrhage, hypotension (SBP < 90 mmHg), or tachycardia within 3 hours of injury",
+        "Obstetric patients experiencing postpartum hemorrhage >= 500 mL following vaginal delivery or >= 1000 mL following cesarean section",
+        "Surgical patients undergoing high blood-loss procedures (orthopedic, cardiac, liver resection, spinal reconstruction)"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Absolute Contraindication: Active intravascular thromboembolic disease (acute Deep Vein Thrombosis [DVT], Pulmonary Embolism [PE], acute myocardial infarction, or active cerebral thrombosis)",
+        "Absolute Contraindication: Upper urinary tract macroscopic hematuria (bleeding from kidneys or ureters; antifibrinolytic action creates hard, un-dissolvable intra-ureteral fibrin clots, precipitating severe hydronephrosis, ureteral obstruction, and acute renal colic)",
+        "Absolute Contraindication: Acquired defective color vision (interferes with optical tracking; visual changes warrant immediate drug cessation)",
+        "Absolute Contraindication: History of convulsive seizures or subarachnoid hemorrhage (TXA crosses the blood-brain barrier and can induce cortical seizures via GABA-A / glycine receptor antagonism)",
+        "Late administration in trauma (>3 hours post-injury; data from CRASH-2 shows increased mortality when initiated after the 3-hour window due to DIC/thrombosis risks)",
+        "Patients with severe renal impairment (eliminated >95% unchanged in urine; requires major dose interval reduction based on serum creatinine)"
+      ]
+    },
+    "common_side_effects": [
+      "Gastrointestinal: nausea, vomiting, and diarrhea (most common, dose-dependent)",
+      "Transient hypotension, dizziness, and lightheadedness (associated with rapid IV administration faster than 100 mg/min)",
+      "Infusion-site erythema, mild phlebitis, or localized discomfort",
+      "Transient visual disturbances: blurred vision, impaired color vision perception",
+      "Dose-dependent myoclonus or epileptiform seizure spikes (principally with high cardiac surgical doses > 50-100 mg/kg)"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "The 3-Hour Trauma & PPH Window (CRASH-2 & WOMAN Mandate): In acute traumatic hemorrhage and postpartum hemorrhage, TXA MUST BE INITIATED AS EARLY AS POSSIBLE AND WITHIN 3 HOURS OF INJURY/DELIVERY. Landmark international multicenter randomized trials (CRASH-2 and WOMAN) confirmed that giving TXA within 3 hours significantly reduces bleeding-related mortality. Crucially, administering TXA AFTER 3 HOURS in trauma patients was shown to paradoxically INCREASE mortality due to worsening disseminated intravascular thrombosis; do not initiate beyond the 3-hour mark in trauma.",
+      "Upper Urinary Tract Hematuria Contraindication: TXA is strictly contraindicated in patients with gross hematuria originating from the renal parenchyma, pelvis, or ureters. While normal clots in the urinary tract dissolve quickly via urokinase-driven fibrinolysis, TXA inhibits this mechanism, creating dense, insoluble 'antifibrinolytic blood casts' that obstruct the ureters, causing acute hydronephrosis, acute renal failure, and excruciating intractable colic.",
+      "Slow IV Injection Rule (Hypotension Prevention): Direct IV push must never exceed 100 mg/min (i.e., at least 5 minutes for a 500 mg ampoule, or 10 minutes for a 1 g dose). Rapid injection causes sudden systemic vasodilation and severe hypotension.",
+      "Renal Elimination & Dose Reduction Schedule: More than 95% of tranexamic acid is excreted unchanged by glomerular filtration. In renal insufficiency, accumulation occurs rapidly, increasing neurotoxicity risk. Adjust doses: Serum Creatinine 1.4–2.8 mg/dL: 10 mg/kg IV every 12 hours; 2.8–5.7 mg/dL: 10 mg/kg IV every 24 hours; >5.7 mg/dL: 5 mg/kg IV every 24 hours.",
+      "Seizure Neurotoxicity Mechanism: At high doses (especially during cardiac bypass), TXA crosses into the cerebrospinal fluid and acts as a competitive antagonist at inhibitory GABA-A and glycine receptors in the cerebral cortex, triggering cortical disinhibition, myoclonus, and tonic-clonic convulsions."
+    ]
+  },
+  {
+    "id": "doxofylline-injection-ip-100mg-10ml",
+    "name": "Doxofylline Injection IP (100mg/10mL)",
+    "generic_names": [
+      "Doxofylline Injection 100mg/10mL (10mg/mL)",
+      "Doxophylline IV Infusion",
+      "Doxolin 100mg/10mL",
+      "Doxoril IV",
+      "Ventidox 100mg",
+      "Phyllo-X 10mL",
+      "Doxfree Injection"
+    ],
+    "category": ["Respiratory", "Emergency & Critical Care"],
+    "sub_category": "Novel Dioxolane-Substituted Methylxanthine Derivative, Phosphodiesterase (PDE) Inhibitor & Adenosine-Sparing Bronchodilator",
+    "company_name": "DX1",
+    "amount": "82/- (10 mL Ampoule - 100mg)",
+    "routes_of_administration": [
+      "Slow Intravenous Injection (Slow IV Push over >= 10 mins)",
+      "Intravenous Infusion (IV Piggyback over 15 to 30 mins)"
+    ],
+    "main_cause": "Acute Severe Bronchial Asthma Exacerbation, Chronic Obstructive Pulmonary Disease (COPD) Acute Exacerbation, Bronchospastic Respiratory Distress Refractory to Inhaled Beta-2 Agonists, Chronic Asthmatic Bronchitis with Wheezing & Mucus Retention",
+    "why_this_disease_happens": "In acute asthma and COPD exacerbations, exposure to airborne allergens, viral respiratory infections, or toxic particulate matter triggers intense inflammatory activation of airway mucosal mast cells, eosinophils, CD4+ T-lymphocytes, and bronchial epithelial cells. Degranulation unleashes a storm of bronchoconstrictive and inflammatory mediators—principally leukotrienes (LTC4, LTD4), histamine, interleukin-4/13, and reactive oxygen species. These mediators bind Gq- and Gi-protein-coupled receptors on airway smooth muscle (ASM), driving continuous intracellular calcium influx and sustained contraction of the tracheobronchial tree. Simultaneously, cyclic adenosine monophosphate (cAMP)—the cell's primary endogenous smooth-muscle-relaxing second messenger—is degraded into inactive 5'-AMP by intracellular cyclic nucleotide phosphodiesterase (PDE) enzymes (particularly PDE3, PDE4, and PDE5). This reduction in cAMP maintains the airway smooth muscle in a contracted state, causes microvascular hyperpermeability with mucosal edema, and increases the secretion of viscous mucus from goblet cells. The resulting bronchial lumen narrowing increases airway resistance, leading to air trapping, dynamic lung hyperinflation, ventilation-perfusion mismatch, hypoxia, tachypnea, and severe wheezing. While classical methylxanthines (such as theophylline and aminophylline) can inhibit PDEs, they concurrently block adenosine A1/A2 receptors and stimulate calcium channels, provoking cardiac arrhythmias, seizures, and severe nausea at therapeutic levels.",
+    "how_this_medicine_fights_it": "Provides targeted bronchodilation and anti-inflammatory activity through selective phosphodiesterase inhibition while sparing adenosine receptors and calcium channels: (1) Intracellular Phosphodiesterase (PDE) Inhibition: Doxofylline (7-(1,3-dioxolan-2-ylmethyl)theophylline) incorporates a 1,3-dioxolane heterocyclic ring at position 7 of the xanthine core. It enters bronchial smooth muscle cells and non-selectively inhibits phosphodiesterase isozymes (principally PDE3 and PDE4), blocking the hydrolysis of cAMP to 5'-AMP. Intracellular cAMP accumulates, activating Protein Kinase A (PKA). PKA phosphorylates and inactivates Myosin Light Chain Kinase (MLCK), opens large-conductance calcium-activated potassium channels (KCa), and accelerates calcium extrusion via the sarco/endoplasmic reticulum Ca2+-ATPase (SERCA). This induces prompt relaxation of constricted tracheobronchial smooth muscle from the trachea to terminal bronchioles. (2) Anti-Inflammatory & Leukocyte Modulation: PDE4 inhibition in inflammatory leukocytes (neutrophils, eosinophils, and alveolar macrophages) suppresses the transcription and exocytosis of TNF-alpha, leukotriene B4 (LTB4), and IL-5, attenuating mucosal edema and bronchial hyperresponsiveness. (3) Absence of Adenosine Receptor Antagonism (The Dioxolane Safety Advantage): Unlike theophylline and aminophylline, the dioxolane ring gives doxofylline virtually zero binding affinity for adenosine A1, A2A, and A2B receptors. Because it does not block adenosine receptors, it avoids the side effects typical of older methylxanthines: no antagonism of cardiac adenosine receptors (substantially reducing sinus tachycardia and atrial/ventricular tachyarrhythmias), no cerebral adenosine A1 blockade (avoiding cortical stimulation, insomnia, tremors, and epileptiform seizures), and no gastric mucosal adenosine antagonism (significantly reducing gastric acid hypersecretion, nausea, and vomiting). (4) Preservation of Diaphragmatic Contractility: Improves neuromuscular transmission at the diaphragm, enhancing contractility and reducing respiratory muscle fatigue during acute ventilatory distress.",
+    "drug_class": "Dioxolane-Substituted Methylxanthine / Bronchodilator & Selective-Sparing Phosphodiesterase Inhibitor",
+    "main_action": "Inhibits intracellular phosphodiesterases (PDE3/PDE4) to elevate cAMP and induce bronchodilation and mucosal anti-inflammatory actions, with negligible affinity for adenosine receptors, minimizing cardiotoxicity and central neurotoxicity.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Acute exacerbations of bronchial asthma requiring parenteral bronchodilator augmentation alongside nebulized beta-2 agonists and systemic corticosteroids",
+      "Acute exacerbation of Chronic Obstructive Pulmonary Disease (AECOPD) with severe wheezing and respiratory muscle fatigue",
+      "Chronic asthmatic bronchitis with severe bronchospasm in hospitalized patients who cannot tolerate inhaled delivery",
+      "Patients with obstructive lung disease who developed intolerable tachycardia, tremors, or arrhythmias on aminophylline or high-dose beta-2 agonists",
+      "Maintenance parenteral bronchodilation in intensive care or step-down pulmonary units"
+    ],
+    "how_patients_describe_symptoms": [
+      "My chest felt constricted like a tight band, and I was gasping and wheezing with every breath despite using my regular inhaler.",
+      "During my asthma attack, my lungs were whistling and tight; after this slow IV medicine was pushed, my chest opened up without making my heart race frantically.",
+      "My severe bronchitis made it exhausting to breathe, and this clear drip relieved the coughing spasms and chest heaviness."
+    ],
+    "reconstitution_and_dilution": "Ready-to-inject clear, colorless to pale straw-yellow sterile aqueous solution (100 mg per 10 mL ampoule = 10 mg/mL). No reconstitution required. For Slow IV Push, administer undiluted slowly over at least 10 minutes. For IV Infusion (preferred in hospital wards), dilute 100 mg to 200 mg into 50 mL to 100 mL of 0.9% Normal Saline, 5% Dextrose (D5W), or Multiple Electrolytes Type 1 (Physiomax). Inspect visually for particulate matter or discoloration prior to administration.",
+    "infusion_rate_and_timing": "Slow IV Push: Administer slowly over a minimum duration of 10 minutes. Rapid IV push is strictly contraindicated to prevent sudden transient dizziness, hypotension, or epigastric burning. IV Piggyback Infusion: Infuse the diluted 50-100 mL mini-bag over 15 to 30 minutes. In acute exacerbations, 100 mg (10 mL) is typically administered every 12 hours (maximum daily dose: 200 mg to 400 mg IV in divided doses based on patient response).",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adult and adolescent patients aged 12 years and older with acute bronchospasm from asthma or COPD failing inhaled therapy alone",
+        "Hospitalized patients with bronchospastic disease who require parenteral methylxanthine support with lower cardiovascular risks than aminophylline",
+        "Elderly COPD patients where traditional theophylline/aminophylline is considered too arrhythmogenic"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Absolute Contraindication: Acute myocardial infarction or unstable acute coronary syndromes (xanthines can increase myocardial oxygen consumption)",
+        "Absolute Contraindication: Severe, uncontrolled tachyarrhythmias (atrial fibrillation with rapid ventricular response, ventricular tachycardia)",
+        "Absolute Contraindication: Patients with active peptic ulcer disease (can mildly increase gastric acid and pepsin secretion)",
+        "Patients with severe hepatic impairment or cirrhosis (primarily cleared via hepatic metabolism; dose reduction and liver monitoring required)",
+        "Pregnant or breastfeeding women (use only if maternal benefit outweighs fetal risk; safety profile in pregnancy not extensively established)",
+        "Children under 12 years of age (safety and pharmacokinetic profile have not been established in pediatric cohorts)"
+      ]
+    },
+    "common_side_effects": [
+      "Headache, mild dizziness, or lightheadedness during or shortly after the infusion",
+      "Gastrointestinal: mild nausea, dyspepsia, epigastric discomfort, or heartburn (significantly less frequent than theophylline)",
+      "Mild transient sinus tachycardia or occasional palpitations (markedly lower incidence compared to aminophylline)",
+      "Mild insomnia, psychomotor restlessness, or irritability",
+      "Transient polyuria (mild xanthine-mediated renal tubular diuresis)"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "The Dioxolane Ring Structural Advantage (Doxofylline vs. Aminophylline/Theophylline): Doxofylline contains a 1,3-dioxolane ring that sterically blocks interaction with adenosine A1 and A2 receptors. In clinical practice, this gives doxofylline a significantly wider therapeutic index than theophylline. Unlike theophylline/aminophylline—which requires mandatory serum drug concentration monitoring (target 10–20 mcg/mL) to avoid lethal ventricular arrhythmias and status epilepticus—doxofylline exhibits a wide safety margin and typically does not require routine therapeutic drug monitoring (TDM).",
+      "Slow 10-Minute IV Injection Rule: Even with its superior cardiac safety profile, direct IV injection of doxofylline must be administered slowly over at least 10 minutes (or diluted in 100 mL Normal Saline over 20–30 minutes). Rapid bolusing can trigger transient peripheral vasodilation, lightheadedness, nausea, and mild reflex tachycardia.",
+      "Hepatic Clearance & Drug-Drug Interactions: Doxofylline is cleared extensively by the liver. Co-administration with CYP450 inhibitors (such as Clarithromycin, Erythromycin, Ciprofloxacin, Cimetidine, or Ketoconazole) can reduce doxofylline clearance and elevate serum levels. Conversely, CYP inducers (Rifampicin, Phenytoin, Carbamazepine, cigarette smoking) accelerate its clearance, requiring dosage titration.",
+      "Never Combine with Other Xanthines: Do not administer doxofylline concomitantly with oral theophylline, aminophylline, or high caffeine infusions. Concomitant administration produces additive phosphodiesterase inhibition and increases systemic toxicity risks.",
+      "Not a Monotherapy for Acute Respiratory Failure: In severe, life-threatening asthma or status asthmaticus, doxofylline is a SECOND-LINE adjunctive bronchodilator; it must NEVER replace nebulized short-acting beta-2 agonists (Salbutamol), nebulized anticholinergics (Ipratropium), systemic corticosteroids (Hydrocortisone/Methylprednisolone), or supplemental oxygen."
+    ]
+  },
+  {
+    "id": "l-ornithine-l-aspartate-infusion-concentrate-5g-10ml",
+    "name": "L-Ornithine L-Aspartate Infusion Concentrate (5g/10mL)",
+    "generic_names": [
+      "L-Ornithine L-Aspartate Injection 5g/10mL (0.5g/mL)",
+      "LOLA Sterile Concentrate for Infusion",
+      "Hepa-Merz IV Infusion",
+      "Analiv 5g/10mL",
+      "Ornipar IV",
+      "Hepagard 5g",
+      "L-Amine IV"
+    ],
+    "category": ["Gastrointestinal", "Emergency & Critical Care"],
+    "sub_category": "Dual-Substrate Urea Cycle Intermediate & Skeletal Muscle Glutamine Synthetase Detoxification Stimulator",
+    "company_name": "LO1",
+    "amount": "285/- (10 mL Glass Ampoule - 5g Concentrate)",
+    "routes_of_administration": [
+      "Intravenous Infusion Only (Strictly Diluted IV Piggyback / Continuous Infusion)"
+    ],
+    "main_cause": "Overt Hepatic Encephalopathy (West Haven Grades I to IV), Minimal / Subclinical Hepatic Encephalopathy, Acute Decompensated Liver Cirrhosis with Hyperammonemia, Acute Liver Failure with Neurocognitive Impairment, Transjugular Intrahepatic Portosystemic Shunt (TIPS)-Induced Hyperammonemia",
+    "why_this_disease_happens": "In advanced liver cirrhosis or acute hepatic necrosis, severe structural architectural distortion and loss of functional hepatocytes—combined with spontaneous or surgically created portosystemic shunts—disrupt normal hepatic clearance of gut-derived nitrogenous waste. Intestinal enterocytes and colonic bacteria metabolize dietary proteins and urea, releasing large amounts of neurotoxic unionized ammonia (NH3) into the portal circulation. In healthy liver tissue, periportal hepatocytes detoxify ammonia into harmless urea via the urea cycle, while perivenous hepatocytes scavenge remaining ammonia into glutamine via glutamine synthetase. In cirrhotic and shunted states, both clearance systems fail, flooding systemic arterial circulation with neurotoxic ammonia. Gaseous ammonia diffuses across the blood-brain barrier into cerebral astrocytes, where astrocyte glutamine synthetase amidates glutamate with ammonia to form glutamine. Excessive intracellular glutamine creates a hyperosmotic gradient inside astrocytes, drawing in free water and causing astrocyte swelling (cytotoxic brain edema), oxidative-nitrosative stress, and disruption of central neurotransmission (loss of glutamate, upregulation of inhibitory GABAergic neurosteroids). Clinically, this manifests as inverted sleep-wake cycles, flapping tremors (asterixis), delirium, stupor, and fatal cerebral herniation.",
+    "how_this_medicine_fights_it": "Provides a synchronized dual-organ metabolic intervention that drives ammonia detoxification through both residual hepatic pathways and peripheral skeletal muscle: L-Ornithine L-Aspartate (LOLA) is a stable salt of two natural, non-essential amino acids: (1) Periportal Urea Cycle Acceleration (L-Ornithine Action): Following intravenous infusion, LOLA dissociates into L-ornithine and L-aspartate. Inside residual functional periportal hepatocytes, L-ornithine acts as a direct catalytic substrate and activator for ornithine transcarbamylase (OTC) and carbamoyl phosphate synthetase-I (CPS-I). It drives the condensation of toxic free ammonia with bicarbonate to form carbamoyl phosphate and citrulline, clearing systemic ammonia into excretable, non-toxic urea. (2) Extrahepatic Skeletal Muscle Ammonia Detoxification (The Crucial Shunt Pathway): Cirrhotic patients often have compromised liver mass but maintain skeletal muscle mass. LOLA utilizes skeletal muscle as a major alternative metabolic sink for ammonia: (a) L-aspartate undergoes transamination to produce alpha-ketoglutarate, which is converted to glutamate. (b) L-ornithine provides an additional carbon skeleton precursor for glutamate synthesis. (c) Glutamine synthetase inside skeletal muscle uses this de novo glutamate to capture free circulating ammonia, converting it into non-toxic glutamine. This dual-organ mechanism accelerates ammonia clearance even when liver architecture is mostly fibrosed. (3) Reversal of Astrocyte Cytotoxic Swelling: By lowering circulating arterial and venous ammonia levels, LOLA prevents further glutamine accumulation inside brain astrocytes, reversing intracellular cytotoxic edema, restoring cerebral glucose metabolism, and accelerating recovery from hepatic coma.",
+    "drug_class": "Amino Acid Salt / Urea Cycle Substrate & Extrahepatic Ammonia Detoxifying Agent",
+    "main_action": "Provides L-ornithine to accelerate periportal hepatic urea synthesis and supplies carbon precursors for skeletal muscle glutamine synthetase, rapidly clearing systemic hyperammonemia and reversing astrocyte swelling in hepatic encephalopathy.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Emergency management of acute overt Hepatic Encephalopathy (Grades I to IV) in patients with acute-on-chronic liver failure (ACLF) or decompensated cirrhosis",
+      "Hyperammonemia and neurocognitive decline following Transjugular Intrahepatic Portosystemic Shunt (TIPS) placement",
+      "Minimal (subclinical) hepatic encephalopathy to improve psychometric test scores and quality of life",
+      "Adjunctive metabolic support in severe acute liver failure, non-acetaminophen toxic hepatitis, and fulminant viral hepatitis",
+      "Intravenous bridging therapy in hospitalized cirrhotic patients with paralytic ileus or vomiting who cannot tolerate lactulose or rifaximin orally"
+    ],
+    "how_patients_describe_symptoms": [
+      "My father became confused, reversed his days and nights, and developed shaking, flapping hands (asterixis) from liver toxin buildup before this IV drip cleared his confusion.",
+      "Following my liver shunt procedure, I felt in a daze and struggled to remember words until the hospital ran this amino acid infusion to lower my ammonia levels.",
+      "In the ICU, my relative was semi-conscious and unresponsive from liver failure, and within two days of this specialized drip, they woke up and could recognize family."
+    ],
+    "reconstitution_and_dilution": "Supplied as a concentrated, sterile, hyperosmolar solution (5 g per 10 mL ampoule). MUST NEVER BE INJECTED UNDILUTED. For IV Infusion, the concentrated contents of up to 4 ampoules (up to 20 g LOLA) must be diluted into at least 500 mL of standard intravenous fluid (compatible with 0.9% Normal Saline, 5% Dextrose [D5W], or Ringer's Lactate). For severe hepatic coma / Grade IV encephalopathy, up to 8 ampoules (40 g LOLA) can be dissolved in 1000 mL infusion fluid over 24 hours. Inspect visually for particulate matter or precipitation prior to administration.",
+    "infusion_rate_and_timing": "Strictly via Intravenous Infusion. Standard therapeutic infusion rate must not exceed 5 grams of LOLA per hour (infusion rate: approximately 100 to 125 mL/hour of the diluted 500 mL mixture). Administering faster than 5 g/hr can trigger acute nausea, retching, and peripheral vein irritation. In acute overt hepatic coma, continuous infusion over 12 to 24 hours is standard for 3 to 7 consecutive days until neurological signs resolve.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Hospitalized adult patients presenting with overt or latent hepatic encephalopathy secondary to chronic liver cirrhosis or acute liver failure",
+        "Cirrhotic patients who are unconscious, vomiting, or exhibiting severe abdominal distension where oral disaccharides (lactulose) cannot be administered",
+        "Patients with hyperammonemia who experienced incomplete clinical resolution on lactulose and rifaximin alone"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Absolute Contraindication: Severe renal impairment or acute renal failure (serum creatinine > 3.0 mg/dL or eGFR < 20 mL/min; inability to eliminate urea risks acute azotemia and uremic encephalopathy)",
+        "Absolute Route Contraindication: Direct Intravenous (IV) Bolus Push, Intramuscular (IM), or Subcutaneous (SC) injection (high osmolarity causes severe endothelial chemical necrosis, muscular necrosis, and violent vomiting)",
+        "Patients with rare congenital urea cycle enzyme defects (e.g., Ornithine Transcarbamylase deficiency; leads to aberrant metabolite shunting)",
+        "Patients with known hypersensitivity to L-ornithine, L-aspartate, or formulation excipients"
+      ]
+    },
+    "common_side_effects": [
+      "Gastrointestinal: nausea, vomiting, retching, and gastric heaviness (directly correlated with infusion speed exceeding 5 g/hr)",
+      "Local infusion-site chemical thrombophlebitis, localized burning, or erythema along the cannulated peripheral vein",
+      "Transient sensation of warmth, cutaneous flushing, or mild diaphoresis during infusion",
+      "Mild transient headaches, dizziness, or insomnia",
+      "Transient elevation in blood urea levels (expected physiological marker of accelerated urea cycle flux)"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "Concentrate Only (Lethal Bolus Hazard): L-Ornithine L-Aspartate 5g/10mL is an INFUSION CONCENTRATE. It must NEVER be administered by direct IV push or bolus injection. Undiluted intravascular injection can cause severe chemical endothelial injury, venous thrombophlebitis, sudden profuse vomiting, and vascular collapse. Always dilute in at least 500 mL of infusion fluid (0.9% Normal Saline or D5W).",
+      "Maximum Infusion Velocity (5 g/hour Rule): The infusion rate must NOT exceed 5 grams of LOLA per hour (i.e., at least 1 hour per 5g ampoule, or a 500 mL bag containing 20g run over a minimum of 4 hours). If nausea or vomiting develops during administration, slow the infusion rate immediately.",
+      "Renal Function Cutoff (Creatinine > 3.0 mg/dL Contraindication): LOLA detoxifies ammonia primarily by converting it into urea. If the kidneys cannot clear this urea load (serum creatinine > 3 mg/dL or hepatorenal syndrome), blood urea nitrogen (BUN) levels spike rapidly, worsening metabolic encephalopathy. Serum creatinine must be checked before starting therapy.",
+      "Peripheral Vein Sclerosis & Large-Vein Delivery: Because high-dose LOLA infusions create a hyperosmolar solution (~300 to 500 mOsmol/L depending on diluent), peripheral lines can develop sterile phlebitis. Use large-bore peripheral cannulas (18G/20G) placed in large forearm veins, rotate catheter sites every 48 hours, or infuse through a central venous catheter for multi-day protocols.",
+      "Multimodal Synergy with Lactulose & Rifaximin: LOLA does not replace gut-directed therapies. Guidelines recommend combining LOLA (which clears systemic ammonia via muscle and liver) with oral/rectal lactulose (which acidifies colonic contents to trap NH4+ in stool) and rifaximin (which suppresses urease-producing gut bacteria) for comprehensive multi-compartment ammonia clearance."
+    ]
+  },
+  {
+    "id": "iron-sucrose-injection-usp-100mg-5ml",
+    "name": "Iron Sucrose Injection USP (100mg/5mL)",
+    "generic_names": [
+      "Iron Sucrose Complex Injection USP 100mg/5mL (20mg elemental Fe/mL)",
+      "Ferric Hydroxide Sucrose Complex IV",
+      "Venofer IV",
+      "Orofer S 100",
+      "Ivcros 100mg/5mL",
+      "Encicarb / Ferisac 100mg",
+      "Sucrofer IV"
+    ],
+    "category": ["Vitamins & Minerals", "Cardiovascular", "Surgery & Trauma"],
+    "sub_category": "Type II Moderately Strong Polynuclear Iron(III)-Hydroxide Sucrose Macromolecular Complex & Hematopoietic Iron Donor",
+    "company_name": "IS1",
+    "amount": "280/- (5 mL Glass Ampoule / Single-Dose Vial)",
+    "routes_of_administration": [
+      "Slow Intravenous Injection (Slow IV Push over >= 2 to 5 mins)",
+      "Intravenous Infusion (IV Piggyback in 0.9% Normal Saline over 15 to 30 mins)"
+    ],
+    "main_cause": "Iron Deficiency Anemia (IDA) in Chronic Kidney Disease (CKD Hemodialysis & Non-Dialysis Dependent), Severe Oral Iron Intolerance / Malabsorption (Celiac Disease, Inflammatory Bowel Disease, Post-Bariatric Roux-en-Y), Second & Third Trimester Pregnancy Severe Anemia with Oral Failure, Perioperative Autologous Blood Optimization Prior to Elective Surgery, Acute Post-Hemorrhagic Anemia Requiring Rapid Erythropoiesis",
+    "why_this_disease_happens": "Systemic iron deficiency arises when physiological iron losses exceed enteral absorption, or when chronic inflammation traps iron inside storage macrophages. Functional and absolute iron deficiency is prevalent in chronic kidney disease (CKD), inflammatory bowel disease (IBD), and pregnancy. In CKD, declining erythropoietin (EPO) synthesis, regular blood trapping inside hemodialysis tubing, and frequent phlebotomy cause substantial iron deficits. Concurrently, uremic and systemic inflammatory cytokines (particularly Interleukin-6) induce hepatic transcription of hepcidin, the master iron regulatory hormone. High circulating hepcidin binds to ferroportin (the sole cellular iron exporter) on duodenal enterocytes and reticuloendothelial macrophages, inducing ferroportin internalisation and lysosomal proteolysis. Consequently, oral dietary or therapeutic ferrous iron (Fe2+) cannot exit enterocytes into systemic circulation, causing profound unresponsiveness to oral iron pills along with mucosal gastrointestinal side effects (severe nausea, constipation, epigastric pain). In bone marrow erythroid progenitor cells, iron shortage halts heme synthesis in developing erythroblasts, precipitating microcytic hypochromic anemia, severe tissue hypoxia, exercise intolerance, high-output cardiac fatigue, and blunted responses to Erythropoiesis-Stimulating Agents (ESAs).",
+    "how_this_medicine_fights_it": "Provides targeted parenteral replenishment of functional elemental iron while bypassing the blocked duodenal ferroportin mucosal barrier: (1) Macromolecular Structure & Stability: Iron sucrose is a brown, polynuclear iron(III)-hydroxide core surrounded by a sheath of non-covalently bound sucrose molecules, possessing an average molecular weight of 34,000 to 60,000 Daltons. This high-molecular-weight carbohydrate shell prevents the rapid, premature release of toxic non-transferrin-bound free labile ionic iron (Fe3+) into circulation, eliminating direct endothelial oxidative damage and free-radical Fenton reactions. (2) Reticuloendothelial Clearance & Cleavage: Following slow intravenous injection or infusion, the macromolecular iron sucrose nanoparticles are taken up primarily by macrophages of the reticuloendothelial system (RES)—predominantly inside the spleen, liver Kupffer cells, and bone marrow. Lysosomal enzymes inside macrophages degrade the sucrose shell, dissociating the iron(III)-hydroxide core into elemental iron. (3) Physiological Transferrin Loading: Intracellular iron is incorporated into ferritin storage pools or exported to circulating apotransferrin, forming physiological diferric transferrin complexes. (4) Bone Marrow Erythropoiesis Acceleration: Circulating diferric transferrin docks onto Transferrin Receptor-1 (TfR1 / CD71) on erythroblasts within the bone marrow. Receptor-mediated endocytosis delivers iron directly into erythroblast mitochondria, where ferrochelatase inserts Fe2+ into protoporphyrin IX to form heme, driving rapid hemoglobin synthesis, reticulocyte proliferation, and correction of systemic anemia without depending on intestinal absorption.",
+    "drug_class": "Colloidal Iron-Carbohydrate Nanoparticle Complex / Parenteral Hematinic Agent",
+    "main_action": "Provides polynuclear iron(III)-hydroxide enveloped in a sucrose shell to deliver elemental iron directly to reticuloendothelial macrophages and bone marrow transferrin receptors, bypassing hepcidin-blocked gastrointestinal absorption to drive heme and hemoglobin synthesis.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Iron deficiency anemia in patients with chronic kidney disease (CKD), whether on maintenance hemodialysis, peritoneal dialysis, or non-dialysis dependent",
+      "Severe iron deficiency anemia in inflammatory bowel disease (Crohn's disease, Ulcerative Colitis) where oral iron exacerbates intestinal mucosal inflammation",
+      "Second and third trimester pregnancy-induced severe iron deficiency anemia unresponsive or intolerant to oral iron therapy",
+      "Post-bariatric surgery (Roux-en-Y gastric bypass) patients with bypassed duodenal absorptive surface area",
+      "Preoperative optimization to raise hemoglobin levels before elective major surgical procedures (orthopedic arthroplasty, colorectal resection) to reduce allogeneic blood transfusion risks",
+      "Severe acute postpartum anemia following obstetric hemorrhage"
+    ],
+    "how_patients_describe_symptoms": [
+      "I was constantly exhausted, breathless climbing stairs, and my skin was pale; iron pills upset my stomach, but this dark brown drip boosted my energy and red blood count within two weeks.",
+      "During my hemodialysis sessions, the nurses administer this dark injection directly into the dialysis machine line to maintain my iron and hemoglobin levels.",
+      "In my third trimester of pregnancy, my hemoglobin crashed to 7 g/dL; this hospital IV infusion restored my blood count before delivery without harming my baby."
+    ],
+    "reconstitution_and_dilution": "Supplied ready-to-use as a dark brown, non-transparent, sterile aqueous colloidal solution (100 mg elemental iron per 5 mL = 20 mg/mL, pH 10.5 to 11.1). No reconstitution required. For IV Piggyback Infusion, dilute a single 100 mg (5 mL) ampoule STRICTLY in a maximum of 100 mL of sterile 0.9% Normal Saline (for 200 mg, dilute in maximum 200 mL of 0.9% Normal Saline). MUST NEVER BE DILUTED WITH 5% DEXTROSE (D5W) OR OTHER ACIDIC SOLUTIONS, as dextrose causes precipitation and destabilizes the iron-carbohydrate complex. For Slow IV Push, administer undiluted directly into a patent vein or dialysis venous port.",
+    "infusion_rate_and_timing": "Slow IV Push: Administer undiluted at a strictly controlled rate not exceeding 1 mL (20 mg iron) per minute (i.e., at least 5 minutes for a 5 mL / 100 mg ampoule). IV Piggyback Infusion: Infuse the 100 mg in 100 mL 0.9% Normal Saline over a minimum duration of 15 to 30 minutes. In non-dialysis CKD or pregnancy protocols, individual single doses must not exceed 200 mg elemental iron per infusion session to avoid reticuloendothelial overload.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adult and pediatric patients with documented iron deficiency anemia confirmed by serum ferritin (<100 mcg/L) and transferrin saturation (TSAT < 20%)",
+        "Hemodialysis and peritoneal dialysis CKD patients receiving concurrent erythropoietin-stimulating agents (ESAs)",
+        "Pregnant women in the second or third trimester requiring rapid iron repletion where oral iron has failed or time to delivery is short"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Absolute Contraindication: Anemia NOT caused by iron deficiency (e.g., hemolytic anemia, thalassemia minor/major, megaloblastic vitamin B12/folate deficiency, sideroblastic anemia; causes iatrogenic hemosiderosis)",
+        "Absolute Contraindication: Evidence of iron overload (hemochromatosis, hemosiderosis, serum ferritin > 500-800 mcg/L, or TSAT > 50%)",
+        "Absolute Route Contraindication: Deep Intramuscular (IM) or Subcutaneous (SC) injection (causes permanent brown dermal tattooing, severe chemical sterile abscesses, and tissue necrosis)",
+        "Absolute Contraindication: First trimester of pregnancy (safe data restricted to 2nd and 3rd trimesters)",
+        "Active systemic bacteremia or acute severe sepsis (free iron acts as an essential growth micronutrient for circulating bacteria, exacerbating bacterial virulence)",
+        "Patients with documented severe hypersensitivity or prior anaphylaxis to iron sucrose or other parenteral iron formulations"
+      ]
+    },
+    "common_side_effects": [
+      "Dysgeusia: transient, distinct metallic taste on the tongue during or shortly after the infusion",
+      "Transient hypotension, mild dizziness, or lightheadedness (frequently associated with rapid infusion speeds)",
+      "Gastrointestinal: mild transient nausea, vomiting, or abdominal cramps",
+      "Localized peripheral infusion-site burning, pain, or venous irritation along the injected vein",
+      "Headache, mild arthralgia, myalgia, or transient facial flushing"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "Strict Diluent Restriction (0.9% Normal Saline ONLY - NEVER Dextrose): Iron Sucrose MUST ONLY BE DILUTED IN STERILE 0.9% SODIUM CHLORIDE (NORMAL SALINE). It is chemically incompatible with 5% Dextrose (D5W), Dextrose Normal Saline (DNS), or Ringer's Lactate. Dextrose solutions have an acidic pH (~4.5), which protonates and destabilizes the alkaline iron-carbohydrate complex (pH 10.5–11.1), causing precipitation of insoluble ferric oxyhydroxides and releasing toxic free ionic iron.",
+      "Never Administer Intramuscularly (IM) or Subcutaneously (SC): Iron Sucrose is formulated exclusively for intravenous delivery. Accidental extravasation, subcutaneous injection, or intramuscular depot placement causes intense localized necrosis, sterile abscess formation, and permanent, indelible dark brown or black cutaneous tattooing (iron pigmentation of the dermis) that cannot be reversed.",
+      "Hypersensitivity & Fishbane Reaction Monitoring: While iron sucrose lacks the high-molecular-weight dextran polymer responsible for classic high-rate anaphylaxis (and does NOT require a mandatory test dose under modern USP guidelines), non-allergic infusion reactions (the 'Fishbane reaction': transient chest/back flushing, joint tightness, self-limiting hypotension without stridor or wheezing) can occur if infused too quickly. Slow the infusion or stop temporarily; true IgE anaphylaxis is rare (<0.002%). Resuscitation equipment must remain available.",
+      "Single-Dose Ceiling Rule (Max 200mg per Administration): Unlike newer matrix iron formulations (such as Ferric Carboxymaltose, which can be given as a 1000 mg single dose), Iron Sucrose has a moderately labile carbohydrate shell. Administering single doses exceeding 200 mg to 300 mg can overwhelm transferrin-binding capacity, releasing non-transferrin-bound iron (NTBI) that triggers acute free-radical capillary damage, nausea, and severe hypotension. The total cumulative iron deficit (Ganzoni formula) must be divided into 100 mg to 200 mg aliquots given 2 to 3 times weekly.",
+      "Active Systemic Infection Warning: In patients with active systemic bacteremia (such as catheter-related bloodstream infections in hemodialysis), parenteral iron therapy should be temporarily withheld. Pathogenic bacteria utilize iron to synthesize siderophores, which accelerates bacterial proliferation and can worsen bacteremic sepsis."
+    ]
+  },
+  {
+    "id": "artesunate-for-injection-ip-60mg",
+    "name": "Artesunate for Injection IP (60mg)",
+    "generic_names": [
+      "Artesunate for Injection IP 60mg/Vial",
+      "Artesunate Powder for Injection with Sodium Bicarbonate Diluent",
+      "Falcinil 60mg",
+      "Larinate 60mg",
+      "Articuno 60",
+      "Ulteria 60mg",
+      "Malnate 60"
+    ],
+    "category": ["Infections & Parasites", "Emergency & Critical Care"],
+    "sub_category": "Semisynthetic Artemisinin-Derived Sesquiterpene Lactone Endoperoxide & Potent Rapid-Kill Schizonticide",
+    "company_name": "AS1",
+    "amount": "215/- (1 Glass Vial 60mg + 1mL Sodium Bicarbonate Ampoule + 5mL Normal Saline Ampoule)",
+    "routes_of_administration": [
+      "Slow Intravenous Injection (Slow IV Push over 1 to 2 mins)",
+      "Deep Intramuscular (IM - Anterolateral Thigh or Gluteal)"
+    ],
+    "main_cause": "Severe Plasmodium falciparum Malaria, Cerebral Malaria & Encephalopathy, Acute Malarial Multi-Organ Dysfunction Syndrome (ARDS, Acute Kidney Injury, Severe Lactic Acidosis, Blackwater Fever Hemoglobinuria), Severe Plasmodium vivax Malaria with Complications, Malaria Hyperparasitemia (>5% to 10% Parasitized RBCs) with Oral Intolerance",
+    "why_this_disease_happens": "Severe malaria is caused by the intraerythrocytic invasion and exponential replication of Plasmodium falciparum (and occasionally virulent P. vivax). Inside erythrocytes, the parasite consumes host hemoglobin, releasing toxic free heme and polymerizing the remainder into inert hemozoin crystals. As trophozoites mature into late-stage schizonts, the parasite exports Plasmodium falciparum erythrocyte membrane protein-1 (PfEMP-1) to the host red cell surface. PfEMP-1 binds vascular endothelial receptors—principally CD36, Intercellular Adhesion Molecule-1 (ICAM-1), and Endothelial Protein C Receptor (EPCR)—causing infected red blood cells to adhere avidly to microvascular beds (sequestration) and to uninfected red blood cells (rosetting). In deep microcirculatory vascular beds of the brain, lungs, and kidneys, microvascular obstruction impairs capillary perfusion, causing regional tissue hypoxia, severe anaerobic glycolysis, and high-anion-gap lactic acidosis. In cerebral malaria, microvascular clogging and local cytokine release (TNF-alpha, IFN-gamma) break down the blood-brain barrier, causing diffuse petechial ring hemorrhages, cerebral edema, coma, and seizures. Older cinchona alkaloids like quinine clear parasites slowly, are prone to cardiotoxicity, and stimulate pancreatic beta cells to cause profound hypoglycemia.",
+    "how_this_medicine_fights_it": "Provides rapid parasite destruction across all asexual erythrocytic stages via iron-activated endoperoxide free-radical alkylation: (1) In Vivo Conversion to Active Dihydroartemisinin: Artesunate is a water-soluble hemisuccinate ester derivative of dihydroartemisinin. Following intravenous injection, plasma and tissue esterases hydrolyze artesunate within minutes into its primary active metabolite, dihydroartemisinin (DHA). (2) Endoperoxide Cleavage by Parasite Heme: Both artesunate and DHA contain a 1,2,4-trioxane pharmacophore with a stable endoperoxide bridge (-C-O-O-C-). When the lipophilic molecule enters the parasite's food vacuole, the endoperoxide bridge is cleaved by divalent ferrous iron (Fe2+) derived from digested host hemoglobin or heme. (3) Cytotoxic Carbon-Centered Radical Generation: Cleavage of the endoperoxide bridge unleashes short-lived, highly reactive carbon-centered free radicals and reactive oxygen species (ROS). These radicals alkylate essential parasite proteins, damage food vacuole membranes, and disrupt the PfATP6 sarcoplasmic/endoplasmic reticulum calcium ATPase (SERCA-type Ca2+ pump). (4) Broad Asexual Stage-Specific Clearance: Unlike quinine (which acts strictly on mature trophozoites), artesunate kills all circulating asexual stages—from very young circulating ring-form trophozoites to mature schizonts—and prevents cytoadherence and microvascular sequestration. Parasitemia drops by more than 90% within 18 to 24 hours (a 10,000-fold reduction per 48-hour cycle), preventing progressive microvascular occlusion, lactic acidosis, and organ failure without inducing insulin release or hypoglycemia.",
+    "drug_class": "Sesquiterpene Lactone Derivative / Artemisinin Endoperoxide Antimalarial Agent",
+    "main_action": "Iron-catalyzed cleavage of the 1,2,4-trioxane endoperoxide bridge within the parasite food vacuole, generating carbon-centered free radicals that alkylate essential malarial proteins (including PfATP6) to rapidly clear ring-stage and mature schizonts.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "First-line emergency pharmacotherapy for Severe Plasmodium falciparum malaria in adults, children, and pregnant women across all trimesters (WHO Guidelines)",
+      "Cerebral malaria presenting with unarousable coma, recurrent generalized convulsions, or decerebrate/decorticate posturing",
+      "Severe complicated malaria complicated by acute kidney injury (serum creatinine > 3 mg/dL), acute pulmonary edema/ARDS, or severe metabolic acidosis",
+      "Severe Plasmodium vivax malaria presenting with acute hemodynamic shock, hyperparasitemia, or spontaneous splenic rupture",
+      "Parenteral emergency treatment for malaria patients with repeated vomiting, dehydration, or prostration who cannot absorb oral Artemisinin-based Combination Therapy (ACT)"
+    ],
+    "how_patients_describe_symptoms": [
+      "I was admitted to the hospital with shaking chills, spiking fevers, and dark tea-colored urine, completely unable to keep any oral antimalarial tablets down.",
+      "My child was delirious, having continuous seizures and slipping into unconsciousness from cerebral malaria before this three-step vial injection cleared the parasite count.",
+      "The emergency team gave me this slow IV injection immediately upon testing positive for complicated malaria, and my fever subsided within 24 hours."
+    ],
+    "reconstitution_and_dilution": "Mandatory Two-Step Reconstitution Process: Supplied as a lyophilized powder vial (60 mg artesunic acid) accompanied by a 1 mL ampoule of 5% Sodium Bicarbonate and a 5 mL ampoule of 0.9% Normal Saline. Step 1 (Activation): Inject exactly 1.0 mL of 5% Sodium Bicarbonate into the 60 mg vial. Shake vigorously for 2 to 3 minutes until all dry powder is dissolved and the solution is completely clear and free of bubbles; artesunic acid reacts with bicarbonate to form water-soluble sodium artesunate. Step 2 (Dilution): For Intravenous (IV) Injection, add 5.0 mL of 0.9% Normal Saline (or 5% Dextrose) to the vial to yield 6.0 mL of solution (concentration: 10 mg/mL). For Intramuscular (IM) Injection, add only 2.0 mL of 0.9% Normal Saline to yield 3.0 mL of solution (concentration: 20 mg/mL). MUST BE PREPARED FRESH AND INJECTED WITHIN 1 HOUR OF RECONSTITUTION; do not refrigerate or store once mixed.",
+    "infusion_rate_and_timing": "Slow IV Push: Administer over 1 to 2 minutes directly into a patent peripheral vein or via a free-flowing IV line. WHO Dosing Schedule: Administer 2.4 mg/kg IV (or 3.0 mg/kg IV in pediatric patients weighing < 20 kg) at 0 hours (admission), 12 hours, and 24 hours, followed by once daily every 24 hours until the patient can tolerate oral medications (minimum 3 parenteral doses before transitioning to a full 3-day oral ACT course).",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adult and pediatric patients of all ages presenting with clinical or laboratory criteria of severe, complicated malaria",
+        "Pregnant women in ALL trimesters (first, second, and third) presenting with severe malaria (WHO guidelines state that maternal survival outweighs theoretical teratogenic concerns; artesunate saves maternal lives compared to quinine)",
+        "Patients in endemic areas with positive peripheral blood smears or rapid diagnostic tests (RDTs) showing high parasitemia with clinical prostration"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Patients with known severe hypersensitivity or anaphylaxis to artesunate, artemisinin derivatives, or sodium bicarbonate",
+        "Not indicated for uncomplicated malaria when the patient is fully conscious and able to swallow oral Artemisinin-based Combination Therapy (ACT); oral ACTs should be used to prevent intravenous resistance selection",
+        "Patients failing to follow up with a full 3-day oral ACT course (parenteral artesunate alone leaves persistent parasites, predisposing to recrudescence and resistance)"
+      ]
+    },
+    "common_side_effects": [
+      "Post-Artesunate Delayed Hemolysis (PADH): delayed-onset hemolytic anemia occurring 1 to 3 weeks after clinical recovery (characterized by drop in hemoglobin, elevated LDH, and unconjugated hyperbilirubinemia)",
+      "Transient gastrointestinal distress: mild nausea, vomiting, metallic taste, or diarrhea",
+      "Mild transient dizziness, lightheadedness, or headache",
+      "Transient elevations in serum transaminases (ALT/AST) and mild reticulocytopenia",
+      "Localized injection-site discomfort or mild erythema when administered intramuscularly"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "Mandatory Two-Step Reconstitution Protocol: Artesunic acid is water-insoluble. Healthcare personnel MUST NEVER inject Sterile Water or Normal Saline directly into the dry powder first. The dry powder MUST first be dissolved with the provided 1.0 mL of 5% Sodium Bicarbonate (Step 1) to form sodium artesunate. Only AFTER complete dissolution should the 0.9% Normal Saline diluent be added (Step 2). Failing to use bicarbonate results in an un-dissolved, turbid acid suspension that can precipitate micro-emboli.",
+      "Chemical Instability (The 1-Hour Administration Limit): Aqueous sodium artesunate hydrolyzes rapidly into insoluble dihydroartemisinin in solution. Once reconstituted, the solution must be inspected for clarity and INJECTED WITHIN 1 HOUR. If the solution becomes cloudy, hazy, or develops precipitates, it must be discarded immediately.",
+      "Superiority Over Quinine (AQUAMAT & SEAQUAMAT Landmark Evidence): Large international randomized multicenter trials (SEAQUAMAT in adults, AQUAMAT in African children) demonstrated that intravenous artesunate reduces mortality in severe malaria by 34.7% in adults and 22.5% in children compared to intravenous quinine. Furthermore, artesunate eliminates quinine-induced hyperinsulinemic hypoglycemia and cinchonism, making it the uncontested global gold standard.",
+      "Mandatory Follow-up Oral ACT Regimen: Parenteral artesunate has an elimination half-life of less than 45 minutes. Even when blood smears appear cleared, viable dormant ring-stage parasites ('quiescent rings') persist. Therefore, once the patient tolerates oral intake (after at least 3 parenteral doses), A COMPLETE 3-DAY ORAL COURSE OF ARTEMISININ-BASED COMBINATION THERAPY (ACT, e.g., Artemether-Lumefantrine or Artesunate-Amodiaquine) MUST BE COMPLETED to eradicate residual parasites and prevent recrudescence.",
+      "Post-Artesunate Delayed Hemolysis (PADH) Surveillance: Approximately 10% to 20% of severe malaria patients treated with IV artesunate experience delayed hemolytic anemia 7 to 21 days after treatment. This happens because artesunate kills the intracellular parasite while allowing the spleen to 'pit' and extrude the dead parasite from the erythrocyte; these once-infected pitted red cells have a shortened survival and are cleared en masse 1 to 3 weeks later. Monitor hemoglobin, reticulocytes, and LDH for 4 weeks post-treatment."
+    ]
+  },
+  {
+    "id": "enoxaparin-sodium-injection-ip-40mg-60mg-pfs",
+    "name": "Enoxaparin Sodium Injection IP (40mg/0.4mL & 60mg/0.6mL)",
+    "generic_names": [
+      "Enoxaparin Sodium Pre-Filled Syringe (PFS) IP 40mg/0.4mL & 60mg/0.6mL",
+      "Low Molecular Weight Heparin (LMWH) Injection",
+      "Clexane 40mg / 60mg PFS",
+      "Lovenox Injection",
+      "Lonopin 40 / 60",
+      "Enoxapil 40mg/0.4mL",
+      "Maxiparin PFS"
+    ],
+    "category": [
+      "Cardiovascular",
+      "Emergency & Critical Care",
+      "Surgery & Trauma"
+    ],
+    "sub_category": "Depolymerized Porcine Mucosal Low Molecular Weight Heparin (LMWH) & Antithrombin III-Mediated Factor Xa Inhibitor",
+    "company_name": "EX1",
+    "amount": "440/- (40mg/0.4mL PFS) | 620/- (60mg/0.6mL PFS)",
+    "routes_of_administration": [
+      "Subcutaneous Injection Only (SC - Deep Anterolateral or Posterolateral Abdominal Wall)",
+      "Intravenous Bolus (IV Bolus - STEMI Induction Protocol Only)",
+      "Extracorporeal Circuit Injection (Hemodialysis Arterial Line)"
+    ],
+    "main_cause": "Prophylaxis & Therapeutic Treatment of Deep Vein Thrombosis (DVT) and Pulmonary Embolism (PE), Acute Coronary Syndromes (Unstable Angina, NSTEMI, Acute STEMI Revascularization), Perioperative Thromboprophylaxis in Major Orthopedic / Abdominal Surgeries, Prevention of Extracorporeal Thrombus in Hemodialysis Circuits, Recurrent Miscarriage Associated with Antiphospholipid Syndrome (APS)",
+    "why_this_disease_happens": "Pathological venous and arterial thrombosis is driven by Virchow's triad: endothelial injury, circulatory stasis, and systemic hypercoagulability. Following major orthopedic trauma (e.g., hip/knee arthroplasty), prolonged bed rest, septic shock, active malignancies, or pelvic surgery, venous flow in the deep calf and femoral veins slows drastically. Hypoxic venular endothelial cells downregulate thrombomodulin and tissue factor pathway inhibitor (TFPI) while exposing tissue factor (Factor III). This initiates the extrinsic and intrinsic tenase complexes, triggering a proteolytic cascade where activated Factor X (Factor Xa) joins activated Factor V, calcium, and platelet phospholipids to assemble the prothrombinase complex. The prothrombinase complex catalyzes a self-amplifying burst of thrombin (Factor IIa) generation from prothrombin. Thrombin hydrolyzes fibrinogen into fibrin polymers and activates Factor XIII, producing an occlusive red thrombus in the deep veins. If this thrombus dislodges, it travels through the vena cava and right heart chambers to lodge in the pulmonary arterial tree, causing acute pulmonary embolism (PE), mechanical right ventricular strain, cardiogenic shock, and sudden death. In acute coronary syndromes (NSTEMI/STEMI), atherosclerotic plaque rupture exposes subendothelial collagen, recruiting platelets and stimulating prothrombinase assembly, which occludes epicardial coronary arteries.",
+    "how_this_medicine_fights_it": "Provides targeted, high-ratio Factor Xa inactivation with predictable bioavailability through controlled glycosaminoglycan depolymerization: (1) Targeted Antithrombin III (AT-III) Conformational Activation: Enoxaparin is a low-molecular-weight heparin obtained by alkaline beta-eliminative depolymerization of benzyl esters of porcine intestinal mucosal mucosal heparin (average molecular weight: ~4,500 Daltons). A unique, conserved pentasaccharide sequence within enoxaparin binds with high affinity to Antithrombin III (AT-III), inducing an irreversible 300-fold conformational change in the reactive center loop of AT-III. (2) High Anti-Xa to Anti-IIa Selectivity Ratio (3.8:1): Once activated, the AT-III complex neutralizes Factor Xa by trapping its catalytic serine active site. Unlike unfractionated heparin (UFH)—which consists of long polysaccharide chains (>18 saccharide units, molecular weight >15,000 Da) capable of wrapping simultaneously around AT-III and thrombin (Factor IIa) in an equimolar 1:1 ratio—most enoxaparin fragments are too short to span both AT-III and thrombin. Consequently, enoxaparin exhibits an Anti-Factor Xa to Anti-Factor IIa (antithrombin) activity ratio of approximately 3.8:1. Neutralizing a single molecule of Factor Xa prevents the subsequent generation of roughly 1,000 molecules of downstream thrombin. (3) Superior Pharmacokinetics & Tissue Factor Pathway Inhibitor (TFPI) Release: Enoxaparin has lower non-specific binding affinity for plasma proteins, endothelial cells, and macrophages than UFH, resulting in nearly 100% subcutaneous bioavailability, a prolonged half-life (4 to 7 hours), and predictable dose-dependent clearance. Additionally, it stimulates sustained endothelial release of Tissue Factor Pathway Inhibitor (TFPI), suppressing extrinsic tenase activation. (4) Low Platelet Factor 4 (PF4) Reactivity: Because of its shorter polysaccharide chain length, enoxaparin exhibits significantly less electrostatic cross-linking with Platelet Factor 4 (PF4), reducing the incidence of immune-mediated Heparin-Induced Thrombocytopenia (HIT Type II) by more than 70% compared to unfractionated heparin.",
+    "drug_class": "Low Molecular Weight Heparin (LMWH) / Antithrombin III-Dependent Selective Factor Xa Inhibitor",
+    "main_action": "Binds antithrombin III via a specific pentasaccharide sequence to accelerate Factor Xa neutralization with a 3.8:1 Anti-Xa to Anti-IIa ratio, halting prothrombinase assembly and preventing thrombin generation without requiring routine aPTT monitoring.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Prophylaxis of deep vein thrombosis (DVT) and pulmonary embolism (PE) in hospitalized surgical patients (total hip/knee replacement, colorectal surgery: 40mg SC once daily)",
+      "Prophylaxis of VTE in acutely ill medical patients immobilized by acute heart failure, respiratory failure, or severe sepsis (40mg SC once daily)",
+      "Full-dose therapeutic anticoagulation for confirmed acute DVT with or without pulmonary embolism (1mg/kg SC every 12 hours or 1.5mg/kg SC once daily)",
+      "Treatment of acute Non-ST-Segment Elevation Myocardial Infarction (NSTEMI) and unstable angina (1mg/kg SC every 12 hours co-prescribed with Aspirin)",
+      "Acute ST-Segment Elevation Myocardial Infarction (STEMI) revascularization protocol (single 30mg IV bolus followed immediately by 1mg/kg SC every 12 hours)",
+      "Prevention of clot formation in extracorporeal circulation during maintenance hemodialysis (administered into the arterial line at 0.5 to 1mg/kg)",
+      "Management of secondary antiphospholipid syndrome (APS) in recurrent pregnancy loss (40mg SC once daily alongside low-dose aspirin)"
+    ],
+    "how_patients_describe_symptoms": [
+      "My left calf was painfully swollen, warm, tight, and red after my knee surgery (deep vein thrombosis) before these small belly injections cleared the clot.",
+      "During my emergency heart attack admission, the cardiologist gave an initial IV push followed by twice-daily pre-filled injections into my abdomen to keep my heart stents open.",
+      "Because of a blood clotting disorder, I took this small daily self-injection into my stomach fat throughout my pregnancy to prevent miscarriages and clots."
+    ],
+    "reconstitution_and_dilution": "Supplied ready-to-inject in sterile, single-use, pre-filled glass syringes (PFS) with an automatic needle-safety guard system (40 mg / 0.4 mL = 4000 anti-Xa IU; 60 mg / 0.6 mL = 6000 anti-Xa IU; 100 mg/mL concentration). No reconstitution or secondary dilution required. Do not expel the small nitrogen air bubble from the pre-filled syringe prior to subcutaneous injection; this air bubble clears the needle track and seals the medication within the subcutaneous depot. For the initial STEMI IV bolus (30 mg), expel 0.1 mL from a 40 mg/0.4 mL PFS to leave 30 mg (0.3 mL) and connect to a peripheral IV line.",
+    "infusion_rate_and_timing": "Subcutaneous (SC) Injection Only for routine therapy: Patient should be in a supine or seated position. Pinch a skin fold on the anterolateral or posterolateral abdominal wall (the 'love handles'), insert the needle vertically at a 90-degree angle to its full depth, and inject slowly over 5 to 10 seconds. Do not rub the injection site afterward (prevents extensive subcutaneous hematomas). IV Bolus: In acute STEMI, inject the 30mg loading dose directly into an IV port over 10 to 15 seconds. Deep IM administration is strictly prohibited.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adult patients undergoing high-risk orthopedic, pelvic, or general abdominal surgeries requiring VTE prophylaxis",
+        "Medical inpatients with restricted mobility suffering from acute cardiac failure or severe respiratory infections",
+        "Patients with acute coronary syndromes (STEMI, NSTEMI, unstable angina) managed with medical therapy or PCI",
+        "Pregnant women requiring therapeutic or prophylactic anticoagulation (LMWHs do not cross the placenta and are the anticoagulant of choice in pregnancy)"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Absolute Contraindication: History of immune-mediated Heparin-Induced Thrombocytopenia (HIT Type II) within the past 100 days or presence of circulating anti-platelet factor 4 (PF4) antibodies (cross-reactivity exceeds 90%)",
+        "Absolute Contraindication: Active major internal hemorrhage, clinically significant active bleeding, or acute bacterial endocarditis",
+        "Absolute Contraindication: Patients scheduled for or undergoing spinal or epidural anesthesia/lumbar puncture without adhering to mandatory withdrawal windows (FDA Black Box: spinal/epidural hematoma resulting in permanent paraplegia)",
+        "Severe End-Stage Renal Impairment (Creatinine Clearance < 30 mL/min): Enoxaparin is eliminated unchanged via renal filtration; in severe renal failure, the drug accumulates, elevating bleeding risks (dose must be reduced to 1mg/kg ONCE daily for therapeutic use, or 20-30mg once daily for prophylaxis; Unfractionated Heparin is preferred in dialysis)",
+        "Patients with severe uncontrolled hypertension (SBP > 200 mmHg or DBP > 110 mmHg; elevates hemorrhagic stroke risk)"
+      ]
+    },
+    "common_side_effects": [
+      "Localized injection-site hematoma, ecchymosis, bruising, and mild burning pain in the abdominal subcutaneous tissue",
+      "Hemorrhagic complications: minor bleeding from gums, epistaxis, hematuria, or prolonged oozing from venipuncture sites",
+      "Asymptomatic, transient elevations in hepatic transaminases (ALT/AST) without jaundice (resolves spontaneously upon cessation)",
+      "Mild, non-immune transient thrombocytopenia (HIT Type I: transient drop in platelets occurring in the first 1 to 4 days, self-limiting)",
+      "Hyperkalemia (heparin-mediated suppression of adrenal aldosterone secretion, particularly in diabetic or renal patients)",
+      "Local skin necrosis or erythematous indurated plaques at injection sites (rare, warrants immediate HIT evaluation)"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "FDA Black Box Warning (Neuraxial Spinal/Epidural Hematoma & Paraplegia): When neuraxial anesthesia (spinal/epidural) or spinal puncture is performed in patients anticoagulated with enoxaparin, there is a risk of epidural or spinal hematoma formation. This can cause long-term or permanent motor paralysis. Placement or removal of an epidural/spinal catheter must be delayed for at least 12 hours after prophylactic doses (40mg/day) and at least 24 hours after full therapeutic doses (1mg/kg twice daily). The next enoxaparin dose should not be given until at least 4 hours after catheter removal.",
+      "Never Expel the Air Bubble (The 'Air Bubble Lock' Technique): Pre-filled enoxaparin syringes are manufactured with a small pre-measured air bubble. NURSES AND DOCTORS MUST NEVER EXPEL THIS AIR BUBBLE BEFORE INJECTION. The bubble follows the medication into the subcutaneous depot, flushing the needle dead-space and creating an air lock that prevents the concentrated drug from tracking back up into the dermis, which prevents painful tracking bruising and hematoma formation.",
+      "Strict Route Restriction (Deep Subcutaneous ONLY - NEVER Intramuscular): Enoxaparin MUST NEVER be injected intramuscularly (IM). Intramuscular administration causes extensive deep muscular hematomas, localized compartment syndrome, and unpredictable systemic absorption.",
+      "Severe Renal Impairment Dose Reduction (CrCl < 30 mL/min): Unlike unfractionated heparin (which is cleared via reticuloendothelial mechanisms and liver), enoxaparin is cleared predominantly by the kidneys. When CrCl drops below 30 mL/min, drug clearance decreases by 30% to 50%, causing accumulation and bleeding. Dosing must be adjusted: for DVT treatment, reduce from 1mg/kg twice daily to 1mg/kg ONCE daily; for VTE prophylaxis, reduce from 40mg to 20mg or 30mg ONCE daily. Alternatively, switch to Unfractionated Heparin (UFH).",
+      "Monitoring Parameters (Anti-Factor Xa Assay vs. aPTT): Standard therapeutic doses of enoxaparin do NOT predictably prolong the activated Partial Thromboplastin Time (aPTT) or Prothrombin Time (PT/INR). DO NOT use aPTT to monitor enoxaparin. If monitoring is clinically necessary (e.g., in morbid obesity >150 kg, severe renal disease, or pregnancy), measure the Anti-Factor Xa activity level (target therapeutic peak level: 0.6 to 1.0 IU/mL drawn exactly 4 hours post-subcutaneous dose).",
+      "Incomplete Reversal by Protamine Sulfate: If life-threatening bleeding occurs, Protamine Sulfate can neutralize the anti-thrombin (anti-IIa) activity of enoxaparin; however, it neutralizes only approximately 60% of the anti-Factor Xa activity due to poor protamine binding to short polysaccharide chains. 1 mg of Protamine Sulfate neutralizes approximately 1 mg (100 anti-Xa units) of enoxaparin administered within the past 8 hours."
+    ]
+  },
+  {
+    "id": "piperacillin-tazobactam-for-injection-ip-4-5g",
+    "name": "Piperacillin & Tazobactam for Injection IP (4.5g)",
+    "generic_names": [
+      "Piperacillin and Tazobactam for Injection IP 4.5g (4g + 0.5g)",
+      "Pip-Taz 4.5g IV",
+      "Zosyn 4.5g",
+      "Tazocin 4.5g",
+      "Piptaz 4.5g",
+      "Tazar 4.5g",
+      "Pipracid-T 4.5g"
+    ],
+    "category": [
+      "Infections & Parasites",
+      "Emergency & Critical Care",
+      "Respiratory"
+    ],
+    "sub_category": "Extended-Spectrum Ureidopenicillin & Irreversible Beta-Lactamase Inhibitor (Antipseudomonal Penicillin Combination)",
+    "company_name": "PT1",
+    "amount": "485/- (1 Glass Vial 4.5g with SWFI)",
+    "routes_of_administration": [
+      "Intravenous Infusion Only (Intermittent Piggyback / Extended Infusion)",
+      "Slow Intravenous Injection (Slow IV Push over >= 3 to 5 mins)"
+    ],
+    "main_cause": "Hospital-Acquired Pneumonia (HAP) & Ventilator-Associated Pneumonia (VAP), Severe Polymicrobial Intra-Abdominal Sepsis (Secondary Peritonitis, Intra-Abdominal Abscesses), Febrile Neutropenia Empiric Monotherapy, Complicated Skin & Skin Structure Infections (Diabetic Foot Ulcers, Necrotizing Fasciitis), Complicated Urinary Tract Infections (Pyelonephritis with Urosepsis), Severe Pseudomonas aeruginosa Bacteremia",
+    "why_this_disease_happens": "Severe nosocomial infections, ICU ventilator pneumonia, and perforated intra-abdominal catastrophes are typically polymicrobial, driven by synergistic virulent consortia of Gram-negative bacilli (Pseudomonas aeruginosa, Klebsiella pneumoniae, Enterobacter, E. coli), Gram-positive cocci (Enterococcus faecalis, methicillin-susceptible Staphylococcus aureus, Streptococcus pyogenes), and strict anaerobic pathogens (Bacteroides fragilis). Gram-negative bacteria possess complex outer membranes equipped with narrow porin channels and elaborate constitutive or plasmid-mediated beta-lactamases (penicillinases, cephalosporinases, and broad-spectrum beta-lactamases). These periplasmic enzymes hydrolyze the four-membered beta-lactam ring of standard penicillins and cephalosporins, neutralizing their antibacterial efficacy. Furthermore, pathogens like Pseudomonas aeruginosa downregulate outer membrane porin OprD and upregulate intrinsic AmpC cephalosporinases and active multidrug efflux pumps, preventing antibiotic accumulation in the periplasm. Bacteria multiply, shedding endotoxin (lipopolysaccharide) and peptidoglycan fragments that activate toll-like receptors (TLR4/TLR2) on macrophages, triggering a systemic cytokine cascade (TNF-alpha, IL-1beta, IL-6), disseminated microvascular leakage, capillary thrombosis, multiorgan hypoperfusion, and septic shock.",
+    "how_this_medicine_fights_it": "Provides synchronized bactericidal peptidoglycan destruction combined with catalytic beta-lactamase neutralization across an extended aerobic-anaerobic spectrum: Formulated in an 8:1 fixed weight ratio of Piperacillin Sodium (4.0 g) and Tazobactam Sodium (0.5 g): (1) High-Affinity PBP Acylation (Piperacillin): Piperacillin is a semisynthetic aminopenicillin bearing a polar 4-ethyl-2,3-dioxo-1-piperazinecarboxamido side chain (ureidopenicillin). This polar side chain facilitates rapid penetration through the narrow outer membrane porin channels (OmpF/OprF) of Gram-negative bacilli. Once inside the periplasmic space, it binds covalently with high affinity to essential Penicillin-Binding Proteins—specifically PBP-3, PBP-1a, and PBP-1b. Acylating these transpeptidases halts the transpeptidation reaction, preventing the cross-linking of linear peptidoglycan polymers. Bacterial division stops, filamentation occurs, and uncontrolled endogenous murein hydrolases (autolysins) degrade the cell wall, causing osmotic fragility, cell lysis, and rapid bactericidal death. (2) Suicide Inhibition of Beta-Lactamases (Tazobactam): Tazobactam is a penicillanic acid sulfone derivative. It acts as an irreversible 'suicide' beta-lactamase inhibitor. Tazobactam enters the catalytic active site of bacterial beta-lactamases (Richmond-Sykes class III, IV, and V; Ambler class A and C enzymes, including TEM, SHV, and Richmond-Sykes penicillinases/cephalosporinases produced by B. fragilis, E. coli, Klebsiella, and S. aureus). The enzyme attacks the beta-lactam carbonyl of tazobactam, forming a transient acyl-enzyme intermediate that rapidly rearranges to form an irreversible, covalently modified, inactive enzyme complex. This protects the co-administered piperacillin from enzymatic hydrolysis, restoring its full antibacterial potency against beta-lactamase-producing strains. (3) Broad Polymicrobial & Anaerobic Coverage: The combination provides comprehensive coverage against Pseudomonas aeruginosa, Enterobacteriaceae, streptococci, MSSA, and anaerobic pathogens (including Bacteroides fragilis), allowing monotherapy in mixed intra-abdominal and pulmonary infections without requiring routine addition of metronidazole.",
+    "drug_class": "Ureidopenicillin + Penicillanic Acid Sulfone Beta-Lactamase Inhibitor / Broad-Spectrum Antipseudomonal Antibiotic",
+    "main_action": "Inhibits bacterial cell wall peptidoglycan cross-linking by binding Penicillin-Binding Proteins (PBP-3/PBP-1) while irreversibly inactivating bacterial beta-lactamases via suicide inhibition, restoring bactericidal activity against multidrug-resistant Gram-negative and anaerobic pathogens.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Hospital-Acquired Pneumonia (HAP) and Ventilator-Associated Pneumonia (VAP) in ICU wards",
+      "Complicated intra-abdominal infections, secondary peritonitis, perforated diverticulitis, and acute severe necrotizing pancreatitis (empiric monotherapy)",
+      "Empiric monotherapy for Febrile Neutropenia in oncology patients with high risk of pseudomonal bacteremia",
+      "Severe complicated diabetic foot infections and polymicrobial necrotizing skin/soft-tissue infections",
+      "Complicated urinary tract infections, pyelonephritis, and severe urosepsis caused by multidrug-resistant Enterobacteriaceae",
+      "Severe postpartum endometritis and pelvic inflammatory disease complicated by tubo-ovarian abscesses"
+    ],
+    "how_patients_describe_symptoms": [
+      "I was on a mechanical breathing machine in the ICU when I developed a severe hospital lung infection with high fever and thick secretions before this broad-spectrum antibiotic cleared my pneumonia.",
+      "My ruptured appendix caused severe abdominal sepsis and peritonitis; the surgical team started this clear IV drip immediately to control the infection before and after emergency surgery.",
+      "During my chemotherapy when my white blood cells were zero, I developed a sudden spiking fever; the oncologist gave me this powerful antipseudomonal antibiotic to prevent septic shock."
+    ],
+    "reconstitution_and_dilution": "Reconstitution Protocol: Supplied as a sterile lyophilized white to off-white cake/powder in a 4.5g vial (containing Piperacillin Sodium 4g + Tazobactam Sodium 0.5g). Reconstitute the 4.5g vial with at least 20 mL of compatible diluent (Sterile Water for Injection, 0.9% Normal Saline, or 5% Dextrose in Water). Swirl vigorously until completely dissolved (takes approximately 1 to 2 minutes). For Intermittent or Extended IV Infusion, transfer the reconstituted 20 mL solution into a 50 mL to 150 mL infusion bag of 0.9% Normal Saline, 5% Dextrose (D5W), or Ringer's Lactate. Note: Chemically incompatible with Lactated Ringer's when co-administered in the same line with certain formulations containing EDTA excipients; incompatible with Aminoglycosides (direct chemical mutual inactivation in the same syringe or bag). Deep IM route is strictly unapproved for the 4.5g dose due to volume limitations.",
+    "infusion_rate_and_timing": "Intermittent Standard Infusion: Infuse the diluted 50-100 mL solution over 30 minutes every 6 to 8 hours. Extended Infusion Strategy (Optimized PK/PD Beta-Lactam Protocol): Modern critical care and IDSA guidelines strongly recommend an extended infusion of 4.5g over 3 to 4 hours every 8 hours (or continuous 24-hour infusion of 13.5g to 18g/day) in septic shock and ICU pneumonia to maximize the time that free drug concentration remains above the Minimum Inhibitory Concentration (time above MIC: fT > MIC). Slow IV Push (emergency only): Can be given over a minimum of 3 to 5 minutes.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Hospitalized adult and pediatric patients (>=2 months) presenting with severe nosocomial, polymicrobial, or pseudomonal infections",
+        "Neutropenic oncology patients presenting with acute fevers requiring broad antipseudomonal coverage",
+        "Patients with severe intra-abdominal infections who require coverage against both Gram-negative rods and Bacteroides fragilis in a single container"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Absolute Contraindication: Documented history of severe immediate IgE-mediated hypersensitivity (anaphylaxis, severe angioedema, Stevens-Johnson syndrome) to penicillins, cephalosporins, or beta-lactamase inhibitors",
+        "Patients with severe renal impairment (Creatinine Clearance < 50 mL/min) without renal dosage interval adjustment (piperacillin is cleared >70% by the kidneys; accumulation predisposes to neurotoxicity, confusion, myoclonus, and seizures)",
+        "Co-administration with high-dose Vancomycin in patients with fluctuating renal function without monitoring (significantly elevated risk of Acute Kidney Injury)",
+        "Patients on strict sodium-restricted diets (the 4.5g formulation contains approximately 2.79 to 2.84 mEq [64 mg to 65 mg] of sodium per gram of piperacillin, delivering >11 mEq of sodium per 4.5g vial)"
+      ]
+    },
+    "common_side_effects": [
+      "Gastrointestinal: diarrhea (most common, up to 10-15%), nausea, vomiting, or dyspepsia",
+      "Infusion-site chemical thrombophlebitis, localized erythema, or venous pain along the cannulated vein",
+      "Cutaneous reactions: maculopapular rash, pruritus, or urticaria",
+      "Headache, insomnia, or dizziness",
+      "Transient hematological and biochemical shifts: eosinophilia, leukopenia, elevated serum transaminases (ALT/AST), or alkaline phosphatase",
+      "Hypokalemia (due to non-reabsorbable piperacillin anions increasing distal tubular potassium excretion)"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "Extended Infusion Strategy (PK/PD Optimization): Piperacillin is a time-dependent beta-lactam antibiotic whose bactericidal activity depends on the percentage of time that free serum drug concentration exceeds the pathogen MIC (fT > MIC). In critical care pneumonia, sepsis, and documented Pseudomonas aeruginosa infections, clinical outcomes and survival are significantly superior when 4.5g is infused as an EXTENDED INFUSION OVER 3 TO 4 HOURS every 8 hours, rather than traditional 30-minute rapid boluses.",
+      "Acute Kidney Injury (AKI) Warning with Vancomycin Co-Administration: Concomitant administration of Piperacillin-Tazobactam with Vancomycin is associated with a significantly increased incidence of synergistic Acute Kidney Injury (AKI) compared to Vancomycin combined with Cefepime, Meropenem, or Aztreonam. In ICU and septic patients, monitor serum creatinine, urine output, and vancomycin trough levels daily; consider switching to Cefepime or Meropenem if prolonged dual coverage is required.",
+      "Renal Dose Titration Schedule: Both piperacillin and tazobactam are cleared primarily by glomerular filtration and tubular secretion. Dosing must be adjusted: for CrCl 20-40 mL/min: 3.375g every 6 hours or 4.5g every 8 hours; for CrCl < 20 mL/min: 2.25g every 6 hours or 3.375g every 8 hours; for patients on Hemodialysis: 2.25g every 8 hours with an additional 0.75g supplemental dose administered post-dialysis.",
+      "Sodium Load & Hypokalemia Alert: A standard daily regimen of 4.5g every 6 hours delivers more than 44 mEq (1 gram) of elemental sodium per day, which can exacerbate congestive heart failure and pulmonary edema in fluid-overloaded patients. Additionally, high concentrations of non-reabsorbable piperacillin anions in the distal renal collecting tubule augment lumen-negative potentials, increasing urinary potassium wasting and predisposing patients to significant hypokalemia.",
+      "Aminoglycoside Incompatibility (Direct Chemical Inactivation): Piperacillin chemically inactivates aminoglycosides (gentamicin, tobramycin, amikacin) via nucleophilic attack on the aminoglycoside amino groups when mixed in the same intravenous bottle, tubing, or syringe. Always administer through completely separate IV lines or flush lines thoroughly between separate infusions.",
+      "Ineffective Against ESBLs & Carbapenemase Producers (The MERINO Trial Impact): Although tazobactam inhibits classic TEM and SHV beta-lactamases, the landmark MERINO randomized trial demonstrated that piperacillin-tazobactam is INFERIOR to Meropenem for definitive treatment of bloodstream infections caused by Ceftriaxone-resistant (ESBL-producing) E. coli and Klebsiella pneumoniae. Do not use Pip-Taz as definitive therapy for documented ESBL bacteremia."
+    ]
+  },
+  {
+    "id": "ceftriaxone-sodium-for-injection-ip-1g-2g",
+    "name": "Ceftriaxone Sodium for Injection IP (1g & 2g)",
+    "generic_names": [
+      "Ceftriaxone for Injection IP 1000mg & 2000mg",
+      "Monocef 1g / 2g Vial",
+      "Rocephin IV/IM",
+      "Oframax 1g / 2g",
+      "Czone 1000mg",
+      "Powercef 1g / 2g",
+      "Xone 1g"
+    ],
+    "category": [
+      "Infections & Parasites",
+      "Emergency & Critical Care",
+      "Respiratory"
+    ],
+    "sub_category": "Third-Generation Aminothiazolyl-Methoxyimino Cephalosporin with Dual Biliary-Renal Elimination & High CSF Penetration",
+    "company_name": "CF1",
+    "amount": "67/- (1g Vial + SWFI) | 135/- (2g Vial + SWFI)",
+    "routes_of_administration": [
+      "Slow Intravenous Injection (Slow IV Push over 2 to 4 mins)",
+      "Intravenous Infusion (IV Piggyback over 15 to 30 mins)",
+      "Deep Intramuscular (IM - Exclusively Reconstituted with 1% Lignocaine HCl)"
+    ],
+    "main_cause": "Acute Bacterial Meningitis (Streptococcus pneumoniae, Neisseria meningitidis, Haemophilus influenzae), Community-Acquired Pneumonia (CAP) & Severe Bronchopneumonia, Enteric / Typhoid Fever (MDR Salmonella enterica serovar Typhi), Complicated Pyelonephritis & Urosepsis, Disseminated Neisseria gonorrhoeae & Pelvic Inflammatory Disease (PID), Infective Endocarditis (Viridans Streptococci & HACEK Group), Surgical Antimicrobial Prophylaxis (Single-Dose Pre-Op)",
+    "why_this_disease_happens": "Invasive bacterial infections of the central nervous system, lungs, urinary tract, and bloodstream are initiated when virulent pathogens overcome host physical and humoral barriers. In acute bacterial meningitis, encapsulated bacteria (such as S. pneumoniae, N. meningitidis) enter the bloodstream, resist complement-mediated lysis via polysaccharide capsules, and cross the blood-brain barrier via transcellular or paracellular migration into the subarachnoid space. Lacking resident immunoglobulins and complement in CSF, the subarachnoid space allows uninhibited bacterial proliferation. Autolysis of bacterial walls sheds muramyl peptides, endotoxins (lipooligosaccharides), and teichoic acid, activating microglia and brain perivascular macrophages. This unleashes high levels of Interleukin-1 (IL-1), TNF-alpha, and IL-6, breaking down tight endothelial junctions of the blood-brain barrier and causing severe cerebral vasogenic edema, purulent neutrophilic exudation, elevated intracranial pressure (ICP), and brain ischemia. In severe sepsis, pyelonephritis, and typhoid fever, circulating Gram-negative bacilli shed endotoxin, causing systemic endothelial activation, microvascular leakage, and septic shock. Eliminating these pathogens requires a bactericidal beta-lactam that resists classical beta-lactamases, achieves sustained bactericidal concentrations above the MIC across tissue barriers, and crosses inflamed meninges.",
+    "how_this_medicine_fights_it": "Provides sustained bactericidal action and broad-spectrum tissue penetration via Penicillin-Binding Protein (PBP) acylation and stable stereochemical geometry: (1) Penicillin-Binding Protein Inactivation & Cell Wall Lysis: Ceftriaxone contains a core 7-aminocephalosporanic acid beta-lactam ring fused to a dihydrothiazine ring. It diffuses through outer membrane porin channels in Gram-negative bacteria and binds covalently with high affinity to essential Penicillin-Binding Proteins—specifically PBP-1a, PBP-1b, PBP-2, and PBP-3. This acylation irreversibly inhibits the transpeptidation enzyme responsible for cross-linking D-alanyl-D-alanine peptide chains within the linear peptidoglycan polymer backbone. Halting peptidoglycan cross-linking deprives the bacterial cell wall of mechanical rigidity; unopposed endogenous bacterial murein autolysins and hydrolases cleave the cell wall, causing osmotic instability, spheroplast formation, and rapid bactericidal lysis. (2) Beta-Lactamase Stability: The C-7 acyl side chain incorporates an aminothiazolyl ring and a syn-methoxyimino group. The stereochemically locked syn-methoxyimino configuration sterically shields the beta-lactam carbonyl from attack and hydrolysis by classical plasmid- and chromosomally-mediated beta-lactamases (penicillinases and cephalosporins produced by H. influenzae, N. gonorrhoeae, and Enterobacteriaceae), maintaining potent bactericidal activity against many ampicillin- and first/second-generation cephalosporin-resistant strains. (3) Extended Elimination Half-Life & Once-Daily Dosing: Ceftriaxone possesses an elimination half-life of 6 to 9 hours (significantly longer than all other parenteral cephalosporins, which typically clear within 1 to 2 hours). This extended half-life is driven by high plasma albumin binding (~85% to 95%) and a unique C-3 dioxo-triazine heterocyclic ring that decelerates renal clearance. This kinetic profile keeps free drug levels above the MIC (fT > MIC) for 24 hours, supporting once-daily dosing in systemic infections and twice-daily dosing in severe bacterial meningitis. (4) Central Nervous System Penetration: In the presence of inflamed, permeable meninges, ceftriaxone readily crosses the blood-brain barrier into cerebrospinal fluid (CSF), achieving CSF concentrations well in excess of the bactericidal MIC90 for primary meningeal pathogens.",
+    "drug_class": "Third-Generation Cephalosporin / Beta-Lactam Bactericidal Antibiotic",
+    "main_action": "Binds and inactivates bacterial Penicillin-Binding Proteins (PBPs 1 and 3) to halt peptidoglycan cross-linking and induce osmotic lysis, supported by beta-lactamase stability, a long elimination half-life, and excellent penetration into CSF and deep tissues.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "First-line empirical treatment of acute bacterial meningitis (2g IV every 12 hours, co-administered with Vancomycin and Dexamethasone)",
+      "Severe community-acquired pneumonia (CAP) and hospital-acquired lower respiratory infections (1g to 2g IV once daily)",
+      "Enteric / Typhoid Fever (MDR Salmonella typhi bacteremia; 2g IV once daily for 10 to 14 days)",
+      "Complicated urinary tract infections, acute pyelonephritis, and Gram-negative urosepsis",
+      "Disseminated and uncomplicated Neisseria gonorrhoeae infections and acute pelvic inflammatory disease (PID)",
+      "Infective endocarditis caused by viridans group streptococci or HACEK organisms (2g IV once daily for 4 weeks)",
+      "Surgical antimicrobial prophylaxis: single 1g or 2g IV dose given 30 to 60 minutes prior to surgical incision"
+    ],
+    "how_patients_describe_symptoms": [
+      "I was admitted to emergency with a stiff neck, agonizing headache, and high fever from meningitis before this once-daily antibiotic drip cleared the infection.",
+      "My typhoid fever caused two weeks of continuous burning temperatures and abdominal exhaustion until the hospital started this clear yellow daily IV injection.",
+      "The surgeon gave me this protective antibiotic injection right before my abdominal operation to prevent surgical wound infections."
+    ],
+    "reconstitution_and_dilution": "Lyophilized white to yellowish-orange crystalline powder in a glass vial (1g or 2g). For Slow IV Push: Reconstitute the 1g vial with 10 mL of Sterile Water for Injection (SWFI) and the 2g vial with 20 mL of SWFI. For IV Piggyback Infusion: Further dilute the reconstituted solution in 50 mL to 100 mL of 0.9% Normal Saline, 5% Dextrose (D5W), or 10% Dextrose. NEVER USE CALCIUM-CONTAINING DILUENTS (such as Ringer's Lactate or Hartmann's Solution). For Deep IM Injection: Reconstitute 1g in 3.5 mL of 1% Lignocaine (Lidocaine) Hydrochloride Injection (without adrenaline); this minimizes local tissue pain (note: solutions reconstituted with lignocaine MUST NEVER be given intravenously).",
+    "infusion_rate_and_timing": "Slow IV Push: Administer over a minimum duration of 2 to 4 minutes directly into a free-flowing IV line. Intermittent IV Infusion: Infuse the diluted 50-100 mL piggyback solution over 15 to 30 minutes. In acute bacterial meningitis, 2g is administered every 12 hours (4g total/day); for routine systemic infections, 1g to 2g is administered once every 24 hours.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adult and pediatric patients (>28 days of life) presenting with severe bacterial infections (meningitis, pneumonia, urosepsis, typhoid)",
+        "Pregnant and breastfeeding women requiring broad-spectrum beta-lactam therapy (FDA Pregnancy Category B; crosses placenta safely)",
+        "Patients with mild-to-moderate renal or hepatic dysfunction (no routine dose adjustment required due to balanced dual excretion)"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Absolute Contraindication: Neonates aged <= 28 days receiving any intravenous calcium-containing solutions (e.g., Ringer's lactate, parenteral nutrition, calcium gluconate); causes fatal ceftriaxone-calcium salt precipitation in the lungs and kidneys",
+        "Absolute Contraindication: Hyperbilirubinemic or premature neonates (ceftriaxone displaces bilirubin from human serum albumin binding sites, precipitating bilirubin encephalopathy / kernicterus)",
+        "Absolute Contraindication: Severe, immediate IgE-mediated hypersensitivity (anaphylaxis, angioedema) to cephalosporins, penicillins, or other beta-lactam agents",
+        "Patients with active biliary stasis, gallbladder disease, or sludge (can precipitate insoluble calcium-ceftriaxone salts causing biliary pseudolithiasis)",
+        "Concomitant administration with calcium-containing intravenous infusions through the same or separate lines in any neonate <= 28 days"
+      ]
+    },
+    "common_side_effects": [
+      "Gastrointestinal: diarrhea (most common, up to 5-10%), loose stools, nausea, or vomiting",
+      "Biliary pseudolithiasis / gallbladder sludging (reversible precipitation of calcium-ceftriaxone salts; usually asymptomatic)",
+      "Infusion-site chemical phlebitis, localized pain, or induration along the injected vein",
+      "Dermatologic: maculopapular rash, pruritus, or drug fever",
+      "Transient hematologic and biochemical shifts: eosinophilia, thrombocytosis, leukopenia, and transient elevations in ALT, AST, or alkaline phosphatase",
+      "Local pain at the injection site when given IM without lignocaine"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "FDA Black Box Warning (Fatal Neonatal Ceftriaxone-Calcium Precipitation): Co-administration of ceftriaxone with intravenous calcium-containing solutions (such as Ringer's Lactate, Hartmann's, or parenteral nutrition) in neonates (<= 28 days of age) is ABSOLUTELY CONTRAINDICATED, even if separate infusion lines or different administration sites are used. Autopsy-confirmed cases have documented fatal microcrystalline precipitates of insoluble calcium-ceftriaxone salt obstructing pulmonary and renal microvasculature. In patients > 28 days, ceftriaxone and calcium solutions may be given sequentially only if the lines are flushed thoroughly between infusions with a compatible fluid (e.g., 0.9% Normal Saline).",
+      "Kernicterus Hazard in Hyperbilirubinemic Neonates: Ceftriaxone exhibits high affinity for serum albumin and competitively displaces unconjugated bilirubin from albumin binding pockets. In neonates (especially premature infants) with physiologic jaundice, this sudden surge in free unbound lipophilic bilirubin crosses an immature blood-brain barrier, precipitating irreversible neurotoxicity and kernicterus. Cefotaxime is the preferred third-generation cephalosporin for neonates.",
+      "Reversible Biliary Pseudolithiasis (Gallbladder Sludge): Ceftriaxone is eliminated in high concentrations (~40%) into bile. In bile, it can chelate divalent calcium ions to form an insoluble calcium-ceftriaxone crystalline gel that mimics gallstones on ultrasound (biliary pseudolithiasis). This typically resolves spontaneously upon drug discontinuation.",
+      "Dual Elimination Advantage (No Dose Adjustment in Isolated Renal Failure): Ceftriaxone is cleared by balanced dual elimination routes: ~60% via glomerular filtration and tubular secretion, and ~40% via biliary excretion. Consequently, NO DOSE ADJUSTMENT IS REQUIRED in isolated renal impairment or isolated hepatic disease. A dosage reduction (maximum 2g/day) is required only when severe renal dysfunction (CrCl < 10 mL/min) and severe hepatic failure co-exist simultaneously.",
+      "Bacterial Meningitis Dosing Ceiling (4g/day Mandate): For routine systemic infections (pneumonia, pyelonephritis, typhoid), once-daily dosing (1g to 2g every 24 hours) is therapeutic. However, for acute bacterial meningitis, standard once-daily dosing is INSUFFICIENT; high-dose twice-daily administration (2g IV every 12 hours = 4g/day) is mandatory to sustain CSF bactericidal levels above the MIC against intermediately resistant pneumococci.",
+      "Deep IM Lignocaine Rule: When administering 1g intramuscularly, reconstitution with 3.5 mL of 1% Lignocaine HCl is mandatory to alleviate pain. Solutions containing lignocaine MUST NEVER BE INJECTED INTRAVENOUSLY."
+    ]
+  },
+  {
+    "id": "amoxicillin-potassium-clavulanate-for-injection-ip-1-2g",
+    "name": "Amoxicillin & Potassium Clavulanate for Injection IP (1.2g)",
+    "generic_names": [
+      "Amoxicillin and Potassium Clavulanate Injection IP 1.2g (1000mg + 200mg)",
+      "Co-Amoxiclav Injection 1.2g",
+      "Augmentin 1.2g IV",
+      "Clavam 1.2g IV",
+      "Acuclav 1.2g",
+      "Moxikind-CV 1.2g",
+      "Advent 1.2g IV"
+    ],
+    "category": [
+      "Infections & Parasites",
+      "Emergency & Critical Care",
+      "Respiratory"
+    ],
+    "sub_category": "Semisynthetic Aminopenicillin & Clavam-Class Suicide Beta-Lactamase Inhibitor Combination",
+    "company_name": "AC1",
+    "amount": "145/- (1 Glass Vial 1.2g with 20mL SWFI)",
+    "routes_of_administration": [
+      "Slow Intravenous Injection (Slow IV Push over 3 to 4 mins)",
+      "Intravenous Infusion (IV Piggyback over 30 to 40 mins)"
+    ],
+    "main_cause": "Severe Community-Acquired Pneumonia (CAP) with Aspiration Risk, Acute Exacerbation of Chronic Bronchitis (AECB), Severe Odontogenic & Deep Neck Space Infections (Ludwig's Angina), Complicated Skin & Soft Tissue Infections (Cellulitis, Human/Animal Bites), Acute Intra-Abdominal Sepsis & Peritonitis Adjunct, Surgical Antimicrobial Prophylaxis (Colorectal, Head & Neck, Gynecological Surgery)",
+    "why_this_disease_happens": "Severe respiratory tract infections, deep fascial space neck infections, and post-traumatic or animal bite wounds are driven by virulent mixed bacterial populations consisting of Gram-positive pathogens (Streptococcus pneumoniae, methicillin-susceptible Staphylococcus aureus [MSSA]), fastidious Gram-negative organisms (Haemophilus influenzae, Moraxella catarrhalis, Klebsiella pneumoniae, E. coli), and oral/mucosal anaerobes (Bacteroides fragilis, Prevotella, and Peptostreptococcus species). These organisms breach host mucosal or cutaneous physical defenses, adhering to host tissues and triggering intense local inflammatory reactions. Many of these pathogens produce diverse beta-lactamase enzymes (Ambler Class A beta-lactamases, including standard staphylococcal penicillinases and Richmond-Sykes TEM/SHV broad-spectrum enzymes). These periplasmic enzymes hydrolyze the essential four-membered beta-lactam ring of aminopenicillins into inactive penicilloic acid before the drug can reach target cross-linking transpeptidases. As a consequence, uninhibited bacterial replication progresses, causing alveolar consolidation, purulent tissue necrosis, microvascular thrombosis, abscess formation, and systemic inflammatory response syndrome (SIRS). Re-establishing bactericidal cell wall destruction requires pairing a high-affinity aminopenicillin with a suicide beta-lactamase inhibitor that neutralizes the hydrolytic enzymes.",
+    "how_this_medicine_fights_it": "Provides synchronized bactericidal transpeptidase inactivation combined with irreversible suicide catalytic inhibition of bacterial beta-lactamases: Formulated in a fixed 5:1 weight ratio of Amoxicillin Sodium (1000 mg) and Potassium Clavulanate (200 mg): (1) Penicillin-Binding Protein Acylation & Lytic Death (Amoxicillin): Amoxicillin is an analog of ampicillin featuring a para-hydroxyl group on its phenyl side chain. It enters the periplasmic space of susceptible Gram-positive and Gram-negative bacteria via outer membrane porins (OmpF/OmpC). Inside, it binds covalently to the active site serine residue of essential Penicillin-Binding Proteins—principally PBP-1a, PBP-1b, PBP-2, and PBP-3. This acylation halts the transpeptidation reaction, preventing the cross-linking of linear glycan strands in the peptidoglycan cell wall. The weakened bacterial wall undergoes osmotic disruption, leading to spheroplast lysis and rapid bactericidal death driven by unopposed endogenous bacterial autolysins. (2) Suicide 'Mechanism-Based' Beta-Lactamase Inactivation (Clavulanic Acid): Clavulanic acid is a naturally occurring clavam-structured beta-lactam produced by Streptomyces clavuligerus. Although it possesses only weak intrinsic antibacterial activity on its own, it functions as an irreversible suicide inhibitor of Class A and some Class D beta-lactamases. Clavulanate enters the active site of the bacterial beta-lactamase, mimicking the natural penicillin substrate. The catalytic serine residue attacks the beta-lactam carbonyl of clavulanate, opening the ring to yield an initial acyl-enzyme intermediate. Subsequent chemical rearrangements decarboxylate and form a stable, covalent adduct that cross-links with active-site amino acids, permanently inactivating the enzyme. (3) Restored Extended Spectrum & Anaerobic Eradication: By neutralizing staphylococcal penicillinases and beta-lactamases from H. influenzae, M. catarrhalis, E. coli, and Bacteroides species, clavulanate restores amoxicillin's spectrum, enabling single-agent eradication of beta-lactamase-producing aerobic and anaerobic pathogen consortia.",
+    "drug_class": "Aminopenicillin + Clavam-Class Beta-Lactamase Inhibitor / Broad-Spectrum Bactericidal Combination",
+    "main_action": "Inactivates bacterial transpeptidases (PBPs) to prevent peptidoglycan cross-linking and cell wall synthesis, while irreversibly neutralizing bacterial beta-lactamases via suicide inhibition to restore full amoxicillin bactericidal efficacy against resistant strains.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Severe community-acquired pneumonia (CAP) with suspected aspiration or beta-lactamase-producing co-pathogens",
+      "Complicated infections of the ear, nose, and throat: severe mastoiditis, peritonsillar abscess (quinsy), and deep neck space infections (Ludwig's angina)",
+      "Complicated skin and soft-tissue infections: severe spreading cellulitis, diabetic foot ulcers, and infected human or animal (dog/cat) bite wounds",
+      "Acute intra-abdominal infections, secondary peritonitis, and acute cholecystitis (often combined with an aminoglycoside if Pseudomonas is suspected)",
+      "Complicated urinary tract infections and acute pyelonephritis caused by susceptible beta-lactamase-producing coliforms",
+      "Surgical antibiotic prophylaxis: single 1.2g IV dose given at induction for contaminated or clean-contaminated head and neck, gynecological, and abdominal surgeries"
+    ],
+    "how_patients_describe_symptoms": [
+      "My severe tooth and jaw infection caused swelling in my neck and throat, making it difficult to swallow before this emergency IV cleared the abscess.",
+      "I was admitted with high-fever pneumonia and green coughing phlegm that oral antibiotics could not clear until this IV drip settled my lungs.",
+      "After a deep, infected dog bite to my hand that caused spreading red streaks and throbbing pain, the hospital administered this antibiotic to stop the infection from entering my bloodstream."
+    ],
+    "reconstitution_and_dilution": "Lyophilized sterile white to pale yellow powder in a glass vial (1.2g total: 1000mg Amoxicillin + 200mg Potassium Clavulanate). Reconstitute the 1.2g vial using exactly 20 mL of Sterile Water for Injection (SWFI) provided in the pack. Dissolution produces a temporary pink/straw coloration that clears to pale yellow upon complete dissolution. For Slow IV Push, administer the reconstituted 20 mL solution directly. For IV Piggyback Infusion, transfer the reconstituted 20 mL solution into 50 mL to 100 mL of 0.9% Normal Saline, Hartmann's Solution, or Ringer's Solution. INCOMPATIBLE WITH DEXTROSE (D5W) AND SODIUM BICARBONATE SOLUTIONS (glucose and alkaline fluids accelerate chemical degradation of clavulanic acid). MUST NEVER BE GIVEN INTRAMUSCULARLY (IM) OR SUBCUTANEOUSLY (SC).",
+    "infusion_rate_and_timing": "Slow IV Push: Administer over a minimum duration of 3 to 4 minutes directly into a patent venous line. IV Piggyback Infusion: Infuse the diluted 50-100 mL solution over 30 to 40 minutes. Chemical Stability Limit: The reconstituted solution hydrolyzes rapidly; administration must start immediately and COMPLETE WITHIN 60 MINUTES of reconstitution if diluted in Normal Saline (or within 20 minutes if in Sterile Water). Standard adult hospital dosing is 1.2g IV every 8 hours (or every 6 hours in severe, life-threatening infections).",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adult and pediatric patients presenting with severe polymicrobial, respiratory, odontogenic, or animal bite infections requiring broad-spectrum IV therapy",
+        "Surgical patients undergoing abdominal, pelvic, or contaminated maxillofacial surgery requiring targeted anaerobic and staphylococcal prophylaxis",
+        "Patients with mild-to-moderate infections requiring IV stabilization before stepping down to oral co-amoxiclav tablets"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Absolute Contraindication: History of severe immediate IgE-mediated hypersensitivity (anaphylaxis, angioedema, Stevens-Johnson syndrome, toxic epidermal necrolysis) to penicillins, cephalosporins, or any beta-lactam antibiotic",
+        "Absolute Contraindication: Prior history of co-amoxiclav-associated cholestatic jaundice or acute hepatic dysfunction",
+        "Absolute Route Contraindication: Intramuscular (IM) or Subcutaneous (SC) injection (causes intense localized chemical tissue necrosis and sterile abscesses due to hyperosmolarity and chemical irritation)",
+        "Patients with infectious mononucleosis (Epstein-Barr Virus) or cytomegalovirus infection (administration triggers a widespread, erythematous, non-allergic maculopapular cutaneous rash in >90% of cases)",
+        "Severe renal impairment (Creatinine Clearance < 30 mL/min) without dosing interval adjustment (amoxicillin and clavulanate clearance is primarily renal; accumulation increases neurotoxicity risk)"
+      ]
+    },
+    "common_side_effects": [
+      "Gastrointestinal: diarrhea (common, 5-10%), nausea, vomiting, and abdominal cramping (driven by clavulanate-mediated gut hypermotility)",
+      "Localized chemical thrombophlebitis, venous irritation, or erythema along the injected peripheral vein",
+      "Cutaneous reactions: urticaria, pruritus, erythematous maculopapular skin eruptions",
+      "Transient elevations in liver transaminases (ALT/AST), alkaline phosphatase, and serum bilirubin",
+      "Superinfections: oral or vaginal candidiasis with prolonged therapy",
+      "Headache, mild dizziness, or lightheadedness"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "Strict Intravenous ONLY Mandate (Never IM): Amoxicillin-Clavulanate 1.2g is strictly licensed and formulated for INTRAVENOUS ADMINISTRATION ONLY. It MUST NEVER be administered via the intramuscular (IM) route. Intramuscular injection produces intense localized pain, severe tissue irritation, induration, and chemical sterile muscle abscesses.",
+      "Rapid Hydrolytic Instability & The 60-Minute Infusion Window: Potassium clavulanate is chemically labile and degrades rapidly via beta-lactam ring opening in aqueous solutions. The reconstituted solution MUST BE ADMINISTERED IMMEDIATELY. If diluted into 50–100 mL of 0.9% Normal Saline, the infusion must be completely infused within 60 minutes of preparation. If prepared in Sterile Water for Injection for direct IV push, it must be injected within 20 minutes. Solutions that have turned cloudy, dark amber, or have precipitated must be discarded.",
+      "Strict Diluent Incompatibility (Dextrose Avoidance): Co-amoxiclav is substantially LESS STABLE in carbohydrate-containing infusions. It MUST NOT BE DILUTED in 5% Dextrose (D5W), 10% Dextrose, Dextrose-Saline combinations, or Sodium Bicarbonate solutions, as glucose accelerates the chemical decomposition of clavulanic acid. Always use 0.9% Normal Saline, Hartmann's Solution, or Sterile Water for Injection.",
+      "Drug-Induced Cholestatic Jaundice Warning: Clavulanic acid is associated with idiosyncratic, immunologically mediated drug-induced liver injury, specifically cholestatic hepatitis and jaundice (elevated alkaline phosphatase and direct bilirubin). While more common with prolonged oral regimens, it can occur after parenteral exposure, often developing several weeks after treatment has finished. It is typically self-limiting, but the combination is strictly contraindicated in patients with a history of co-amoxiclav-induced jaundice.",
+      "Epstein-Barr Virus (EBV) Rash Trap: Do not administer co-amoxiclav to patients with undifferentiated sore throat and fever suspected of having infectious mononucleosis (glandular fever). Over 90% of patients with acute EBV infection who receive amoxicillin develop an extensive, intense, itchy maculopapular rash that is often misclassified as a true life-long penicillin allergy.",
+      "Renal Impairment Dosage Adjustments: Both compounds are eliminated primarily via glomerular filtration and tubular secretion. In renal failure, dosing frequency must be lengthened: CrCl 10-30 mL/min: 1.2g loading dose, then 600mg IV every 12 hours (or 1.2g IV every 12 hours); CrCl < 10 mL/min: 1.2g loading dose, then 600mg IV every 24 hours; Hemodialysis: 1.2g IV loading, followed by 600mg IV every 24 hours with an additional 600mg booster dose post-dialysis."
+    ]
+  },
+  {
+    "id": "cefepime-tazobactam-for-injection-1-125g",
+    "name": "Cefepime & Tazobactam for Injection (1.125g)",
+    "generic_names": [
+      "Cefepime and Tazobactam for Injection 1.125g (1000mg + 125mg)",
+      "Cefepime-Tazobactam 1.125g Vial",
+      "Maxipime-T 1.125g",
+      "Celrim TZ 1.125g",
+      "Cefpim-TZ 1.125g",
+      "Novapime-TZ 1.125g",
+      "Zepime-T"
+    ],
+    "category": [
+      "Infections & Parasites",
+      "Emergency & Critical Care",
+      "Respiratory"
+    ],
+    "sub_category": "Fourth-Generation Zwitterionic Cephalosporin & Irreversible Beta-Lactamase Inhibitor (AmpC-Stable Antipseudomonal Combination)",
+    "company_name": "CT1",
+    "amount": "340/- (1 Glass Vial 1.125g with 10mL SWFI)",
+    "routes_of_administration": [
+      "Slow Intravenous Injection (Slow IV Push over 3 to 5 mins)",
+      "Intravenous Infusion (IV Piggyback / Extended Infusion over 30 mins to 3 hours)",
+      "Deep Intramuscular (IM - Large Muscle Mass)"
+    ],
+    "main_cause": "Complicated Hospital-Acquired Pneumonia (HAP) & Ventilator-Associated Pneumonia (VAP), Multidrug-Resistant (MDR) Pseudomonas aeruginosa Infections, Febrile Neutropenia Empiric Therapy, Severe Complicated Intra-Abdominal Sepsis (with Metronidazole), Complicated Pyelonephritis & Urosepsis Caused by AmpC-Producing Enterobacterales, Multidrug-Resistant Skin and Soft Tissue Infections",
+    "why_this_disease_happens": "Severe nosocomial infections and hospital-acquired sepsis are increasingly driven by multidrug-resistant Gram-negative pathogens—specifically Enterobacterales (Enterobacter cloacae, Klebsiella aerogenes, Citrobacter freundii, Serratia marcescens) and non-fermenters like Pseudomonas aeruginosa. These pathogens possess inducible chromosomal or plasmid-mediated AmpC beta-lactamases and classical broad-spectrum beta-lactamases (TEM, SHV). When challenged with third-generation cephalosporins (such as ceftriaxone or ceftazidime), high-level AmpC derepression occurs: the enzyme rapidly hydrolyzes third-generation cephalosporins, leading to clinical treatment failure. Furthermore, Pseudomonas aeruginosa downregulates outer-membrane porin channels (such as OprD) and upregulates active MexAB-OprM multidrug efflux pumps, drastically reducing the periplasmic concentration of traditional beta-lactams. The bacterial proliferation that follows triggers systemic lipopolysaccharide (endotoxin) release, causing severe pulmonary microvascular injury, alveolar-capillary barrier breakdown, refractory high-anion-gap lactic acidosis, disseminated intravascular coagulation, and septic shock. Overcoming these resistant mechanisms requires a fourth-generation zwitterionic cephalosporin capable of rapidly penetrating outer bacterial membranes while resisting AmpC hydrolysis, combined with a beta-lactamase inhibitor.",
+    "how_this_medicine_fights_it": "Provides synchronized, high-velocity bacterial envelope penetration, transpeptidase acylation, and broad-spectrum beta-lactamase neutralization: Formulated in an 8:1 fixed weight ratio of Cefepime Hydrochloride (1000 mg) and Tazobactam Sodium (125 mg): (1) Rapid Porin Translocation via Zwitterionic Charge (Cefepime): Cefepime is a fourth-generation semi-synthetic cephalosporin featuring a positively charged N-methylpyrrolidine group at the C-3 position and a negatively charged carboxylate at C-4. This net neutral, dipolar zwitterionic structure allows cefepime to traverse the outer-membrane porin channels (OmpF/OmpC in Enterobacterales and OprF in Pseudomonas) significantly faster than older, singly charged cephalosporins, achieving rapid accumulation in the periplasmic space. (2) Penicillin-Binding Protein Acylation & Lytic Destruction: Once inside the periplasm, cefepime binds with high affinity to essential Penicillin-Binding Proteins—principally PBP-3, PBP-1a, and PBP-1b in Gram-negative bacilli, and PBP-2 in Staphylococcus aureus. Acylation of the active-site serine halts the final transpeptidation step of peptidoglycan synthesis, blocking cell wall cross-linking. Deprived of tensile wall strength, bacterial division arrests, spheroplasts form, and endogenous autolytic enzymes (murein hydrolases) cause osmotic lysis and rapid bactericidal death. (3) Low Affinity for & Stability Against AmpC Enzymes: Unlike third-generation cephalosporins, cefepime has extremely low binding affinity for inducible AmpC beta-lactamases, rendering it structurally stable against AmpC-mediated hydrolysis. (4) Suicide Beta-Lactamase Inhibition (Tazobactam): Tazobactam is a penicillanic acid sulfone derivative. It functions as an irreversible, mechanism-based suicide inhibitor of Class A beta-lactamases (penicillinases and extended-spectrum beta-lactamases [ESBLs] of the TEM, SHV, and CTX-M families). Tazobactam covalently modifies the catalytic serine residue of the beta-lactamase, neutralizing the enzyme before it can attack cefepime. The combination protects cefepime from hydrolysis, lowering MICs against resistant co-producers. (5) Lower Vancomycin AKI Liability: Unlike piperacillin-tazobactam, cefepime-based regimens demonstrate a significantly lower rate of synergistic acute kidney injury when co-administered with vancomycin in critical care units.",
+    "drug_class": "Fourth-Generation Zwitterionic Cephalosporin + Penicillanic Acid Sulfone Beta-Lactamase Inhibitor / Broad-Spectrum Antipseudomonal Bactericidal Agent",
+    "main_action": "Rapidly penetrates bacterial porins due to its zwitterionic structure to acylate PBPs (1 and 3) while resisting AmpC hydrolysis, combined with suicide beta-lactamase inactivation by tazobactam to destroy multidrug-resistant Gram-negative and pseudomonal pathogens.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Hospital-Acquired Pneumonia (HAP) and Ventilator-Associated Pneumonia (VAP) involving suspected AmpC-producing Enterobacterales or Pseudomonas aeruginosa",
+      "Empirical monotherapy for Febrile Neutropenia in immunocompromised oncology patients",
+      "Complicated urinary tract infections, severe acute pyelonephritis, and Gram-negative urosepsis",
+      "Complicated intra-abdominal infections and secondary peritonitis (co-prescribed with Metronidazole for anaerobic coverage)",
+      "Complicated skin and soft-tissue infections, including infected burn wounds and severe diabetic foot ulcers",
+      "Empiric step-up therapy when standard third-generation cephalosporins (ceftriaxone/ceftazidime) fail due to suspected AmpC beta-lactamase derepression"
+    ],
+    "how_patients_describe_symptoms": [
+      "While on a hospital ventilator, I developed a severe drug-resistant lung infection that simple antibiotics could not control before this specialized IV drip cleared the pneumonia.",
+      "My severe kidney infection spread to my bloodstream, causing shaking rigors, high fevers, and low blood pressure until this strong antibiotic infusion cleared the bacteria.",
+      "During chemotherapy when my immune system crashed, I developed sudden high fevers; this antipseudomonal antibiotic was infused immediately to prevent septic shock."
+    ],
+    "reconstitution_and_dilution": "Lyophilized white to pale yellow crystalline powder in a glass vial (1.125g total: 1000mg Cefepime + 125mg Tazobactam). Reconstitution: Add 10 mL of Sterile Water for Injection (SWFI), 0.9% Normal Saline, or 5% Dextrose (D5W) to the vial; shake vigorously until completely dissolved (solution turns clear, colorless to light amber). For Slow IV Push, administer the reconstituted 10 mL solution directly. For IV Piggyback Infusion, dilute the reconstituted solution in 50 mL to 100 mL of 0.9% Normal Saline, 5% Dextrose (D5W), or Ringer's Lactate. For Deep IM Injection, reconstitute with 3 mL of Sterile Water or 1% Lignocaine Hydrochloride to reduce injection-site discomfort (note: solutions prepared with lignocaine MUST NEVER be injected intravenously). Chemically incompatible with metronidazole, vancomycin, and aminoglycosides in the same line; flush lines thoroughly between infusions.",
+    "infusion_rate_and_timing": "Slow IV Push: Administer over a minimum duration of 3 to 5 minutes directly into a patent venous access port. Intermittent IV Infusion: Infuse the diluted 50-100 mL solution over 30 minutes. Extended Infusion Strategy (PK/PD Optimization): In severe ICU sepsis, ventilator-associated pneumonia, or high-MIC Pseudomonas infections, guidelines strongly advocate infusing each dose over 3 to 4 hours every 8 hours to maximize the time free drug levels remain above the MIC (fT > MIC). Deep IM: Administer deeply into a large muscle mass (gluteus maximus or anterolateral thigh).",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adult and adolescent patients presenting with severe nosocomial infections, ICU sepsis, or febrile neutropenia",
+        "Patients infected with confirmed or suspected AmpC-producing Gram-negative bacilli (SPACE organisms: Serratia, Pseudomonas, Acinetobacter, Citrobacter, Enterobacter)",
+        "Patients requiring antipseudomonal beta-lactam coverage while receiving Vancomycin, where minimizing synergistic nephrotoxicity risk is a priority"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Absolute Contraindication: Severe immediate IgE-mediated hypersensitivity (anaphylaxis, severe urticaria, angioedema) to cefepime, cephalosporins, penicillins, or beta-lactamase inhibitors",
+        "Patients with severe renal impairment (Creatinine Clearance < 50 mL/min) without strict renal dosage adjustment (FDA Black Box Alert: severe neurotoxicity, encephalopathy, myoclonus, and non-convulsive status epilepticus)",
+        "Patients with a history of seizure disorders, epilepsy, or recent head trauma (cefepime crosses the blood-brain barrier and can induce convulsive spikes via GABA-A receptor antagonism)",
+        "Empiric monotherapy for intra-abdominal infections without an anaerobic agent (cefepime has negligible activity against Bacteroides fragilis; requires Metronidazole co-administration)"
+      ]
+    },
+    "common_side_effects": [
+      "Gastrointestinal: diarrhea (common, 3-8%), nausea, vomiting, or abdominal pain",
+      "Local infusion-site chemical phlebitis, venous irritation, or erythema along the peripheral IV cannula",
+      "Cutaneous reactions: maculopapular rash, pruritus, or urticaria",
+      "Headache, mild dizziness, or lightheadedness",
+      "Transient hematologic and biochemical shifts: positive direct Coombs' test without hemolysis, eosinophilia, mild elevations in ALT, AST, and alkaline phosphatase",
+      "Localized pain and tenderness at the intramuscular injection site"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "FDA Neurotoxicity & Encephalopathy Black Box Warning: Cefepime crosses the blood-brain barrier and acts as a concentration-dependent competitive antagonist of central gamma-aminobutyric acid (GABA-A) receptors. In patients with renal insufficiency who do not receive appropriate dosage reductions, cefepime accumulates rapidly in the central nervous system, triggering severe neurotoxicity: acute encephalopathy, confusion, myoclonus, asterixis, seizures, and non-convulsive status epilepticus (NCSE). If a patient receiving cefepime develops sudden altered mental status or confusion, obtain an urgent EEG and assess renal function immediately; neurotoxicity is reversible upon drug discontinuation or hemodialysis.",
+      "Mandatory Renal Dosage Adjustment Protocol: Cefepime is eliminated >85% unchanged via glomerular filtration. Dosing must be strictly adjusted based on CrCl: CrCl 30-50 mL/min: 1.125g to 2.25g IV every 12 hours; CrCl 11-29 mL/min: 1.125g IV every 24 hours; CrCl < 11 mL/min: 562.5mg to 1.125g IV every 24 hours; Hemodialysis: 1.125g on day 1, then 562.5mg IV every 24 hours, with the dose given immediately following hemodialysis on dialysis days.",
+      "AmpC-Beta-Lactamase First-Line Status: Clinical guidelines designate cefepime as the premier cephalosporin of choice for serious infections caused by inducible AmpC-producing organisms (Enterobacter cloacae, Klebsiella aerogenes, Citrobacter freundii). Unlike ceftriaxone, which selects for resistant AmpC-derepressed mutants during therapy, cefepime resists AmpC hydrolysis and maintains clinical efficacy.",
+      "Anaerobic Gap Mandate (The Metronidazole Requirement): Neither cefepime nor tazobactam possesses reliable, potent intrinsic activity against intra-abdominal anaerobes like Bacteroides fragilis at this formulation strength. For complicated intra-abdominal sepsis, peritonitis, or pelvic infections, IV Metronidazole (500mg every 8 hours) MUST ALWAYS be co-prescribed.",
+      "Vancomycin Renal Sparing Advantage (vs. Pip-Taz): Large retrospective and prospective cohort studies have consistently confirmed that Cefepime combined with Vancomycin carries a significantly LOWER incidence of Acute Kidney Injury (AKI) than the combination of Piperacillin-Tazobactam with Vancomycin. In patients with baseline renal vulnerability, cefepime-based regimens are preferred when MRSA and antipseudomonal dual coverage is required.",
+      "Extended Infusion PK/PD Benefit: Because cefepime exhibits time-dependent bactericidal killing, extending the infusion duration of the reconstituted 1.125g or 2.25g dose to 3 hours every 8 hours significantly enhances clinical cure rates and microbiological clearance in ICU patients with severe pneumonia or elevated pathogen MICs."
+    ]
+  },
+  {
+    "id": "cefoperazone-sulbactam-for-injection-1-5g",
+    "name": "Cefoperazone & Sulbactam for Injection (1.5g)",
+    "generic_names": [
+      "Cefoperazone and Sulbactam for Injection 1.5g (1000mg + 500mg)",
+      "Cefoperazone-Sulbactam 1:1 or 2:1 Vial",
+      "Magnex 1.5g / Magnex Forte 1.5g / 3g",
+      "Sulbacef 1.5g",
+      "Cefactam 1.5g",
+      "Zosul 1.5g",
+      "Viperazone-S 1.5g"
+    ],
+    "category": [
+      "Infections & Parasites",
+      "Emergency & Critical Care",
+      "Respiratory"
+    ],
+    "sub_category": "Third-Generation Antipseudomonal Cephalosporin with Biliary Excretion & Irreversible Beta-Lactamase Inhibitor with Direct Anti-Acinetobacter Activity",
+    "company_name": "CS1",
+    "amount": "395/- (1 Glass Vial 1.5g + SWFI)",
+    "routes_of_administration": [
+      "Slow Intravenous Injection (Slow IV Push over >= 3 to 5 mins)",
+      "Intravenous Infusion (IV Piggyback over 15 to 60 mins)",
+      "Deep Intramuscular (IM - With 0.5% or 2% Lignocaine Diluent)"
+    ],
+    "main_cause": "Complicated Intra-Abdominal Sepsis & Biliary Tract Infections (Acute Cholangitis, Cholecystitis, Secondary Peritonitis), Multidrug-Resistant (MDR) Acinetobacter baumannii Nosocomial Infections, Hospital-Acquired Pneumonia (HAP) & Ventilator-Associated Pneumonia (VAP), Complicated Urinary Tract Infections with Urosepsis in Renal Failure Patients, Febrile Neutropenia Empiric Regimens",
+    "why_this_disease_happens": "Severe biliary tract infections, perforated intra-abdominal catastrophes, and ICU ventilator-associated pneumonia frequently involve enteric Gram-negative bacilli (Klebsiella pneumoniae, Escherichia coli, Enterobacter), non-fermenting bacilli (Pseudomonas aeruginosa, Acinetobacter baumannii), and anaerobes. In biliary obstruction and acute cholangitis, high intrabiliary hydrostatic pressure forces bacteria into the hepatic venous sinusoids, causing rapid-onset bacteremia and septic shock. Many standard beta-lactams achieve sub-therapeutic concentrations in the biliary tree because they are cleared predominantly by the kidneys. Furthermore, nosocomial Gram-negative pathogens produce classical and extended-spectrum beta-lactamases (ESBLs: TEM, SHV, CTX-M) that hydrolyze the beta-lactam ring of older cephalosporins. Concurrently, hospital-acquired Acinetobacter baumannii has become a leading cause of ICU sepsis and ventilator pneumonia. Treating these infections requires an antipseudomonal cephalosporin that attains high biliary concentrations and does not require dose reduction in renal failure, combined with a beta-lactamase inhibitor that possesses intrinsic bactericidal affinity against Acinetobacter.",
+    "how_this_medicine_fights_it": "Provides synchronized cell wall transpeptidase acylation, suicide beta-lactamase neutralization, and high-concentration biliary excretion: Formulated typically in a 2:1 fixed ratio of Cefoperazone Sodium (1000 mg) and Sulbactam Sodium (500 mg) [or 1:1 in certain strengths]: (1) Penicillin-Binding Protein Acylation & Lysis (Cefoperazone): Cefoperazone is a semi-synthetic piperazine-dione third-generation cephalosporin with a piperazine-derived polar side chain. It enters susceptible Gram-negative and Gram-positive bacteria via outer-membrane porins and binds covalently with high affinity to essential Penicillin-Binding Proteins—principally PBP-1a, PBP-1b, PBP-2, and PBP-3. This inhibits the transpeptidase cross-linking of peptidoglycan polymers, weakening the bacterial cell wall and triggering autolysin-mediated osmotic lysis. (2) Suicide Beta-Lactamase Inactivation (Sulbactam): Sulbactam is a penicillanic acid sulfone derivative. It acts as an irreversible 'suicide' inhibitor of Ambler Class A (penicillinases, TEM, SHV, CTX-M ESBLs) and Class C beta-lactamases. Sulbactam binds the catalytic active site of the enzyme, forming a stable acyl-enzyme complex that permanently neutralizes the beta-lactamase, shielding cefoperazone from enzymatic degradation. (3) Intrinsic Bactericidal Action Against Acinetobacter baumannii: Unlike clavulanic acid and tazobactam, sulbactam has high-affinity binding to essential PBP-1 and PBP-3 of Acinetobacter baumannii. Thus, sulbactam is not merely an inhibitor—it acts as an independent bactericidal agent against MDR Acinetobacter. (4) Extensive Biliary Elimination: Cefoperazone has a unique molecular structure that directs >75% of clearance into the bile via hepatic canalicular excretion, achieving biliary concentrations 10 to 100 times higher than concurrent serum levels.",
+    "drug_class": "Piperazine-Dione Third-Generation Cephalosporin + Penicillanic Acid Sulfone Beta-Lactamase Inhibitor / Antipseudomonal & Biliary Bactericidal Combination",
+    "main_action": "Inhibits bacterial cell wall peptidoglycan transpeptidation via PBP binding while irreversibly neutralizing beta-lactamases and directly killing Acinetobacter baumannii via sulbactam, concentrating in high levels in the biliary system.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Severe biliary tract infections: acute ascending cholangitis, acute cholecystitis, and biliary peritonitis",
+      "Hospital-Acquired Pneumonia (HAP) and Ventilator-Associated Pneumonia (VAP) involving suspected or confirmed MDR Acinetobacter baumannii or Pseudomonas aeruginosa",
+      "Complicated intra-abdominal infections, generalized peritonitis, and intra-abdominal abscesses",
+      "Severe urosepsis and pyelonephritis in patients with moderate to advanced renal failure (safe due to biliary clearance)",
+      "Empiric management of febrile neutropenia in hospitalized hematology-oncology patients",
+      "Bacteremia and septic shock secondary to ESBL-producing Enterobacterales (carbapenem-sparing alternative)"
+    ],
+    "how_patients_describe_symptoms": [
+      "I had severe right-sided belly pain, jaundice, and shaking fevers from an infected bile duct before this antibiotic cleared my biliary infection.",
+      "While in the intensive care unit, I developed a drug-resistant hospital lung infection (Acinetobacter) that responded to this twice-daily IV infusion.",
+      "Because my kidneys were weak and I couldn't take kidney-toxic antibiotics, the doctor selected this liver-cleared antibiotic drip for my blood infection."
+    ],
+    "reconstitution_and_dilution": "Supplied as a sterile dry lyophilized powder in a glass vial (1.5g: 1000mg Cefoperazone + 500mg Sulbactam). Reconstitution: Reconstitute the 1.5g vial with 5 mL to 10 mL of Sterile Water for Injection (SWFI) or 0.9% Normal Saline; shake vigorously until the solution is clear and pale yellow. For IV Push, dilute with at least 10 mL of compatible fluid. For IV Piggyback Infusion, transfer the reconstituted solution into 50 mL to 100 mL of 0.9% Normal Saline, 5% Dextrose (D5W), or Ringer's Lactate. For Deep IM, reconstitute using 2% Lignocaine Hydrochloride or Sterile Water (note: solutions containing lignocaine MUST NEVER be injected intravenously). Do not mix with aminoglycosides in the same line.",
+    "infusion_rate_and_timing": "Slow IV Push: Administer over a minimum duration of 3 to 5 minutes. IV Piggyback Infusion: Infuse the diluted 50-100 mL solution over 30 to 60 minutes. Standard adult hospital dosing is 1.5g to 3.0g IV every 12 hours (maximum daily dose: 4g of sulbactam component, corresponding to 8g to 12g of the combination per day in severe, life-threatening Acinetobacter or pseudomonal infections).",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adult and pediatric patients presenting with severe biliary sepsis, cholangitis, or complicated intra-abdominal infections",
+        "ICU patients with multidrug-resistant Acinetobacter baumannii ventilator-associated pneumonia",
+        "Patients with renal impairment or acute kidney injury who require broad-spectrum antipseudomonal coverage without heavy nephrotoxic risks or complex dose reductions"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Absolute Contraindication: Severe immediate IgE-mediated hypersensitivity (anaphylaxis, angioedema) to cephalosporins, penicillins, or beta-lactamase inhibitors",
+        "Absolute Contraindication: Severe, complete mechanical extrahepatic biliary obstruction (unless dose is reduced; primary clearance route is blocked)",
+        "Patients consuming alcohol or receiving ethanol-containing IV formulations (causes severe Disulfiram-like acetaldehyde toxicity)",
+        "Patients with baseline coagulopathies, severe malnutrition, or on broad-spectrum gut-sterilizing antibiotics without Vitamin K supplementation (risk of hypoprothrombinemia and bleeding)"
+      ]
+    },
+    "common_side_effects": [
+      "Gastrointestinal: diarrhea (common, 4-10%), loose stools, nausea, and vomiting",
+      "Hypoprothrombinemia and prolonged Prothrombin Time (PT/INR) due to NMTT-mediated inhibition of vitamin K epoxide reductase",
+      "Local infusion-site phlebitis, venous burning, or erythema along the cannulated vein",
+      "Cutaneous reactions: maculopapular rash, pruritus, or drug fever",
+      "Transient elevations in serum transaminases (ALT/AST), alkaline phosphatase, and serum bilirubin",
+      "Disulfiram-like reaction (facial flushing, tachycardia, hypotension) if exposed to alcohol"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "N-Methylthiotetrazole (NMTT) Side Chain & Hypoprothrombinemia Warning: Cefoperazone possesses an N-methylthiotetrazole (NMTT / 1-methyl-5-thiotetrazole) heterocyclic ring at the C-3 position of the cephalosporin core. Free NMTT released during metabolism competitively inhibits hepatic Vitamin K Epoxide Reductase (VKORC1), mimicking the effect of warfarin. In malnourished patients, critically ill ICU patients, or those on prolonged NPO status, this causes rapid depletion of reduced Vitamin K, resulting in hypoprothrombinemia, elevated PT/INR, and clinical bleeding diatheses. Co-administration of prophylactic Vitamin K1 (Phytomenadione 10 mg/week) is strongly recommended during prolonged therapy.",
+      "Severe Disulfiram-Like Reaction with Alcohol: The NMTT side chain also competitively inhibits hepatic aldehyde dehydrogenase (ALDH). Ingestion of alcohol—or the administration of alcohol-containing intravenous elixirs or solutions—within 48 to 72 hours of receiving cefoperazone triggers an acute disulfiram-like reaction: sudden facial flushing, diaphoresis, throbbing headache, palpitations, severe nausea, vomiting, and hypotension.",
+      "Biliary Clearance Advantage in Renal Impairment: Unlike most beta-lactams (which are cleared 70% to 90% by the kidneys), cefoperazone is cleared predominantly (>75%) through the biliary-fecal route. Consequently, NO DOSE ADJUSTMENT OF CEFOPERAZONE IS REQUIRED in mild, moderate, or severe renal failure. However, sulbactam is cleared primarily by glomerular filtration; in patients with severe renal failure (CrCl < 30 mL/min), monitor and adjust the sulbactam interval (maximum 2g to 4g sulbactam per 24 hours).",
+      "First-Line Role Against MDR Acinetobacter baumannii: International infectious disease guidelines identify high-dose sulbactam (administered as Cefoperazone-Sulbactam or Ampicillin-Sulbactam) as a core backbone agent for Carbapenem-Resistant Acinetobacter baumannii (CRAB) infections, due to sulbactam's direct, saturating acylation of Acinetobacter PBPs 1 and 3.",
+      "Dosing Ceilings: Do not exceed a total daily dose of 4 grams of the sulbactam component (equivalent to 12g of a 2:1 formulation or 8g of a 1:1 formulation) to avoid neurotoxicity and metabolic accumulation."
+    ]
   }
 ]
