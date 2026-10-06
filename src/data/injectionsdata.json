@@ -82,8 +82,8 @@
       "Urology & Renal"
     ],
     "sub_category": "Isotonic Extracellular Fluid Volume Expander & Parenteral Drug Reconstitution Vehicle",
-    "company_name": "NS1",
-    "amount": "65/- (1000 mL FFS / Eurohead Bottle)",
+    "company_name": "NS",
+    "amount": "94/- (1000 mL FFS / Eurohead Bottle)",
     "routes_of_administration": [
       "Intravenous Infusion (IV Infusion)",
       "Sterile Wound Irrigation",
@@ -282,8 +282,8 @@
       "Surgery & Trauma"
     ],
     "sub_category": "Hypertonic In-Vitro, Isotonic In-Vivo Energy-Supplying Extracellular Maintenance & Resuscitation Fluid",
-    "company_name": "DNS1",
-    "amount": "70/- (1000 mL FFS / Eurohead Bottle)",
+    "company_name": "DNS",
+    "amount": "95/- (1000 mL FFS / Eurohead Bottle)",
     "routes_of_administration": ["Intravenous Infusion (IV Infusion)"],
     "main_cause": "Postoperative Maintenance Fluid Therapy, Dehydration with Hypoglycemia or Ketonuria, Starvation Ketosis, Insulin-Induced Hypoglycemia Shock Resuscitation, Fluid Replacement with Caloric Support in NPO Patients",
     "why_this_disease_happens": "Surgical procedures, acute critical illness, prolonged fasting (nil-per-os / NPO status), or persistent gastrointestinal illness deplete liver glycogen stores within 18 to 24 hours. Once glycogen is exhausted, the body undergoes uncontrolled lipolysis and muscle proteolysis, flooding systemic circulation with free fatty acids that are converted in hepatocytes into acetoacetic acid and beta-hydroxybutyric acid, triggering starvation ketosis. Concurrently, continuing perspiration, respiratory insensible water loss, and gastrointestinal/urinary fluid elimination deplete extracellular sodium and water. If such patients are rehydrated solely with pure saline (0.9% NaCl), starvation ketosis and muscle breakdown continue unabated; conversely, if rehydrated solely with hypotonic dextrose water (D5W), extracellular sodium is rapidly diluted, precipitating dangerous cerebral edema. An infusion providing both extracellular sodium/chloride and readily metabolizable carbohydrate calories is necessary to restore intravascular volume while suppressing ketogenesis.",
@@ -345,7 +345,7 @@
     "category": ["Emergency & Critical Care", "Pediatrics", "Cardiovascular"],
     "sub_category": "Balanced Pediatric & Neonatal Maintenance Crystalloid with 5% Dextrose & Organic Acetate/Gluconate Buffers",
     "company_name": "Kidrolyte",
-    "amount": "125/- (500 mL FFS / Eurohead Bottle)",
+    "amount": "216/- (500 mL FFS / Eurohead Bottle)",
     "routes_of_administration": ["Intravenous Infusion (IV Infusion)"],
     "main_cause": "Pediatric Maintenance Fluid Therapy, Dehydration with Ketonuria in Infants and Children, Postoperative Maintenance in Nil-Per-Os (NPO) Pediatric Patients, Acute Gastroenteritis with Mild-to-Moderate Dehydration and Hypoglycemia Risk",
     "why_this_disease_happens": "Pediatric and neonatal patients have a significantly higher surface-area-to-body-mass ratio, a higher metabolic basal rate, and immature renal concentrating capacity compared to adults. During acute illness (e.g., viral rotavirus gastroenteritis, high fevers, or perioperative fasting), children deplete their limited hepatic glycogen stores within 8 to 12 hours. Rapid glycogen exhaustion triggers lipolysis and ketogenesis, while continuous insensible water loss and urinary/gastrointestinal output deplete extracellular electrolytes. If pediatric patients are given hypotonic fluids (such as 0.18% saline in 5% dextrose), non-osmotic secretion of antidiuretic hormone (ADH) triggered by pain, nausea, or stress can cause rapid free-water retention, resulting in acute, fatal hospital-acquired hyponatremic encephalopathy and brain herniation. Conversely, infusing unbuffered 0.9% Normal Saline floods immature kidneys with excess chloride (154 mEq/L), triggering hyperchloremic metabolic acidosis and renal vasoconstriction. A physiologically balanced maintenance fluid providing isotonic/near-isotonic electrolytes, organic buffers, and dextrose is essential to protect children from both hyponatremic brain swelling and starvation ketoacidosis.",
@@ -412,7 +412,7 @@
     ],
     "sub_category": "Synthetic 5-Nitroimidazole Class DNA-Disrupting Antimicrobial & Antiprotozoal Agent",
     "company_name": "Metris",
-    "amount": "24/- (100 mL Infusion Bottle)",
+    "amount": "22/- (100 mL Infusion Bottle)",
     "routes_of_administration": [
       "Intravenous Infusion Only (Slow IV Infusion)"
     ],
@@ -485,7 +485,7 @@
     ],
     "sub_category": "Dual-Substrate Equimolar Carbohydrate Caloric Infusion: Insulin-Independent Fructose & Glucose Parenteral Energy Substrate",
     "company_name": "Fructostar",
-    "amount": "145/- (500 mL Glass/FFS Infusion Bottle)",
+    "amount": "265/- (500 mL Glass/FFS Infusion Bottle)",
     "routes_of_administration": ["Intravenous Infusion Only (IV Infusion)"],
     "main_cause": "Postoperative & Intensive Care High-Caloric Parenteral Nutrition, Hepatic Glycogen Depletion & Acute Liver Sepsis, Severe Post-Surgical Stress Hyperglycemia (Insulin Resistance), Hyperemesis Gravidarum (Vomiting of Pregnancy), Acute Alcohol-Induced Ketosis & Hypoglycemia, Protein-Sparing in Nil-Per-Os (NPO) Critical States",
     "why_this_disease_happens": "During major surgical operations, septic shock, acute trauma, or severe pancreatitis, the neuroendocrine stress response floods systemic circulation with massive surges of counter-regulatory hormones (cortisol, glucagon, adrenaline, and growth hormone). This induces profound peripheral insulin resistance by blocking insulin-dependent GLUT4 translocation in skeletal muscle and adipose tissue. If such catabolic patients are infused with pure high-concentration dextrose (such as 10% or 20% Dextrose), the glucose cannot enter insulin-resistant myocytes. Blood glucose spikes dangerously, exceeding the renal tubular absorptive threshold (>180 mg/dL) and triggering osmotic diuresis, glucosuria, hyperosmolar dehydration, and hypokalemia, while tissues paradoxically starve for energy and continue muscle proteolysis. Concurrently, in patients with severe acute hepatitis, hepatic cirrhosis, or alcohol toxicity, hepatic gluconeogenesis and glycogen synthesis stall, causing rapid glycogen depletion and starvation ketoacidosis.",
@@ -552,8 +552,8 @@
       "Emergency & Critical Care"
     ],
     "sub_category": "First-in-Class Cyclic GABA-Derivative Nootropic, Positive AMPA Receptor Allosteric Modulator & Hemorheological Agent",
-    "company_name": "Nacetam",
-    "amount": "145/- (15 mL Ampoule / Vial - 3g)",
+    "company_name": "Nacetam 60",
+    "amount": "519/- (60 mL Ampoule / Vial - 3g)",
     "routes_of_administration": [
       "Intravenous Bolus (Slow IV)",
       "Intravenous Infusion (IV Infusion)",
@@ -680,8 +680,8 @@
     ],
     "category": ["Painkiller", "Emergency & Critical Care"],
     "sub_category": "Dual-Action Centrally Acting Synthetic Opioid Analgesic & Monoamine Reuptake Inhibitor",
-    "company_name": "TR1",
-    "amount": "42/- (2 mL Ampoule)",
+    "company_name": "Tramasure -100",
+    "amount": "25/- (2 mL Ampoule)",
     "routes_of_administration": ["Slow IV", "Deep IM", "Subcutaneous (SC)"],
     "main_cause": "Moderate to Severe Acute Post-Operative Pain, Orthopedic Fracture Trauma, Acute Renal Colic, Post-Traumatic Visceral Pain",
     "why_this_disease_happens": "Mechanical surgical trauma, bone fracture, or visceral capsular distension causes continuous firing of peripheral nociceptors (A-delta and C fibers). Excitatory signals release substance P and glutamate into the spinal dorsal horn, overwhelming descending inhibitory pathways and resulting in acute, disabling postoperative pain.",
@@ -737,8 +737,8 @@
       "Emergency & Critical Care"
     ],
     "sub_category": "Broad-Spectrum Semisynthetic Tetracycline Class Bacterial 30S Ribosomal Inhibitor (Lyophilized Parenteral Formulation)",
-    "company_name": "DX1",
-    "amount": "260/- (1 Lyophilized Vial - 100mg)",
+    "company_name": "Difidox",
+    "amount": "536/- (1 Lyophilized Vial - 100mg)",
     "routes_of_administration": ["Intravenous Infusion Only (IV Infusion)"],
     "main_cause": "Severe Rickettsial Infections (Rocky Mountain Spotted Fever, Scrub Typhus), Inhalation Anthrax (Bacillus anthracis Post-Exposure Prophylaxis & Treatment), Severe Community-Acquired Atypical Pneumonia (Mycoplasma, Chlamydia pneumoniae, Legionella), Leptospirosis, Severe Pelvic Inflammatory Disease (PID), Hospitalized Malaria (Plasmodium falciparum adjunct)",
     "why_this_disease_happens": "Severe systemic intracellular bacterial infections occur when obligate or facultative intracellular pathogens (e.g., Orientia tsutsugamushi, Rickettsia rickettsii, Legionella pneumophila, Chlamydia trachomatis) evade host humoral immunity, invade microvascular endothelial cells, alveolar pneumocytes, or reproductive tract mucosa. Pathogens establish intracellular replicative niches, driving severe microvascular endothelial necrosis, perivascular round cell infiltration, microthrombosis, and extensive capillary leakage. In conditions such as severe scrub typhus or Rocky Mountain spotted fever, this microvascular inflammation precipitates systemic vascular collapse, acute respiratory distress syndrome (ARDS), meningoencephalitis, and multi-organ failure. Standard hydrophilic beta-lactam antibiotics fail because they cannot cross eukaryotic host cell membranes in sufficient concentrations to reach intracellular organisms.",
@@ -792,11 +792,11 @@
     ]
   },
   {
-    "id": "cefuroxime-sodium-injection-ip-750mg-250mg",
-    "name": "Cefuroxime Sodium for Injection IP (750mg / 250mg)",
+    "id": "cefuroxime-sodium-injection-ip-750mg-1.5g",
+    "name": "Cefuroxime Sodium for Injection IP (750mg / 1.5mg)",
     "generic_names": [
       "Cefuroxime Sodium Sterile Powder for Injection IP 750mg/Vial",
-      "Cefuroxime Sodium 250mg/Vial",
+      "Cefuroxime Sodium 1.5g/Vial",
       "Zinacef IV/IM",
       "Ceftum IV",
       "Supacef",
@@ -809,8 +809,8 @@
       "Emergency & Critical Care"
     ],
     "sub_category": "Second-Generation Parenteral Cephalosporin Beta-Lactam: Transpeptidase Inhibitor & Peptidoglycan Cross-Link Blocker",
-    "company_name": "CX1",
-    "amount": "92/- (1 Vial 750mg with SWFI)",
+    "company_name": " Roxnios 750 mg | 1.5mg",
+    "amount": "225/- | 375 (1 Vial 750mg with SWFI)",
     "routes_of_administration": [
       "Slow Intravenous Injection (Slow IV Push)",
       "Intravenous Infusion (IV Infusion / Piggyback)",
