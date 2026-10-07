@@ -1,0 +1,77 @@
+[
+  {
+    "id": "ceftriaxone-for-injection-ip-1g",
+    "name": "Ceftriaxone for Injection IP (1g)",
+    "generic_names": ["Monocef 1g", "Rocephin 1g", "Oframax 1g"],
+    "sub_category": "Third-Generation Cephalosporin",
+    "amount": "65/-",
+    "who_aware_classification": "Watch",
+    "pk_pd_index": "T > MIC (Time-dependent)",
+    "antimicrobial_spectrum": {
+      "gram_positive": ["Strep. pneumoniae", "Strep. pyogenes"],
+      "gram_negative": [
+        "N. meningitidis",
+        "E. coli",
+        "K. pneumoniae",
+        "S. typhi"
+      ],
+      "anaerobic": false,
+      "atypical": false,
+      "pseudomonal": false,
+      "mrsa_active": false
+    },
+    "main_cause": "Acute Bacterial Meningitis, Typhoid Fever, Severe CAP, Complicated Urosepsis",
+    "main_action": "Binds and acylates PBP-3 to block peptidoglycan cross-linking and trigger bacterial cell lysis.",
+    "routes_of_administration": [
+      "Slow IV Push (2-4 mins)",
+      "IV Infusion (30 mins)",
+      "Deep IM"
+    ],
+    "reconstitution_and_dilution": "Dissolve 1g in 10 mL Sterile Water for IV. For IM, reconstitute with 3.5 mL 1% Lidocaine. NEVER use calcium-containing diluents.",
+    "infusion_rate_and_timing": "1g to 2g once every 24 hours (or 2g q12h in meningitis).",
+    "common_side_effects": [
+      "Diarrhea",
+      "Biliary sludging (pseudolithiasis)",
+      "Eosinophilia",
+      "Rash"
+    ],
+    "important_cautions": [
+      "Strict Incompatibility: Never mix or co-infuse with calcium solutions (Ringer's Lactate) due to fatal crystalline precipitation.",
+      "Contraindicated in hyperbilirubinemic neonates due to kernicterus risk."
+    ]
+  },
+  {
+    "id": "linezolid-injection-2mg-ml-600mg-300ml",
+    "name": "Linezolid Injection (2mg/mL, 600mg/300mL)",
+    "generic_names": ["Zyvox IV", "Linospan IV", "Lizomac IV"],
+    "sub_category": "Synthetic Oxazolidinone",
+    "amount": "440/-",
+    "who_aware_classification": "Reserve",
+    "pk_pd_index": "AUC24 / MIC",
+    "antimicrobial_spectrum": {
+      "gram_positive": ["MRSA", "VRE (E. faecium)", "Strep. pneumoniae"],
+      "gram_negative": [],
+      "anaerobic": true,
+      "atypical": false,
+      "pseudomonal": false,
+      "mrsa_active": true
+    },
+    "main_cause": "HAP/VAP caused by MRSA, Vancomycin-Resistant Enterococcus (VRE) bacteremia",
+    "main_action": "Binds 23S rRNA of the 50S subunit, preventing 70S initiation complex assembly and halting toxin release.",
+    "routes_of_administration": [
+      "Slow IV Piggyback Infusion over 30 to 120 minutes"
+    ],
+    "reconstitution_and_dilution": "Ready-to-use 300 mL container (600 mg). Do not dilute further.",
+    "infusion_rate_and_timing": "600 mg IV every 12 hours infused over 60 minutes.",
+    "common_side_effects": [
+      "Thrombocytopenia (>14 days)",
+      "Nausea",
+      "Headache",
+      "Optic/peripheral neuropathy (>28 days)"
+    ],
+    "important_cautions": [
+      "Serotonin Syndrome risk: Weak reversible MAO-inhibitor; avoid concurrent SSRIs/SNRIs.",
+      "Check weekly CBC for myelosuppression if therapy extends past 10–14 days."
+    ]
+  }
+]

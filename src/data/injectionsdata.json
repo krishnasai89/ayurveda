@@ -810,7 +810,7 @@
     ],
     "sub_category": "Second-Generation Parenteral Cephalosporin Beta-Lactam: Transpeptidase Inhibitor & Peptidoglycan Cross-Link Blocker",
     "company_name": " Roxnios 750 mg | 1.5mg",
-    "amount": "225/- | 375 (1 Vial 750mg with SWFI)",
+    "amount": "225/- | 375/- (1 Vial 750mg with SWFI)",
     "routes_of_administration": [
       "Slow Intravenous Injection (Slow IV Push)",
       "Intravenous Infusion (IV Infusion / Piggyback)",
@@ -1373,6 +1373,84 @@
       "Hypokalemic Arrhythmia Surveillance: Rapid natriuresis increases sodium delivery to the distal cortical collecting duct, promoting potassium and hydrogen ion excretion. This can cause severe hypokalemia and hypomagnesemia, increasing the risk of lethal ventricular arrhythmias, especially in patients taking Digoxin. Monitor serum potassium closely and replace electrolytes as needed.",
       "Hepatic Coma Hazard in Cirrhotic Ascites: In cirrhotic patients with ascites, overly aggressive diuresis can provoke hypokalemic metabolic alkalosis, converting ammonium ions into unionized ammonia (NH3) that crosses the blood-brain barrier and triggers acute hepatic encephalopathy.",
       "Biphasic Action Timeline: The clinical response occurs in two phases: systemic venodilation within 5 to 15 minutes reduces cardiac preload and dyspnea, followed by peak diuresis at 30 to 60 minutes lasting approximately 2 hours."
+    ]
+  },
+  {
+    "id": "prochlorperazine-mesylate-injection-ip-12-5mg-ml",
+    "name": "Prochlorperazine Mesylate Injection IP (12.5mg/mL)",
+    "generic_names": [
+      "Prochlorperazine Mesylate Injection IP 12.5mg/1mL",
+      "Prochlorperazine Dimethanesulfonate",
+      "Stemetil Injection 12.5mg/mL",
+      "Emidoxyn Injection",
+      "Prometil 12.5mg",
+      "Vomitil Injection",
+      "Stemin 12.5mg"
+    ],
+    "category": [
+      "Gastrointestinal",
+      "Central Nervous System",
+      "Emergency & Critical Care"
+    ],
+    "sub_category": "Propylpiperazine Phenothiazine, D2 Dopamine Receptor Antagonist, Vestibular Suppressant & Neuroleptic Antiemetic",
+    "company_name": "PC1",
+    "amount": "28/- (1 mL Glass Ampoule - 12.5mg)",
+    "routes_of_administration": [
+      "Deep Intramuscular Only (IM - Upper Outer Quadrant of Gluteus Maximus)",
+      "Slow Intravenous Infusion (Strictly Off-Label / Emergency Dilution in Normal Saline over >= 15 to 30 mins; Direct IV Push is Contraindicated)"
+    ],
+    "main_cause": "Acute Severe Nausea and Vomiting (Postoperative, Drug-Induced, Chemotherapy, Radiation), Acute Peripheral Vertigo and Labyrinthine Disorders (Meniere's Disease, Acute Labyrinthitis, Vestibular Neuronitis), Acute Migraine Status (Abortive Co-Therapy with Analgesics), Acute Agitation in Severe Psychotic Episodes (Short-Term Control)",
+    "why_this_disease_happens": "Acute emesis and vestibular vertigo are orchestrated through interconnected neurochemical reflex arcs involving the Chemoreceptor Trigger Zone (CTZ / Area Postrema), the Solitary Tract Nucleus (NTS), the Medullary Vomiting Center, and the Vestibular Nuclei. In acute visceral illness, chemotherapy, or post-surgical states, systemic emetogenic toxins and high circulating serotonin/dopamine levels penetrate the fenestrated, blood-brain barrier-free capillaries of the Area Postrema. Extracellular dopamine binds to excitatory Dopamine D2 receptors linked to G-alpha-i proteins in the CTZ, initiating efferent signaling to the medullary vomiting center to coordinate retrograde giant contractions, diaphragm spasm, and vomiting. In acute peripheral vestibular disease (Meniere's, vestibular neuronitis), asymmetric firing between bilateral vestibular labyrinths floods the vestibular nuclei and flocculonodular cerebellum with mismatched signals. Vestibular nuclei project heavily via histaminergic (H1) and muscarinic (M1) pathways into the CTZ and autonomic centers, triggering rotary vertigo, horizontal-torsional nystagmus, diaphoresis, pallor, and intractable motion-sickness vomiting. Terminating this neuro-vestibular cascade requires a piperazine-substituted phenothiazine capable of blocking central D2 receptors while depressing vestibular end-organ firing.",
+    "how_this_medicine_fights_it": "Provides targeted antiemetic, anti-vertiginous, and tranquilizing actions via multimodal antagonism of central dopaminergic, histaminergic, and muscarinic pathways: Prochlorperazine is a piperazine-substituted phenothiazine derivative (2-chloro-10-[3-(4-methyl-1-piperazinyl)propyl]-10H-phenothiazine dimethanesulfonate): (1) High-Affinity Dopamine D2 Receptor Antagonism: Following deep intramuscular injection, prochlorperazine crosses the blood-brain barrier and binds with nanomolar affinity as an antagonist to post-synaptic Dopamine D2 receptors localized in the Area Postrema (CTZ) and the Solitary Tract Nucleus. Receptor blockade prevents dopamine from activating adenylate cyclase, terminating emetic signal transmission to the medullary vomiting center. (2) Vestibular Suppressant Action: Prochlorperazine depresses excitability in the lateral and medial vestibular nuclei of the medulla and blunts transmission along vestibulocerebellar pathways. Through moderate competitive antagonism of central Histamine H1 and Muscarinic M1 receptors, it attenuates neural mismatch signals originating from an inflamed or hydropic labyrinth, rapidly aborting rotational vertigo, oscillopsia, and autonomic nausea in Meniere's disease and acute labyrinthitis. (3) Migraine Abortive Action (Trigeminovascular Desensitization): In acute migraine, prochlorperazine antagonizes central D2 and 5-HT2A receptors, suppressing neurogenic dural vasodilation, blocking pain transmission in the spinal trigeminal nucleus caudalis, and relieving migraine-associated gastroparesis and nausea. (4) Weak Alpha-1 Adrenergic & Sedative Profile: Unlike aliphatic phenothiazines (e.g., chlorpromazine, promethazine), the piperazine side chain imparts high antiemetic and antipsychotic potency with significantly less alpha-1 adrenergic blockade and less autonomic sedation, though extrapyramidal motor liability is higher.",
+    "drug_class": "Piperazine Phenothiazine / Dopamine D2 Receptor Antagonist & Vestibular Suppressant Antiemetic",
+    "main_action": "Antagonizes central dopamine D2 receptors in the Chemoreceptor Trigger Zone (CTZ) to arrest emesis, while blunting histaminergic and muscarinic signaling in the vestibular nuclei to extinguish acute rotational vertigo.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Severe acute nausea and vomiting of varied etiologies: postoperative nausea and vomiting (PONV), radiation sickness, gastroenteritis, and drug-induced emesis (12.5mg deep IM, repeated after 6 hours if required)",
+      "Acute peripheral vertigo and vestibular crises: Meniere's disease, acute viral labyrinthitis, vestibular neuronitis, and benign paroxysmal positional vertigo (BPPV) with severe autonomic symptoms",
+      "Emergency department abortive treatment for acute migraine attacks refractory to oral analgesics (co-administered with NSAIDs or triptans)",
+      "Short-term control of severe psychomotor agitation, schizophrenia, or mania in acute hospital psychiatric admissions (dosed 12.5mg to 25mg IM)",
+      "Prevention of severe nausea during cytotoxic chemotherapy or palliative care regimens"
+    ],
+    "how_patients_describe_symptoms": [
+      "I had sudden room-spinning vertigo and violent retching from an inner ear infection; this intramuscular injection in my hip settled the dizziness and stopped the vomiting within 30 minutes.",
+      "During my severe migraine in the emergency room, the nurse gave me this injection to stop the non-stop nausea and relieve the throbbing headache.",
+      "Following my surgery, I was throwing up uncontrollably; this clear hip injection brought quick relief so I could rest."
+    ],
+    "reconstitution_and_dilution": "Supplied ready-to-inject as a clear, colorless to pale-yellow, sterile aqueous solution in a 1 mL amber glass ampoule (contains 12.5 mg Prochlorperazine Mesylate per 1 mL, pH 5.5 to 6.5). No reconstitution required. Deep IM administration uses the undiluted solution directly from the ampoule. Protect from light (phenothiazines undergo photo-oxidation, turning pink, red, or dark brown upon exposure; DISCARD IMMEDIATELY if discolored or containing precipitated flakes). Off-Label Emergency IV Infusion Protocol: If intravenous use is unavoidable, 12.5 mg MUST BE DILUTED in 50 mL to 100 mL of 0.9% Normal Saline or 5% Dextrose in Water; never inject undiluted. Incompatible with alkaline solutions (e.g., Aminophylline, Sodium Bicarbonate), Ceftriaxone, Heparin, and Furosemide in the same syringe or line (causes immediate insoluble precipitation).",
+    "infusion_rate_and_timing": "Deep Intramuscular (IM) Injection Only. Standard adult dose is 12.5 mg (1 mL) injected deeply into the upper outer quadrant of the buttock (gluteus maximus). A second dose may be administered after 6 to 8 hours if severe symptoms persist (maximum adult parenteral dose: 25 mg in 24 hours). Emergency IV Infusion Velocity (If indicated): Diluted 12.5 mg in 50-100 mL Normal Saline MUST BE INFUSED SLOWLY OVER A MINIMUM OF 15 TO 30 MINUTES. DIRECT RAPID INTRAVENOUS BOLUS / IV PUSH IS CONTRAINDICATED due to risks of profound hypotension and severe extrapyramidal reactions.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adult and adolescent patients (>=12 years of age or body weight > 20 kg) presenting with severe intractable vomiting or disabling acute vertigo",
+        "Patients with acute migraine presenting with severe emesis refractory to simple 5-HT3 antagonists (ondansetron)",
+        "Hospitalized post-operative surgical patients unable to retain oral antiemetics"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Absolute Contraindication: Comatose states or severe central nervous system depression caused by alcohol, barbiturates, general anesthetics, or opioids",
+        "Absolute Contraindication: Known hypersensitivity to prochlorperazine or other phenothiazines",
+        "Absolute Contraindication: Children under 2 years of age or body weight < 10 kg (high susceptibility to fatal respiratory depression and severe dystonic crises)",
+        "Absolute Contraindication: Pediatric patients presenting with unexplained acute vomiting, lethargy, or viral illness (danger of masking or worsening Reye's Syndrome)",
+        "Absolute Contraindication: Bone marrow depression, baseline leukopenia, or history of phenothiazine-induced blood dyscrasias",
+        "Patients with Parkinson's Disease (striatal D2 receptor blockade severely worsens motor rigidity and tremor; use Ondansetron or Domperidone instead)",
+        "Patients with severe cardiovascular disease, baseline hypotension, or high risk of orthostatic syncope",
+        "Patients with narrow-angle glaucoma or severe benign prostatic hyperplasia (anticholinergic activity increases intraocular pressure and causes acute urinary retention)"
+      ]
+    },
+    "common_side_effects": [
+      "Extrapyramidal Symptoms (EPS): acute dystonic reactions (oculogyric crisis, torticollis, trismus, facial grimacing), akathisia (motor restlessness), or drug-induced parkinsonism",
+      "Somnolence, drowsiness, and generalized sedation (very common, lasting several hours)",
+      "Autonomic anticholinergic effects: xerostomia (dry mouth), nasal congestion, blurred vision, and urinary hesitancy",
+      "Cardiovascular: transient orthostatic hypotension, lightheadedness, and mild reflex tachycardia",
+      "Local injection-site pain, soreness, or transient induration following deep IM administration",
+      "Mild transient elevations in serum prolactin (galactorrhea, breast tenderness) with repeated doses"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "Acute Dystonic Reaction Warning & Antidote Mandate: Piperazine phenothiazines carry a high propensity to induce acute extrapyramidal dystonic reactions (occurring in up to 2% to 5% of patients, with higher incidence in young males and pediatric patients). Symptoms typically emerge within 1 to 4 hours post-administration, presenting as sudden oculogyric crisis (upward deviation of the eyes), acute torticollis (painful neck twisting), trismus (jaw clenching), protrusion of the tongue, or opisthotonos. Bedside staff must be prepared: ACUTE DYSTONIA IS RAPIDLY REVERSIBLE WITH AN ANTICHOLINERGIC AGENT. Promethazine (25–50 mg IM/IV) or Diphenhydramine (25–50 mg IM/IV) must be immediately available to abort the reaction within minutes.",
+      "Prohibition of Direct Rapid IV Push: Prochlorperazine mesylate for injection is licensed predominantly for DEEP INTRAMUSCULAR USE. Administering prochlorperazine as a rapid intravenous push triggers sudden peripheral alpha-1 adrenergic blockade and central vasomotor depression, causing acute severe arterial hypotension, reflex tachycardia, syncope, and chemical thrombophlebitis. If given intravenously in emergency rooms (e.g., migraine protocols), it must be diluted into at least 50 mL of Normal Saline and infused slowly over 15 to 30 minutes with the patient lying supine.",
+      "Strict Intramuscular Technique (Deep Gluteal Only): Injection must be performed with a long needle (21G–23G, 1.5 inch) into the deep muscle mass of the gluteus maximus (dorsogluteal or ventrogluteal site). Superficial injection into subcutaneous adipose tissue produces severe localized pain, aseptic chemical fat necrosis, and sterile abscess formation.",
+      "Neuroleptic Malignant Syndrome (NMS) Vigilance: As a potent dopamine D2 receptor antagonist, prochlorperazine can trigger rare, potentially fatal Neuroleptic Malignant Syndrome. Clinical hallmarks include hyperpyrexia (temperature > 39°C), severe 'lead-pipe' muscle rigidity, altered mental status, and autonomic instability (tachycardia, labile blood pressure, diaphoresis) accompanied by elevated serum creatine kinase (CPK) and myoglobinuria. If suspected, discontinue prochlorperazine immediately and initiate ICU supportive management (Dantrolene, Bromocriptine).",
+      "Sedation & Fall Risk Precautions: Because of additive central sedative and alpha-adrenergic blocking properties, patients should remain resting or supine for at least 30 to 60 minutes following parenteral administration. Ambulatory outpatients must be cautioned against driving, operating heavy machinery, or ingesting alcohol for at least 24 hours.",
+      "Pediatric Reye's Syndrome Hazard: Do not use prochlorperazine in pediatric patients presenting with acute vomiting accompanied by fever, varicella, or viral illness. Emetogenic antiemetics can mask the encephalopathic signs of emerging Reye's Syndrome, delaying life-saving supportive therapy."
     ]
   },
   {
