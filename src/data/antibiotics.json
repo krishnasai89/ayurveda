@@ -1063,5 +1063,808 @@
       "Zero Renal Dose Adjustment Advantage: Linezolid is metabolized primarily by non-enzymatic chemical oxidation into two inactive carboxylic acid metabolites, with only ~30% excreted unchanged by the kidneys. CONSEQUENTLY, NO DOSAGE ADJUSTMENT IS REQUIRED IN MILD, MODERATE, OR SEVERE RENAL IMPAIRMENT, NOR IN DIALYSIS PATIENTS. In hemodialysis, roughly 30% of the dose is cleared during a 3-hour session; administer the scheduled dose post-hemodialysis.",
       "100% Oral Bioavailability & 1:1 IV-to-Oral Switch Advantage: Linezolid exhibits complete gastrointestinal absorption, resulting in plasma concentration-time profiles virtually identical to intravenous administration. Patients stabilized on Linezolid 600 mg IV can be switched directly to Linezolid 600 mg oral tablets with ZERO DOSE ADJUSTMENT, facilitating earlier hospital discharge and reducing catheter-related bloodstream infection risks."
     ]
+  },
+  {
+    "id": "amoxycillin-potassium-clavulanate-lactic-acid-bacillus-tablets-ip-500mg-125mg",
+    "name": "Amoxycillin, Potassium Clavulanate & Lactic Acid Bacillus Tablets IP (500mg / 125mg / 60 Million Spores)",
+    "generic_names": [
+      "Amoxicillin, Clavulanate Potassium and Lactic Acid Bacillus Tablets IP",
+      "Amoxycillin 500mg + Clavulanic Acid 125mg + Lactobacillus Sporogenes 60M Spores",
+      "Moxikind-CV 625 LB",
+      "Clavam-LB 625",
+      "Polyclav-LB 625",
+      "Augmentin Duo with LB",
+      "Novamox-CV LB",
+      "Sensiclav-LB 625"
+    ],
+    "category": [
+      "Antibiotics",
+      "Infections & Parasites",
+      "Respiratory",
+      "Dermatology"
+    ],
+    "sub_category": "Broad-Spectrum Aminopenicillin, Mechanism-Based Suicide Beta-Lactamase Inhibitor & Gut Microbiome Restorative Probiotic",
+    "company_name": "AC2",
+    "amount": "218/- (Strip of 10 Tablets in Alu-Alu Blister)",
+    "routes_of_administration": [
+      "Oral (Per Os - Swallowed Whole with Water Immediately at the Start of a Meal)"
+    ],
+    "antimicrobial_spectrum": {
+      "gram_positive": [
+        "Streptococcus pneumoniae (penicillin-susceptible & intermediate strains)",
+        "Streptococcus pyogenes (Group A beta-hemolytic Strep)",
+        "Staphylococcus aureus (Methicillin-Susceptible MSSA, including beta-lactamase producers)",
+        "Enterococcus faecalis (ampicillin-susceptible)",
+        "Listeria monocytogenes"
+      ],
+      "gram_negative": [
+        "Haemophilus influenzae (including high-level beta-lactamase producers)",
+        "Moraxella catarrhalis (beta-lactamase positive)",
+        "Escherichia coli (uropathogenic strains, non-ESBL)",
+        "Klebsiella pneumoniae (non-ESBL)",
+        "Proteus mirabilis",
+        "Salmonella species",
+        "Shigella species"
+      ],
+      "anaerobic": true,
+      "atypical": false,
+      "pseudomonal": false,
+      "mrsa_active": false
+    },
+    "who_aware_classification": "Access",
+    "pk_pd_index": "T > MIC (Time-dependent beta-lactam parameter)",
+    "main_cause": "Community-Acquired Lower Respiratory Tract Infections (Pneumonia, Acute Exacerbations of Chronic Bronchitis), Acute Bacterial Rhinosinusitis & Refractory Otitis Media, Recurrent Streptococcal Tonsillopharyngitis, Complicated Odontogenic / Dental Alveolar Abscesses, Complicated Skin and Soft Tissue Infections (Cellulitis, Animal/Human Bites, Infected Wounds), Uncomplicated Urinary Tract Infections (Recurrent Cystitis), Prevention of Antibiotic-Associated Diarrhea (AAD) in Dysbiosis-Prone Patients",
+    "why_this_disease_happens": "Bacterial respiratory, ENT, dental, and cutaneous infections are frequently driven by pyogenic Gram-positive cocci (Streptococcus pneumoniae, MSSA) and fastidious Gram-negative bacilli (Haemophilus influenzae, Moraxella catarrhalis), often accompanied by mucosal anaerobes (Prevotella, Fusobacterium, Peptostreptococcus) in bite wounds and odontogenic abscesses. A major mechanism of outpatient clinical failure is bacterial enzymatic resistance. Common respiratory and oral pathogens synthesize Ambler Class A serine beta-lactamases (TEM-1, TEM-2, SHV-1, and staphylococcal PC1 enzymes). These enzymes catalyze the nucleophilic opening of the vulnerable four-membered beta-lactam ring in aminopenicillins (such as amoxycillin), converting them into inert penicilloic acid before they can bind transpeptidases. While combining amoxycillin with potassium clavulanate neutralizes these beta-lactamases and restores broad bactericidal activity, clavulanic acid has a recognized liability: it directly stimulates intestinal smooth muscle contractility and accelerates peristaltic transit. In parallel, broad-spectrum amoxycillin eradicates commensal anaerobic microflora (Bifidobacteria, Bacteroides, Lactobacilli) in the ileum and colon. This double insult triggers secretory diarrhea, acute abdominal cramping, and microecological dysbiosis, which can lead to opportunistic Clostridioides difficile colonization or fungal candidiasis. Mitigating this motility disruption and flora depletion requires co-formulating the bactericidal beta-lactam/inhibitor pair with viable, acid-resistant lactic acid-producing spores.",
+    "how_this_medicine_fights_it": "Provides bactericidal cell wall synthesis arrest, irreversible suicide beta-lactamase inactivation, and intestinal microbiome barrier restitution through a triple-action synergistic oral matrix: (1) Penicillin-Binding Protein Acylation & Osmotic Lysis (Amoxycillin): Amoxycillin ((2S,5R,6R)-6-[[(2R)-2-amino-2-(4-hydroxyphenyl)acetyl]amino]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid) is a semisynthetic aminopenicillin with high oral bioavailability (~75% to 90%). It diffuses into bacterial periplasmic spaces and binds covalently with high affinity to essential Penicillin-Binding Proteins—predominantly PBP-1a, PBP-1b, PBP-2, and PBP-3. Acylation of active-site transpeptidase domains halts cross-linking of peptidoglycan pentapeptide chains. Weakened by high intracellular osmotic turgor pressure, the peptidoglycan wall ruptures, activating endogenous murein autolysins and amidases to cause rapid bactericidal osmotic lysis. (2) Suicide Beta-Lactamase Inactivation (Potassium Clavulanate): Clavulanic acid is a naturally occurring clavam-derived beta-lactam with minimal intrinsic antibacterial activity. It acts as an irreversible, competitive 'suicide' inhibitor of Class A serine beta-lactamases (including staphylococcal penicillinases, TEM, and SHV families). Clavulanate binds to the active-site serine of the enzyme, forming an acyl-enzyme intermediate. The enzyme hydrolyzes the oxapenam ring, which rearranges into stable, covalently bound adducts that permanently inactivate the enzyme, protecting amoxycillin from enzymatic destruction and expanding its coverage to include beta-lactamase-producing MSSA, H. influenzae, M. catarrhalis, and Bacteroides anaerobes. (3) Probiotic Luminal Protection & Acidification (Lactic Acid Bacillus): The co-formulated Lactic Acid Bacillus (typically 60 million spores of Bacillus coagulans / Lactobacillus sporogenes) consists of thermostable, acid-resistant endospores that survive gastric hydrochloric acid and duodenal bile salts to germinate in the jejunum and ileum. The vegetative bacilli metabolize fermentable sugars into L-(+) lactic acid, lowering intraluminal pH to acidic levels (~5.5 to 6.0). This suppresses toxigenic enteric pathogens (enterotoxigenic E. coli, Clostridioides difficile, Candida albicans), restores indigenous butyrate-producing commensals, and counters clavulanate-induced motility shifts, reducing the incidence and severity of antibiotic-associated diarrhea (AAD).",
+    "drug_class": "Aminopenicillin + Beta-Lactamase Inhibitor + Probiotic Flora Restorative Combination",
+    "main_action": "Amoxycillin halts peptidoglycan cell wall synthesis via transpeptidase acylation, potassium clavulanate irreversibly inactivates bacterial beta-lactamases to preserve amoxycillin, and Lactic Acid Bacillus spores germinate to re-acidify the gut lumen and protect against antibiotic-associated diarrhea.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Community-Acquired Pneumonia (CAP) and Acute Exacerbations of Chronic Bronchitis (AECB; 625mg orally every 8 or 12 hours for 7 to 10 days)",
+      "Acute bacterial rhinosinusitis and recurrent/refractory Acute Otitis Media (AOM) failing standard aminopenicillin monotherapy",
+      "Severe odontogenic alveolar abscesses, periapical dental infections, and post-extraction polymicrobial wound care",
+      "Complicated skin and soft tissue infections: cellulitis, erysipelas, diabetic foot wounds, and domestic animal/human bite wounds (Pasteurella multocida and Eikenella corrodens coverage)",
+      "Recurrent or complicated uncomplicated urinary tract infections (cystitis) caused by beta-lactamase-producing E. coli or Proteus",
+      "Patients prone to severe gastrointestinal distress, loose stools, or antibiotic-associated dysbiosis on standard Amoxycillin-Clavulanate regimens"
+    ],
+    "how_patients_describe_symptoms": [
+      "I had a deep chest infection with productive yellow cough and fever; taking this tablet right at the start of my meals cleared the infection without giving me the severe watery diarrhea I usually get from antibiotics.",
+      "My severe tooth abscess caused throbbing jaw swelling and facial pain; this combination tablet cleared the bacterial infection and swelling within three days.",
+      "Following an infected dog bite on my hand, the doctor prescribed this tablet twice a day with food to stop the spreading redness and prevent complications."
+    ],
+    "reconstitution_and_dilution": "Supplied ready-to-administer as white to off-white, capsule-shaped, film-coated tablets containing Amoxycillin Trihydrate equivalent to 500 mg of anhydrous amoxycillin, Potassium Clavulanate Diluted IP equivalent to 125 mg of clavulanic acid, and 60 Million viable spores of Lactic Acid Bacillus (Bacillus coagulans / Lactobacillus sporogenes). No liquid reconstitution required. Severe Hygroscopicity Mandate: Potassium clavulanate is exceptionally moisture-sensitive and degrades rapidly upon exposure to atmospheric humidity. TABLETS MUST REMAIN IN ORIGINAL ALUMINUM-ALUMINUM (ALU-ALU) BLISTER PACKAGING. Do not remove tablets in advance to fill weekly pill organizers. Store below 25°C in a dry environment protected from light. Swallow whole with a glass of water; do not crush or chew (crushing accelerates clavulanate degradation and compromises spore viability).",
+    "infusion_rate_and_timing": "Oral Administration Only. Administration Timing Rule: MUST BE SWALLOWED WHOLE IMMEDIATELY AT THE START OF A MEAL (FIRST BITE OF FOOD). Administration at the start of a meal optimizes the systemic absorption of clavulanic acid and significantly reduces the incidence of gastrointestinal side effects (nausea, gastric irritation, vomiting). Standard Adult Dosing (>= 12 years or body weight > 40 kg): 1 tablet (500mg/125mg + LB) orally EVERY 8 HOURS (three times daily) or EVERY 12 HOURS (twice daily) for 5 to 14 days depending on infection severity and clinical site.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults and adolescents (>= 12 years) presenting with community-acquired respiratory, dental, ENT, skin, or bite-wound infections",
+        "Patients requiring broad-spectrum beta-lactam coverage who have a history of antibiotic-associated diarrhea or bowel sensitivity",
+        "Patients with mixed aerobic/anaerobic odontogenic infections or animal bite injuries",
+        "Pregnant women requiring beta-lactamase-stable penicillin therapy (FDA Pregnancy Category B; crosses placenta without teratogenicity; use with caution in preterm rupture of membranes)"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Absolute Contraindication: Known severe, immediate IgE-mediated hypersensitivity (anaphylaxis, angioedema, urticaria) to amoxycillin, penicillins, or beta-lactamase inhibitors",
+        "Absolute Contraindication: Documented history of amoxycillin/clavulanate-associated cholestatic jaundice or acute hepatic dysfunction",
+        "Patients with Infectious Mononucleosis (Epstein-Barr Virus infection) or Cytomegalovirus: up to 90% of mono patients develop a widespread erythematous maculopapular rash when given amoxycillin (non-allergic aminopenicillin rash)",
+        "Infections caused by Methicillin-Resistant Staphylococcus aureus (MRSA) or Pseudomonas aeruginosa (both active agents are completely inactive)",
+        "Patients with severe renal impairment (Creatinine Clearance < 30 mL/min) without dose reduction and interval prolongation"
+      ]
+    },
+    "common_side_effects": [
+      "Gastrointestinal: mild loose stools or soft stools (significantly mitigated by the co-formulated probiotic compared to plain amoxicillin-clavulanate), nausea, and dyspepsia",
+      "Gastrointestinal abdominal fullness, flatulence, and mild epigastric discomfort",
+      "Dermatologic: maculopapular erythematous rash, urticaria, or pruritus",
+      "Oral or vaginal candidiasis (moniliasis / thrush) due to mucosal commensal flora shifts",
+      "Transient biochemical elevations in hepatic transaminases (ALT, AST) or alkaline phosphatase",
+      "Headache, mild dizziness, or lightheadedness"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "Mandatory Administration at the Start of Meals: Potassium clavulanate and amoxycillin display optimized gastrointestinal absorption when ingested alongside food. Ingesting this tablet at the beginning of a meal enhances clavulanate bioavailability and significantly reduces gastric mucosal irritation and nausea. INSTRUCT PATIENTS TO SWALLOW THE TABLET WITH WATER AT THE FIRST BITE OF BREAKFAST, LUNCH, OR DINNER.",
+      "Probiotic Gut Protection vs. Clavulanate Diarrhea: While standard Amoxycillin-Clavulanate 625mg produces diarrhea in up to 10% to 15% of patients due to clavulanate-mediated motilin receptor activation and colonic dysbiosis, the inclusion of Lactic Acid Bacillus (Bacillus coagulans spores) helps preserve luminal fermentation, re-acidify the colon, and reduce antibiotic-associated diarrhea (AAD). However, if severe watery diarrhea (>6 watery stools/day), fever, or hematochezia occurs, evaluate for Clostridioides difficile-associated diarrhea (CDAD); anti-motility agents (such as Loperamide) are contraindicated.",
+      "Alu-Alu Moisture Sensitivity & Storage Mandate: Potassium clavulanate is exceptionally hygroscopic and undergoes rapid chemical degradation (forming inactive brown/mottled degradation products) upon minimal exposure to ambient moisture. TABLETS MUST BE STORED IN ORIGINAL ALUMINUM-ALUMINUM BLISTER PACKS AND ONLY DE-BLISTERED IMMEDIATELY BEFORE SWALLOWING. Do not store in unsealed multi-dose containers or weekly pill organizers.",
+      "Amoxycillin-Associated Cholestatic Jaundice & Hepatic Vigilance: Amoxycillin-clavulanate is a recognized cause of drug-induced cholestatic liver injury, primarily attributed to the clavulanic acid moiety. Signs include jaundice, dark urine, pale stools, pruritus, and elevated alkaline phosphatase and bilirubin. It occurs more frequently in elderly patients, males, and courses lasting longer than 14 days, and can manifest up to 6 weeks after treatment cessation. AVOID in patients with prior history of clavulanate-induced hepatic dysfunction.",
+      "Infectious Mononucleosis Erythematous Rash Warning: Administering amoxycillin to patients with viral Infectious Mononucleosis (EBV) or acute lymphocytic leukemia triggers a characteristic generalized, erythematous, pruritic maculopapular rash in 60% to 90% of recipients within 5 to 10 days. This non-allergic rash should not be confused with true IgE-mediated penicillin allergy, but amoxycillin-clavulanate must be avoided in patients with acute pharyngitis suspected to be viral mononucleosis.",
+      "Strict Renal Dose Adjustment Protocol: Elimination of both amoxycillin and clavulanate is predominantly renal via glomerular filtration and tubular secretion. Dosing must be titrated based on Creatinine Clearance: CrCl >= 30 mL/min: Standard dose (500mg/125mg every 12 hours or every 8 hours); CrCl 10 to 29 mL/min: 500mg/125mg every 12 hours; CrCl < 10 mL/min: 500mg/125mg once every 24 hours; Hemodialysis: 500mg/125mg every 24 hours, plus an additional supplemental dose administered post-hemodialysis.",
+      "WHO AWaRe Access Classification Advantage: Amoxycillin + Beta-Lactamase Inhibitor is categorized under the WHO 'Access' group, representing a first-line backbone for community-acquired respiratory, dental, and animal bite infections with lower risk of driving hospital-acquired multidrug-resistant superbugs compared to 'Watch' group cephalosporins."
+    ]
+  },
+  {
+    "id": "amoxycillin-potassium-clavulanate-tablets-ip-625mg",
+    "name": "Amoxycillin & Potassium Clavulanate Tablets IP (625mg)",
+    "generic_names": [
+      "Amoxicillin and Clavulanate Potassium Tablets IP 625mg",
+      "Co-Amoxiclav 500/125",
+      "Augmentin 625 Duo",
+      "Clavam 625",
+      "Moxikind-CV 625",
+      "Polyclav 625",
+      "Novamox-CV 625",
+      "Sensiclav 625",
+      "Amoxyclav 625"
+    ],
+    "category": [
+      "Antibiotics",
+      "Infections & Parasites",
+      "Respiratory",
+      "Dermatology"
+    ],
+    "sub_category": "Broad-Spectrum Aminopenicillin & Mechanism-Based Irreversible Suicide Beta-Lactamase Inhibitor",
+    "company_name": "AC1",
+    "amount": "205/- (Strip of 10 Film-Coated Tablets in Alu-Alu Blister)",
+    "routes_of_administration": [
+      "Oral (Per Os - Swallowed Whole with Water Immediately at the Start of a Meal)"
+    ],
+    "antimicrobial_spectrum": {
+      "gram_positive": [
+        "Streptococcus pneumoniae (penicillin-susceptible & intermediate strains)",
+        "Streptococcus pyogenes (Group A beta-hemolytic Strep)",
+        "Staphylococcus aureus (Methicillin-Susceptible MSSA, including beta-lactamase producing strains)",
+        "Enterococcus faecalis (ampicillin-susceptible)",
+        "Listeria monocytogenes"
+      ],
+      "gram_negative": [
+        "Haemophilus influenzae (including high-level beta-lactamase producers)",
+        "Moraxella catarrhalis (beta-lactamase positive)",
+        "Escherichia coli (uropathogenic strains, non-ESBL)",
+        "Klebsiella pneumoniae (non-ESBL)",
+        "Proteus mirabilis",
+        "Salmonella species",
+        "Shigella species",
+        "Pasteurella multocida (animal bite pathogens)",
+        "Eikenella corrodens (human bite pathogens)"
+      ],
+      "anaerobic": true,
+      "atypical": false,
+      "pseudomonal": false,
+      "mrsa_active": false
+    },
+    "who_aware_classification": "Access",
+    "pk_pd_index": "T > MIC (Time-dependent beta-lactam killing parameter)",
+    "main_cause": "Community-Acquired Lower Respiratory Tract Infections (Pneumonia, Acute Exacerbations of Chronic Bronchitis), Acute Bacterial Maxillary Sinusitis & Refractory Otitis Media, Recurrent Streptococcal Tonsillopharyngitis, Severe Odontogenic / Dental Alveolar Abscesses & Ludwig's Angina Adjunct, Complicated Skin and Soft Tissue Infections (Cellulitis, Erysipelas, Animal and Human Bite Wounds), Uncomplicated Recurrent Urinary Tract Infections (Cystitis), Outpatient Step-Down Following IV Co-Amoxiclav",
+    "why_this_disease_happens": "Bacterial respiratory, odontogenic, cutaneous, and bite-wound infections are commonly driven by pyogenic Gram-positive cocci (Streptococcus pneumoniae, MSSA) and fastidious Gram-negative bacilli (Haemophilus influenzae, Moraxella catarrhalis), alongside oral anaerobes (Prevotella, Fusobacterium, Peptostreptococcus) in bite and dental infections. A primary mechanism of outpatient clinical treatment failure is enzymatic bacterial resistance. Many community-acquired respiratory and skin pathogens produce Ambler Class A serine beta-lactamases (TEM-1, TEM-2, SHV-1, and staphylococcal PC1 enzymes). These enzymes catalyze the nucleophilic hydrolysis of the four-membered beta-lactam ring in aminopenicillins (such as amoxycillin), cleaving it into biologically inactive penicilloic acid before transpeptidases can be engaged. While amoxycillin provides high oral bioavailability and tissue penetration, as monotherapy it is rapidly degraded by these beta-lactamase-producing strains. Co-formulating amoxycillin with a mechanism-based, irreversible suicide beta-lactamase inhibitor shields the penam core from enzymatic hydrolysis, restoring high bactericidal activity against MSSA, ampicillin-resistant H. influenzae, and beta-lactamase-producing anaerobes.",
+    "how_this_medicine_fights_it": "Provides bactericidal cell wall synthesis arrest coupled with irreversible catalytic suicide inactivation of bacterial beta-lactamases: Formulated as a synergistic fixed-dose oral combination of Amoxycillin Trihydrate (500 mg) and Potassium Clavulanate (125 mg): (1) Penicillin-Binding Protein Acylation & Osmotic Lysis (Amoxycillin): Amoxycillin ((2S,5R,6R)-6-[[(2R)-2-amino-2-(4-hydroxyphenyl)acetyl]amino]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid) is a semisynthetic aminopenicillin with oral bioavailability exceeding 75% to 90%. It diffuses into bacterial periplasmic spaces and binds covalently with high affinity to essential Penicillin-Binding Proteins—principally PBP-1a, PBP-1b, PBP-2, and PBP-3. Acylation of the active-site serine transpeptidase domain halts cross-linking of peptidoglycan pentapeptide chains. Weakened by internal osmotic turgor pressure, the peptidoglycan sacculus activates endogenous murein hydrolases and autolysins, culminating in spheroplast formation, membrane rupture, and rapid bactericidal osmotic lysis. (2) Suicide Beta-Lactamase Inactivation (Potassium Clavulanate): Clavulanic acid is a naturally derived clavam-structured beta-lactam with weak intrinsic antimicrobial activity. It serves as an irreversible, competitive 'suicide' inhibitor of Class A serine beta-lactamases (including staphylococcal penicillinases, TEM, and SHV families). Clavulanate binds to the active-site serine residue of the beta-lactamase enzyme to form an initial acyl-enzyme intermediate. The enzyme opens the oxapenam ring, which rearranges into stable, covalently bound adducts that permanently inactivate the enzyme. (3) Restoration & Broadening of Spectrum: By binding and neutralizing co-produced beta-lactamases, clavulanate preserves amoxycillin against enzymatic destruction. This lowers the MIC90 for resistant strains of H. influenzae, M. catarrhalis, E. coli, and Klebsiella, and restores bactericidal coverage against Methicillin-Susceptible Staphylococcus aureus (MSSA) and beta-lactamase-producing mucosal anaerobes (Bacteroides, Prevotella).",
+    "drug_class": "Aminopenicillin + Beta-Lactamase Inhibitor / Bactericidal Fixed-Dose Combination",
+    "main_action": "Amoxycillin acylates bacterial Penicillin-Binding Proteins (PBPs 1, 2, and 3) to halt peptidoglycan cell wall cross-linking, while potassium clavulanate irreversibly inactivates bacterial beta-lactamases to protect amoxycillin from enzymatic destruction.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Community-Acquired Pneumonia (CAP) and Acute Exacerbations of Chronic Bronchitis (AECB; 625mg orally every 8 hours or every 12 hours for 7 to 10 days)",
+      "Acute bacterial rhinosinusitis and recurrent/refractory Acute Otitis Media (AOM) failing initial aminopenicillin monotherapy",
+      "Severe odontogenic infections: periapical alveolar abscesses, dentoalveolar cellulitis, and pericoronitis",
+      "Infected domestic animal and human bite wounds (empiric first-line drug of choice for Pasteurella multocida and Eikenella corrodens)",
+      "Complicated skin and soft-tissue infections: cellulitis, erysipelas, diabetic foot ulcers, and infected traumatic lacerations caused by MSSA or Strep pyogenes",
+      "Recurrent or complicated uncomplicated urinary tract infections (cystitis) caused by beta-lactamase-producing Enterobacterales",
+      "Oral step-down continuation therapy following initial intravenous Co-Amoxiclav (1.2g IV) in hospitalized patients"
+    ],
+    "how_patients_describe_symptoms": [
+      "I had a severe chest infection with fever and thick green phlegm; taking this tablet with the first bite of my meals cleared my cough completely within a week.",
+      "My tooth abscess caused agonizing throbbing pain and swollen gums; this twice-daily medicine stopped the spreading infection and relieved the swelling in three days.",
+      "After an infected dog bite on my wrist turned red, swollen, and tender, the emergency clinic prescribed this tablet to prevent the bacteria from spreading into my bloodstream."
+    ],
+    "reconstitution_and_dilution": "Supplied ready-to-administer as white to off-white, oval, capsule-shaped, film-coated tablets containing Amoxycillin Trihydrate equivalent to 500 mg of anhydrous amoxycillin, combined with Potassium Clavulanate Diluted IP equivalent to 125 mg of clavulanic acid (total 625 mg). No liquid reconstitution required. Severe Hygroscopicity Mandate: Potassium clavulanate is exceptionally hygroscopic and undergoes rapid hydrolytic degradation upon minimal exposure to atmospheric moisture. TABLETS MUST BE STORED IN ORIGINAL ALUMINUM-ALUMINUM (ALU-ALU) BLISTER PACKS OR GLASS BOTTLES CONTAINING MOLECULAR DESICCANTS. Instruct patients never to de-blister tablets in advance to fill weekly pill boxes. Store below 25°C in a dry environment protected from light. Swallow whole with a full glass of water; do not crush, split, or chew.",
+    "infusion_rate_and_timing": "Oral Administration Only. Administration Timing Rule: MUST BE SWALLOWED WHOLE IMMEDIATELY AT THE START OF A MEAL (FIRST BITE OF FOOD). Ingestion at the start of a meal optimizes the systemic absorption of clavulanic acid and significantly reduces the incidence of gastrointestinal side effects (nausea, gastric irritation, vomiting). Standard Adult Dosing (>= 12 years or body weight > 40 kg): 1 tablet (625 mg) orally EVERY 8 HOURS (three times daily) or EVERY 12 HOURS (twice daily) for 5 to 14 days depending on infection severity and clinical site.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults and adolescents (>= 12 years) presenting with community-acquired respiratory, dental, ENT, skin, or animal bite-wound infections",
+        "Patients requiring broad-spectrum empirical coverage active against both MSSA and mucosal anaerobes",
+        "Hospitalized patients ready for oral step-down discharge following intravenous Co-Amoxiclav or Ceftriaxone stabilization",
+        "Pregnant women requiring beta-lactamase-stable penicillin therapy (FDA Pregnancy Category B; crosses placenta without teratogenicity; use with caution in preterm premature rupture of membranes)"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Absolute Contraindication: Known severe, immediate IgE-mediated hypersensitivity (anaphylaxis, angioedema, urticaria) to amoxycillin, penicillins, or beta-lactamase inhibitors",
+        "Absolute Contraindication: Documented history of amoxycillin/clavulanate-associated cholestatic jaundice or acute hepatic dysfunction",
+        "Patients with Infectious Mononucleosis (Epstein-Barr Virus infection) or Cytomegalovirus: up to 90% of mono patients develop a widespread erythematous maculopapular rash when given amoxycillin (non-allergic aminopenicillin rash)",
+        "Infections caused by Methicillin-Resistant Staphylococcus aureus (MRSA) or Pseudomonas aeruginosa (both active agents are completely inactive)",
+        "Patients with severe renal impairment (Creatinine Clearance < 30 mL/min) without dose reduction and interval prolongation"
+      ]
+    },
+    "common_side_effects": [
+      "Gastrointestinal: diarrhea (common, 9% to 15%, driven by clavulanic acid-induced intestinal motility acceleration), loose stools, nausea, and abdominal cramping",
+      "Gastrointestinal dyspepsia, epigastric discomfort, vomiting, and flatulence",
+      "Dermatologic: maculopapular erythematous rash, urticaria, or pruritus",
+      "Oral or vaginal candidiasis (moniliasis / thrush) secondary to suppression of commensal microflora",
+      "Transient biochemical elevations in hepatic transaminases (ALT, AST) or alkaline phosphatase",
+      "Headache, mild dizziness, or lightheadedness"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "Mandatory Administration at the Start of Meals: Potassium clavulanate and amoxycillin display optimized gastrointestinal absorption when ingested alongside food. Ingesting this tablet at the beginning of a meal enhances clavulanate bioavailability and significantly reduces gastric mucosal irritation and nausea. INSTRUCT PATIENTS TO SWALLOW THE TABLET WITH WATER AT THE FIRST BITE OF BREAKFAST, LUNCH, OR DINNER.",
+      "Clavulanate-Driven Motility Diarrhea & C. difficile Colitis Warning: Clavulanic acid stimulates intestinal smooth muscle contractility, inducing accelerated peristalsis and secretory loose stools in up to 15% of patients. Furthermore, broad-spectrum suppression of intestinal anaerobic and commensal microflora creates vulnerability to Clostridioides difficile-associated diarrhea (CDAD) and pseudomembranous colitis. Evaluate patients presenting with severe watery diarrhea (>6 loose stools/day), fever, or abdominal cramping for C. difficile toxins; anti-motility agents (such as Loperamide) are contraindicated.",
+      "Alu-Alu Moisture Sensitivity & Storage Mandate: Potassium clavulanate is exceptionally hygroscopic and undergoes rapid chemical degradation (forming inactive brown/mottled degradation products) upon minimal exposure to ambient moisture. TABLETS MUST BE STORED IN ORIGINAL ALUMINUM-ALUMINUM BLISTER PACKS AND ONLY DE-BLISTERED IMMEDIATELY BEFORE SWALLOWING. Do not store in unsealed multi-dose containers or weekly pill organizers.",
+      "Amoxycillin-Associated Cholestatic Jaundice & Hepatic Vigilance: Amoxycillin-clavulanate is a recognized cause of drug-induced cholestatic liver injury, primarily attributed to the clavulanic acid moiety. Signs include jaundice, dark urine, pale stools, pruritus, and elevated alkaline phosphatase and bilirubin. It occurs more frequently in elderly patients, males, and courses lasting longer than 14 days, and can manifest up to 6 weeks after treatment cessation. AVOID in patients with prior history of clavulanate-induced hepatic dysfunction.",
+      "Infectious Mononucleosis Erythematous Rash Warning: Administering amoxycillin to patients with viral Infectious Mononucleosis (EBV) or acute lymphocytic leukemia triggers a characteristic generalized, erythematous, pruritic maculopapular rash in 60% to 90% of recipients within 5 to 10 days. This non-allergic rash should not be confused with true IgE-mediated penicillin allergy, but amoxycillin-clavulanate must be avoided in patients with acute pharyngitis suspected to be viral mononucleosis.",
+      "Strict Renal Dose Adjustment Protocol: Elimination of both amoxycillin and clavulanate is predominantly renal via glomerular filtration and tubular secretion. Dosing must be titrated based on Creatinine Clearance: CrCl >= 30 mL/min: Standard dose (625mg every 12 hours or every 8 hours); CrCl 10 to 29 mL/min: 625mg every 12 hours; CrCl < 10 mL/min: 625mg once every 24 hours; Hemodialysis: 625mg every 24 hours, plus an additional supplemental dose administered post-hemodialysis.",
+      "WHO AWaRe Access Classification Advantage: Amoxycillin + Beta-Lactamase Inhibitor is categorized under the WHO 'Access' group, representing a first-line backbone for community-acquired respiratory, dental, and animal bite infections with lower risk of driving hospital-acquired multidrug-resistant superbugs compared to 'Watch' group cephalosporins."
+    ]
+  },
+  {
+    "id": "rifaximin-tablets-ip-400mg",
+    "name": "Rifaximin Tablets IP (400mg / 200mg)",
+    "generic_names": [
+      "Rifaximin Tablets IP 400mg",
+      "Rifaximin Tablets IP 200mg",
+      "Rifagut 400 / 200",
+      "Rcifax 400 / 200",
+      "Rifaxigress 400",
+      "Xifaxan 200mg / 550mg",
+      "Torfix 400",
+      "Sibofix 400"
+    ],
+    "category": ["Antibiotics", "Gastrointestinal", "Infections & Parasites"],
+    "sub_category": "Non-Systemic Gut-Targeted Rifamycin Derivative & Bacterial DNA-Dependent RNA Polymerase Inhibitor",
+    "company_name": "RX1",
+    "amount": "360/- (Strip of 10 Film-Coated Tablets - 400mg)",
+    "routes_of_administration": [
+      "Oral (Per Os - Swallowed Whole with Water, With or Without Food)"
+    ],
+    "antimicrobial_spectrum": {
+      "gram_positive": [
+        "Enterococcus faecalis (gut lumen)",
+        "Clostridioides difficile (moderate in vitro activity, low clinical resistance emergence)",
+        "Staphylococcus aureus (intestinal strains)"
+      ],
+      "gram_negative": [
+        "Escherichia coli (Enterotoxigenic ETEC, Enteroaggregative EAEC)",
+        "Salmonella species (non-invasive luminal clearance)",
+        "Shigella species",
+        "Ammoniagenic coliform bacteria (Klebsiella, Proteus)"
+      ],
+      "anaerobic": true,
+      "atypical": false,
+      "pseudomonal": false,
+      "mrsa_active": false
+    },
+    "who_aware_classification": "Access",
+    "pk_pd_index": "Concentration-dependent local luminal suppression (AUC / MIC in intraluminal fecal matrix)",
+    "main_cause": "Reduction in Risk of Overt Hepatic Encephalopathy (HE) Recurrence in Chronic Liver Cirrhosis, Irritable Bowel Syndrome with Diarrhea (IBS-D), Small Intestinal Bacterial Overgrowth (SIBO), Acute Non-Invasive Traveler's Diarrhea Caused by Non-Invasive Strains of Escherichia coli",
+    "why_this_disease_happens": "In end-stage chronic liver cirrhosis and portal hypertension, blood from the mesenteric circulation bypasses functional hepatic parenchyma via intrahepatic and extrahepatic portosystemic shunts. Indigenous ammoniagenic enteric bacteria (coliforms and anaerobes) in the colon express urease and deaminate dietary proteins, generating large quantities of neurotoxic ammonia (NH3). Because shunted blood evades hepatic urea cycle clearance, gaseous ammonia crosses the blood-brain barrier into cerebral tissue, where astrocytic glutamine synthetase converts ammonia and glutamate into glutamine. Intracellular hyperosmotic accumulation of glutamine triggers astrocyte swelling, cytotoxic cerebral edema, neuroinflammation, and impaired GABAergic/glutamatergic neurotransmission, manifesting as asterixis ('flapping' tremor), cognitive disorientation, stupor, and hepatic coma. Similarly, in Irritable Bowel Syndrome with Diarrhea (IBS-D) and Small Intestinal Bacterial Overgrowth (SIBO), qualitative and quantitative shifts in luminal flora trigger mucosal micro-inflammation, altered tight-junction permeability, and bile acid malabsorption, driving chronic bloating, visceral hypersensitivity, and secretory diarrhea. Treating these intraluminal pathologies requires an agent that selectively suppresses bacterial proliferation and downregulates mucosal bacterial virulence without being absorbed into systemic circulation, avoiding systemic antimicrobial side effects.",
+    "how_this_medicine_fights_it": "Provides selective intraluminal bacterial transcription arrest via non-systemic DNA-dependent RNA polymerase blockade, coupled with mucosal anti-inflammatory signaling: (1) Minimal Systemic Absorption (<0.4% Bioavailability): Rifaximin is a synthetic pyrido-imidazo-rifamycin derivative engineered with an additional pyrido-imidazole ring attached to the rifamycin core. This modification confers extreme water-insolubility and high molecular polarity, preventing passive transcellular or paracellular intestinal epithelial absorption. Following oral administration, less than 0.4% of the dose reaches systemic circulation; over 99.6% remains confined to the gastrointestinal tract, achieving high fecal concentrations (>8000 mcg/g) that exceed the MIC90 of enteric pathogens by several thousand-fold. (2) DNA-Dependent RNA Polymerase Inactivation: Intraluminally, rifaximin diffuses into bacterial cells and binds non-covalently with high stereospecific affinity to the beta-subunit of bacterial DNA-dependent RNA polymerase (encoded by the rpoB gene). Binding sterically blocks the nascent RNA transcript exit channel, preventing phosphodiester bond formation and arresting transcription. (3) Reduction of Ammoniagenic Gut Flora & Deamination: In cirrhosis, rifaximin suppresses ammonia-producing colonic bacteria and inhibits bacterial urease activity, reducing intraluminal ammonia production and systemic neurotoxin absorption. (4) Pregnane X Receptor (PXR) Agonism & Gut Barrier Restoration: Beyond antimicrobial action, rifaximin functions as a gut-specific agonist of the human Pregnane X Receptor (PXR). PXR activation downregulates mucosal pro-inflammatory nuclear factor kappa B (NF-kappaB), suppresses mucosal TNF-alpha and IL-1beta release, upregulates epithelial tight-junction proteins (claudin-1, occludin), and prevents bacterial translocation across the gut-vascular barrier.",
+    "drug_class": "Non-Systemic Rifamycin Derivative / Gastrointestinal-Targeted Antibacterial",
+    "main_action": "Binds the beta-subunit of bacterial DNA-dependent RNA polymerase to halt RNA transcription within the gastrointestinal tract, suppressing ammonia-producing gut bacteria with less than 0.4% systemic absorption.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Reduction in risk of overt Hepatic Encephalopathy (HE) recurrence in adult cirrhotic patients (400mg orally three times daily or 550mg twice daily, typically co-prescribed with Lactulose)",
+      "Irritable Bowel Syndrome with Diarrhea (IBS-D) in adults (400mg three times daily for a structured 14-day course; repeat courses permitted on symptom recurrence)",
+      "Small Intestinal Bacterial Overgrowth (SIBO) confirmed by positive hydrogen/methane glucose or lactulose breath testing (400mg every 8 hours for 10 to 14 days)",
+      "Acute uncomplicated Traveler's Diarrhea caused by non-invasive Escherichia coli (200mg three times daily or 400mg twice daily for 3 days)",
+      "Adjunctive suppression of colonic diverticular inflammation in symptomatic uncomplicated diverticular disease (SUDD)"
+    ],
+    "how_patients_describe_symptoms": [
+      "I have severe liver cirrhosis and kept getting confused, forgetful, and having hand-flapping tremors; taking this tablet three times daily alongside lactulose kept my mind clear and prevented hospital admissions.",
+      "I suffered from constant IBS diarrhea, painful gas, and stomach bloating after every meal; a two-week course of this non-absorbed medicine gave me solid stools and reduced the bloating.",
+      "While traveling, I developed watery stomach flu and cramps from food; this tablet settled my gut within two days without causing full-body antibiotic side effects."
+    ],
+    "reconstitution_and_dilution": "Supplied ready-to-administer as pink, reddish-brown, circular or oblong film-coated tablets containing Rifaximin IP equivalent to 400 mg (or 200 mg, and 550 mg strengths). No reconstitution or dissolution required. Storage Mandate: Store below 25°C to 30°C in original moisture-barrier blister packaging protected from excessive heat and direct sunlight. Swallow tablets whole with water; do not crush, chew, or split.",
+    "infusion_rate_and_timing": "Oral Administration Only. Administration Timing: May be taken with or without food. Peak fecal concentrations occur rapidly along the jejunum, ileum, and colon; food intake does not alter its non-absorbable pharmacokinetics. Standard Dosing Protocols: Hepatic Encephalopathy Maintenance: 400 mg orally THREE TIMES DAILY (every 8 hours) or 550 mg twice daily, continued long-term. IBS-D & SIBO Protocol: 400 mg orally THREE TIMES DAILY (or 550 mg three times daily) for exactly 14 CONSECUTIVE DAYS. Traveler's Diarrhea Protocol: 200 mg orally THREE TIMES DAILY (or 400 mg twice daily) for 3 consecutive days.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adult patients with chronic liver disease presenting with a history of overt Hepatic Encephalopathy requiring secondary prophylaxis",
+        "Adult patients meeting Rome IV diagnostic criteria for Irritable Bowel Syndrome with Diarrhea (IBS-D) unresponsive to fiber or simple antispasmodics",
+        "Patients with Small Intestinal Bacterial Overgrowth (SIBO) requiring gut-restricted decontamination",
+        "Travelers experiencing non-dysenteric, watery diarrhea without fever or bloody stools"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Absolute Contraindication: Known severe hypersensitivity to rifaximin, other rifamycin antimicrobial derivatives (Rifampicin, Rifabutin), or formulation excipients",
+        "Absolute Contraindication: Invasive Enteric Diarrhea / Bacillary Dysentery characterized by high spiking fever, severe abdominal toxemia, or blood/mucus in stools (Campylobacter jejuni, Salmonella enterica, Shigella dysenteriae, enteroinvasive E. coli; non-absorbed rifaximin is clinically ineffective against mucosal-invasive pathogens)",
+        "Pediatric patients under 12 years of age (safety and dosing efficacy have not been established)",
+        "Severe intestinal mechanical obstruction or acute pseudo-obstruction (risk of localized accumulation)",
+        "Pregnancy and lactation (lack of adequate human safety data; systemic absorption is minimal but use only if maternal benefit clearly outweighs potential fetal risk)"
+      ]
+    },
+    "common_side_effects": [
+      "Gastrointestinal: nausea, flatulence, abdominal pain, bloating, or feeling of incomplete defecation",
+      "Central nervous system: mild headache, dizziness, or fatigue (incidence comparable to placebo in IBS trials)",
+      "Musculoskeletal: muscle spasms or mild arthralgia in cirrhotic patients on long-term therapy",
+      "Peripheral edema or ascites accumulation (related to progression of underlying cirrhosis rather than direct drug toxicity)",
+      "Dermatologic: mild pruritus, cutaneous rash, or urticaria",
+      "Harmless reddish-orange discoloration of urine or stool (very rare with rifaximin due to <0.4% absorption, but possible with higher mucosal permeability in advanced cirrhosis)"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "Invasive Diarrhea / Dysentery Absolute Limitation: Rifaximin achieves less than 0.4% systemic absorption and exerts its antimicrobial activity strictly within the gastrointestinal lumen and epithelial surface. IT IS COMPLETELY INEFFECTIVE IN INVASIVE INTESTINAL INFECTIONS caused by Campylobacter jejuni, Salmonella enterica, Shigella, or enteroinvasive Escherichia coli where pathogens penetrate the deep mucosal architecture, lamina propria, and mesenteric lymphatics. DO NOT USE RIFAXIMIN IN PATIENTS WITH HIGH FEVER (>38.5°C), RIGORS, OR MACROSCOPIC BLOOD AND MUCUS IN THE STOOL (DYSENTERY); these patients require systemic bactericidal therapy (such as Azithromycin, Ciprofloxacin, or Ceftriaxone).",
+      "Hepatic Encephalopathy Dual Therapy (Synergy with Lactulose): Clinical trials (including pivotal phase-3 trials) demonstrate that rifaximin reduces the risk of recurrent overt hepatic encephalopathy hospitalizations by over 50% to 70% WHEN CO-ADMINISTERED WITH LACTULOSE. Rifaximin should generally not replace lactulose but should be prescribed as dual combination therapy alongside non-absorbable disaccharides (Lactulose titration targeting 2 to 3 soft bowel movements per day).",
+      "Negligible Systemic Drug-Drug Interactions (CYP3A4 Profile): Unlike systemic rifamycins (such as Rifampicin, which is a potent hepatic CYP3A4 and P-glycoprotein inducer), rifaximin's lack of systemic absorption prevents significant induction of systemic hepatic cytochrome P450 enzymes at standard oral doses. In patients with severe hepatic impairment (Child-Pugh Class C), systemic exposure to rifaximin may increase 10- to 20-fold due to portosystemic shunting; however, systemic bioavailability remains extremely low (<2%), and no dosage adjustment is recommended.",
+      "Clostridioides difficile Colitis Surveillance: While rifaximin has demonstrated in vitro activity against C. difficile and has been investigated in refractory C. difficile protocols, cases of Clostridioides difficile-associated diarrhea (CDAD) have been reported following its administration due to alterations in indigenous gut ecology. If a patient develops persistent, copious watery diarrhea (>6 loose stools/day) or worsening leucocytosis, evaluate promptly for C. difficile toxins.",
+      "WHO AWaRe Access Classification: Rifaximin is listed under the WHO 'Access' group for targeted gastrointestinal indications. Due to its unique non-absorbable pharmacokinetics, it exerts low selective pressure for systemic antibacterial cross-resistance."
+    ]
+  },
+  {
+    "id": "itraconazole-capsules-ip-100mg-200mg",
+    "name": "Itraconazole Capsules IP (100mg / 200mg)",
+    "generic_names": [
+      "Itraconazole Pellets in Hard Gelatin Capsules IP",
+      "Canditral 100 / 200",
+      "Itaspor 100 / 200",
+      "Sporanox 100mg",
+      "Candiforce 100 / 200",
+      "Itracoe 200",
+      "Syntran 100 / 200"
+    ],
+    "category": [
+      "Antifungals",
+      "Dermatology",
+      "Infections & Parasites",
+      "Respiratory"
+    ],
+    "sub_category": "Broad-Spectrum Synthetic Triazole Antifungal & Fungal Ergosterol Biosynthesis (CYP51) Inhibitor",
+    "company_name": "IZ1",
+    "amount": "240/- (Strip of 10 Capsules - 100mg) / 380/- (Strip of 10 Capsules - 200mg)",
+    "routes_of_administration": [
+      "Oral (Per Os - Swallowed Whole Immediately After a Full, Fatty Meal or Acidic Beverage)"
+    ],
+    "antimicrobial_spectrum": {
+      "gram_positive": [],
+      "gram_negative": [],
+      "anaerobic": false,
+      "atypical": false,
+      "pseudomonal": false,
+      "mrsa_active": false
+    },
+    "fungal_spectrum": {
+      "dermatophytes": [
+        "Trichophyton rubrum (Tinea corporis, cruris, pedis, unguium)",
+        "Trichophyton mentagrophytes",
+        "Microsporum canis",
+        "Epidermophyton floccosum"
+      ],
+      "yeasts": [
+        "Candida albicans",
+        "Candida tropicalis",
+        "Candida parapsilosis (variable for C. glabrata / C. krusei)",
+        "Malassezia furfur (Pityriasis versicolor)",
+        "Cryptococcus neoformans"
+      ],
+      "dimorphic_and_molds": [
+        "Aspergillus fumigatus and Aspergillus flavus",
+        "Histoplasma capsulatum",
+        "Blastomyces dermatitidis",
+        "Sporothrix schenckii (Cutaneous and lymphocutaneous sporotrichosis)",
+        "Coccidioides immitis",
+        "Paracoccidioides brasiliensis"
+      ]
+    },
+    "who_aware_classification": "Access",
+    "pk_pd_index": "AUC24 / MIC (Lipophilic tissue-reservoir concentration targeting)",
+    "main_cause": "Recalcitrant and Extensive Dermatophytosis (Tinea Corporis, Tinea Cruris, Tinea Pedis, Tinea Manuum), Onychomycosis (Fungal Nail Infections of Toenails and Fingernails), Refractory Vulvovaginal Candidiasis, Pityriasis Versicolor, Endemic Systemic Mycoses (Histoplasmosis, Blastomycosis, Coccidioidomycosis), Non-Life-Threatening Pulmonary and Extrapulmonary Aspergillosis, Lymphocutaneous Sporotrichosis",
+    "why_this_disease_happens": "Cutaneous, onycholytic, and systemic fungal pathologies are driven by opportunistic yeasts, dimorphic fungi, and keratinophilic dermatophytes. In chronic, extensive dermatophytosis (frequently caused by anthropophilic Trichophyton rubrum or Trichophyton mentagrophytes complex), fungal hyphae secrete keratinases that digest structural keratin in the stratum corneum, nail plate, and hair shafts. Topical antifungals frequently fail due to poor ungual keratin bed penetration and subungual fungal sequestration. In endemic and invasive mycoses (Histoplasmosis, Aspergillosis), inhaled microconidia convert to parasitic yeast or angioinvasive branching hyphae in alveolar spaces. Fungal survival and cellular structural integrity depend entirely on ergosterol—the principal sterol component of fungal plasma membranes. Unlike mammalian cell membranes that incorporate cholesterol, fungi require endogenous ergosterol to maintain membrane fluidity, structural rigidity, transport channel integrity, and chitin-synthesizing enzyme anchoring. Eradicating invasive and ungual fungal infections requires a highly lipophilic, keratinophilic systemic triazole that concentrates extensively in sebum, hair follicles, and keratin matrices while inhibiting ergosterol assembly.",
+    "how_this_medicine_fights_it": "Provides targeted fungistatic and fungicidal membrane destruction via selective catalytic arrest of fungal lanosterol 14-alpha-demethylase: (1) Formulation as Micro-Coated Pellets for Dissolution: Native itraconazole is an extremely hydrophobic, weakly basic molecule (pKa = 3.7) virtually insoluble in neutral aqueous media. Standard capsules are engineered with sugar spheres coated with micronized itraconazole layered with hydroxypropyl methylcellulose (HPMC). In an acidic gastric environment (pH < 2.5), the polymeric coating dissolves, releasing micro-fine itraconazole for intestinal micellar uptake. (2) Fungal Cytochrome P450 Enzyme Demethylase Blockade: Systemically absorbed itraconazole binds with high stereospecific affinity to the heme cofactor of fungal lanosterol 14-alpha-demethylase (encoded by the fungal ERG11 / CYP51 gene). It coordinate-bonds an unhindered nitrogen atom (N-4) of its triazole ring to the iron atom of the catalytic protoporphyrin iron core. This blocks the oxidative demethylation of lanosterol, arresting its conversion to 4,4-dimethylcholesta-8,14,24-trien-3beta-ol and downstream ergosterol. (3) Toxic Methylated Sterol Accumulation & Cell Lysis: Depletion of ergosterol coupled with the intracellular accumulation of aberrant, toxic 14-alpha-methylated sterols (such as 14-alpha-methylergosta-8,24(28)-dien-3beta,6alpha-diol) disrupts lipid membrane packing and increases membrane permeability. This leads to cytoplasmic electrolyte leakage, uncoupling of oxidative phosphorylation, inhibition of membrane-bound chitin synthases, and fungal growth arrest or osmotic lysis. (4) Lipophilic Keratin and Sebum Tissue Reservoir Effect: Itraconazole exhibits extreme lipophilicity and high protein binding (>99%). It diffuses into epidermal basal layers and concentrates heavily in sebum, stratum corneum, and nail matrices. Concentrations in keratinized tissues exceed plasma concentrations by 3- to 10-fold and persist in toenails and fingernails for 6 to 9 months following discontinuation of therapy, driving clinical cures in onychomycosis.",
+    "drug_class": "Broad-Spectrum Synthetic Triazole Antifungal / Fungal Ergosterol Biosynthesis Inhibitor",
+    "main_action": "Binds and inhibits fungal cytochrome P450 lanosterol 14-alpha-demethylase (CYP51) to deplete membrane ergosterol, accumulating toxic 14-alpha-methylated sterols that disrupt membrane integrity, with sustained therapeutic accumulation in skin, nails, and adipose tissue.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Extensive, recalcitrant, or steroid-modified Tinea Corporis / Tinea Cruris (100mg to 200mg orally once daily for 2 to 4 weeks)",
+      "Onychomycosis of the fingernails and toenails (Continuous: 200mg daily for 12 weeks; or Pulse Therapy: 200mg twice daily for 1 week per month for 2 to 3 pulses)",
+      "Refractory or recurrent Vulvovaginal Candidiasis (200mg twice daily for 1 day, or 200mg once daily for 3 days)",
+      "Pityriasis Versicolor caused by Malassezia furfur (200mg daily for 7 days)",
+      "Endemic systemic mycoses: pulmonary and extrapulmonary Histoplasmosis, Blastomycosis, and non-meningeal Coccidioidomycosis (200mg once or twice daily for 6 to 12 months)",
+      "Cutaneous and lymphocutaneous Sporotrichosis (Sporothrix schenckii; 100mg to 200mg once daily for 3 to 6 months)",
+      "Allergic Bronchopulmonary Aspergillosis (ABPA) and chronic pulmonary aspergillosis (as an oral steroid-sparing antifungal agent)"
+    ],
+    "how_patients_describe_symptoms": [
+      "I had spreading, intensely itchy ringworm across my thighs and back that kept coming back with creams; taking this capsule with lunch cleared the red scaly patches completely.",
+      "My toenails were thick, crumbly, and discolored yellow for years; a three-month course of these capsules allowed a clear, healthy nail to grow out.",
+      "I was treated for a deep fungal lung infection with night sweats and chronic cough; taking this medication twice a day after meals stabilized my lungs and brought my energy back."
+    ],
+    "reconstitution_and_dilution": "Supplied ready-to-administer as hard gelatin capsules containing coated pellets of Itraconazole IP equivalent to 100 mg or 200 mg. No liquid reconstitution required. Storage Mandate: Store below 25°C to 30°C in original moisture-barrier aluminum-aluminum blister packs. Protect from excessive humidity, heat, and direct light. Physical Administration Mandate: SWALLOW CAPSULES WHOLE IMMEDIATELY AFTER A FULL MEAL; DO NOT OPEN, CRUSH, OR CHEW CAPSULES. Opening the capsule breaks the pellet coating, exposing raw itraconazole particles to precipitous gastric crystallization and significantly reducing systemic absorption.",
+    "infusion_rate_and_timing": "Oral Administration Only. Critical Administration Timing Rule: MUST BE TAKEN IMMEDIATELY AFTER A FULL MEAL (PREFERABLY CONTAINING DIETARY FATS) OR WITH AN ACIDIC BEVERAGE (SUCH AS COLA OR ORANGE JUICE) IF THE PATIENT HAS HYPOCHLORHYDRIA. Fasting administration reduces systemic absorption by more than 50%. Standard Adult Dosing Regimens: Dermatophytosis (Tinea Corporis/Cruris): 100 mg to 200 mg orally once daily for 2 to 4 weeks. Onychomycosis Pulse Regimen: 200 mg orally TWICE DAILY (400 mg/day) for 7 consecutive days, followed by 3 weeks off; 2 pulses for fingernails (2 months total), 3 pulses for toenails (3 months total). Systemic Mycoses: 200 mg once or twice daily with food.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adult and adolescent patients presenting with extensive, recalcitrant dermatophytosis or onychomycosis failing topical therapy",
+        "Patients with systemic dimorphic fungal infections (Histoplasmosis, Blastomycosis) requiring long-term oral consolidation therapy",
+        "Patients with normal baseline ventricular systolic function and healthy liver enzymes",
+        "Patients requiring an oral antifungal with sustained tissue retention in keratinized skin and nail plates"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Absolute Contraindication: Patients with evidence of ventricular dysfunction, congestive heart failure (CHF), or a history of CHF (itraconazole exerts dose-dependent negative inotropic effects)",
+        "Absolute Contraindication: Co-administration with CYP3A4-metabolized substrates that prolong the QT-interval or cause life-threatening arrhythmias (Quinidine, Terfenadine, Astemizole, Cisapride, Pimozide, Methadone)",
+        "Absolute Contraindication: Co-administration with Ergot alkaloids (Ergotamine, Dihydroergotamine) due to severe ergotism and peripheral vasospasm",
+        "Absolute Contraindication: Co-administration with HMG-CoA reductase inhibitors Simvastatin, Lovastatin, or Atorvastatin (causes severe rhabdomyolysis and acute renal failure)",
+        "Absolute Contraindication: Pregnancy (FDA Pregnancy Category C/X for onychomycosis; embryotoxic and teratogenic in animal models; effective contraception is mandatory)",
+        "Patients with active acute liver disease or baseline serum transaminases exceeding 3x the upper limit of normal without strict hepatic surveillance"
+      ]
+    },
+    "common_side_effects": [
+      "Gastrointestinal: nausea, mild dyspepsia, abdominal pain, bloating, vomiting, or diarrhea",
+      "Central nervous system: headache, dizziness, and mild somnolence",
+      "Dermatologic: maculopapular rash, pruritus, or mild cutaneous urticaria",
+      "Transient biochemical elevations in hepatic transaminases (ALT, AST), alkaline phosphatase, and bilirubin",
+      "Metabolic and endocrine: hypokalemia (due to secondary mineralocorticoid excess / 11-beta-HSD2 inhibition) and peripheral edema",
+      "Hypertriglyceridemia with extended multi-month courses"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "Congestive Heart Failure & Negative Inotropy Black Box Warning: Itraconazole exerts dose-dependent negative inotropic effects on the myocardium by altering cardiac calcium handling. IT IS ABSOLUTELY CONTRAINDICATED FOR THE TREATMENT OF ONYCHOMYCOSIS OR CUTANEOUS DERMATOPHYTOSIS IN PATIENTS WITH A HISTORY OF CONGESTIVE HEART FAILURE, VENTRICULAR DYSFUNCTION, OR ISCHEMIC CARDIOMYOPATHY. If signs or symptoms of congestive heart failure (dyspnea, orthopnea, unexplained peripheral leg edema, rapid weight gain) emerge during systemic therapy, IT MUST BE DISCONTINUED IMMEDIATELY.",
+      "Drug-Induced Hepatotoxicity Surveillance: Itraconazole is associated with rare cases of serious, potentially fatal hepatotoxicity, including acute liver failure and cholestatic hepatitis. In patients receiving continuous therapy for longer than one month, BASELINE AND PERIODIC LIVER FUNCTION TESTS (ALT, AST, ALK PHOS, BILIRUBIN) MUST BE MONITORED. Instruct patients to immediately report signs of liver injury (unexplained anorexia, dark tea-colored urine, pale stools, jaundice, upper abdominal tenderness). Discontinue drug immediately if transaminases rise significantly.",
+      "Absolute Gastric Acidity Dependency & PPI Prohibition: Itraconazole capsule pellets require an acidic intragastric pH (<2.5) for chemical dissolution and systemic absorption. Co-administration with Proton Pump Inhibitors (Pantoprazole, Omeprazole, Esomeprazole), H2-receptor antagonists (Famotidine), or antacids raises gastric pH and ALMOST COMPLETELY PREVENTS ITRACONAZOLE DISSOLUTION, REDUCING SYSTEMIC BIOAVAILABILITY BY UP TO 80% TO 90%. Avoid concurrent PPIs; if H2-blockers or antacids are unavoidable, administer itraconazole with an acidic beverage (such as non-diet cola) and separate administration by at least 2 hours.",
+      "Potent CYP3A4 & P-Glycoprotein Inhibition (Major Drug Interactions): Itraconazole is one of the most potent competitive inhibitors of human hepatic Cytochrome P450 3A4 (CYP3A4) and P-glycoprotein (P-gp). It dramatically spikes the plasma concentrations of co-administered drugs: (1) Statins: Simvastatin and Lovastatin levels surge 10- to 20-fold, precipitating acute rhabdomyolysis (AVOID CONCURRENT USE); (2) Direct Oral Anticoagulants (DOACs): Rivaroxaban and Apixaban levels surge, causing major hemorrhage; (3) Calcineurin Inhibitors: Tacrolimus and Cyclosporine levels rise, inducing acute nephrotoxicity (requires therapeutic drug monitoring); (4) Benzodiazepines: Midazolam and Triazolam cause profound prolonged sedation.",
+      "Secondary Hyperaldosteronism-Like Syndrome: Itraconazole inhibits human 11-beta-hydroxysteroid dehydrogenase type 2 (11-beta-HSD2), preventing the normal conversion of active cortisol to inactive cortisone in the kidneys. High intrarenal cortisol cross-activates mineralocorticoid receptors, resulting in a pseudo-hyperaldosteronism state characterized by severe HYPOKALEMIA, HYPERTENSION, AND PERIPHERAL EDEMA, particularly at doses >= 400 mg/day.",
+      "Mandatory Post-Meal Dietary Ingestion: Itraconazole absorption from capsule formulations is lipophilicity-dependent. Ingestion in the fasting state results in erratic, suboptimal absorption. PATIENTS MUST BE INSTRUCTED TO TAKE CAPSULES IMMEDIATELY AFTER A FULL, SUBSTANTIAL MEAL (PREFERABLY RICH IN FATS) TO STIMULATE BILE ACID SECRETION AND PROLONG GASTRIC DISSOLUTION."
+    ]
+  },
+  {
+    "id": "lincomycin-capsules-ip-500mg",
+    "name": "Lincomycin Capsules IP (500mg)",
+    "generic_names": [
+      "Lincomycin Hydrochloride Capsules IP 500mg",
+      "Lincocin 500mg Capsules",
+      "Lynx 500",
+      "Link 500",
+      "Linco-500"
+    ],
+    "category": [
+      "Antibiotics",
+      "Infections & Parasites",
+      "Respiratory",
+      "Dermatology"
+    ],
+    "sub_category": "Natural Lincosamide Antibacterial & Bacterial 50S Ribosomal 23S rRNA Translocation Inhibitor",
+    "company_name": "LM1",
+    "amount": "142/- (Strip of 10 Hard Gelatin Capsules - 500mg)",
+    "routes_of_administration": [
+      "Oral (Per Os - Swallowed Whole with a Full Glass of Water Strictly on an Empty Stomach)"
+    ],
+    "antimicrobial_spectrum": {
+      "gram_positive": [
+        "Staphylococcus aureus (Methicillin-Susceptible MSSA and select CA-MRSA without constitutive erm resistance)",
+        "Streptococcus pneumoniae (penicillin-susceptible strains)",
+        "Streptococcus pyogenes (Group A beta-hemolytic Strep)",
+        "Streptococcus agalactiae (Group B Strep)",
+        "Corynebacterium diphtheriae"
+      ],
+      "gram_negative": [],
+      "anaerobic": true,
+      "atypical": false,
+      "pseudomonal": false,
+      "mrsa_active": false
+    },
+    "who_aware_classification": "Access",
+    "pk_pd_index": "Time-dependent (T > MIC) with prolonged post-antibiotic effect (PAE)",
+    "main_cause": "Severe Gram-Positive Skin and Soft Tissue Infections (Cellulitis, Furunculosis, Carbuncles, Erysipelas) in Penicillin-Allergic Patients, Pyogenic Osteomyelitis and Septic Arthritis (Penetrates Bone Matrix), Acute Streptococcal Pharyngotonsillitis & Sinusitis Failing First-Line Regimens, Suppurative Anaerobic Dental Alveolar Abscesses, Second-Line Alternative for Staphylococcal and Streptococcal Lower Respiratory Infections",
+    "why_this_disease_happens": "Invasive skin, bone, and soft-tissue infections are predominantly caused by pyogenic Gram-positive cocci (Staphylococcus aureus, Streptococcus pyogenes) and mucosal anaerobic flora (Peptostreptococcus, Fusobacterium). In severe cutaneous and bone infections (such as acute osteomyelitis), bacteria invade deep avascular cortical bone canals and connective tissue fascial planes. S. aureus expresses surface adhesins and secretes cytolytic toxins (alpha-hemolysin, Panton-Valentine Leukocidin) that kill infiltrating host neutrophils, inducing ischemic osteonecrosis, periosteal detachment, and subperiosteal abscesses. Standard beta-lactams (penicillins, cephalosporins) are contraindicated in patients with documented severe immediate IgE-mediated anaphylaxis. Furthermore, many oral beta-lactams exhibit poor bone-to-serum penetration ratios, leaving sequestered bacteria viable inside osteocyte canaliculi. Eradicating deep-seated Gram-positive and anaerobic bone and soft-tissue infections in penicillin-allergic individuals requires an orally bioavailable, non-beta-lactam protein synthesis inhibitor that achieves high bone trabecular uptake while suppressing exotoxin synthesis.",
+    "how_this_medicine_fights_it": "Provides bactericidal and bacteriostatic translation arrest via targeted binding to the 50S ribosomal peptidyl transferase center, coupled with significant penetration into osseous and synovial tissues: (1) Reversible Binding to 23S rRNA on the 50S Ribosomal Subunit: Lincomycin is a naturally occurring monoglycoside lincosamide antibiotic produced by Streptomyces lincolnensis. Following absorption, it penetrates bacterial cell membranes and binds reversibly to domain V of the 23S ribosomal RNA on the large 50S bacterial ribosomal subunit. Its binding locus overlaps with that of macrolides and chloramphenicol within the peptidyl transferase center. (2) Translocation and Peptide Chain Elongation Arrest: Binding sterically obstructs the positioning of incoming aminoacyl-tRNA molecules and inhibits the peptidyl transferase transpeptidation reaction. Furthermore, it impairs the mRNA-tRNA translocation step from the ribosomal A-site to the P-site, preventing nascent peptide chain elongation and arresting bacterial protein translation. (3) Suppression of Virulence Factors and Exotoxins: By inhibiting ribosomal translation, lincomycin suppresses the de novo synthesis of destructive staphylococcal and streptococcal exotoxins (such as PVL, alpha-toxin, and streptococcal pyrogenic exotoxins A and B), attenuating inflammatory tissue necrosis. (4) Bone Matrix and Connective Tissue Penetration: Lincomycin exhibits high penetration into unvascularized tissue compartments, achieving bone cortical and cancellous concentrations reaching 30% to 45% of peak serum levels, making it valuable for treating osteomyelitis and joint infections. (5) Inducible Resistance (MLS-B Phenotype): Strains harboring the plasmid- or transposon-mediated erm (erythromycin ribosome methylase) gene dimethylate adenine residue A2058 in 23S rRNA. This induces conformational distortion, causing cross-resistance across Macrolides, Lincosamides, and Streptogramin B (MLS-B phenotype).",
+    "drug_class": "Natural Lincosamide Antibacterial / Ribosomal 50S Protein Synthesis Inhibitor",
+    "main_action": "Binds domain V of the 23S rRNA on the 50S ribosomal subunit to inhibit peptidyl transferase and arrest bacterial protein synthesis and exotoxin production, concentrating in bone and soft tissues.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Severe skin and skin structure infections (cellulitis, impetigo, carbuncles, abscesses) in penicillin-allergic patients (500mg orally three to four times daily for 7 to 14 days)",
+      "Acute and chronic osteomyelitis and septic arthritis caused by susceptible Staphylococci (500mg orally every 6 to 8 hours for 4 to 6 weeks)",
+      "Streptococcal pharyngotonsillitis, scarlet fever, and erysipelas in patients with severe beta-lactam anaphylaxis",
+      "Odontogenic alveolar abscesses and polymicrobial anaerobic dental infections",
+      "Acute bacterial sinusitis and otitis media failing first-line macrolides or when penicillins are contraindicated",
+      "Oral step-down continuation therapy following initial stabilization on parenteral Lincomycin Hydrochloride IV/IM"
+    ],
+    "how_patients_describe_symptoms": [
+      "I had a severe, swollen bone and skin infection on my lower leg, but I am severely allergic to penicillin; taking this capsule with a tall glass of water cleared the swelling and deep throbbing pain.",
+      "My severe tooth abscess caused cheek swelling and tender jaw glands; this antibiotic cleared the infection within four days without allergic hives.",
+      "After an infected boil on my shoulder grew red and painful, the doctor gave me these capsules on an empty stomach, which healed the skin cleanly."
+    ],
+    "reconstitution_and_dilution": "Supplied ready-to-administer as two-piece hard gelatin capsules containing Lincomycin Hydrochloride IP equivalent to 500 mg (or 250 mg) of anhydrous lincomycin. No reconstitution required. Storage Mandate: Store below 25°C in a dry environment in original blister packs; protect from excessive moisture, heat, and direct sunlight. Swallow whole with a full glass of water (at least 200 to 250 mL); do not open, crush, or chew capsules.",
+    "infusion_rate_and_timing": "Oral Administration Only. Critical Fasting Administration Rule: MUST BE TAKEN ON AN EMPTY STOMACH—EITHER AT LEAST 1 HOUR BEFORE A MEAL OR AT LEAST 2 HOURS AFTER INGESTING FOOD. Concomitant food intake decreases the peak serum concentration (Cmax) and total absorption extent (AUC) of oral lincomycin by approximately 50% to 60%. Esophageal Protection Rule: Always take with a full glass of water (200-250 mL) while remaining upright for at least 30 minutes to prevent esophageal mucosal irritation. Standard Adult Dosing (>= 16 years): 500 mg orally THREE TIMES DAILY (every 8 hours) or FOUR TIMES DAILY (every 6 hours) for severe infections (total: 1.5g to 2.0g/day) for 7 to 14 days (extended for osteomyelitis). Pediatric Dosing (>= 1 month of age): 30 to 60 mg/kg/day divided into 3 or 4 equal doses on an empty stomach.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adult and pediatric patients (>= 1 month of age) with documented severe immediate IgE-mediated allergy to penicillins and cephalosporins",
+        "Patients with pyogenic bone and joint infections (osteomyelitis, septic arthritis) caused by susceptible Gram-positive cocci",
+        "Patients with anaerobic odontogenic or soft-tissue infections sensitive to lincosamides",
+        "Patients transitioning to oral therapy following parenteral Lincomycin stabilization"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Absolute Contraindication: Known hypersensitivity to lincomycin, clindamycin, or any lincosamide class formulation excipient",
+        "Absolute Contraindication: History of Clostridioides difficile-associated diarrhea (CDAD), pseudomembranous colitis, or chronic inflammatory bowel disease (Crohn's disease, Ulcerative Colitis)",
+        "Absolute Spectrum Contraindication: Gram-Negative Bacterial Infections (aerobic Gram-negative bacilli such as E. coli, Klebsiella, Pseudomonas are intrinsically resistant due to outer membrane impermeability)",
+        "Patients with severe hepatic impairment or acute liver failure without dose and interval adjustment (prolonged elimination half-life)",
+        "Infants under 1 month of age (safety and pharmacokinetic profiles not established)"
+      ]
+    },
+    "common_side_effects": [
+      "Gastrointestinal: persistent loose stools, diarrhea (common, 8% to 20%), nausea, and abdominal cramping",
+      "Gastrointestinal epigastric discomfort, vomiting, flatulence, and metallic or unpleasant taste",
+      "Dermatologic: maculopapular rash, generalized pruritus, or urticaria",
+      "Oral or vaginal candidiasis (thrush) due to suppression of indigenous mucosal flora balance",
+      "Transient biochemical shifts: asymptomatic elevations in serum transaminases (ALT, AST), alkaline phosphatase, or bilirubin",
+      "Hematologic (rare with short courses): transient leukopenia, neutropenia, or thrombocytopenia"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "Clostridioides difficile Pseudomembranous Colitis Black Box Warning: Lincomycin, as the prototype lincosamide, historically carries a high propensity to trigger antibiotic-associated colitis and severe, potentially fatal CLOSTRIDIOIDES DIFFICILE-ASSOCIATED DIARRHEA (CDAD) / PSEUDOMEMBRANOUS COLITIS. Lincomycin disrupts the colonic anaerobic microflora, permitting toxigenic C. difficile proliferation and mucosal secretion of Toxin A (enterotoxin) and Toxin B (cytotoxin). Patients can present with watery, foul-smelling diarrhea (>5 to 10 loose stools/day), fever, severe abdominal cramping, and leukocytosis. IF SIGNIFICANT DIARRHEA OCCURS DURING OR UP TO SEVERAL WEEKS POST-TREATMENT, DISCONTINUE LINCOMYCIN IMMEDIATELY; PERFORM STOOL TESTING FOR C. DIFFICILE TOXINS AND INITIATE ORAL VANCOMYCIN OR FIDAXOMICIN. ANTI-MOTILITY AGENTS (SUCH AS LOPERAMIDE) ARE STRICTLY CONTRAINDICATED AS THEY PREVENT TOXIN CLEARANCE AND PRECIPITATE TOXIC MEGACOLON.",
+      "Mandatory Fasting Administration Rule (Bioavailability Loss): Unlike its semisynthetic derivative clindamycin (which can be taken with or without food), lincomycin absorption is severely impaired by food intake. Ingesting a lincomycin capsule with a meal decreases gastrointestinal absorption by 50% to 60%, resulting in subtherapeutic peak plasma concentrations (Cmax) and clinical failure. INSTRUCT PATIENTS TO TAKE LINCOMYCIN STRICTLY ON AN EMPTY STOMACH—EITHER 1 HOUR BEFORE A MEAL OR AT LEAST 2 HOURS AFTER EATING.",
+      "Neuromuscular Junction Blockade Interaction: Lincomycin possesses intrinsic neuromuscular junction-blocking activity and can potentiate the muscle-relaxant effects of neuromuscular blocking agents (such as Succinylcholine, Vecuronium, Atracurium). Concomitant administration in surgical patients can cause prolonged respiratory depression or apnea; use with caution in patients with Myasthenia Gravis.",
+      "Macrolide / Clindamycin Antagonism (MLS-B Cross-Resistance): Because lincomycin, clindamycin, erythromycin, and other macrolides share overlapping binding sites on domain V of the 23S rRNA, competitive antagonism occurs if they are co-administered. CONCOMITANT USE OF LINCOMYCIN WITH ERYTHROMYCIN OR OTHER MACROLIDES IS CONTRAINDICATED. Additionally, staphylococcal isolates with inducible erm-mediated macrolide resistance will rapidly develop clinical cross-resistance to lincomycin (D-zone test positive).",
+      "Complete Inactivity Against Aerobic Gram-Negative Bacilli: Lincomycin has zero intrinsic activity against Enterobacterales (E. coli, Klebsiella, Proteus) or Pseudomonas aeruginosa because its hydrophobic chemical structure cannot penetrate the outer-membrane lipopolysaccharide (LPS) and porin channels of Gram-negative bacteria. Lincomycin must NEVER be prescribed as empirical monotherapy for intra-abdominal, urinary, or undifferentiated hospital-acquired infections.",
+      "Renal & Hepatic Impairment Dosing Adjustments: Lincomycin is metabolized primarily by the liver and excreted in bile and feces, with roughly 10% to 30% excreted in urine: In mild-to-moderate renal or hepatic impairment, standard dosing is generally maintained. However, in severe renal failure (CrCl < 10 mL/min) or severe hepatic cirrhosis, the elimination half-life extends up to 10 to 14 hours; reduce the dose by 50% to 75% or prolong the dosing interval to every 12 hours to prevent toxic accumulation."
+    ]
+  },
+  {
+    "id": "levofloxacin-tablets-ip-500mg",
+    "name": "Levofloxacin Tablets IP (500mg)",
+    "generic_names": [
+      "Levofloxacin Hemihydrate Tablets IP 500mg",
+      "Levaquin 500mg",
+      "Loxof 500",
+      "Levomac 500",
+      "Glevo 500",
+      "Levoday 500",
+      "Tavanic 500mg"
+    ],
+    "category": [
+      "Antibiotics",
+      "Infections & Parasites",
+      "Respiratory",
+      "Gastrointestinal"
+    ],
+    "sub_category": "Third-Generation Respiratory Fluoroquinolone & Bacterial Topoisomerase II / IV Inhibitor",
+    "company_name": "LF1",
+    "amount": "95/- (Strip of 10 Film-Coated Tablets - 500mg)",
+    "routes_of_administration": [
+      "Oral (Per Os - Swallowed Whole with Water, With or Without Food, Separated from Polyvalent Cations)"
+    ],
+    "antimicrobial_spectrum": {
+      "gram_positive": [
+        "Streptococcus pneumoniae (including penicillin-resistant MDRSP strains)",
+        "Streptococcus pyogenes",
+        "Staphylococcus aureus (Methicillin-Susceptible MSSA only)"
+      ],
+      "gram_negative": [
+        "Pseudomonas aeruginosa (select community isolates; higher MIC than ciprofloxacin)",
+        "Haemophilus influenzae",
+        "Moraxella catarrhalis",
+        "Escherichia coli (uropathogenic strains)",
+        "Klebsiella pneumoniae",
+        "Legionella pneumophila"
+      ],
+      "anaerobic": false,
+      "atypical": true,
+      "pseudomonal": true,
+      "mrsa_active": false
+    },
+    "who_aware_classification": "Watch",
+    "pk_pd_index": "Concentration-dependent (AUC24 / MIC and Cmax / MIC)",
+    "main_cause": "Community-Acquired Pneumonia (CAP) Involving Streptococcus pneumoniae or Atypicals (Legionella, Mycoplasma), Acute Bacterial Exacerbations of Chronic Bronchitis (AECB), Acute Pyelonephritis and Complicated Urinary Tract Infections (cUTIs), Chronic Bacterial Prostatitis, Inhalational Anthrax Post-Exposure Prophylaxis, WHO Group A Second-Line Backbone Agent for Multidrug-Resistant Tuberculosis (MDR-TB)",
+    "why_this_disease_happens": "In severe lower respiratory tract infections, ascending pyelonephritis, and invasive prostatitis, bacterial pathogens exploit specialized virulence factors to breach mucosal defenses. Streptococcus pneumoniae utilizes its polysaccharide capsule and pneumolysin toxin to evade alveolar macrophage phagocytosis, while atypical intracellular pathogens (Legionella pneumophila, Mycoplasma pneumoniae, Chlamydophila pneumoniae) replicate directly within host alveolar macrophages or adhere to respiratory ciliated epithelium without a traditional peptidoglycan cell wall. In urological tissues, uropathogenic Escherichia coli and Pseudomonas aeruginosa ascend via fimbrial adhesins into the renal parenchyma or prostatic acini. Prostatic tissue is particularly refractory to most standard beta-lactams because the blood-prostate epithelial barrier impedes the penetration of hydrophilic, protein-bound molecules. Furthermore, intracellular bacteria require an antimicrobial agent capable of penetrating human eukaryotic cellular membranes, remaining active across acidic inflammatory phagolysosomes, and arresting DNA replication without cross-resistance to beta-lactamase enzymes. Eradicating these invasive and intracellular pathogens requires a concentration-dependent, optically pure fluoroquinolone with high oral bioavailability (~99%), wide tissue distribution, and high intrapulmonary and prostatic penetration.",
+    "how_this_medicine_fights_it": "Provides concentration-dependent bactericidal chromosomal destruction via targeted dual-enzyme inhibition of bacterial DNA gyrase and topoisomerase IV: (1) Optically Active S-(-) Enantiomer Potency: Levofloxacin is the pure, optically active S-(-) enantiomer of the racemic fluoroquinolone ofloxacin. The S-(-) isomer binds the target topoisomerase enzymes with approximately 8- to 128-fold greater stereospecific affinity than the R-(+) isomer, delivering potent bactericidal activity with lower metabolic and neurotoxic burden. (2) Dual Topoisomerase II (DNA Gyrase) & Topoisomerase IV Cleavage Arrest: Levofloxacin diffuses across bacterial membranes through outer-membrane OmpF/OmpC porins and binds within the catalytic cleavage complexes of two essential type II topoisomerases: (a) In Gram-negative bacteria (E. coli, Pseudomonas), it predominantly targets DNA Gyrase (topoisomerase II, specifically the GyrA subunit), preventing the ATP-dependent introduction of negative supercoils into chromosomal DNA ahead of the replication fork; (b) In Gram-positive organisms (Streptococcus pneumoniae, MSSA), it preferentially targets Topoisomerase IV (ParC and ParE subunits), which decatenates and separates interlinked daughter chromosome rings during cell division. (3) Double-Stranded DNA Cleavage & Programmed Cell Death: By stabilizing the ternary drug-enzyme-DNA cleaved complex, levofloxacin blocks replication fork progression and transcription bubbles. Unrepaired double-stranded chromosomal breaks accumulate, triggering the bacterial SOS DNA-repair pathway, chromosomal fragmentation, and rapid programmed bactericidal cell death. (4) Extensive Respiratory & Prostatic Penetration: Levofloxacin demonstrates near-100% absolute oral bioavailability (bioequivalent to IV infusion) with low plasma protein binding (~24% to 38%). It achieves alveolar macrophage and epithelial lining fluid (ELF) concentrations 2- to 3-fold higher than concurrent serum levels, and prostatic tissue-to-plasma ratios exceeding 100% to 150%. (5) Antimycobacterial Activity in MDR-TB: Levofloxacin targets the DNA gyrase of Mycobacterium tuberculosis, serving as a core Group A priority fluoroquinolone in World Health Organization treatment regimens for multidrug-resistant and rifampicin-resistant tuberculosis.",
+    "drug_class": "Third-Generation Fluoroquinolone / Bacterial Type II Topoisomerase (DNA Gyrase & Topo IV) Inhibitor",
+    "main_action": "Binds and stabilizes cleaved complexes of bacterial DNA gyrase and topoisomerase IV to trigger double-stranded DNA fragmentation and rapid bactericidal cell death, achieving high alveolar, prostatic, and tissue penetration with ~99% oral bioavailability.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Community-Acquired Pneumonia (CAP) caused by Streptococcus pneumoniae, Haemophilus influenzae, or atypicals (500mg orally once daily for 7 to 14 days, or 750mg once daily for 5 days)",
+      "Acute exacerbations of chronic bronchitis (AECB) in high-risk patients (500mg once daily for 7 days)",
+      "Acute pyelonephritis and complicated urinary tract infections (cUTI) caused by susceptible Enterobacterales (500mg once daily for 7 to 10 days, or 750mg once daily for 5 days)",
+      "Chronic bacterial prostatitis caused by E. coli or Enterococcus faecalis (500mg once daily for 28 consecutive days)",
+      "Inhalational Anthrax (post-exposure prophylaxis following exposure to Bacillus anthracis; 500mg once daily for 60 days)",
+      "Core Group A backbone agent in WHO treatment regimens for Multidrug-Resistant Tuberculosis (MDR-TB / RR-TB; 750mg to 1000mg once daily under specialist monitoring)",
+      "Oral step-down continuation therapy following initial stabilization on parenteral Levofloxacin IV infusion (1:1 conversion)"
+    ],
+    "how_patients_describe_symptoms": [
+      "I had a severe lung infection with fever, shaking chills, and a deep cough that failed to improve on basic penicillin; taking this once-daily tablet cleared my breathing and fever in three days.",
+      "My severe kidney infection caused agonizing back pain and burning urination; this single daily tablet cleared the infection without requiring a hospital stay.",
+      "I was diagnosed with chronic bacterial prostate infection with pelvic pain and urinary difficulty; this 4-week antibiotic course resolved the infection completely."
+    ],
+    "reconstitution_and_dilution": "Supplied ready-to-administer as white to pale yellow-white, capsule-shaped, scored or unscored film-coated tablets containing Levofloxacin Hemihydrate equivalent to 500 mg (also manufactured in 250 mg and 750 mg strengths) of anhydrous levofloxacin. No liquid reconstitution required. Storage Mandate: Store below 25°C to 30°C in original moisture-barrier blister packaging protected from excessive heat and direct sunlight. Swallow whole with a full glass of water; do not crush or chew. Chelation Rule: Strictly avoid taking concomitantly with multivalent cation-containing antacids, iron supplements, sucralfate, or calcium/magnesium supplements (separate by at least 2 hours before or 2 hours after).",
+    "infusion_rate_and_timing": "Oral Administration Only. Administration Timing Rule: May be administered with or without food. Meals slightly delay the time to peak concentration (Tmax by approx 1 hour) but do not decrease the total extent of absorption (AUC). Standard Adult Dosing (>= 18 years): 500 mg orally ONCE DAILY (every 24 hours) for 7 to 14 days depending on indication (or 750 mg once daily for 5 days in short-course CAP/cUTI protocols; 28 days for chronic prostatitis). Hydration Protocol: Patients must maintain high fluid intake (at least 2.0 to 2.5 liters of water daily) during therapy to maintain high urinary output and prevent fluoroquinolone crystalluria.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults aged 18 years and older presenting with moderate-to-severe community-acquired pneumonia, acute pyelonephritis, or chronic prostatitis",
+        "Hospitalized patients ready for early oral step-down discharge following initial IV levofloxacin (1:1 oral bioequivalence)",
+        "Patients requiring outpatient broad-spectrum coverage active against atypical respiratory pathogens (Legionella, Mycoplasma)",
+        "Patients on WHO Group A multi-agent treatment regimens for Multidrug-Resistant Tuberculosis (MDR-TB)"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Absolute Contraindication: Pediatric patients, infants, and growing adolescents under 18 years of age (fluoroquinolones induce degenerative cartilage lesions and weight-bearing arthropathy in juvenile mammalian joints)",
+        "Absolute Contraindication: Pregnancy and breastfeeding mothers (crosses placenta and breast milk; carries risks of fetal arthropathy and cartilage malformation)",
+        "Absolute Contraindication: Patients with a prior history of tendonitis, tendon rupture, or serious adverse reactions associated with fluoroquinolones",
+        "Absolute Contraindication: Known severe hypersensitivity to levofloxacin, ofloxacin, or any fluoroquinolone antibacterial",
+        "Absolute Contraindication: Patients with Myasthenia Gravis (fluoroquinolones possess neuromuscular blocking activity and can trigger fatal myasthenic respiratory crises)",
+        "Patients with pre-existing congenital or acquired QT-interval prolongation, baseline uncorrected hypokalemia, or taking concurrent antiarrhythmics (amiodarone, sotalol)",
+        "Patients with aortic aneurysm, aortic dissection, or risk factors for aneurysm without careful risk-benefit appraisal"
+      ]
+    },
+    "common_side_effects": [
+      "Gastrointestinal: nausea (common, 5% to 7%), diarrhea, dyspepsia, constipation, abdominal pain, or flatulence",
+      "Central nervous system: headache, dizziness, insomnia, lightheadedness, and restlessness",
+      "Dermatologic: mild pruritus, maculopapular rash, or mild photosensitivity reaction upon direct UV light exposure",
+      "Transient laboratory shifts: asymptomatic elevation in serum hepatic transaminases (ALT, AST), alkaline phosphatase, or serum creatinine",
+      "Oral or vaginal candidiasis due to disruption of commensal microflora",
+      "Musculoskeletal: mild arthralgia, back pain, or transient muscle stiffness"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "Fluoroquinolone Tendonitis & Tendon Rupture Black Box Warning: Levofloxacin is associated with an increased risk of acute tendonitis and tendon rupture (most commonly affecting the Achilles tendon, but also reported in the rotator cuff, biceps, and hand). Ruptures can occur within 48 hours of starting therapy or up to several months after treatment completion. Risk is significantly elevated in patients over 60 years of age, those taking concurrent systemic corticosteroids, and organ transplant recipients. PATIENTS MUST STOP EXERCISING, AVOID WEIGHT-BEARING, AND DISCONTINUE LEVOFLOXACIN IMMEDIATELY AT THE FIRST SIGN OF TENDON PAIN, SWELLING, OR INFLAMMATION.",
+      "Irreversible Peripheral Neuropathy & CNS Toxicities Warning: Fluoroquinolones can precipitate acute peripheral sensory or sensorimotor axonal neuropathy (manifesting as burning pain, paresthesias, dysesthesias, numbness, or weakness), which may become irreversible if the drug is continued. Furthermore, fluoroquinolones displace gamma-aminobutyric acid (GABA) from central receptor complexes, lowering the convulsive seizure threshold and triggering toxic psychoses, agitation, hallucinations, delirium, depression, and tremors. DISCONTINUE IMMEDIATELY IF SYMPTOMS OF NEUROPATHY OR CNS EXCITATION ARISE.",
+      "Myasthenia Gravis Exacerbation Black Box Warning: Fluoroquinolones possess intrinsic neuromuscular junction-blocking activity and can rapidly precipitate life-threatening exacerbations of muscle weakness, requiring mechanical ventilator support in patients with Myasthenia Gravis. LEVOFLOXACIN IS ABSOLUTELY CONTRAINDICATED IN PATIENTS WITH KNOWN MYASTHENIA GRAVIS.",
+      "Cardiac QT-Interval Prolongation & Torsades de Pointes Hazard: Levofloxacin blocks the rapid delayed rectifier potassium current (IKr / hERG channel) in cardiac myocytes, inducing dose-dependent prolongation of the QTc interval. Avoid in patients with congenital long QT syndrome, uncorrected hypokalemia or hypomagnesemia, or concurrent administration with Class IA (quinidine, procainamide) or Class III (amiodarone, sotalol) antiarrhythmics, antipsychotics, or macrolides.",
+      "Aortic Aneurysm and Dissection Safety Warning: Epidemiological studies demonstrate an increased risk of aortic aneurysm rupture and acute aortic dissection within 2 months following systemic fluoroquinolone exposure, attributed to collagen degradation in arterial media. Avoid in patients at high risk (Marfan syndrome, Ehlers-Danlos syndrome, known vascular aneurysms, severe uncontrolled hypertension, elderly) unless no alternative antimicrobial options exist.",
+      "Polyvalent Cation Chelation Bioavailability Loss: The 4-oxo-quinoline-3-carboxylic acid pharmacophore strongly chelates polyvalent metal cations (Al3+, Mg2+, Fe2+, Ca2+, Zn2+). Co-ingestion with antacids, iron supplements, sucralfate, or multivitamin-mineral tablets reduces oral levofloxacin absorption by up to 70% to 90%, causing therapeutic failure. INGESTION OF METAL CATIONS MUST BE SEPARATED BY AT LEAST 2 HOURS BEFORE OR 2 HOURS AFTER LEVOFLOXACIN.",
+      "Strict Renal Dose Adjustment Protocol: Levofloxacin is eliminated predominantly unchanged (>80% to 87%) via renal glomerular filtration and active tubular secretion. In patients with renal impairment, clearance drops significantly: CrCl >= 50 mL/min: Standard dose (500mg every 24 hours); CrCl 20 to 49 mL/min: Initial dose 500mg, then 250mg every 24 hours; CrCl 10 to 19 mL/min: Initial dose 500mg, then 250mg every 48 hours; Hemodialysis / CAPD: Initial dose 500mg, then 250mg every 48 hours (not removed by dialysis; no supplemental dose needed).",
+      "100% Oral Bioavailability & 1:1 IV-to-Oral Equivalence: Levofloxacin exhibits complete gastrointestinal absorption, resulting in plasma concentration-time profiles bioequivalent to intravenous administration. Patients stabilized on IV Levofloxacin 500mg can transition directly to Oral Levofloxacin 500mg with ZERO DOSE ADJUSTMENT, facilitating earlier discharge and reducing catheter-related infection risks."
+    ]
+  },
+  {
+    "id": "fluconazole-tablets-ip-150mg",
+    "name": "Fluconazole Tablets IP (150mg)",
+    "generic_names": [
+      "Fluconazole Tablets IP 150mg",
+      "Diflucan 150mg",
+      "Forcan 150",
+      "Flucos 150",
+      "Syscan 150",
+      "Zocon 150",
+      "Nuforce 150",
+      "Afung 150"
+    ],
+    "category": ["Antifungals", "Dermatology", "Infections & Parasites"],
+    "sub_category": "First-Generation Hydrophilic Bistriazole Antifungal & Fungal Ergosterol Biosynthesis (CYP51) Inhibitor",
+    "company_name": "FC1",
+    "amount": "38/- (Single-Tablet Blister Pack - 150mg)",
+    "routes_of_administration": [
+      "Oral (Per Os - Swallowed Whole with Water, With or Without Food, Independent of Gastric pH)"
+    ],
+    "antimicrobial_spectrum": {
+      "gram_positive": [],
+      "gram_negative": [],
+      "anaerobic": false,
+      "atypical": false,
+      "pseudomonal": false,
+      "mrsa_active": false
+    },
+    "fungal_spectrum": {
+      "yeasts": [
+        "Candida albicans (first-line drug of choice; high susceptibility)",
+        "Candida tropicalis",
+        "Candida parapsilosis",
+        "Cryptococcus neoformans (consolidation & maintenance maintenance)",
+        "Malassezia furfur (Pityriasis versicolor)"
+      ],
+      "intrinsic_or_acquired_resistance": [
+        "Candida krusei (intrinsically resistant; do not use)",
+        "Candida glabrata (dose-dependent susceptibility or high-level resistance)",
+        "Candida auris (frequently multidrug-resistant)",
+        "Aspergillus species (intrinsically resistant; zero activity against molds)",
+        "Mucorales (Rhizopus, Mucor; zero activity)"
+      ],
+      "dermatophytes": [
+        "Trichophyton rubrum (weekly pulse alternative)",
+        "Trichophyton mentagrophytes",
+        "Epidermophyton floccosum"
+      ]
+    },
+    "who_aware_classification": "Access",
+    "pk_pd_index": "AUC24 / MIC (Free-drug area under the curve to MIC ratio)",
+    "main_cause": "Acute Uncomplicated and Complicated Vulvovaginal Candidiasis (Vaginal Yeast Infection), Oropharyngeal and Esophageal Candidiasis (Oral Thrush), Candidal Balanitis, Weekly Pulse Regimen for Cutaneous Tinea Infections (Tinea Corporis, Tinea Cruris, Tinea Pedis), Secondary Cryptococcal Meningitis Maintenance Prophylaxis in Immunocompromised Hosts",
+    "why_this_disease_happens": "Mucocutaneous and invasive candidiasis are opportunistic fungal infections driven by dimorphic commensal yeasts, predominantly Candida albicans. Under physiological homeostasis, Candida colonizes mucosal surfaces as a harmless unicellular budding blastospore. However, disruptions in host microecology (such as broad-spectrum antibiotic therapy eliminating Lactobacillus acidophilus, systemic corticosteroid exposure, poorly controlled diabetes mellitus, or elevated luteal estrogen states) trigger phenotypic switching into invasive pseudohyphae and true hyphae. Hyphal filaments express virulence adhesins (ALS3, HWP1) and secrete candidalysin—a cytolytic peptide toxin that forms pores in host mucosal epithelial membranes—inducing intense vulvovaginal pruritus, burning erythema, dyspareunia, and curd-like white vaginal discharge. Crucially, the structural survival of Candida and Cryptococcus depends on ergosterol in the fungal plasma membrane. Unlike mammalian membranes that use cholesterol, fungal membranes require ergosterol to maintain membrane fluidity, structural integrity, and the anchoring of cell-wall beta-glucan synthases. Eradicating mucosal and systemic yeast proliferation requires an orally bioavailable antifungal that achieves high mucosal and secretions concentration, is unaffected by meal timing or stomach acid, and selectively disrupts fungal sterol synthesis.",
+    "how_this_medicine_fights_it": "Provides targeted fungistatic membrane disruption through selective catalytic inhibition of fungal cytochrome P450-dependent 14-alpha-demethylase, coupled with high systemic bioavailability: (1) Hydrophilic Pharmacokinetics & Gastric Acid Independence: Unlike lipophilic imidazoles (ketoconazole) or triazoles (itraconazole) that require low gastric pH (<2.5) and dietary lipids for absorption, fluconazole is a moderately hydrophilic bistriazole (featuring two symmetrical 1,2,4-triazole rings attached to a difluorophenyl core). It demonstrates oral bioavailability exceeding 90% in both fasting and fed states, requiring no gastric acid for dissolution and achieving peak plasma concentrations within 1 to 2 hours. (2) Fungal CYP51 (Lanosterol 14-alpha-demethylase) Blockade: Fluconazole crosses fungal cell envelopes and binds stereospecifically to the catalytic active site of the fungal lanosterol 14-alpha-demethylase enzyme (encoded by the ERG11 gene). A nitrogen atom (N-4) of the triazole ring coordinates directly with the heme iron atom of protoporphyrin IX in the enzyme catalytic core. This non-covalently blocks the oxidative removal of the 14-alpha-methyl group from lanosterol, halting its conversion to 4,4-dimethylcholesta-8,14,24-trien-3beta-ol and downstream ergosterol. (3) Toxic Methylated Sterol Accumulation & Cell Arrest: The depletion of structural ergosterol paired with the intracellular accumulation of aberrant, toxic 14-alpha-methylated sterols (principally 14-alpha-methyl-3,6-diol derivatives) alters membrane fluidity, weakens mechanical stability, and increases membrane permeability. This leads to leakage of intracellular cations (potassium, phosphate), uncoupling of oxidative phosphorylation, and inhibition of chitin synthesis, arresting fungal replication. (4) Secretion into Mucosal Fluids, CSF & Vaginal Secretions: Fluconazole exhibits low plasma protein binding (only 11% to 12%) and wide volume of distribution. It diffuses freely into body water, achieving concentrations in vaginal secretions, skin blister fluid, stratum corneum, saliva, and cerebrospinal fluid (CSF penetration is 60% to 80% of concurrent serum levels) that equal or exceed plasma concentrations, enabling effective single-dose cures in mucosal candidiasis.",
+    "drug_class": "Hydrophilic Bistriazole Antifungal / Fungal Ergosterol Biosynthesis (CYP51) Inhibitor",
+    "main_action": "Binds and inhibits fungal cytochrome P450 lanosterol 14-alpha-demethylase (ERG11/CYP51) to deplete membrane ergosterol, accumulating toxic 14-alpha-methylated sterols that disrupt membrane integrity, with >90% oral bioavailability independent of gastric pH.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Acute uncomplicated Vulvovaginal Candidiasis (single oral dose of 150mg stat)",
+      "Recurrent Vulvovaginal Candidiasis (RVVC; 150mg orally every 72 hours for 3 doses on days 1, 4, and 7, followed by maintenance of 150mg once weekly for 6 months)",
+      "Candidal Balanitis in male partners (single oral dose of 150mg stat)",
+      "Oropharyngeal Candidiasis / Oral Thrush (150mg to 200mg loading on day 1, followed by 100mg to 150mg once daily for 7 to 14 days)",
+      "Alternative weekly pulse regimen for extensive Tinea Corporis, Tinea Cruris, or Tinea Pedis (150mg orally once weekly for 2 to 6 weeks)",
+      "Consolidation and long-term secondary maintenance suppression of Cryptococcal Meningitis (200mg to 400mg daily following amphotericin induction)"
+    ],
+    "how_patients_describe_symptoms": [
+      "I had severe vaginal itching, redness, and thick cottage-cheese-like white discharge; taking just this one single tablet cleared the itching within 24 hours.",
+      "My partner and I developed redness and burning from a candidal yeast infection; a single 150mg tablet taken with water resolved the redness completely.",
+      "I had persistent white patches on my tongue and painful swallowing from oral thrush; this medicine cleared my mouth within four days."
+    ],
+    "reconstitution_and_dilution": "Supplied ready-to-administer as light blue, white, or pink film-coated or uncoated tablets (or capsules) containing Fluconazole IP equivalent to 150 mg. No liquid reconstitution or dissolution required. Storage Mandate: Store below 25°C to 30°C in original blister packaging protected from excessive heat and direct moisture. Tablets must be swallowed whole with water; may be split along score lines if specified by manufacturer, but do not crush unnecessarily.",
+    "infusion_rate_and_timing": "Oral Administration Only. Administration Timing Rule: May be taken WITH OR WITHOUT FOOD. Unlike itraconazole or ketoconazole, fluconazole's gastrointestinal absorption does not depend on gastric acidity or co-administered dietary fats. Standard Clinical Dosing Protocols: Uncomplicated Vaginal Yeast Infection: 150 mg orally AS A SINGLE STAT DOSE. Recurrent Vaginal Candidiasis Protocol: 150 mg on Day 1, Day 4, and Day 7 (3 induction doses), then 150 mg ONCE WEEKLY for 6 months as maintenance. Candidal Balanitis: 150 mg as a single stat dose. Weekly Dermatophyte Pulse: 150 mg ONCE WEEKLY for 2 to 4 weeks (Tinea cruris/corporis) or 6 weeks (Tinea pedis).",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Non-pregnant women presenting with acute uncomplicated vulvovaginal candidiasis verified by clinical exam or fungal wet mount",
+        "Male patients with acute candidal balanoposthitis presenting with erythema, irritation, or subpreputial discharge",
+        "Patients with oropharyngeal candidiasis (oral thrush) in ambulatory or immunocompromised settings",
+        "Patients concurrently taking Proton Pump Inhibitors (Pantoprazole, Omeprazole) or H2 blockers who cannot absorb pH-dependent antifungals like itraconazole"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Absolute Contraindication: Pregnancy, particularly first trimester (FDA Pregnancy Category D for high-dose/chronic use; single 150mg dose associated in epidemiologic data with increased risk of spontaneous miscarriage, and chronic/high-dose use causes congenital cranial-skeletal malformations; use topical clotrimazole/miconazole instead)",
+        "Absolute Contraindication: Known severe hypersensitivity to fluconazole or other azole antifungals",
+        "Absolute Contraindication: Co-administration with drugs that prolong the QT-interval and are metabolized by CYP3A4/CYP2C9 (e.g., Cisapride, Astemizole, Pimozide, Quinidine, Terfenadine)",
+        "Infections caused by Candida krusei (intrinsically resistant) or suspected Aspergillus species (completely ineffective against all molds)",
+        "Patients with severe baseline renal impairment (Creatinine Clearance < 50 mL/min) receiving multiple-dose regimens without dosage halving"
+      ]
+    },
+    "common_side_effects": [
+      "Gastrointestinal: nausea (common, ~4% to 7%), abdominal discomfort, diarrhea, flatulence, or mild dyspepsia",
+      "Central nervous system: headache (common, ~5% to 8%), mild dizziness, and sensation of lightheadedness",
+      "Dermatologic: mild pruritus, maculopapular rash, or transient urticaria",
+      "Transient biochemical elevations in liver enzymes: asymptomatic rise in serum ALT, AST, and alkaline phosphatase (<2% on single dose)",
+      "Mild dysgeusia (metallic or altered taste sensation)"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "Pregnancy Contraindication & Miscarriage Black Box Alert: Systemic fluconazole exposure during the first trimester of pregnancy is associated with a statistically significant increase in the risk of SPONTANEOUS ABORTION (MISCARRIAGE) and congenital cardiac/craniofacial malformations (Tetralogy of Fallot, brachycephaly). ORAL FLUCONAZOLE MUST BE AVOIDED IN PREGNANCY FOR VULVOVAGINAL CANDIDIASIS. Pregnant women with symptomatic vaginal yeast infections MUST BE TREATED EXCLUSIVELY WITH TOPICAL INTRAVAGINAL ANTIFUNGALS (e.g., Clotrimazole 1% or 2% vaginal cream, Miconazole suppositories) for 7 consecutive days.",
+      "Gastric Acid Independence Advantage (No PPI Interaction): Unlike itraconazole and ketoconazole (which are hydrophobic weak bases requiring gastric pH < 2.5 for dissolution and are rendered ineffective by antacids or PPIs), FLUCONAZOLE ABSORPTION IS COMPLETELY INDEPENDENT OF GASTRIC pH. Co-administration with Proton Pump Inhibitors (Pantoprazole, Omeprazole), H2-blockers (Famotidine), or antacids DOES NOT REDUCE FLUCONAZOLE BIOAVAILABILITY, making it the oral azole of choice for patients on chronic acid-suppression therapy.",
+      "Drug-Drug Interactions (Moderate CYP2C9, CYP2C19 & CYP3A4 Inhibitor): Fluconazole is a potent inhibitor of human cytochrome P450 CYP2C9 and CYP2C19, and a moderate, dose-dependent inhibitor of CYP3A4. Crucial interactions include: (1) Warfarin: Fluconazole sharply blocks S-warfarin clearance via CYP2C9, dramatically elevating INR and precipitating life-threatening hemorrhages (INR must be tracked closely); (2) Sulfonylureas: Glimepiride, Glipizide, and Gliclazide concentrations surge, precipitating severe hypoglycemic shock; (3) Phenytoin: Hepatic metabolism is inhibited, causing ataxia and phenytoin toxicity; (4) Statins: Atorvastatin levels increase, raising myopathy risk.",
+      "Cardiac QT-Interval Prolongation & Arrhythmia Surveillance: Fluconazole can block cardiac hERG potassium channels, causing prolongation of the electrocardiographic QTc interval. While clinically rare with a single 150mg dose, risk escalates sharply when administered to patients with baseline congenital long QT syndrome, uncorrected hypokalemia, hypomagnesemia, or when co-prescribed with other QTc-prolonging drugs (Ondansetron, Levofloxacin, Azithromycin, Amiodarone).",
+      "Complete Inactivity Against Aspergillus & Molds: Fluconazole lacks affinity for the 14-alpha-demethylase enzyme of Aspergillus species, Mucorales (Rhizopus), and Fusarium. IT HAS ZERO INTRINSIC ACTIVITY AGAINST MOLDS. Fluconazole must NEVER be prescribed for pulmonary aspergillosis, invasive sinus mold infections, or mucormycosis; voriconazole, isavuconazole, or amphotericin B must be selected instead.",
+      "Strict Renal Dose Titration in Multi-Dose Therapy: Fluconazole is cleared predominantly (>80%) unchanged by the kidneys via glomerular filtration. Single-dose therapy (150mg stat for vaginal yeast) requires no adjustment regardless of renal function. However, in MULTIPLE-DOSE PROTOCOLS (e.g., oral thrush, RVVC maintenance): CrCl >= 50 mL/min: Standard dose (100%); CrCl < 50 mL/min: Administer a standard loading dose, then reduce all subsequent maintenance doses by 50% (half dose) or double the dosing interval; Hemodialysis: Administer 100% of the maintenance dose immediately following each hemodialysis session (hemodialysis removes ~50% of circulating fluconazole in 3 hours)."
+    ]
+  },
+  {
+    "id": "aciclovir-dispersible-tablets-ip-400mg",
+    "name": "Aciclovir Dispersible Tablets IP (400mg)",
+    "generic_names": [
+      "Acyclovir Dispersible Tablets IP 400mg",
+      "Zovirax 400 DT",
+      "Acivir 400 DT",
+      "Herpex 400",
+      "Ocuvir 400 DT",
+      "Cyclovir 400 DT",
+      "Primovir 400 DT"
+    ],
+    "category": ["Antivirals", "Dermatology", "Infections & Parasites"],
+    "sub_category": "Synthetic Purine Deoxyguanosine Nucleoside Analogue & Viral DNA Polymerase Obligate Chain Terminator",
+    "company_name": "AC3",
+    "amount": "148/- (Strip of 10 Dispersible Tablets - 400mg)",
+    "routes_of_administration": [
+      "Oral (Per Os - Dispersed in 5 to 10 mL of Boiled and Cooled Water Immediately Prior to Ingestion, With or Without Food)"
+    ],
+    "antimicrobial_spectrum": {
+      "gram_positive": [],
+      "gram_negative": [],
+      "anaerobic": false,
+      "atypical": false,
+      "pseudomonal": false,
+      "mrsa_active": false
+    },
+    "viral_spectrum": {
+      "high_susceptibility": [
+        "Herpes Simplex Virus Type 1 (HSV-1: Herpes labialis, gingivostomatitis, keratoconjunctivitis)",
+        "Herpes Simplex Virus Type 2 (HSV-2: Primary and recurrent genital herpes, neonatal herpes prophylaxis)"
+      ],
+      "intermediate_susceptibility": [
+        "Varicella Zoster Virus (VZV: Chickenpox and Herpes Zoster / Shingles; requires higher doses due to lower viral TK affinity)"
+      ],
+      "low_or_negligible_activity": [
+        "Epstein-Barr Virus (EBV: In vitro suppression only; limited clinical efficacy)",
+        "Cytomegalovirus (CMV: Lacks specific viral thymidine kinase; naturally resistant; ganciclovir preferred)",
+        "Human Herpesvirus 6, 7, and 8 (HHV-6/7/8: Poor phosphorylation efficiency)"
+      ]
+    },
+    "who_aware_classification": "Access",
+    "pk_pd_index": "Time above IC50 (T > IC50) with active intracellular triphosphate trapping",
+    "main_cause": "Treatment and Chronic Suppression of Recurrent Genital Herpes Simplex Infections (HSV-2 / HSV-1), Primary Genital Herpes Episodes, Severe Mucocutaneous Herpes Simplex in Immunocompromised Hosts, Herpes Zoster (Shingles) in Non-Severe or Resolving Cutaneous Presentations, Primary Varicella (Chickenpox) in High-Risk Adolescents and Adults, Prophylaxis of HSV Reactivation in Seropositive Bone Marrow Transplant or Chemotherapy Patients",
+    "why_this_disease_happens": "Pathologies driven by the Alphaherpesvirinae family (Herpes Simplex Virus types 1 and 2, and Varicella Zoster Virus) are characterized by lytic epithelial replication followed by life-long neuronal latency. Following initial infection through mucosal surfaces or abraded epidermis, HSV and VZV enter retrograde axonal transport to reach sensory ganglia (trigeminal ganglia for HSV-1; sacral dorsal root ganglia for HSV-2; cranial and dorsal root sensory ganglia for VZV). Physical trauma, emotional stress, UV irradiation, hormonal fluctuations, or cellular immunosuppression trigger viral reactivation. Latent viral circular episomes initiate transcription of immediate-early and early genes. In recurrent genital herpes, viral particles travel anterograde down sensory nerve fibers to the genital epidermis, forming clusters of painful intraepidermal vesicles on an erythematous base that rupture into shallow, tender ulcerations accompanied by regional lymphadenopathy, dysuria, and neuropathic hyperesthesia. Unchecked viral DNA replication rapidly lyses host keratinocytes. Because human cellular enzymes cannot distinguish early viral replication forks without toxicity, effective antiviral therapy requires a selective prodrug that remains completely inert in uninfected human cells and is selectively activated only inside virus-infected cells by a unique viral enzyme, arresting viral chromosomal replication while sparing host DNA.",
+    "how_this_medicine_fights_it": "Provides targeted viral replication arrest through selective intracellular monophosphorylation by viral thymidine kinase followed by obligate DNA chain termination: (1) Rapid Dispersible Matrix & Oral Absorption: The dispersible tablet (DT) formulation incorporates crospovidone and water-soluble excipients that allow complete disintegration in 5 to 10 mL of water within 60 seconds into a micro-particulate suspension, overcoming pill dysphagia. Aciclovir is absorbed across the intestinal epithelium via passive non-saturable paracellular diffusion and peptide transporters, achieving 15% to 30% oral bioavailability. (2) Highly Selective Monophosphorylation by Viral Thymidine Kinase: Aciclovir (9-[(2-hydroxyethoxy)methyl]guanine) is an acyclic purine nucleoside analogue of 2'-deoxyguanosine. In healthy, uninfected host cells, cellular kinases cannot phosphorylate aciclovir efficiently, rendering the drug non-toxic. In HSV- or VZV-infected cells, the virus-encoded Thymidine Kinase (TK) exhibits an affinity for aciclovir approximately 200 times greater than mammalian TK. Viral TK performs the critical, rate-limiting first monophosphorylation, converting aciclovir into aciclovir monophosphate (ACV-MP). (3) Cellular Kinase Conversion to Active Aciclovir Triphosphate: Host cellular guanylate kinase and phosphotransferases rapidly phosphorylate ACV-MP into aciclovir diphosphate (ACV-DP) and ultimately the biologically active aciclovir triphosphate (ACV-TP). Because ACV-TP is charged and polar, it becomes trapped intracellularly within infected cells at concentrations 40- to 100-fold higher than in surrounding uninfected cells. (4) Competitive Inhibition & Obligate DNA Chain Termination: Active ACV-TP competes with the natural endogenous nucleotide substrate deoxyguanosine triphosphate (dGTP) for incorporation by Viral DNA Polymerase. Once Viral DNA Polymerase incorporates the aciclovir moiety into the growing viral DNA primer-template strand, DNA synthesis halts abruptly: because aciclovir completely lacks a 3'-hydroxyl (-OH) group on its acyclic side chain, no phosphodiester bond can form with the next incoming deoxynucleoside triphosphate. This causes obligate DNA chain termination, inactivating viral DNA polymerase and permanently arresting viral genome replication.",
+    "drug_class": "Synthetic Acyclic Purine Nucleoside Analogue Antiviral / Viral DNA Polymerase Inhibitor",
+    "main_action": "Selectively monophosphorylated by viral thymidine kinase, then converted by host kinases to aciclovir triphosphate, which competes with dGTP and lacks a 3'-OH group, causing obligate viral DNA chain termination and arresting herpesvirus replication.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Treatment of initial episodes of Genital Herpes (HSV-1 / HSV-2; 400mg orally three times daily for 7 to 10 days)",
+      "Intermittent episodic treatment of recurrent Genital Herpes outbreaks (400mg orally three times daily for 5 days, initiated at earliest prodrome)",
+      "Chronic suppressive therapy for recurrent Genital Herpes in patients with >= 6 recurrences/year (400mg orally twice daily continuously for up to 12 months)",
+      "Herpes Zoster (Shingles) in adults (800mg orally five times daily—every 4 hours while awake, omitting nighttime dose—for 7 to 10 days; 2 x 400mg tablets per dose)",
+      "Acute Varicella (Chickenpox) in immunocompetent adolescents and adults >= 12 years (800mg orally four times daily for 5 days)",
+      "Prophylaxis of recurrent mucocutaneous Herpes Simplex Virus infections in seropositive immunocompromised patients"
+    ],
+    "how_patients_describe_symptoms": [
+      "At the very first sign of tingling and burning before my genital herpes blisters broke out, dissolving this tablet in water stopped the outbreak from blistering and cut the healing time in half.",
+      "My severe shingles rash caused intense burning nerve pain and clusters of fluid-filled blisters across my ribcage; taking these dissolvable tablets cleared the rash and reduced the nerve pain.",
+      "I have frequent, painful genital herpes flare-ups every few months; taking one 400mg tablet twice daily has completely prevented recurrences."
+    ],
+    "reconstitution_and_dilution": "Supplied as white to off-white, round or oblong, scored dispersible tablets containing Aciclovir IP equivalent to 400 mg (also manufactured in 200 mg and 800 mg strengths). Administration Preparation Mandate: DISPERSE THE TABLET IN 5 TO 10 ML (1 TO 2 TEASPOONS) OF BOILED AND COOLED DRINKING WATER IMMEDIATELY PRIOR TO INGESTION. Swirl gently until the tablet completely disintegrates into a uniform liquid suspension (typically within 30 to 60 seconds). Swallow the entire liquid immediately. Rinse the glass with a little extra water and swallow to ensure complete dose delivery. DO NOT PREPARE DISPERSIONS HOURS IN ADVANCE. Alternatively, in adult patients who prefer swallowing tablets whole, it may be swallowed with a full glass of water. Storage Mandate: Store below 25°C in a dry environment in original aluminum-aluminum (Alu-Alu) or PVC-PVDC moisture-barrier blister packs. Protect from excessive humidity and direct sunlight.",
+    "infusion_rate_and_timing": "Oral Administration Only. Administration Timing Rule: May be taken with or without food. Ingestion with meals reduces mild gastric upset without reducing total systemic bioavailability. Mandatory Hydration Protocol: PATIENTS MUST DRINK AT LEAST 2.0 TO 3.0 LITERS OF WATER DAILY THROUGHOUT THE ENTIRE TREATMENT COURSE TO PREVENT ACICLOVIR CRYSTALLIZATION IN RENAL TUBULES. Standard Dosing Protocols: Genital Herpes Initial Episode: 400 mg orally THREE TIMES DAILY (every 8 hours) for 7 to 10 days. Recurrent Genital Herpes Episodic: 400 mg orally THREE TIMES DAILY for 5 days. Chronic HSV Suppression: 400 mg orally TWICE DAILY (every 12 hours) continuously for up to 1 year. Herpes Zoster (Shingles) Regimen: 800 mg (two 400mg tablets) orally FIVE TIMES DAILY (every 4 hours while awake: roughly 7 AM, 11 AM, 3 PM, 7 PM, 11 PM) for 7 to 10 days.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adult and adolescent patients presenting with primary or recurrent genital herpes or localized cutaneous herpes zoster",
+        "Patients experiencing pill dysphagia or swallowing difficulty who benefit from a fast-disintegrating liquid dispersion",
+        "Seropositive immunocompromised patients (HIV-positive, post-chemotherapy) requiring primary or secondary HSV prophylaxis",
+        "Pregnant women presenting with primary genital herpes or severe recurrent episodes (FDA Pregnancy Category B; established safety registry showing no increased risk of congenital birth defects)"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Absolute Contraindication: Known severe hypersensitivity to aciclovir, valaciclovir (prodrug), or any formulation excipients",
+        "Severe Systemic / Life-Threatening Infections: Acute Herpes Simplex Encephalitis, Neonatal HSV, or Disseminated Varicella Zoster (oral aciclovir has low 15-30% bioavailability; INTRAVENOUS ACICLOVIR INFUSION IS MANDATORY)",
+        "Patients with severe pre-existing renal impairment (Creatinine Clearance < 25 mL/min) without strict dose and interval reduction (risk of neurotoxicity and acute crystal nephropathy)",
+        "Severely dehydrated or hypovolemic patients without adequate prior fluid volume repletion"
+      ]
+    },
+    "common_side_effects": [
+      "Gastrointestinal: nausea (common, ~5% to 8%), mild diarrhea, vomiting, abdominal pain, or flatulence",
+      "Central nervous system: headache (common, ~7%), dizziness, fatigue, and mild somnolence",
+      "Dermatologic: mild pruritus, maculopapular rash, or transient urticaria",
+      "Transient laboratory shifts: asymptomatic mild elevations in serum ALT, AST, alkaline phosphatase, or BUN",
+      "Local mucosal numbness or mild bitter taste if the dispersed liquid is held in the oral cavity"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "Intratubular Crystal Nephropathy & Mandatory Hydration Mandate: Aciclovir has low aqueous solubility in neutral and acidic urine (approx 2.5 mg/mL at 37°C and pH 7.0). In dehydrated patients or those receiving high doses (e.g., 800mg 5 times daily for shingles), free aciclovir rapidly precipitates as needle-shaped birefringent crystals within renal collecting ducts and distal tubules. This causes intratubular micro-obstruction, acute interstitial inflammation, and rapid-onset acute tubular necrosis (ATN). PATIENTS MUST BE INSTRUCTED TO DRINK AT LEAST 2.0 TO 3.0 LITERS OF WATER OR FLUIDS DAILY THROUGHOUT THE ENTIRE TREATMENT DURATION TO ENSURE HIGH URINARY VOLUME AND PREVENT RENAL CRYSTALLIZATION.",
+      "Neurotoxicity in Renal Failure Warning: Aciclovir and its active metabolites penetrate the central nervous system. In patients with unrecognized or unadjusted renal impairment, systemic accumulation leads to drug-induced NEUROTOXICITY (manifesting as agitation, tremors, myoclonus, confusion, visual and auditory hallucinations, ataxia, dysarthria, encephalopathy, and seizures). Symptoms typically manifest within 24 to 72 hours of starting therapy in renal failure and resolve within 2 to 4 days after drug discontinuation (hemodialysis rapidly clears aciclovir).",
+      "Oral Limitation in Life-Threatening Infections: Oral aciclovir has poor, saturable oral bioavailability (only 15% to 30%). In life-threatening herpesvirus infections—specifically HERPES SIMPLEX ENCEPHALITIS, DISSEMINATED ZOSTER IN IMMUNOCOMPROMISED HOSTS, AND NEONATAL HERPES SIMPLEX—ORAL TABLETS ARE STRICTLY INADEQUATE AND CONTRAINDICATED. Immediate high-dose Intravenous Aciclovir Infusion (10 mg/kg to 15 mg/kg IV every 8 hours) is mandatory.",
+      "Early Therapeutic Window in Herpes Zoster (72-Hour Rule): In acute Herpes Zoster (Shingles), aciclovir must be initiated AT THE EARLIEST SIGN OF INFECTION—PREFERABLY WITHIN 72 HOURS OF THE ONSET OF THE ZOSTER CUTANEOUS RASH. Initiating therapy after 72 hours provides minimal benefit in accelerating lesion crusting or preventing Post-Herpetic Neuralgia (PHN), unless new crops of vesicles continue to form or systemic cutaneous dissemination is present.",
+      "Strict Renal Dose Titration Schedule: Aciclovir is eliminated predominantly unchanged (60% to 90%) by the kidneys via glomerular filtration and active tubular secretion: (1) Standard HSV Regimen (400mg every 8 hours): CrCl >= 10 mL/min: Standard dose (400mg every 8 hours); CrCl < 10 mL/min: Reduce to 200mg orally every 12 hours. (2) Herpes Zoster Regimen (800mg 5 times daily): CrCl >= 25 mL/min: Standard dose (800mg 5 times daily); CrCl 10 to 24 mL/min: Reduce to 800mg orally every 8 hours; CrCl < 10 mL/min: Reduce to 800mg orally every 12 hours; Hemodialysis: Administer an 800mg dose immediately following each hemodialysis run (hemodialysis clears ~60% of circulating aciclovir during a 4-hour session).",
+      "Pregnancy Safety Registry Profile: Aciclovir is classified as FDA Pregnancy Category B. The International Aciclovir in Pregnancy Registry tracked over 1,200 pregnant women exposed to systemic aciclovir across all trimesters and documented no increase in birth defects compared to the general population. It is recommended for maternal genital herpes outbreaks and suppressing HSV reactivation in late pregnancy to prevent intrapartum transmission and cesarean delivery."
+    ]
   }
 ]
