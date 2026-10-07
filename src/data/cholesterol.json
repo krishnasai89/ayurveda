@@ -1,0 +1,86 @@
+[
+  {
+    "id": "atorvastatin-tablets-ip-40mg",
+    "name": "Atorvastatin Tablets IP (40mg)",
+    "generic_names": [
+      "Atorvastatin Calcium Tablets IP 40mg",
+      "Lipitor 40mg",
+      "Atorva 40",
+      "Storvas 40",
+      "Atocor 40",
+      "Tonact 40",
+      "Aztor 40"
+    ],
+    "category": [
+      "Statins",
+      "Cardiovascular",
+      "Lipid-Lowering",
+      "Emergency & Critical Care"
+    ],
+    "sub_category": "Synthetic Second-Generation Lipophilic HMG-CoA Reductase Inhibitor & Pleiotropic Plaque Stabilizer",
+    "company_name": "AT1",
+    "amount": "195/- (Strip of 10 Film-Coated Tablets - 40mg)",
+    "routes_of_administration": [
+      "Oral (Per Os - Swallowed Whole with Water Once Daily at Any Time of Day, With or Without Food)"
+    ],
+    "intensity_tier": "High-Intensity (≥50% LDL Drop)",
+    "lipid_profile_impact": {
+      "ldl_reduction": "50% to 55%",
+      "tg_reduction": "20% to 30%",
+      "hdl_elevation": "5% to 9%",
+      "lpa_reduction": "Neutral"
+    },
+    "main_cause": "Primary Prevention of Major Adverse Cardiac Events (MACE) in High-Risk Patients, Secondary Prevention in Established Atherosclerotic Cardiovascular Disease (ASCVD: Acute Coronary Syndrome, Myocardial Infarction, Stable Angina, Stroke, Peripheral Artery Disease), Heterozygous and Homozygous Familial Hypercholesterolemia (HeFH / HoFH), Severe Primary Hypercholesterolemia (Baseline LDL-C ≥ 190 mg/dL)",
+    "why_this_disease_happens": "Atherosclerotic cardiovascular disease (ASCVD) begins when circulating apolipoprotein B-containing lipoproteins—predominantly low-density lipoprotein particles (LDL-P)—cross dysfunctional arterial endothelium and become trapped within the subendothelial space of coronary, cerebral, or peripheral arteries. Trapped LDL particles undergo oxidation, glycation, and enzymatic modification into ox-LDL. Oxidized LDL stimulates overlying endothelial cells to express adhesion molecules (VCAM-1, ICAM-1) and chemokines (MCP-1), recruiting circulating blood monocytes. Transmigrated monocytes differentiate into macrophages that express scavenger receptors (CD36, SRA), engulfing ox-LDL to form lipid-laden foam cells. Progressive foam-cell necrosis drives the formation of a necrotic core covered by a thin fibrous cap. In acute coronary syndrome (ACS), macrophage-derived matrix metalloproteinases (MMPs) degrade the fibrous cap, triggering plaque rupture, acute platelet aggregation, and occlusive coronary thrombosis, precipitating myocardial infarction. Lowering atherogenic lipid burden and stabilizing vulnerable plaque requires potent inhibition of hepatic de novo cholesterol synthesis to upregulate hepatic LDL receptor expression.",
+    "how_this_medicine_fights_it": "Provides high-intensity cardiovascular risk reduction through competitive inhibition of rate-limiting cholesterol biosynthesis, clearing circulating atherogenic lipoproteins while exerting vascular pleiotropic plaque-stabilizing actions: (1) Reversible Competitive Inhibition of HMG-CoA Reductase: Atorvastatin is a synthetic, lipophilic heptanoic acid-substituted pyrrole derivative. It diffuses into hepatocytes and binds with nanomolar affinity to the catalytic domain of 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase, the rate-limiting enzyme in endogenous cholesterol biosynthesis. By sterically preventing HMG-CoA from converting into mevalonate, atorvastatin depletes intracellular hepatic cholesterol pools. (2) SREBP-2 Activation & Hepatic LDL Receptor Upregulation: In response to depleted microsomal cholesterol, the sterol regulatory element-binding protein-2 (SREBP-2) cleavage-activating protein (SCAP) complex translocates from the endoplasmic reticulum to the Golgi apparatus. Site-1 and Site-2 proteases cleave SREBP-2, allowing the active transcription factor to enter the nucleus and bind the Sterol Regulatory Element (SRE-1) in the promoter region of the LDL Receptor gene. This drives hepatic expression and cell-surface recycling of high-affinity LDL receptors, clearing ApoB-100-containing LDL, VLDL, and IDL particles from blood via receptor-mediated endocytosis, lowering serum LDL-C by 50% to 55%. (3) Extended Biological Half-Life & Circadian Independence: Unlike early statins with short elimination half-lives (lovastatin, pravastatin, simvastatin t1/2 ~1-3h) that mandate bedtime dosing, atorvastatin generates active ortho- and para-hydroxylated metabolites (via CYP3A4) that account for ~70% of total circulating HMG-CoA reductase inhibitory activity, providing an effective biological half-life of 20 to 30 hours that allows once-daily dosing at any time of day. (4) Endothelial & Plaque Pleiotropic Effects: By inhibiting mevalonate synthesis, atorvastatin depletes downstream isoprenoid intermediates (geranylgeranyl pyrophosphate, farnesyl pyrophosphate). This uncouples small G-proteins (Rho, Rac), upregulating endothelial nitric oxide synthase (eNOS), improving microvascular endothelial function, dampening pro-inflammatory vascular adhesion molecules (VCAM-1), suppressing macrophage MMP secretion, and thickening coronary fibrous caps to prevent acute plaque rupture.",
+    "drug_class": "Lipophilic HMG-CoA Reductase Inhibitor / High-Intensity Statin",
+    "main_action": "Inhibits hepatic HMG-CoA reductase to deplete intracellular cholesterol, upregulating hepatic LDL receptors to clear circulating LDL-C by ≥50%, while stabilizing vulnerable atherosclerotic plaques via isoprenoid-mediated pleiotropic pathways.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Secondary prevention following Acute Coronary Syndrome (STEMI, NSTEMI, Unstable Angina) initiated within 24 hours of admission (80mg daily, or 40mg daily if frail/elderly)",
+      "Established Atherosclerotic Cardiovascular Disease (ASCVD: prior MI, stable coronary disease, ischemic stroke/TIA, peripheral arterial disease)",
+      "Severe Primary Hypercholesterolemia with baseline LDL-C ≥ 190 mg/dL (40mg to 80mg daily)",
+      "High-risk Primary Prevention in Diabetes Mellitus (type 1 or type 2, age 40 to 75 years) with elevated 10-year ASCVD risk",
+      "Heterozygous Familial Hypercholesterolemia (HeFH) in adult and pediatric patients (≥10 years of age)",
+      "Adjunct to diet in primary hyperlipidemia and mixed dyslipidemia (Fredrickson Types IIa and IIb)"
+    ],
+    "how_patients_describe_symptoms": [
+      "Following my heart stent procedure after a heart attack, the cardiologist prescribed this daily tablet to lower my bad cholesterol and protect my arteries from future blockages.",
+      "My routine blood test revealed a dangerously high LDL level over 200; taking this single daily tablet dropped my bad cholesterol by more than half within six weeks.",
+      "As a long-term diabetic with plaque in my neck carotid arteries, my doctor prescribed this medication once daily to stabilize the arterial walls and prevent a stroke."
+    ],
+    "reconstitution_and_dilution": "Supplied ready-to-administer as white to off-white, oval or round, biconvex film-coated tablets containing Atorvastatin Calcium IP equivalent to 40 mg (also manufactured in 10 mg, 20 mg, and 80 mg strengths) of anhydrous atorvastatin. No liquid reconstitution required. Storage Mandate: Store below 25°C to 30°C in original moisture-barrier blister packs or HDPE containers with desiccant. Protect from excessive moisture, heat, and direct light. Tablets must be swallowed whole with water; do not crush or chew.",
+    "infusion_rate_and_timing": "Oral Administration Only. Administration Timing Rule: Administer 40 mg orally ONCE DAILY (every 24 hours) at any time of day (morning, afternoon, or evening), with or without food. Because atorvastatin and its active metabolites maintain an extended inhibitory half-life of 20 to 30 hours, evening or bedtime administration offers no therapeutic advantage over morning dosing (unlike simvastatin or pravastatin). ACS Loading Protocol: In acute coronary syndrome admissions, initiate high-intensity 40mg or 80mg therapy immediately upon presentation, regardless of baseline lipid values.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adult patients with documented ASCVD requiring high-intensity LDL-C reduction (target LDL-C < 55 mg/dL or ≥50% baseline reduction)",
+        "Diabetic adults aged 40 to 75 years with multiple cardiovascular risk factors",
+        "Patients with baseline LDL-C ≥ 190 mg/dL requiring primary prevention",
+        "Patients with renal impairment (Atorvastatin is cleared predominantly by biliary/fecal non-renal routes; NO DOSE ADJUSTMENT IS REQUIRED IN RENAL DISEASE)"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Absolute Contraindication: Active acute liver disease, acute hepatitis, unexplained persistent elevation of serum transaminases (>3x ULN), or decompensated cirrhosis",
+        "Absolute Contraindication: Pregnancy and breastfeeding mothers (cholesterol and mevalonate derivatives are essential for fetal organogenesis and brain myelination; statins are teratogenic)",
+        "Absolute Contraindication: Known severe hypersensitivity to atorvastatin or formulation excipients",
+        "Co-administration with potent CYP3A4 inhibitors (Ketoconazole, Itraconazole, Clarithromycin, HIV protease inhibitors) without dose reduction to 20mg or temporary statin pause",
+        "Patients with pre-existing unexplained generalized muscle pain, baseline severe CK elevation, or active rhabdomyolysis"
+      ]
+    },
+    "common_side_effects": [
+      "Musculoskeletal: myalgia (muscle soreness, stiffness, or weakness without CK elevation occurring in 5% to 8%), arthralgia, and limb discomfort",
+      "Gastrointestinal: mild dyspepsia, nausea, diarrhea, abdominal discomfort, flatulence, or constipation",
+      "Central nervous system: headache, fatigue, and mild dizziness",
+      "Metabolic: modest dose-dependent rise in HbA1c and fasting blood glucose (small increase in incident type 2 diabetes; cardiovascular benefit far outweighs risk)",
+      "Transient asymptomatic elevations in liver transaminases (ALT, AST occurring in <1% to 2% of patients)",
+      "Nasopharyngitis, epistaxis, or mild pharyngolaryngeal pain"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "Statin-Associated Muscle Symptoms (SAMS) & Rhabdomyolysis Surveillance: Statins carry a dose-dependent risk of muscle toxicity ranging from benign myalgias (5-10%) to severe myositis (CK > 10x ULN) and rare, life-threatening rhabdomyolysis (<1 in 10,000). Rhabdomyolysis is characterized by severe muscle pain, muscle weakness, marked CK elevation (>40x ULN), and myoglobinuria (tea-colored urine) causing acute kidney injury. Instruct patients to report unexplained muscle pain, tenderness, or weakness immediately. If rhabdomyolysis is suspected, DISCONTINUE ATORVASTATIN IMMEDIATELY and check serum CK, creatinine, and urine myoglobin.",
+      "Cytochrome P450 3A4 (CYP3A4) Drug Interactions: Atorvastatin is metabolized predominantly by hepatic CYP3A4. Concomitant administration with potent CYP3A4 inhibitors sharply decreases atorvastatin clearance, spiking plasma drug levels and multiplying myopathy/rhabdomyolysis risk: (1) Azole Antifungals: Itraconazole, Ketoconazole, Voriconazole (Avoid or limit atorvastatin to 20mg); (2) Macrolides: Clarithromycin (limit atorvastatin to 20mg daily); (3) Calcium Channel Blockers: Diltiazem and Verapamil (use caution); (4) Grapefruit Juice: Ingesting large quantities (>1 liter daily) inhibits intestinal CYP3A4 and increases atorvastatin AUC by up to 2.5-fold (advise moderate or no consumption).",
+      "Liver Transaminase Surveillance Protocol: Serum transaminases (ALT, AST) should be evaluated prior to initiating therapy and clinically thereafter if symptoms of hepatic injury arise (fatigue, anorexia, jaundice, right upper quadrant pain). Persistent elevations in ALT or AST > 3x the upper limit of normal warrant dose reduction or discontinuation.",
+      "Zero Renal Dose Adjustment Advantage: Unlike hydrophilic statins (pravastatin, rosuvastatin) that rely partially on renal elimination, atorvastatin undergoes extensive hepatic metabolism and is cleared predominantly (>98%) through biliary and fecal excretion, with less than 2% recovered in urine. NO DOSE ADJUSTMENT IS REQUIRED IN PATIENTS WITH MILD, MODERATE, OR SEVERE RENAL DYSFUNCTION, NOR IN PATIENTS UNDERGOING HEMODIALYSIS.",
+      "Glycemic Control & New-Onset Diabetes vs. ASCVD Benefit: High-intensity statin therapy is associated with a slight, statistically significant dose-dependent increase in HbA1c (0.1% to 0.3%) and risk of incident type 2 diabetes, predominantly in individuals with pre-existing metabolic syndrome or prediabetes. Clinical trials confirm that THE CARDIOVASCULAR MORTALITY AND STROKE REDUCTION BENEFITS OF STATIN THERAPY FAR OUTWEIGH THE MINIMAL RISK OF ELEVATED GLYCEMIA.",
+      "Rule of 6% (Statin Dose-Response Curve): In lipidology, doubling the statin dose (e.g., titrating from 20mg to 40mg, or 40mg to 80mg) produces an average incremental LDL-C reduction of only ~6% (the 'Rule of 6%'), while incrementally increasing myopathy risk. If LDL-C targets (<55 mg/dL) are not met on high-intensity monotherapy, contemporary guidelines recommend adding Ezetimibe 10mg rather than relying solely on statin escalation."
+    ]
+  }
+]
