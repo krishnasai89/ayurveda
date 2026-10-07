@@ -1,77 +1,1067 @@
 [
   {
-    "id": "ceftriaxone-for-injection-ip-1g",
-    "name": "Ceftriaxone for Injection IP (1g)",
-    "generic_names": ["Monocef 1g", "Rocephin 1g", "Oframax 1g"],
-    "sub_category": "Third-Generation Cephalosporin",
-    "amount": "65/-",
-    "who_aware_classification": "Watch",
-    "pk_pd_index": "T > MIC (Time-dependent)",
+    "id": "cinnarizine-dimenhydrinate-tablets-20mg-40mg",
+    "name": "Cinnarizine & Dimenhydrinate Tablets (20mg / 40mg)",
+    "generic_names": [
+      "Cinnarizine 20mg and Dimenhydrinate 40mg Fixed-Dose Combination",
+      "Arlevert 20mg/40mg",
+      "Vertigon D",
+      "Dizitac Tablets",
+      "Cinmove-D",
+      "Stugeron Plus",
+      "Vovert-D"
+    ],
+    "category": [
+      "Central Nervous System",
+      "Gastrointestinal",
+      "Emergency & Critical Care"
+    ],
+    "sub_category": "Dual-Action Peripheral Labyrinthine Calcium Channel Blocker & Central Medullary Vestibular H1/M1 Antagonist",
+    "company_name": "CD1",
+    "amount": "145/- (Strip of 10 Tablets)",
+    "routes_of_administration": [
+      "Oral (Per Os - Swallowed Whole with Water After Meals)"
+    ],
+    "main_cause": "Acute and Chronic Vertigo of Diverse Etiologies (Peripheral, Central, or Combined), Vestibular Neuronitis, Acute Labyrinthitis, Meniere's Disease (Symptomatic Vertigo Relief), Benign Paroxysmal Positional Vertigo (BPPV Adjunct / Residual Dizziness), Motion Sickness (Kinetosis Prophylaxis)",
+    "why_this_disease_happens": "Vertigo is an illusion of motion or rotational spinning resulting from an imbalance in neuronal firing between the bilateral peripheral vestibular systems (semicircular canals, otolith organs) or within the central vestibular processing pathways (vestibular nuclei in the brainstem, vestibulocerebellum, and thalamocortical tracts). In peripheral vestibular disorders like acute labyrinthitis or Meniere's disease, inflammatory swelling or endolymphatic hydrops causes pathological depolarization of vestibular hair cells. Voltage-gated L-type and T-type calcium channels open, allowing massive calcium influx into hair cells, triggering uncontrolled glutamate exocytosis onto primary vestibular nerve afferents. This flood of asymmetric impulses reaches the medial, lateral, and superior vestibular nuclei in the pontomedullary junction. The vestibular nuclei project directly to the vegetative solitary tract nucleus (NTS), the chemoreceptor trigger zone (CTZ), and the autonomic vomiting center via histaminergic (H1) and muscarinic acetylcholine (M1) pathways. This mismatched signaling produces acute rotational vertigo, horizontal-torsional nystagmus, diaphoresis, pallor, severe nausea, and retching. Most single-agent vestibular suppressants target either only the peripheral labyrinth or only the central nuclei, leaving residual unsteadiness; dual suppression across both peripheral end-organs and central brainstem nuclei is necessary for rapid symptomatic resolution.",
+    "how_this_medicine_fights_it": "Provides dual-site suppression of both peripheral labyrinthine mechanoreceptors and central vestibular nuclei: Formulated as a synergistic fixed-dose combination of Cinnarizine (20 mg) and Dimenhydrinate (40 mg): (1) Peripheral Labyrinthine Suppression (Cinnarizine - Calcium Channel Blockade): Cinnarizine is a diphenylpiperazine derivative that acts predominantly on the peripheral vestibular apparatus. It selectively blocks voltage-dependent T-type and L-type calcium channels in the sensory hair cells of the semicircular canals and maculae. By preventing excessive intracellular calcium influx during mechanical stimulation, cinnarizine dampens sensory hair cell depolarization and decreases afferent vestibular nerve firing. Additionally, it exerts mild antihistaminergic activity and reduces blood viscosity by enhancing erythrocyte deformability, improving microcirculatory perfusion within the stria vascularis of the inner ear. (2) Central Medullary Vestibular & CTZ Suppression (Dimenhydrinate - H1 & M1 Antagonism): Dimenhydrinate is the diphenhydramine salt of 8-chlorotheophylline (the 8-chlorotheophylline moiety serves as a mild xanthine-like stimulant to counteract excessive sedation). Diphenhydramine crosses the blood-brain barrier and acts as an inverse agonist/antagonist at central Histamine H1 receptors and Muscarinic M1 receptors in the medial and lateral vestibular nuclei, the solitary tract nucleus (NTS), and the chemoreceptor trigger zone (CTZ). It suppresses hyperactive cholinergic and histaminergic interneuronal firing within the vestibular reflex arc, blunting transmission to the medullary vomiting center. (3) Synergistic Clinical Efficacy at Lower Doses: Because cinnarizine acts peripherally on sensory hair cells while dimenhydrinate acts centrally on the vestibular nuclei, the combination produces a greater reduction in vertigo and associated autonomic vegetative symptoms (nausea, vomiting) than higher individual doses of either drug alone, while minimizing adverse extrapyramidal and sedative burdens.",
+    "drug_class": "Piperazine Calcium Channel Blocker + Ethanolamine Antihistamine/Anticholinergic Combination",
+    "main_action": "Blocks peripheral labyrinthine calcium influx via cinnarizine to quiet sensory hair cell firing, while simultaneously antagonizing central vestibular H1 and M1 receptors via dimenhydrinate to suppress autonomic nausea and rotational vertigo.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Symptomatic management of acute and chronic vertigo of peripheral or central origin in adults (1 tablet three times daily)",
+      "Acute vestibular crises: acute vestibular neuronitis, viral labyrinthitis, and Meniere's disease flare-ups",
+      "Residual dizziness, unsteadiness, and vegetative autonomic symptoms following Epley repositioning maneuvers in BPPV",
+      "Cervical vertigo and vertebrobasilar insufficiency-associated vestibular unsteadiness",
+      "Prophylaxis and symptomatic treatment of motion sickness (kinetosis) and travel-induced nausea"
+    ],
+    "how_patients_describe_symptoms": [
+      "The entire room was violently spinning every time I turned my head, accompanied by cold sweats and continuous retching; this tablet settled the dizziness within an hour.",
+      "Following an inner ear viral infection, I had constant unsteadiness and nausea; taking this three times a day after meals stabilized my balance.",
+      "During long boat and car rides, I get severe motion sickness and dizziness; this combination tablet prevented my travel nausea without knocking me completely unconscious."
+    ],
+    "reconstitution_and_dilution": "Supplied ready-to-use as white, round, biconvex uncoated tablets containing 20 mg Cinnarizine and 40 mg Dimenhydrinate. No reconstitution or dilution required. Storage Mandate: Store below 25°C to 30°C in the original blister packaging protected from moisture and direct sunlight. Swallow whole with a full glass of water; do not crush, chew, or split to prevent mucosal irritation from local antihistaminic numbness.",
+    "infusion_rate_and_timing": "Oral Administration Only. Standard Adult Dosing (>= 18 years): 1 tablet orally THREE TIMES DAILY (every 8 hours), taken strictly AFTER MEALS. Post-prandial administration reduces potential gastric mucosal irritation. Treatment Duration: In acute vestibular neuritis or vertigo attacks, therapy is typically prescribed for 3 to 5 days, up to a maximum of 4 weeks. Chronic continuous use beyond 4 weeks is NOT recommended because persistent vestibular suppression impairs natural central vestibular compensation and increases the risk of drug-induced parkinsonism.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults aged 18 years and older presenting with acute disabling vertigo of either peripheral or central origin",
+        "Patients with acute labyrinthitis or vestibular neuronitis with severe vegetative symptoms (nausea, retching, pallor)",
+        "Patients with Meniere's disease requiring acute vestibular symptom suppression alongside lifestyle salt restriction"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Absolute Contraindication: Known hypersensitivity to cinnarizine, dimenhydrinate, diphenhydramine, or other piperazine derivatives",
+        "Absolute Contraindication: Closed-angle (narrow-angle) glaucoma (anticholinergic action causes pupillary dilation, raising intraocular pressure and triggering acute glaucoma attacks)",
+        "Absolute Contraindication: Severe urinary retention or benign prostatic hyperplasia (BPH) with bladder outlet obstruction (anticholinergic effect precipitates acute urinary retention)",
+        "Absolute Contraindication: Severe, uncontrolled epilepsy or seizure disorders (dimenhydrinate can lower the convulsive seizure threshold)",
+        "Absolute Contraindication: Parkinson's Disease or history of extrapyramidal motor disorders (cinnarizine blocks central dopamine D2 receptors, precipitating severe parkinsonism)",
+        "Absolute Contraindication: Severe hepatic failure or end-stage renal impairment (CrCl < 10 mL/min; delayed clearance of both active moieties leads to toxic accumulation)",
+        "Children and adolescents under 18 years of age (safety, efficacy, and neuro-developmental profiles are not established)",
+        "Pregnancy and lactation (lack of robust safety data; avoid unless potential maternal benefit strictly outweighs fetal risk)"
+      ]
+    },
+    "common_side_effects": [
+      "Somnolence, drowsiness, and fatigue (very common, up to 10% to 15%, especially during the first few days of therapy)",
+      "Anticholinergic symptoms: dry mouth (xerostomia), blurred vision, nasal congestion, and mild constipation",
+      "Gastrointestinal: dyspepsia, epigastric discomfort, nausea, or mild abdominal fullness (minimized by taking after food)",
+      "Headache, mild dizziness, or sensation of lightheadedness",
+      "Weight gain with prolonged multi-week therapy (secondary to cinnarizine-induced appetite stimulation)",
+      "Extrapyramidal signs (rare with short-term courses): tremor, muscle stiffness, or akathisia, predominantly in elderly patients on extended therapy"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "Drug-Induced Parkinsonism & Tardive Dyskinesia Black Box Alert: Cinnarizine possesses intrinsic dopamine D2-receptor blocking activity in the basal ganglia. Prolonged administration (particularly in elderly patients receiving therapy for months) can induce DRUG-INDUCED PARKINSONISM (characterized by pill-rolling resting tremor, cogwheel rigidity, bradykinesia, and masked facies) as well as irreversible tardive dyskinesias. The drug MUST BE AVOIDED in patients with Parkinson's disease and discontinued immediately at the earliest sign of involuntary muscle movements or resting tremor. Limit therapy to short courses (<4 weeks).",
+      "Impairment of Central Vestibular Compensation: In acute vestibular lesions, the central nervous system naturally adapts and recalibrates balance through neuroplastic 'vestibular compensation'. Continuous, long-term pharmacological suppression with cinnarizine and dimenhydrinate BLOCKS AND RETARDS THIS PHYSIOLOGICAL RECOVERY PROCESS, prolonging chronic unsteadiness. Once the acute rotational spinning and vomiting subside (typically within 3 to 5 days), the medication should be tapered and replaced with active Vestibular Rehabilitation Therapy (VRT).",
+      "Anticholinergic Toxidrome & Closed-Angle Glaucoma Hazard: Due to the dimenhydrinate (diphenhydramine) component, the combination exerts potent muscarinic receptor antagonism. It can precipitate ACUTE CLOSED-ANGLE GLAUCOMA in susceptible patients with shallow anterior chambers, and cause ACUTE URINARY RETENTION in elderly men with benign prostatic hyperplasia. Screen for ocular and urological history prior to prescribing.",
+      "Additive Central Nervous System Depression: Co-administration with central nervous system depressants—including alcohol, benzodiazepines, barbiturates, opioid analgesics, and tricyclic antidepressants—significantly magnifies sedative and hypnotic effects, inducing severe psychomotor impairment. Warn ambulatory patients against driving vehicles, operating hazardous machinery, or consuming alcohol while taking this medication.",
+      "Post-Prandial Administration Rule: To prevent gastrointestinal irritation and dyspepsia, tablets must always be swallowed whole with water immediately after a meal.",
+      "Diagnostic Skin Prick Test Interference: Dimenhydrinate is an H1 antihistamine. The medication MUST BE WITHHELD FOR AT LEAST 4 TO 7 DAYS before scheduled allergy skin prick tests; failure to discontinue will suppress cutaneous histamine-induced wheal-and-flare responses, resulting in false-negative diagnostic readings."
+    ]
+  },
+  {
+    "id": "doxycycline-lactic-acid-bacillus-capsules-100mg-5billion",
+    "name": "Doxycycline & Lactic Acid Bacillus Capsules (100mg / 5 Billion Spores)",
+    "generic_names": [
+      "Doxycycline Hyclate / Monohydrate with Lactobacillus Sporogenes",
+      "Doxycycline and Lactic Acid Bacillus Capsules IP",
+      "Doxy-1 L-DR Forte",
+      "Microdox-LBX",
+      "Doxt-SL",
+      "Doxylab-LB",
+      "Biodoxi-L"
+    ],
+    "category": [
+      "Antibiotics",
+      "Infections & Parasites",
+      "Dermatology",
+      "Respiratory"
+    ],
+    "sub_category": "Second-Generation Semisynthetic Tetracycline Derivative (30S Ribosomal Inhibitor) & Probiotic Flora Preserver",
+    "company_name": "DX1",
+    "amount": "115/- (Strip of 10 Capsules)",
+    "routes_of_administration": [
+      "Oral (Per Os - Swallowed Whole with a Full Glass of Water in an Upright Posture)"
+    ],
     "antimicrobial_spectrum": {
-      "gram_positive": ["Strep. pneumoniae", "Strep. pyogenes"],
+      "gram_positive": [
+        "Staphylococcus aureus (including Community-Acquired MRSA)",
+        "Streptococcus pneumoniae (penicillin-susceptible strains)",
+        "Bacillus anthracis",
+        "Cutibacterium acnes (formerly Propionibacterium acnes)"
+      ],
       "gram_negative": [
-        "N. meningitidis",
-        "E. coli",
-        "K. pneumoniae",
-        "S. typhi"
+        "Vibrio cholerae",
+        "Brucella species",
+        "Yersinia pestis",
+        "Helicobacter pylori (second-line regimens)"
+      ],
+      "anaerobic": false,
+      "atypical": true,
+      "pseudomonal": false,
+      "mrsa_active": true
+    },
+    "who_aware_classification": "Access",
+    "pk_pd_index": "AUC24 / MIC",
+    "main_cause": "Atypical Community-Acquired Pneumonia (Mycoplasma pneumoniae, Chlamydia pneumoniae, Legionella), Moderate to Severe Inflammatory Acne Vulgaris, Urogenital Chlamydia trachomatis & Non-Gonococcal Urethritis, Vector-Borne Rickettsial Diseases (Scrub Typhus, Rocky Mountain Spotted Fever, Epidemic Typhus), Early Lyme Disease (Borrelia burgdorferi Erythema Migrans), Community-Acquired Methicillin-Resistant Staphylococcus aureus (CA-MRSA) Skin & Soft Tissue Infections, Cholera (Vibrio cholerae), Periodontitis",
+    "why_this_disease_happens": "Infections caused by atypical intracellular bacteria (Mycoplasma, Chlamydia, Rickettsia), spirochetes (Borrelia), and resistant Gram-positive pathogens (CA-MRSA, Cutibacterium acnes) present unique therapeutic challenges. Atypical bacteria lack a rigid peptidoglycan cell wall (e.g., Mycoplasma pneumoniae) or replicate obligately within host eukaryotic cytoplasmic vacuoles (e.g., Chlamydia trachomatis, Orientia tsutsugamushi). Consequently, traditional cell-wall active beta-lactam antibiotics (penicillins, cephalosporins, carbapenems) are entirely ineffective. In inflammatory acne vulgaris, Cutibacterium acnes proliferates within anaerobic sebaceous follicles, secreting lipases and chemotactic factors that drive follicular rupture, microcomedone formation, and painful inflammatory papulopustules. In vector-borne rickettsial diseases (scrub typhus), the pathogen selectively infects vascular endothelial cells, triggering generalized vasculitis, endothelial microvascular leakage, non-cardiogenic pulmonary edema, and acute multi-organ dysfunction. Eradicating these pathogens requires a lipophilic, orally bioavailable antimicrobial capable of penetrating mammalian cell membranes and accumulating within sebaceous units and alveolar macrophages. However, broad-spectrum oral tetracyclines indiscriminately decimate the indigenous colonic microflora (Bacteroides, Bifidobacteria, Lactobacilli), precipitating antibiotic-associated diarrhea, dysbiosis, and secondary overgrowth of Clostridioides difficile or Candida albicans.",
+    "how_this_medicine_fights_it": "Provides dual-action antimicrobial translation arrest and gut microbiome restitution: Formulated as a synergistic oral fixed-dose combination of Doxycycline (100 mg) and Lactic Acid Bacillus (typically 5 billion spores / 60 to 100 million viable spores of Bacillus coagulans / Lactobacillus sporogenes): (1) 30S Ribosomal Subunit Reversible Binding: Doxycycline is a lipophilic second-generation tetracycline derivative that diffuses through outer-membrane porin channels in Gram-negative bacteria and undergoes active transport across cytoplasmic membranes into bacterial and intracellular pathogen compartments. It binds reversibly with high stereospecific affinity to the decoding region of the 16S rRNA within the small 30S bacterial ribosomal subunit. (2) Aminoacyl-tRNA Steric Blockade: Binding sterically blocks incoming aminoacyl-tRNA molecules from docking at the ribosomal acceptor (A) site. Because the anticodon of the tRNA cannot pair with the codon on the messenger RNA template, peptide chain elongation is halted, terminating bacterial protein synthesis and producing bacteriostatic clearance. (3) Intrinsic Anti-Inflammatory & Matrix Metalloproteinase (MMP) Inhibition: Beyond its antibacterial action, doxycycline exerts potent non-antimicrobial anti-inflammatory effects. It directly chelates catalytic zinc and calcium ions required for the activation of mammalian collagenases and Matrix Metalloproteinases (specifically MMP-8 and MMP-9 secreted by infiltrating neutrophils). In acne vulgaris, rosacea, and periodontitis, this suppresses follicular enzymatic breakdown, reduces neutrophil chemotaxis, and prevents dermal scarring. (4) Probiotic Barrier Restitution (Lactic Acid Bacillus): The co-formulated Lactic Acid Bacillus (Bacillus coagulans spores) survives gastric acidity and bile salts to germinate in the duodenum and ileum. It metabolizes fermentable carbohydrates into L-(+) lactic acid, lowering intraluminal colonic pH. This acidic microenvironment suppresses opportunistic enteric pathogens (enterotoxigenic E. coli, Clostridioides difficile, Candida albicans) and re-seeds normal intestinal flora, preventing antibiotic-associated diarrhea (AAD) and post-antibiotic dysbiosis.",
+    "drug_class": "Semisynthetic Tetracycline Derivative (Protein Synthesis Inhibitor) + Microbial Probiotic Combination",
+    "main_action": "Binds reversibly to the bacterial 30S ribosomal subunit to arrest aminoacyl-tRNA docking and halt protein synthesis, while co-formulated Lactic Acid Bacillus spores germinate in the intestinal lumen to lower pH and prevent antibiotic-associated colonic dysbiosis.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Atypical Community-Acquired Pneumonia (Mycoplasma pneumoniae, Chlamydia pneumoniae, and Legionella pneumophila; 100mg twice daily)",
+      "Moderate to severe inflammatory Acne Vulgaris and papulopustular Rosacea (100mg daily or twice daily for 6 to 12 weeks)",
+      "Uncomplicated urogenital Chlamydia trachomatis cervicitis and non-gonococcal urethritis (100mg twice daily for 7 days)",
+      "Rickettsial infections: Scrub Typhus (Orientia tsutsugamushi), Rocky Mountain Spotted Fever, and murine typhus (empiric first-line drug of choice)",
+      "Early stage Lyme Disease / Erythema Migrans (Borrelia burgdorferi; 100mg twice daily for 10 to 14 days)",
+      "Outpatient oral treatment of Community-Acquired MRSA skin and soft-tissue infections (cellulitis, folliculitis, cutaneous abscesses)",
+      "Prophylaxis and clinical management of Cholera (Vibrio cholerae) to reduce stool volume and fluid loss"
+    ],
+    "how_patients_describe_symptoms": [
+      "I was prescribed this yellow-and-white capsule for my painful, deep cystic acne; taking it once a day cleared the red breakouts without giving me the usual stomach cramps and diarrhea.",
+      "Following a tick bite in the woods, I developed a high fever, headache, and a bullseye rash; this antibiotic cleared the fever and joint pain within three days.",
+      "During my severe chest infection from atypical pneumonia, the clinic gave me this twice-daily capsule with a large glass of water, which cleared my dry cough."
+    ],
+    "reconstitution_and_dilution": "Supplied ready-to-administer as hard gelatin or enteric-coated capsules containing Doxycycline Hyclate or Doxycycline Monohydrate equivalent to 100 mg of anhydrous doxycycline, along with 5 billion viable spores (or 60 million to 100 million spores depending on manufacturer specification) of Lactic Acid Bacillus (Bacillus coagulans). No reconstitution or liquid dilution required. Storage Mandate: Store below 25°C in original moisture-proof aluminum blister or strip packaging. Protect from excessive heat and direct sunlight; degraded, expired tetracyclines form epianhydrotetracycline, which causes toxic renal Fanconi-like syndrome.",
+    "infusion_rate_and_timing": "Oral Administration Only. Administration Posture & Fluid Rule: MUST BE SWALLOWED WHOLE WITH A FULL GLASS OF WATER (AT LEAST 200 TO 250 ML) WHILE IN A STRICTLY UPRIGHT POSTURE (SITTING UPRIGHT OR STANDING). DO NOT LIE DOWN FOR AT LEAST 30 TO 60 MINUTES FOLLOWING INGESTION. Standard Adult Dosing: Initial day: 100 mg orally every 12 hours (200 mg/day loading), followed by a maintenance dose of 100 mg once daily or 100 mg twice daily depending on severity. Pediatric Dosing (>= 8 years or severe rickettsial disease): 2.2 to 4.4 mg/kg/day divided into two doses. Take with a light non-dairy meal if severe nausea occurs.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adult and adolescent patients presenting with atypical respiratory tract infections, moderate-to-severe acne, or genital chlamydia",
+        "Patients of any age (including children <8 years) presenting with confirmed or suspected life-threatening Rickettsial diseases (Scrub Typhus, Rocky Mountain Spotted Fever; benefit unequivocally outweighs dental staining risk)",
+        "Patients with renal impairment or chronic kidney disease (one of the very few tetracyclines eliminated primarily via biliary/fecal non-renal pathways; NO DOSE ADJUSTMENT IS REQUIRED IN RENAL FAILURE)",
+        "Patients prone to antibiotic-associated diarrhea who require concurrent probiotic protection"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Absolute Contraindication: Pregnant women (FDA Pregnancy Category D; crosses placenta, deposits in fetal calcifying teeth and skeletal growth plates, causing permanent enamel hypoplasia, yellow-brown discoloration, and reversible bone growth retardation)",
+        "Absolute Contraindication: Breastfeeding mothers (excreted in breast milk, potential for dental staining and infant candidiasis)",
+        "Contraindication (General): Children under 8 years of age for elective/mild indications (causes permanent dental staining and enamel defects; EXCEPT in life-threatening rickettsial infections)",
+        "Absolute Contraindication: Known hypersensitivity to doxycycline or any tetracycline class antibiotic",
+        "Absolute Postural Contraindication: Ingesting capsules immediately before retiring to bed or in a supine position (high risk of pill-induced corrosive esophageal ulceration)",
+        "Concomitant oral administration with polyvalent metal cations (Iron, Calcium, Magnesium, Aluminum antacids) without strict 2-to-3 hour separation"
+      ]
+    },
+    "common_side_effects": [
+      "Gastrointestinal: epigastric discomfort, nausea, anorexia, and abdominal bloating (minimized by co-administered probiotics and taking with light meals)",
+      "Cutaneous phototoxicity: exaggerated sunburn, erythema, and blister formation following minimal sunlight or UV lamp exposure",
+      "Pill-induced esophageal irritation: retrosternal burning, odynophagia, or localized esophageal erosion if swallowed without adequate water",
+      "Dermatologic: maculopapular rash, urticaria, or drug-induced hyperpigmentation with prolonged use",
+      "Oral or vaginal candidiasis (moniliasis) due to suppression of mucosal microbial competitors",
+      "Mild transient dizziness, lightheadedness, or headache"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "Corrosive Pill-Induced Esophagitis & Strict Upright Posture Rule: Doxycycline hyclate is highly acidic in aqueous solution (pH ~2.0 to 3.0). If a capsule lodges against the esophageal mucosa, it dissolves locally and produces chemical burn necrosis, deep circumferential ulceration, and esophageal strictures. PATIENTS MUST SWALLOW THE CAPSULE WITH A FULL GLASS OF WATER (200-250 ML) WHILE REMAINING STANDING OR SITTING ERECT. PATIENTS MUST NEVER TAKE THIS MEDICATION IMMEDIATELY BEFORE LYING DOWN OR AT BEDTIME; REMAIN UPRIGHT FOR AT LEAST 30 TO 60 MINUTES POST-INGESTION.",
+      "Polyvalent Cation Chelation (The Dairy, Iron & Antacid Prohibition): The tetracycline four-ring naphthacene carboxamide core chelates polyvalent metal cations (Ca2+, Mg2+, Fe2+, Al3+, Zn2+). Co-ingestion with dairy milk, cheese, yogurt, calcium-fortified juices, oral iron supplements, multivitamin-mineral tablets, or aluminum/magnesium hydroxide antacids forms insoluble, non-absorbable chelate complexes in the gut lumen. This plunges oral doxycycline bioavailability by 50% to 85%, precipitating treatment failure. INGESTION OF DAIRY PRODUCTS, IRON, OR ANTACIDS MUST BE SEPARATED BY AT LEAST 2 TO 3 HOURS BEFORE OR AFTER DOXYCYCLINE.",
+      "Severe Exaggerated Phototoxicity Hazard: Doxycycline accumulates in cutaneous epithelial cells where it absorbs UVA radiation (320-400 nm), generating reactive singlet oxygen species that cause cell membrane peroxidation and acute photodermatitis. Patients can develop second-degree sunburns, erythema, and cutaneous blisters after even 15 to 20 minutes of mild sun exposure. Advise patients to apply broad-spectrum SPF 50+ sunscreen, wear protective clothing, and avoid tanning beds and direct midday sun during therapy.",
+      "Tooth Discoloration & Bone Deposition Restrictions: Doxycycline binds orthophosphate complexes to form an insoluble calcium-doxycycline-orthophosphate complex in actively calcifying teeth and bones. Administered during odontogenesis (second and third trimesters of pregnancy, infancy, and childhood under 8 years), it produces permanent intrinsic yellow-gray-brown tooth discoloration and enamel hypoplasia. Elective use is contraindicated in children <8 years and pregnancy. However, the CDC and AAP confirm that short courses (<=14 days) of doxycycline ARE SAFE AND THE PRIMARY TREATMENT OF CHOICE FOR RICKETTSIAL DISEASES (Scrub Typhus, Rocky Mountain Spotted Fever) IN PEDIATRIC PATIENTS OF ANY AGE.",
+      "Zero Renal Dose Adjustment Advantage: Unlike older tetracyclines (tetracycline HCl, oxytetracycline) which depend heavily on glomerular filtration and accumulate nephrotoxically in renal failure, doxycycline is cleared predominantly through non-renal mechanisms (inactivated in the intestinal tract via chelation and excreted in feces, with secondary hepatic biliary clearance; only ~20% excreted in urine). CONSEQUENTLY, NO DOSE REDUCTION IS NECESSARY IN PATIENTS WITH CHRONIC KIDNEY DISEASE, UREMIA, OR THOSE ON HEMODIALYSIS.",
+      "Pseudotumor Cerebri (Benign Intracranial Hypertension): Tetracyclines, including doxycycline, are associated with drug-induced benign intracranial hypertension. Symptoms include persistent throbbing headache, blurred vision, diplopia, and bilateral papilledema on fundoscopy. Concomitant administration with oral retinoids (Isotretinoin, Acitretin) significantly increases this risk; CO-ADMINISTRATION OF DOXYCYCLINE AND ISOTRETINOIN IS ABSOLUTELY CONTRAINDICATED."
+    ]
+  },
+  {
+    "id": "cefixime-and-ofloxacin-tablets-ip-200mg-200mg",
+    "name": "Cefixime & Ofloxacin Tablets IP (200mg / 200mg)",
+    "generic_names": [
+      "Cefixime and Ofloxacin Tablets IP 200mg/200mg",
+      "Cefix-O 200/200",
+      "Mahacef-Plus",
+      "Taxim-OF",
+      "Zifi-O 200",
+      "Omnix-O",
+      "Cefolac-O"
+    ],
+    "category": [
+      "Antibiotics",
+      "Infections & Parasites",
+      "Gastrointestinal",
+      "Respiratory"
+    ],
+    "sub_category": "Dual-Mechanism Oral Third-Generation Cephalosporin (Cell Wall Synthesis Inhibitor) & Fluoroquinolone (Bacterial Topoisomerase / DNA Gyrase Inhibitor)",
+    "company_name": "CO1",
+    "amount": "175/- (Strip of 10 Film-Coated Tablets)",
+    "routes_of_administration": [
+      "Oral (Per Os - Swallowed Whole with Water, With or Without Food)"
+    ],
+    "antimicrobial_spectrum": {
+      "gram_positive": [
+        "Streptococcus pneumoniae (penicillin-susceptible strains)",
+        "Streptococcus pyogenes",
+        "Staphylococcus aureus (methicillin-susceptible MSSA only)"
+      ],
+      "gram_negative": [
+        "Salmonella enterica serovar Typhi (Enteric / Typhoid Fever)",
+        "Salmonella paratyphi",
+        "Escherichia coli (uropathogenic strains)",
+        "Klebsiella pneumoniae",
+        "Proteus mirabilis",
+        "Haemophilus influenzae",
+        "Moraxella catarrhalis",
+        "Neisseria gonorrhoeae"
+      ],
+      "anaerobic": false,
+      "atypical": true,
+      "pseudomonal": false,
+      "mrsa_active": false
+    },
+    "who_aware_classification": "Watch",
+    "pk_pd_index": "Time-dependent (T > MIC for Cefixime) & Concentration-dependent (AUC24 / MIC for Ofloxacin)",
+    "main_cause": "Complicated Typhoid (Enteric) Fever with Suspected Multi-Drug Resistance, Acute Pyelonephritis & Complicated Urinary Tract Infections (cUTIs), Acute Exacerbations of Chronic Bronchitis (AECB), Moderate-to-Severe Community-Acquired Lower Respiratory Tract Infections, Mixed Urogenital Infections (Gonococcal and Non-Gonococcal Urethritis / Cervicitis)",
+    "why_this_disease_happens": "In acute bacterial gastroenteritis, invasive enteric fever (Salmonella enterica serovar Typhi), and complicated urosepsis, bacterial pathogens demonstrate complex adaptive resistance mechanisms. Salmonella typhi invades ileal Peyer's patches and disseminates through mesenteric lymph nodes into the reticuloendothelial system. Strains frequently carry multi-drug resistance (MDR) against conventional first-line agents (chloramphenicol, ampicillin, trimethoprim-sulfamethoxazole) and fluoroquinolone point mutations (such as single-step gyrA mutations causing Nalidixic Acid Resistance, or NARST), leading to delayed clinical response or therapeutic failure on fluoroquinolone monotherapy. In complicated urinary tract infections, uropathogenic Escherichia coli and Klebsiella pneumoniae adhere to uroepithelial transitional cells, internalizing into intracellular bacterial reservoirs that resist bladder wash-out. Unopposed proliferation produces high intraluminal endotoxin levels, triggering intense mucosal inflammation, dysuria, hematuria, and ascending pyelonephritis. Eradicating these resilient Gram-negative organisms requires a synergistic, dual-target approach: combining a beta-lactam that lyses the bacterial peptidoglycan envelope with a lipophilic fluoroquinolone that penetrates eukaryotic cells and arrests intracellular bacterial chromosomal replication.",
+    "how_this_medicine_fights_it": "Provides simultaneous dual-target bacterial destruction through cell wall peptidoglycan cross-linking inhibition and bacterial topoisomerase-mediated DNA supercoiling arrest: Formulated as a synergistic fixed-dose oral combination of Cefixime (200 mg) and Ofloxacin (200 mg): (1) Peptidoglycan Cell Wall Synthesis Inhibition (Cefixime): Cefixime is an orally active third-generation cephalosporin. It diffuses through outer-membrane porins of Gram-negative pathogens and binds covalently with high affinity to essential Penicillin-Binding Proteins (primarily PBP-3, PBP-1a, and PBP-1b). Acylation of active-site transpeptidases blocks cross-linking of linear peptidoglycan strands. This structurally destabilizes the bacterial cell wall against intracellular turgor pressure, activating endogenous murein autolysins and triggering rapid osmotic lysis. Cefixime exhibits stability against hydrolysis by broad-spectrum plasmid-mediated TEM-1, TEM-2, and SHV-1 beta-lactamases. (2) DNA Gyrase & Topoisomerase IV Cleavage Arrest (Ofloxacin): Ofloxacin is a broad-spectrum fluorinated carboxyquinolone. It diffuses through bacterial membranes and selectively inhibits two essential type II topoisomerase enzymes: DNA Gyrase (topoisomerase II, specifically GyrA and GyrB subunits responsible for introducing negative supercoils into bacterial DNA during transcription) and Topoisomerase IV (ParC and ParE subunits responsible for decatenating daughter DNA chromosomes during cell division). Binding of ofloxacin traps the cleaved DNA-enzyme ternary intermediate, creating double-stranded chromosomal DNA breaks that halt DNA replication and trigger programmed bacterial cell death. (3) Intracellular Penetration & Synergistic Synergy: By compromising the outer cell wall permeability via cefixime, intracellular access of ofloxacin into mammalian tissue compartments and intracellular bacterial sanctuaries (such as macrophages harboring Salmonella typhi) is enhanced, accelerating defervescence and reducing convalescent enteric carrier states.",
+    "drug_class": "Third-Generation Oral Cephalosporin + Fluoroquinolone / Dual Bactericidal Antimicrobial Fixed-Dose Combination",
+    "main_action": "Inhibits bacterial cell wall synthesis via cefixime while simultaneously blocking bacterial DNA gyrase and topoisomerase IV via ofloxacin, arresting both peptidoglycan integrity and chromosomal replication.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Acute complicated Enteric (Typhoid / Paratyphoid) Fever resistant to traditional monotherapies (200mg/200mg orally twice daily for 7 to 14 days)",
+      "Complicated urinary tract infections (cUTI), acute pyelonephritis, and recurrent cystitis caused by multidrug-resistant Enterobacterales",
+      "Acute bacterial exacerbations of chronic bronchitis (AECB) and outpatient community-acquired pneumonia (CAP) in high-risk patients",
+      "Acute bacterial sinusitis and recurrent otitis media unresponsive to initial beta-lactams",
+      "Bacterial gastroenteritis and severe bacillary dysentery caused by Shigella or invasive Salmonella",
+      "Mixed pelvic inflammatory disease (PID) and acute gonococcal/chlamydial urethritis (co-directed regimen)"
+    ],
+    "how_patients_describe_symptoms": [
+      "I had a high spiking fever, severe abdominal cramps, and exhaustion from typhoid that wouldn't break with simple medications; this combination tablet brought my fever down within 48 hours.",
+      "My severe kidney and bladder infection caused agonizing burning during urination and flank pain; taking this tablet twice a day cleared the infection.",
+      "During a severe flare-up of my chronic bronchitis with thick green phlegm, the doctor prescribed this twice-daily medicine to clear the deep lung infection."
+    ],
+    "reconstitution_and_dilution": "Supplied ready-to-administer as film-coated, scored or unscored oral tablets containing 200 mg Cefixime (as trihydrate) and 200 mg Ofloxacin. No liquid reconstitution required. Storage Mandate: Store below 25°C in the original moisture-barrier aluminum-aluminum blister packs. Protect from excessive humidity and direct light. Tablets should be swallowed whole with a glass of water; do not crush or chew. Chelation Separation: Do NOT ingest concurrently with antacids, iron salts, sucralfate, or calcium supplements (separate by at least 2 hours).",
+    "infusion_rate_and_timing": "Oral Administration Only. Standard Adult Dosing (>= 18 years): 1 tablet (Cefixime 200mg + Ofloxacin 200mg) orally TWICE DAILY (every 12 hours) with or without meals for 7 to 14 days based on infection severity and clinical culture response. With food is preferred if mild gastric irritation occurs. Hydration Rule: Ensure abundant oral fluid intake (at least 2 to 2.5 liters of water daily) during treatment to maintain high urinary output and prevent fluoroquinolone crystalluria.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adult patients (>= 18 years) with documented or clinically suspected multi-drug resistant enteric fever or complicated urosepsis",
+        "Patients with acute bacterial respiratory exacerbations where empirical Gram-negative and atypical coverage is required",
+        "Hospitalized patients transitioning from IV ceftriaxone or fluoroquinolones to oral step-down therapy"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Absolute Contraindication: Pediatric patients, infants, and growing adolescents under 18 years of age (the ofloxacin fluoroquinolone component causes irreversible arthropathy, cartilage erosions, and weight-bearing joint lesions)",
+        "Absolute Contraindication: Pregnancy and breastfeeding mothers (crosses placenta and breast milk; fluoroquinolones cause fetal cartilage malformations, and beta-lactams alter infant gut flora)",
+        "Absolute Contraindication: Patients with a history of tendonitis, tendon rupture, or QT-interval prolongation associated with fluoroquinolone use",
+        "Absolute Contraindication: Known severe hypersensitivity or prior IgE-mediated anaphylaxis to cephalosporins, penicillins, or fluoroquinolone class antibacterials",
+        "Absolute Contraindication: Patients with Myasthenia Gravis (fluoroquinolones have neuromuscular blocking activity and can trigger acute, fatal myasthenic respiratory crises)",
+        "Patients with pre-existing epilepsy, central nervous system disorders, or unmanaged renal impairment without dose adjustment"
+      ]
+    },
+    "common_side_effects": [
+      "Gastrointestinal: nausea, loose stools, diarrhea, dyspepsia, abdominal pain, or flatulence (very common, up to 8% to 12%)",
+      "Central nervous system: headache, lightheadedness, mild dizziness, or transient sleep disturbances (insomnia, vivid dreams)",
+      "Musculoskeletal: mild arthralgia, joint pain, or transient muscle stiffness",
+      "Dermatologic: maculopapular rash, pruritus, or mild photosensitivity upon direct sun exposure",
+      "Transient biochemical elevations in hepatic transaminases (ALT, AST) and serum creatinine",
+      "Oral or vaginal candidiasis due to disruption of commensal microflora"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "Fluoroquinolone Tendonitis & Tendon Rupture Black Box Warning: The ofloxacin component carries an established risk of acute tendonitis and tendon rupture (most commonly affecting the Achilles tendon, but also the rotator cuff, biceps, or hand). Symptoms can manifest within 48 hours of starting treatment or up to several months after discontinuation. Risk is significantly elevated in patients older than 60 years, those taking concurrent systemic corticosteroids, and organ transplant recipients. PATIENTS MUST CEASE EXERCISE, AVOID BEARING WEIGHT, AND DISCONTINUE THE MEDICATION IMMEDIATELY AT THE FIRST SIGN OF TENDON PAIN, SWELLING, OR INFLAMMATION.",
+      "Cartilage Damage & Absolute Pediatric Prohibition: Fluoroquinolones cause degenerative cartilage erosions and arthropathy in the weight-bearing joints of juvenile mammalian growth models. Consequently, THIS FIXED-DOSE COMBINATION IS ABSOLUTELY CONTRAINDICATED IN CHILDREN AND ADOLESCENTS UNDER 18 YEARS OF AGE, AS WELL AS DURING PREGNANCY AND LACTATION. Pediatric typhoid must be managed with Cefixime or Azithromycin monotherapy.",
+      "Myasthenia Gravis Exacerbation Hazard: Fluoroquinolones possess neuromuscular junction-blocking activity and can rapidly precipitate life-threatening exacerbations of muscle weakness, requiring mechanical ventilator support in patients with Myasthenia Gravis. AVOID entirely in patients with known myasthenia gravis.",
+      "Polyvalent Cation Chelation & Bioavailability Loss: The ofloxacin core contains a 4-oxo-quinoline-3-carboxylic acid group that strongly chelates divalent and trivalent polyvalent cations (Al3+, Mg2+, Ca2+, Fe2+, Zn2+). Co-administration with aluminum/magnesium antacids, sucralfate, iron supplements, multivitamin-mineral formulations, or dairy calcium precipitates insoluble complexes that REDUCE OFLOXACIN ORAL ABSORPTION BY UP TO 70% TO 90%. Administer this medication AT LEAST 2 HOURS BEFORE OR 4 HOURS AFTER any cation-containing products.",
+      "Cardiac QT-Interval Prolongation & Arrhythmia Surveillance: Ofloxacin can block the rapid delayed rectifier potassium channel (hERG / IKr), causing dose-dependent prolongation of the cardiac QTc interval. Co-administration with other QTc-prolonging drugs (e.g., Amiodarone, Sotalol, Ondansetron, Haloperidol, Tricyclic Antidepressants) or in patients with baseline hypokalemia or hypomagnesemia increases the risk of ventricular arrhythmias and Torsades de Pointes.",
+      "Renal Dose Adjustment Mandate: Ofloxacin is excreted predominantly unchanged (>70% to 80%) via renal glomerular filtration and active tubular secretion, while cefixime is cleared ~50% renally. In patients with moderate-to-severe renal impairment (Creatinine Clearance < 50 mL/min), drug clearance is significantly delayed, increasing the risk of CNS neurotoxicity, seizures, and tendon toxicity; dosing frequency must be reduced (e.g., once every 24 hours).",
+      "Antimicrobial Stewardship Notice (FDC Scrutiny): Fixed-dose combinations of oral 3rd-generation cephalosporins and fluoroquinolones are classified under the WHO 'Watch' group and should be reserved strictly for documented multi-drug resistant enteric fever or culture-confirmed complicated infections where narrow-spectrum monotherapy is unavailable, preventing the acceleration of dual-class resistance."
+    ]
+  },
+  {
+    "id": "cefuroxime-axetil-tablets-ip-500mg",
+    "name": "Cefuroxime Axetil Tablets IP (500mg)",
+    "generic_names": [
+      "Cefuroxime Axetil Tablets IP 500mg",
+      "Ceftum 500",
+      "Zeff 500",
+      "Cetil 500",
+      "Oratil 500",
+      "Pulmocef 500",
+      "Zinacef Oral 500mg",
+      "Cefakind 500"
+    ],
+    "category": [
+      "Antibiotics",
+      "Infections & Parasites",
+      "Respiratory",
+      "Dermatology"
+    ],
+    "sub_category": "Second-Generation Oral Cephalosporin Ester Prodrug & Penicillin-Binding Protein (PBP) Inhibitor",
+    "company_name": "CX1",
+    "amount": "485/- (Strip of 10 Film-Coated Tablets - 500mg)",
+    "routes_of_administration": [
+      "Oral (Per Os - Swallowed Whole with Water Immediately After Food)"
+    ],
+    "antimicrobial_spectrum": {
+      "gram_positive": [
+        "Streptococcus pneumoniae (penicillin-susceptible)",
+        "Streptococcus pyogenes (Group A Strep)",
+        "Streptococcus agalactiae (Group B Strep)",
+        "Staphylococcus aureus (Methicillin-Susceptible MSSA only)"
+      ],
+      "gram_negative": [
+        "Haemophilus influenzae (including beta-lactamase positive)",
+        "Moraxella catarrhalis",
+        "Escherichia coli",
+        "Klebsiella pneumoniae",
+        "Proteus mirabilis",
+        "Neisseria gonorrhoeae"
       ],
       "anaerobic": false,
       "atypical": false,
       "pseudomonal": false,
       "mrsa_active": false
     },
-    "main_cause": "Acute Bacterial Meningitis, Typhoid Fever, Severe CAP, Complicated Urosepsis",
-    "main_action": "Binds and acylates PBP-3 to block peptidoglycan cross-linking and trigger bacterial cell lysis.",
-    "routes_of_administration": [
-      "Slow IV Push (2-4 mins)",
-      "IV Infusion (30 mins)",
-      "Deep IM"
+    "who_aware_classification": "Watch",
+    "pk_pd_index": "T > MIC (Time-dependent)",
+    "main_cause": "Acute Community-Acquired Lower Respiratory Tract Infections (Pneumonia, Acute Exacerbations of Chronic Bronchitis), Acute Bacterial Sinusitis & Pharyngitis/Tonsillitis, Acute Otitis Media, Uncomplicated Skin and Soft Tissue Infections (Cellulitis, Impetigo, Furunculosis), Uncomplicated Urinary Tract Infections (Cystitis), Early Stage Lyme Disease (Erythema Migrans caused by Borrelia burgdorferi)",
+    "why_this_disease_happens": "Upper and lower respiratory tract infections, uncomplicated cutaneous cellulitis, and mucosal infections are frequently triggered by pyogenic Gram-positive cocci (Streptococcus pneumoniae, Streptococcus pyogenes, MSSA) and fastidious Gram-negative bacilli (Haemophilus influenzae, Moraxella catarrhalis). Many of these pathogens produce beta-lactamase enzymes (such as TEM-1, TEM-2, and BRO-1/2) that hydrolyze simple aminopenicillins (ampicillin, amoxicillin), leading to outpatient therapeutic failure. In bacterial bronchitis and sinusitis, mucosal edema and mucociliary clearance failure trap replicating bacteria within paranasal sinuses and bronchial trees. Bacterial cell-wall fragments and endotoxins stimulate local epithelial secretion of IL-8 and TNF-alpha, driving intense neutrophil recruitment, purulent exudation, and fever. Similarly, early Borrelia burgdorferi spirochetemia following an Ixodes tick bite triggers migratory cutaneous erythema and systemic arthralgias. Resolving these infections requires a broad-spectrum, oral beta-lactamase-stable cephalosporin that retains potent staphylococcal activity alongside extended Gram-negative coverage, achieving dependable respiratory and cutaneous tissue levels.",
+    "how_this_medicine_fights_it": "Provides bactericidal cell wall synthesis arrest via high-affinity PBP acylation, powered by ester-prodrug intestinal hydrolysis and high beta-lactamase stability: (1) Lipophilic 1-Acetoxyethyl Ester Prodrug Bioavailability: Native cefuroxime is highly polar and poorly absorbed across the gastrointestinal mucosa. Cefuroxime axetil is the 1-acetoxyethyl ester prodrug of cefuroxime; the esterification masks the polar carboxylic acid group, imparting lipophilicity that facilitates passive transmucosal absorption in the proximal gastrointestinal tract. Following mucosal translocation, nonspecific mucosal and portal esterases rapidly hydrolyze the acetoxyethyl ester moiety, cleaving it into active cefuroxime, acetaldehyde, and acetic acid, releasing free, active cefuroxime into systemic circulation. (2) Penicillin-Binding Protein Acylation & Osmotic Lysis: Cefuroxime binds with high affinity to essential bacterial Penicillin-Binding Proteins—specifically PBP-1a, PBP-1b, PBP-2, and PBP-3 in Gram-negative bacilli and Gram-positive cocci. Covalent acylation of active-site transpeptidases prevents the cross-linking of peptidoglycan pentapeptide side chains, halting structural cell wall mesh formation. High internal bacterial osmotic turgor pressure ruptures the weakened peptidoglycan sacculus, activating autolysins and triggering rapid osmotic lysis. (3) (Z)-Methoximino Steric Shield Against Beta-Lactamases: Cefuroxime features a syn-(Z)-methoximino group at position 7 of the acylamido side chain. This syn-configuration introduces steric hindrance around the beta-lactam ring, preventing access and hydrolysis by a wide variety of beta-lactamases produced by Moraxella catarrhalis, Haemophilus influenzae, and many plasmid-carrying Enterobacterales, giving it broader stability than first-generation cephalosporins (cephalexin, cefadroxil). (4) Balanced Gram-Positive & Gram-Negative Spectrum: Unlike third-generation oral cephalosporins (e.g., Cefixime, which has poor activity against MSSA), cefuroxime axetil retains high bactericidal potency against Methicillin-Susceptible Staphylococcus aureus and Streptococcus pneumoniae while simultaneously covering beta-lactamase-producing Gram-negative respiratory pathogens.",
+    "drug_class": "Second-Generation Oral Cephalosporin / Beta-Lactam Bactericidal Antibacterial (Ester Prodrug)",
+    "main_action": "Hydrolyzes rapidly in the intestinal mucosa to release cefuroxime, which binds bacterial Penicillin-Binding Proteins (PBPs 1, 2, and 3) to halt peptidoglycan cross-linking and induce osmotic lysis, resisting beta-lactamases via its syn-methoximino shield.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Acute exacerbations of chronic bronchitis (AECB) and mild-to-moderate Community-Acquired Pneumonia (CAP; 500mg orally twice daily for 7 to 10 days)",
+      "Acute bacterial maxillary sinusitis and recurrent streptococcal tonsillitis/pharyngitis (250mg to 500mg twice daily)",
+      "Acute otitis media in pediatric and adult patients (dosed as suspension or tablets based on weight/age)",
+      "Uncomplicated skin and skin-structure infections (cellulitis, impetigo, folliculitis caused by MSSA or Strep pyogenes; 500mg twice daily for 7 to 10 days)",
+      "Uncomplicated urinary tract infections (cystitis) caused by susceptible E. coli or Klebsiella (250mg twice daily)",
+      "Early Lyme disease / Erythema Migrans in adult and pediatric patients when doxycycline is contraindicated (500mg twice daily for 14 to 21 days)",
+      "Oral step-down continuation therapy following initial stabilization on parenteral Cefuroxime Sodium IV"
     ],
-    "reconstitution_and_dilution": "Dissolve 1g in 10 mL Sterile Water for IV. For IM, reconstitute with 3.5 mL 1% Lidocaine. NEVER use calcium-containing diluents.",
-    "infusion_rate_and_timing": "1g to 2g once every 24 hours (or 2g q12h in meningitis).",
+    "how_patients_describe_symptoms": [
+      "I had a deep chest infection with productive yellow cough and fever; taking this film-coated tablet with my morning and evening meals cleared my lungs completely.",
+      "My leg had a spreading red, hot, swollen skin infection from a scrape; this twice-daily antibiotic stopped the redness and pain within four days.",
+      "I developed a bullseye rash after a tick bite but could not take doxycycline due to sun sensitivity; this oral antibiotic treated the infection safely."
+    ],
+    "reconstitution_and_dilution": "Supplied ready-to-administer as white, capsule-shaped, film-coated tablets containing Cefuroxime Axetil equivalent to 500 mg (or 250 mg) of anhydrous cefuroxime. No liquid reconstitution required for tablets. Storage Mandate: Store below 25°C to 30°C in the original moisture-barrier aluminum-aluminum blister packs. Protect from excessive humidity and heat. SWALLOW TABLETS WHOLE WITH WATER; DO NOT CRUSH, SPLIT, OR CHEW TABLETS (crushing the film coat releases the intensely bitter, long-lasting taste of free cefuroxime axetil and compromises the modified-release bioavailability). For pediatric patients unable to swallow tablets, use the reconstituted oral suspension.",
+    "infusion_rate_and_timing": "Oral Administration Only. Administration Timing Rule: MUST BE ADMINISTERED IMMEDIATELY AFTER A MEAL (POST-PRANDIAL). Food intake delays gastric emptying, enhancing the dissolution and systemic absorption of the lipophilic axetil ester (bioavailability increases from ~37% fasting to ~52% to 60% with meals). Standard Adult Dosing: 500 mg orally TWICE DAILY (every 12 hours) immediately after food for 7 to 10 days (or 250 mg twice daily for uncomplicated cystitis or mild pharyngitis).",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adult and pediatric patients (>= 3 months) presenting with susceptible community-acquired respiratory, urinary, or skin infections",
+        "Pregnant women requiring empirical antibiotic therapy for bronchitis, sinusitis, or early Lyme disease (FDA Pregnancy Category B; established safety profile without teratogenicity)",
+        "Patients requiring an oral beta-lactam that maintains coverage against both MSSA skin organisms and Gram-negative respiratory pathogens",
+        "Patients with early Lyme disease who are pregnant, lactating, or children <8 years where doxycycline is contraindicated"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Absolute Contraindication: Severe, immediate IgE-mediated hypersensitivity (anaphylaxis, angioedema, urticaria) to cefuroxime, cephalosporins, or penicillins",
+        "Patients unable to swallow tablets whole who attempt to crush tablets (causes severe oral aversion due to extreme bitterness; use oral suspension instead)",
+        "Patients with severe renal impairment (Creatinine Clearance < 30 mL/min) without interval adjustment (eliminated predominantly unchanged via glomerular filtration; prolong dosing interval to every 24 hours)",
+        "Concurrent administration with high-dose gastric acid suppressants (Proton Pump Inhibitors, H2-receptor antagonists) without awareness of decreased antibiotic absorption"
+      ]
+    },
     "common_side_effects": [
-      "Diarrhea",
-      "Biliary sludging (pseudolithiasis)",
-      "Eosinophilia",
-      "Rash"
+      "Gastrointestinal: diarrhea (common, 3% to 8%), loose stools, nausea, abdominal discomfort, or transient vomiting",
+      "Central nervous system: headache, mild dizziness, or sensation of lightheadedness",
+      "Dermatologic: maculopapular rash, pruritus, or mild drug-induced urticaria",
+      "Oral or vaginal candidiasis (moniliasis / thrush) secondary to disruption of mucosal flora balance",
+      "Transient biochemical shifts: transient elevation in liver transaminases (ALT, AST), LDH, or eosinophilia",
+      "Severe lingering bitter, metallic aftertaste if the protective film coat is chewed or cracked in the mouth"
     ],
     "important_cautions": [
-      "Strict Incompatibility: Never mix or co-infuse with calcium solutions (Ringer's Lactate) due to fatal crystalline precipitation.",
-      "Contraindicated in hyperbilirubinemic neonates due to kernicterus risk."
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "Mandatory Post-Meal Administration Rule (Bioavailability Drop): Cefuroxime axetil displays atypical, food-dependent gastrointestinal absorption. When ingested in the fasting state, oral bioavailability is only approximately 37%. However, when taken IMMEDIATELY FOLLOWING A MEAL OR FOOD, bioavailability increases significantly to between 52% and 60%. Taking this medication on an empty stomach leads to suboptimal peak serum concentrations (Cmax) and reduced AUC, increasing the risk of therapeutic failure. INSTRUCT PATIENTS TO TAKE TABLETS WITHIN 10 TO 15 MINUTES AFTER BREAKFAST AND DINNER.",
+      "Strict Prohibition of Crushing or Chewing Tablets: Cefuroxime axetil possesses an exceptionally bitter, persistent taste that causes intense nausea and mucosal aversion. The tablets are manufactured with a specialized protective film coat. PATIENTS MUST NEVER CRUSH, CHEW, OR DISSOLVE THE TABLETS IN WATER. Cracking the coating releases the bitter compound and impairs uniform gastrointestinal transit. If a patient or child cannot swallow tablets, prescribe the commercially prepared, flavored oral liquid suspension.",
+      "Interaction with Gastric Acid Reducing Agents (PPIs & H2 Blockers): Cefuroxime axetil requires a moderately acidic gastric pH for optimal micro-dissolution. Concomitant administration with Proton Pump Inhibitors (Pantoprazole, Omeprazole, Esomeprazole), H2-receptor antagonists (Famotidine), or antacids raises intragastric pH, reducing cefuroxime axetil dissolution and significantly decreasing systemic AUC and bioavailability. When possible, stagger antacid administration or avoid concurrent potent acid suppression during oral cefuroxime therapy.",
+      "MSSA Superiority Over Third-Generation Cephalosporins (Cefixime Gap): Unlike third-generation oral cephalosporins such as Cefixime (which has virtually no reliable bactericidal activity against Staphylococcus aureus), Cefuroxime axetil retains potent, reliable activity against Methicillin-Susceptible Staphylococcus aureus (MSSA). Cefuroxime axetil is therefore preferred over Cefixime for mixed respiratory and cutaneous infections where S. aureus is a suspected co-pathogen.",
+      "Renal Clearance & Dose Adjustment Titration: Cefuroxime is eliminated predominantly (>50% to 80%) unchanged by glomerular filtration and active renal tubular secretion. In patients with significant renal impairment, elimination is markedly prolonged: CrCl >= 30 mL/min: Standard dose (500mg every 12 hours); CrCl 10-29 mL/min: Standard individual dose (500mg) administered once every 24 hours; CrCl < 10 mL/min: Standard dose (500mg) administered once every 48 hours; Hemodialysis: Administer a supplemental 500mg dose immediately following each hemodialysis session.",
+      "Jarisch-Herxheimer Reaction in Lyme Disease: When initiating cefuroxime axetil for early Lyme disease (Borrelia burgdorferi erythema migrans), patients may experience a transient worsening of symptoms (fever, chills, headache, myalgia, tachycardia) within 2 to 12 hours of the first dose. This is a physiological Jarisch-Herxheimer reaction resulting from the massive release of endotoxin-like spirochetal lipoproteins upon bactericidal lysis; it is self-limiting and should not be mistaken for an allergic drug reaction."
     ]
   },
   {
-    "id": "linezolid-injection-2mg-ml-600mg-300ml",
-    "name": "Linezolid Injection (2mg/mL, 600mg/300mL)",
-    "generic_names": ["Zyvox IV", "Linospan IV", "Lizomac IV"],
-    "sub_category": "Synthetic Oxazolidinone",
-    "amount": "440/-",
-    "who_aware_classification": "Reserve",
-    "pk_pd_index": "AUC24 / MIC",
+    "id": "cefpodoxime-proxetil-potassium-clavulanate-tablets-ip-200mg-125mg",
+    "name": "Cefpodoxime Proxetil & Potassium Clavulanate Tablets IP (200mg / 125mg)",
+    "generic_names": [
+      "Cefpodoxime Proxetil and Potassium Clavulanate Tablets IP 200mg/125mg",
+      "Gudcef-CV 200",
+      "Monocef-O CV 200",
+      "Macpod-CV 200",
+      "Cefo-CV 200",
+      "Zedocef-CV 200",
+      "Doxcef-CV 200",
+      "Swich-CV 200"
+    ],
+    "category": [
+      "Antibiotics",
+      "Infections & Parasites",
+      "Respiratory",
+      "Dermatology"
+    ],
+    "sub_category": "Third-Generation Extended-Spectrum Oral Cephalosporin Ester Prodrug & Suicide Beta-Lactamase Inhibitor Combination",
+    "company_name": "CP1",
+    "amount": "345/- (Strip of 10 Film-Coated Tablets)",
+    "routes_of_administration": [
+      "Oral (Per Os - Swallowed Whole with Water Immediately After Food)"
+    ],
     "antimicrobial_spectrum": {
-      "gram_positive": ["MRSA", "VRE (E. faecium)", "Strep. pneumoniae"],
+      "gram_positive": [
+        "Streptococcus pneumoniae (penicillin-intermediate & susceptible)",
+        "Streptococcus pyogenes (Group A Strep)",
+        "Streptococcus agalactiae",
+        "Staphylococcus aureus (Methicillin-Susceptible MSSA, including beta-lactamase producers)"
+      ],
+      "gram_negative": [
+        "Haemophilus influenzae (ampicillin-resistant, beta-lactamase positive)",
+        "Moraxella catarrhalis (beta-lactamase positive)",
+        "Escherichia coli (beta-lactamase positive, non-ESBL)",
+        "Klebsiella pneumoniae",
+        "Proteus mirabilis",
+        "Neisseria gonorrhoeae"
+      ],
+      "anaerobic": false,
+      "atypical": false,
+      "pseudomonal": false,
+      "mrsa_active": false
+    },
+    "who_aware_classification": "Watch",
+    "pk_pd_index": "T > MIC (Time-dependent)",
+    "main_cause": "Refractory Community-Acquired Lower Respiratory Tract Infections (Severe Pneumonia, Acute Exacerbations of Chronic Bronchitis), Recurrent Acute Bacterial Rhinosinusitis & Refractory Otitis Media, Recurrent Streptococcal Tonsillopharyngitis Failing First-Line Aminopenicillins, Complicated Urinary Tract Infections (cUTIs), Moderate to Severe Skin and Skin Structure Infections (Cellulitis, Abscesses, Wound Infections caused by beta-lactamase-producing MSSA), Outpatient Step-Down Following Parenteral 3rd-Generation Cephalosporins",
+    "why_this_disease_happens": "Upper and lower respiratory tract infections, recurrent ENT suppurations, and skin infections in the community setting are driven by pathogenic bacteria equipped with enzymatic defense mechanisms. Key respiratory pathogens—specifically Moraxella catarrhalis (>95% of strains), Haemophilus influenzae (20% to 40% of strains), and Staphylococcus aureus (>90% of isolates)—synthesize beta-lactamase enzymes (TEM-1, TEM-2, SHV-1, PC1). These enzymes hydrolyze the four-membered beta-lactam ring of conventional penicillins (amoxicillin, ampicillin) and early cephalosporins, cleaving it into an inactive penicilloic acid derivative before the antibiotic can engage transpeptidases. Furthermore, while third-generation cephalosporin monotherapies (such as cefpodoxime alone or cefixime) resist many simple penicillinases, they possess marginal activity against hyperproducing beta-lactamase staphylococci or plasmid-mediated beta-lactamases, and cefixime notably lacks staphylococcal efficacy. This allows mucosal inflammation, submucosal neutrophil infiltration, purulent exudate formation, and systemic fever to persist. Eradicating these beta-lactamase-producing polymicrobial pathogens requires an oral third-generation cephalosporin with inherent Gram-negative potency, co-formulated with an irreversible beta-lactamase inhibitor to shield the beta-lactam ring and restore bactericidal activity against MSSA and resistant respiratory flora.",
+    "how_this_medicine_fights_it": "Provides bactericidal cell wall transpeptidation arrest paired with irreversible suicide inhibition of bacterial beta-lactamases: Formulated as a synergistic fixed-dose oral combination of Cefpodoxime Proxetil (equivalent to 200 mg cefpodoxime) and Potassium Clavulanate (125 mg): (1) Cefpodoxime Proxetil Lipophilic Prodrug Absorption: Native cefpodoxime is polar and poorly absorbed. Cefpodoxime proxetil is the 1-(isopropoxycarbonyloxy)ethyl ester prodrug of cefpodoxime. This esterification eliminates the polar charge on the C-4 carboxyl group, facilitating passive transcellular absorption across the intestinal brush border. Following mucosal absorption, intestinal wall esterases rapidly cleave the proxetil moiety via ester hydrolysis, releasing free, active cefpodoxime, acetaldehyde, carbon dioxide, and isopropanol into mesenteric and portal circulations. (2) Penicillin-Binding Protein Acylation & Osmotic Lysis (Cefpodoxime): Active cefpodoxime diffuses through outer-membrane porins in Gram-negative bacteria and binds with high affinity to essential Penicillin-Binding Proteins—primarily PBP-3, PBP-1a, and PBP-1b. It acylates the active-site serine residue of transpeptidases, blocking the cross-linking of adjacent peptidoglycan pentapeptide chains. Weakened by unchecked internal osmotic turgor pressure, the bacterial peptidoglycan sacculus activates endogenous autolysins and murein hydrolases, producing spheroplast rupture and rapid bactericidal osmotic lysis. (3) Suicide Beta-Lactamase Inhibition (Potassium Clavulanate): Clavulanic acid is a naturally derived clavam beta-lactam. It acts as a mechanism-based, irreversible 'suicide' inhibitor of Ambler Class A beta-lactamases (including staphylococcal penicillinase, TEM, and SHV families). Clavulanate enters the catalytic active site of the beta-lactamase enzyme and forms an initial acyl-enzyme intermediate. The enzyme opens the clavulanate ring, which rearranges into a stable, covalently bound inactive adduct, permanently inactivating the enzyme. (4) Broadened Gram-Positive & Respiratory Synergy: By neutralizing beta-lactamases, clavulanate preserves cefpodoxime against enzymatic destruction, expanding its spectrum to cover beta-lactamase-producing MSSA, ampicillin-resistant H. influenzae, and M. catarrhalis. Cefpodoxime also displays higher intrinsic affinity for Streptococcus pneumoniae PBPs compared to Cefixime, providing broader coverage in community-acquired pneumonia.",
+    "drug_class": "Third-Generation Oral Cephalosporin (Ester Prodrug) + Beta-Lactamase Inhibitor / Bactericidal Combination",
+    "main_action": "Hydrolyzes to active cefpodoxime to acylate bacterial Penicillin-Binding Proteins (PBPs) and halt cell wall synthesis, while potassium clavulanate irreversibly inactivates bacterial beta-lactamase enzymes to prevent drug destruction.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Acute exacerbations of chronic bronchitis (AECB) and Community-Acquired Pneumonia (CAP) failing first-line macrolides or aminopenicillins (200mg/125mg twice daily for 7 to 14 days)",
+      "Recurrent acute bacterial sinusitis and chronic rhinosinusitis with suspected beta-lactamase-producing pathogens",
+      "Recurrent or persistent Acute Otitis Media in pediatric and adult patients failing amoxicillin monotherapy",
+      "Recurrent streptococcal pharyngitis/tonsillitis with suspected beta-lactamase-producing co-colonizing oral flora",
+      "Uncomplicated and complicated urinary tract infections (cystitis, pyelonephritis) caused by beta-lactamase-producing E. coli or Klebsiella",
+      "Complicated skin and soft-tissue infections (furunculosis, cellulitis, infected wounds caused by MSSA and Strep pyogenes; 200mg/125mg twice daily for 7 to 10 days)",
+      "Oral continuation therapy following parenteral 3rd-generation cephalosporins (Ceftriaxone, Cefotaxime) in hospitalized patients"
+    ],
+    "how_patients_describe_symptoms": [
+      "I had a persistent bacterial sinus infection with severe facial pressure and thick green mucus that didn't clear with regular amoxicillin; this combination tablet relieved the pain and cleared the discharge in four days.",
+      "My chronic bronchitis flared up with productive phlegm and high fever; taking this medicine twice daily after meals cleared the deep chest infection.",
+      "Following an infected scrape that grew hot, red, and swollen from staph bacteria, the doctor prescribed this tablet twice daily to prevent the infection from spreading."
+    ],
+    "reconstitution_and_dilution": "Supplied ready-to-administer as white, capsule-shaped, film-coated tablets containing Cefpodoxime Proxetil equivalent to 200 mg of anhydrous cefpodoxime, combined with Potassium Clavulanate Diluted IP equivalent to 125 mg of clavulanic acid. Also available in pediatric dry syrup formulations requiring reconstitution with Sterile Water for Injection up to the ring mark. Moisture-Sensitivity Mandate: Potassium clavulanate is extremely hygroscopic and degrades rapidly upon exposure to ambient humidity. TABLETS MUST BE STORED IN ORIGINAL ALUMINUM-ALUMINUM (ALU-ALU) BLISTER PACKAGING. Do not cut or de-blister tablets ahead of time. Store below 25°C in a dry environment protected from light. Tablets must be swallowed whole with water; do not crush or chew (uncoated cefpodoxime has an intensely bitter taste and crushed clavulanate accelerates hydrolytic degradation).",
+    "infusion_rate_and_timing": "Oral Administration Only. Administration Timing Rule: MUST BE SWALLOWED WHOLE IMMEDIATELY FOLLOWING A MEAL (POST-PRANDIAL). Co-ingestion with food enhances gastric dissolution and increases the systemic bioavailability of cefpodoxime proxetil from approximately 50% in fasting conditions to greater than 65% to 70%. Standard Adult Dosing: 1 tablet (Cefpodoxime 200mg + Clavulanate 125mg) orally TWICE DAILY (every 12 hours) with meals for 7 to 14 days based on clinical indication. Dosing in Pediatric Patients (Oral Suspension): Typically 8 to 10 mg/kg/day of cefpodoxime component divided into two equal doses every 12 hours.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adult and adolescent patients presenting with moderate-to-severe community-acquired respiratory, ENT, skin, or urinary infections failing first-line beta-lactams",
+        "Patients requiring an oral third-generation cephalosporin that covers both Gram-negative pathogens and beta-lactamase-producing MSSA",
+        "Hospitalized patients ready for oral step-down discharge following intravenous ceftriaxone therapy",
+        "Pregnant women with complicated respiratory or urinary infections when benefit outweighs risk (FDA Category B for both components; no teratogenicity documented)"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Absolute Contraindication: Severe, immediate IgE-mediated anaphylaxis, angioedema, or urticaria to cephalosporins, penicillins, or clavulanic acid",
+        "Absolute Contraindication: Prior history of cefpodoxime- or clavulanate-associated cholestatic jaundice or hepatic dysfunction",
+        "Patients with severe renal impairment (Creatinine Clearance < 30 mL/min) without interval extension (eliminated primarily via glomerular filtration; prolong interval to once every 24 hours)",
+        "Infections caused by Methicillin-Resistant Staphylococcus aureus (MRSA) or Pseudomonas aeruginosa (both active agents are completely inactive)",
+        "Concurrent administration with high-dose antacids or H2-blockers without strict 2-hour dosing separation"
+      ]
+    },
+    "common_side_effects": [
+      "Gastrointestinal: diarrhea (common, 7% to 12%, driven by clavulanic acid-induced gut motility stimulation), loose stools, nausea, and abdominal cramping",
+      "Gastrointestinal dyspepsia, epigastric discomfort, vomiting, or flatulence",
+      "Dermatologic: maculopapular rash, pruritus, or mild drug fever",
+      "Central nervous system: headache, lightheadedness, or mild dizziness",
+      "Oral or vaginal candidiasis (moniliasis / thrush) due to disruption of indigenous bacterial flora",
+      "Transient biochemical shifts: asymptomatic elevation in serum ALT, AST, alkaline phosphatase, or eosinophilia"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "Mandatory Post-Meal Administration Rule (Bioavailability Boost): Cefpodoxime proxetil requires food for optimal gastrointestinal absorption. In the fasting state, oral bioavailability is only around 50%. However, when taken IMMEDIATELY AFTER A MEAL, systemic bioavailability increases to roughly 65% to 70%. Administering this medication on an empty stomach leads to lower peak serum levels (Cmax) and reduced AUC, increasing the likelihood of treatment failure. INSTRUCT PATIENTS TO TAKE TABLETS WITHIN 10 TO 15 MINUTES OF FINISHING BREAKFAST AND DINNER.",
+      "Extreme Moisture Sensitivity of Clavulanate (Alu-Alu Storage Mandate): Potassium clavulanate is exceptionally hygroscopic and undergoes rapid hydrolytic degradation into inactive compounds when exposed to ambient moisture or humidity. TABLETS MUST REMAIN ENCLOSED IN THEIR ORIGINAL ALUMINUM-ALUMINUM BLISTER STRIPS UNTIL THE EXACT MOMENT OF INGESTION. Instruct patients and pharmacists never to pop tablets into pill organizers, multi-dose bottles, or humid bathroom medicine cabinets ahead of time.",
+      "Gastric Acid Reducer Interaction (Antacids & H2 Blockers): Cefpodoxime proxetil requires an acidic intragastric environment for optimal dissolution and ester prodrug absorption. Concomitant administration with high-dose antacids (aluminum/magnesium hydroxide), sodium bicarbonate, or H2-receptor antagonists (Famotidine) significantly raises gastric pH, decreasing cefpodoxime oral bioavailability and peak plasma concentrations by up to 30% to 40%. SEPARATE ANTACID INTAKE BY AT LEAST 2 HOURS BEFORE OR AFTER TAKING THIS MEDICATION.",
+      "Clavulanate-Associated Diarrhea & C. difficile Warning: The potassium clavulanate component stimulates gastrointestinal smooth muscle contractility and accelerates intestinal transit, producing dose-dependent secretory diarrhea in up to 10% to 15% of patients. Furthermore, broad-spectrum destruction of the colonic flora creates vulnerability to Clostridioides difficile-associated diarrhea (CDAD) and pseudomembranous colitis. Patients who develop watery diarrhea (>4 to 6 loose stools per day), severe cramping, or fever must be evaluated for C. difficile toxins; anti-motility agents (Loperamide) are contraindicated.",
+      "Renal Clearance & Dose Adjustment Titration: Free cefpodoxime is eliminated predominantly (>80%) unchanged by the kidneys via glomerular filtration. In patients with severe renal impairment, drug clearance is significantly delayed: CrCl >= 30 mL/min: Standard dose (200mg/125mg every 12 hours); CrCl 10 to 29 mL/min: Increase dosing interval to once every 24 hours (200mg/125mg once daily); CrCl < 10 mL/min: Increase dosing interval to once every 48 hours; Hemodialysis: Administer standard dose once every 48 hours, scheduled immediately following each hemodialysis run.",
+      "Spectrum Superiority Over Cefixime for Staphylococcal & Respiratory Infections: While oral Cefixime is essentially inactive against Staphylococcus aureus and has lower affinity for Streptococcus pneumoniae PBPs, Cefpodoxime Proxetil retains reliable bactericidal potency against MSSA and pneumococci. The addition of clavulanic acid neutralizes staphylococcal penicillinases, making Cefpodoxime-Clavulanate a superior oral beta-lactam choice for mixed respiratory and skin/soft-tissue infections."
+    ]
+  },
+  {
+    "id": "cefixime-potassium-clavulanate-tablets-ip-200mg-125mg",
+    "name": "Cefixime & Potassium Clavulanate Tablets IP (200mg / 125mg)",
+    "generic_names": [
+      "Cefixime and Potassium Clavulanate Tablets IP 200mg/125mg",
+      "Zifi-CV 200",
+      "Mahacef-CV 200",
+      "Taxim-O CV 200",
+      "Cefolac-CV 200",
+      "Omnix-CV 200",
+      "Milixim-CV 200"
+    ],
+    "category": [
+      "Antibiotics",
+      "Infections & Parasites",
+      "Respiratory",
+      "Gastrointestinal"
+    ],
+    "sub_category": "Third-Generation Oral Cephalosporin & Irreversible Mechanism-Based Beta-Lactamase Inhibitor Combination",
+    "company_name": "CC1",
+    "amount": "295/- (Strip of 10 Film-Coated Tablets)",
+    "routes_of_administration": [
+      "Oral (Per Os - Swallowed Whole with Water, With or Without Food)"
+    ],
+    "antimicrobial_spectrum": {
+      "gram_positive": [
+        "Streptococcus pneumoniae (penicillin-susceptible strains)",
+        "Streptococcus pyogenes (Group A Strep)",
+        "Streptococcus agalactiae (Group B Strep)"
+      ],
+      "gram_negative": [
+        "Haemophilus influenzae (including high-level beta-lactamase producers)",
+        "Moraxella catarrhalis (beta-lactamase positive)",
+        "Escherichia coli (including TEM and SHV penicillinase-producing uropathogenic strains)",
+        "Klebsiella pneumoniae",
+        "Proteus mirabilis",
+        "Salmonella enterica serovar Typhi (Enteric / Typhoid Fever)",
+        "Neisseria gonorrhoeae"
+      ],
+      "anaerobic": false,
+      "atypical": false,
+      "pseudomonal": false,
+      "mrsa_active": false
+    },
+    "who_aware_classification": "Watch",
+    "pk_pd_index": "T > MIC (Time-dependent)",
+    "main_cause": "Complicated and Recurrent Urinary Tract Infections (cUTIs / Pyelonephritis caused by beta-lactamase-producing Enterobacterales), Acute Exacerbations of Chronic Bronchitis (AECB), Severe Bacterial Sinusitis and Refractory Otitis Media, Multidrug-Resistant Enteric / Typhoid Fever (Step-down or Outpatient Therapy), Outpatient Step-Down Following Parenteral 3rd-Generation Cephalosporins (Ceftriaxone)",
+    "why_this_disease_happens": "In refractory community-acquired respiratory tract infections, recurrent urinary tract infections (UTIs), and enteric fever, clinical treatment failure with first-line beta-lactams is primarily driven by plasmid- and chromosome-mediated beta-lactamase production. Pathogens such as Haemophilus influenzae, Moraxella catarrhalis, Escherichia coli, and Klebsiella pneumoniae frequently produce Ambler Class A serine beta-lactamases (such as TEM-1, TEM-2, and SHV-1). These enzymes catalyze the nucleophilic hydrolysis of the cyclic amide bond in four-membered beta-lactam rings, rendering aminopenicillins (such as amoxicillin or ampicillin) and early cephalosporins biologically inactive. While cefixime monotherapy possesses high intrinsic stability against classical penicillinases, hyperproducing beta-lactamase strains, co-colonizing mucosal flora, and extended-spectrum variants can decrease bactericidal efficacy and lead to recurrent mucosal colonisation or ascending pyelonephritis. Co-formulating an extended-spectrum oral third-generation cephalosporin with a mechanism-based, suicide beta-lactamase inhibitor protects the cephalosporin core, lowers minimum inhibitory concentrations (MICs), and provides coverage against resistant respiratory and uropathogenic Gram-negative pathogens.",
+    "how_this_medicine_fights_it": "Provides bactericidal cell wall synthesis arrest paired with irreversible catalytic suicide inactivation of bacterial beta-lactamases: Formulated as a synergistic fixed-dose oral combination of Cefixime (200 mg as trihydrate) and Potassium Clavulanate (125 mg): (1) Penicillin-Binding Protein Acylation & Osmotic Lysis (Cefixime): Cefixime is an orally active, extended-spectrum third-generation cephalosporin. It crosses the outer membrane of Gram-negative bacilli via porin protein channels (OmpF/OmpC) and binds covalently with high affinity to essential bacterial Penicillin-Binding Proteins—principally PBP-3, PBP-1a, and PBP-1b. Acylation of the active-site transpeptidase domain blocks the cross-linking of linear peptidoglycan pentapeptide chains. Unable to withstand internal bacterial osmotic turgor pressure, the destabilized bacterial cell wall activates endogenous murein hydrolases and autolysins, culminating in spheroplast formation and osmotic lysis. (2) Suicide Beta-Lactamase Inactivation (Potassium Clavulanate): Clavulanic acid is a naturally occurring clavam-structured beta-lactam. It acts as an irreversible, competitive 'suicide' inhibitor of Class A serine beta-lactamases (including staphylococcal penicillinases, TEM, and SHV enzymes). Clavulanate enters the enzyme catalytic cleft and forms an initial acyl-enzyme intermediate. The enzyme opens the oxapenam ring, which undergoes secondary rearrangement to form stable, covalent adducts that permanently inactivate the catalytic serine residue. (3) Expansion of Gram-Negative Coverage: By neutralizing co-produced beta-lactamases, potassium clavulanate shields cefixime from enzymatic degradation, lowering the MIC90 for resistant strains of E. coli, Klebsiella, H. influenzae, and Moraxella catarrhalis. (4) Note on Spectrum Profile: Unlike cefpodoxime or cefuroxime, cefixime has poor intrinsic binding affinity for PBP-2a and PBP-2 of Staphylococcus aureus; thus, cefixime-clavulanate remains inactive against both MSSA and MRSA, serving primarily as an expanded-spectrum Gram-negative and streptococcal agent.",
+    "drug_class": "Third-Generation Oral Cephalosporin + Beta-Lactamase Inhibitor / Bactericidal Fixed-Dose Combination",
+    "main_action": "Cefixime binds bacterial PBP-3 to halt peptidoglycan cell wall cross-linking, while potassium clavulanate irreversibly inactivates bacterial Class A beta-lactamases to protect the cephalosporin core against enzymatic degradation.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Complicated urinary tract infections (cUTIs), recurrent cystitis, and acute pyelonephritis caused by beta-lactamase-producing Enterobacterales (200mg/125mg orally twice daily for 7 to 14 days)",
+      "Acute exacerbations of chronic bronchitis (AECB) failing standard aminopenicillin therapy",
+      "Recurrent or refractory acute bacterial maxillary sinusitis and otitis media with suspected beta-lactamase-producing H. influenzae or M. catarrhalis",
+      "Enteric (Typhoid) Fever caused by multidrug-resistant Salmonella enterica serovar Typhi",
+      "Oral step-down continuation therapy following initial intravenous Ceftriaxone stabilization in hospitalized patients with Gram-negative infections",
+      "Uncomplicated gonococcal urethritis and cervicitis (co-administered with appropriate anti-chlamydial coverage)"
+    ],
+    "how_patients_describe_symptoms": [
+      "I had a recurrent urinary tract infection with severe burning and lower back pain that kept returning after regular antibiotics; this combination tablet cleared the infection within five days.",
+      "My chronic lung bronchitis flared up with high fever and thick green phlegm; taking this medicine twice a day cleared my cough and restored my breathing.",
+      "Following my hospital discharge on IV ceftriaxone for kidney infection, the physician prescribed this twice-daily oral medicine to finish the course at home."
+    ],
+    "reconstitution_and_dilution": "Supplied ready-to-administer as film-coated oral tablets containing Cefixime Trihydrate equivalent to 200 mg of anhydrous cefixime, combined with Potassium Clavulanate Diluted IP equivalent to 125 mg of clavulanic acid. Also manufactured in pediatric dry syrup formulations (50mg cefixime + 31.25mg clavulanate per 5mL) requiring reconstitution with Sterile Water for Injection up to the ring mark. Moisture-Sensitivity Mandate: Potassium clavulanate is highly hygroscopic and susceptible to rapid hydrolytic degradation upon exposure to atmospheric moisture. TABLETS MUST BE STORED IN ORIGINAL ALUMINUM-ALUMINUM (ALU-ALU) BLISTER STRIPS. Do not transfer tablets into unsealed pill boxes, weekly planners, or humid environments ahead of time. Store below 25°C in a dry environment protected from light. Swallow whole with a glass of water; do not crush or chew.",
+    "infusion_rate_and_timing": "Oral Administration Only. Administration Timing: May be taken with or without food. However, taking the tablet with or immediately following meals reduces potential clavulanate-induced gastrointestinal motility irritation. Unlike cefuroxime or cefpodoxime proxetil, the systemic absorption of cefixime is not significantly reduced by fasting conditions, but food moderates nausea. Standard Adult Dosing: 1 tablet (Cefixime 200mg + Clavulanate 125mg) orally TWICE DAILY (every 12 hours) for 7 to 14 days depending on infection severity and clinical site.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adult and adolescent patients presenting with complicated urinary, respiratory, or enteric infections failing first-line beta-lactam monotherapy",
+        "Hospitalized patients ready for oral step-down discharge following intravenous third-generation cephalosporins (e.g., Ceftriaxone IV)",
+        "Patients requiring an oral beta-lactam regimen active against beta-lactamase-producing Gram-negative uropathogens and respiratory bacilli",
+        "Pregnant women with complicated UTIs when benefit clearly outweighs risk (both cefixime and clavulanic acid are FDA Pregnancy Category B; lack teratogenic risk)"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Absolute Contraindication: Severe, immediate IgE-mediated anaphylaxis, angioedema, or urticaria to cephalosporins, penicillins, or beta-lactamase inhibitors",
+        "Absolute Contraindication: History of clavulanate- or cephalosporin-associated cholestatic jaundice or acute hepatic dysfunction",
+        "Suspected or documented Staphylococcal Infections (MSSA or MRSA): Cefixime has inadequate intrinsic binding affinity to staphylococcal PBPs; clavulanic acid does NOT restore anti-staphylococcal activity for cefixime",
+        "Infections caused by Pseudomonas aeruginosa or Acinetobacter baumannii (exhibits zero intrinsic activity)",
+        "Patients with severe renal impairment (Creatinine Clearance < 20 mL/min) without dose or interval reduction (eliminated via renal excretion; accumulation increases neurotoxicity risk)"
+      ]
+    },
+    "common_side_effects": [
+      "Gastrointestinal: diarrhea (common, 8% to 15%, driven by clavulanic acid stimulation of intestinal motility), loose stools, nausea, and abdominal cramping",
+      "Gastrointestinal dyspepsia, epigastric fullness, flatulence, and occasional vomiting",
+      "Dermatologic: maculopapular rash, pruritus, or mild drug-induced urticaria",
+      "Central nervous system: headache, lightheadedness, or mild dizziness",
+      "Oral or vaginal candidiasis (thrush) secondary to suppression of commensal microflora",
+      "Transient laboratory shifts: asymptomatic elevation in serum ALT, AST, alkaline phosphatase, or mild eosinophilia"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "The Staphylococcal Gap Warning (MSSA Inactivity): Unlike Cefpodoxime-Clavulanate or Amoxicillin-Clavulanate, oral Cefixime exhibits poor binding affinity for Penicillin-Binding Protein 2 of Staphylococcus aureus. ADDING POTASSIUM CLAVULANATE DOES NOT CONFER ANTI-STAPHYLOCOCCAL ACTIVITY TO CEFIXIME because the limitation is target affinity rather than enzymatic destruction alone. CEFIXIME-CLAVULANATE MUST NOT BE USED FOR SKIN AND SOFT TISSUE INFECTIONS, SURGICAL WOUND INFECTIONS, OR PNEUMONIA WHERE STAPHYLOCOCCUS AUREUS IS A SUSPECTED OR DOCUMENTED PATHOGEN; use Cefpodoxime-Clavulanate or Amoxicillin-Clavulanate instead.",
+      "Extreme Hygroscopicity & Alu-Alu Blister Integrity: Potassium clavulanate is exceptionally moisture-sensitive. Ambient humidity causes rapid chemical hydrolysis into inactive pyrazine and polymer derivatives, leading to discoloration (mottling, brown spotting) and loss of beta-lactamase inhibitory activity. TABLETS MUST REMAIN IN THEIR HEAT-SEALED ALUMINUM-ALUMINUM FOIL BLISTERS UNTIL IMMEDIATELY PRIOR TO INGESTION. Instruct patients not to cut open blisters or store tablets in standard weekly dosette pill organizers.",
+      "Clavulanate-Driven Motility Diarrhea & C. difficile Colitis: Clavulanic acid directly stimulates gastrointestinal smooth muscle contractility, inducing secretory loose stools and accelerated transit in up to 15% of patients. Furthermore, broad-spectrum suppression of intestinal anaerobic and commensal microflora creates vulnerability to Clostridioides difficile-associated diarrhea (CDAD) and pseudomembranous colitis. Evaluate patients presenting with severe watery diarrhea, fever, or abdominal cramping for C. difficile toxins; anti-peristaltic drugs (such as Loperamide) are contraindicated.",
+      "Renal Clearance & Dose Adjustment Titration: Cefixime is cleared approximately 50% unchanged by the kidneys via glomerular filtration. In patients with significant renal impairment, the elimination half-life is prolonged (up to 11.5 hours in end-stage renal disease): CrCl >= 60 mL/min: Standard dose (200mg/125mg every 12 hours); CrCl 20 to 59 mL/min: Reduce dose to 200mg/125mg once every 24 hours (or 100mg twice daily); CrCl < 20 mL/min or Hemodialysis: 200mg/125mg once every 48 hours, administered post-dialysis on treatment days.",
+      "Food-Independence vs. Gastric Tolerability: Unlike cefuroxime axetil and cefpodoxime proxetil (which require food for adequate prodrug ester bioavailability), cefixime is not an ester prodrug; its systemic absorption is minimally affected by fasting state. However, administering Cefixime-Clavulanate with meals is recommended to reduce clavulanate-mediated gastric irritation and nausea.",
+      "WHO AWaRe Watch Group Antimicrobial Stewardship: Fixed-dose combinations of oral third-generation cephalosporins and beta-lactamase inhibitors fall under the WHO 'Watch' classification. They should be reserved for culture-directed or highly suspected beta-lactamase-producing Gram-negative infections to preserve susceptibility and prevent accelerated selection of extended-spectrum beta-lactamase (ESBL) and carbapenem-resistant Enterobacterales."
+    ]
+  },
+  {
+    "id": "cefpodoxime-proxetil-dispersible-tablets-ip-100mg",
+    "name": "Cefpodoxime Proxetil Dispersible Tablets IP (100mg)",
+    "generic_names": [
+      "Cefpodoxime Proxetil DT 100mg",
+      "Cefpodoxime Proxetil Dispersible Tablets IP 50mg / 100mg",
+      "Gudcef 100 DT",
+      "Monocef-O 100 DT",
+      "Macpod 100 DT",
+      "Zedocef 100 DT",
+      "Doxcef 100 DT",
+      "Cefoprox 100 DT",
+      "Swich 100 DT"
+    ],
+    "category": [
+      "Antibiotics",
+      "Infections & Parasites",
+      "Respiratory",
+      "Pediatrics"
+    ],
+    "sub_category": "Third-Generation Oral Cephalosporin Ester Prodrug (Fast-Disintegrating Pediatric / Geriatric Formulation)",
+    "company_name": "CP2",
+    "amount": "135/- (Strip of 10 Dispersible Tablets - 100mg)",
+    "routes_of_administration": [
+      "Oral (Per Os - Dispersed in 5 to 10 mL of Boiled and Cooled Water Immediately Prior to Ingestion with or after Meals)"
+    ],
+    "antimicrobial_spectrum": {
+      "gram_positive": [
+        "Streptococcus pneumoniae (penicillin-susceptible & intermediate strains)",
+        "Streptococcus pyogenes (Group A beta-hemolytic Strep)",
+        "Streptococcus agalactiae (Group B Strep)",
+        "Staphylococcus aureus (Methicillin-Susceptible MSSA only)"
+      ],
+      "gram_negative": [
+        "Haemophilus influenzae (including beta-lactamase positive strains)",
+        "Moraxella catarrhalis",
+        "Escherichia coli (uncomplicated uropathogens)",
+        "Klebsiella pneumoniae",
+        "Proteus mirabilis",
+        "Neisseria gonorrhoeae"
+      ],
+      "anaerobic": false,
+      "atypical": false,
+      "pseudomonal": false,
+      "mrsa_active": false
+    },
+    "who_aware_classification": "Watch",
+    "pk_pd_index": "T > MIC (Time-dependent)",
+    "main_cause": "Pediatric & Geriatric Acute Otitis Media (AOM), Community-Acquired Lower Respiratory Tract Infections (Pneumonia, Acute Bronchitis), Acute Maxillary Sinusitis, Streptococcal Pharyngitis / Tonsillitis, Uncomplicated Urinary Tract Infections in Children (>= 2 Months of Age), Outpatient Step-Down Following Parenteral 3rd-Generation Cephalosporins",
+    "why_this_disease_happens": "In pediatric and geriatric populations, upper respiratory tract infections (acute otitis media, acute rhinosinusitis) and pneumonia are predominantly caused by encapsulated or mucosal-adapted bacterial pathogens: Streptococcus pneumoniae, non-typeable Haemophilus influenzae, and Moraxella catarrhalis. In infants and young children, the anatomical horizontal orientation and shorter length of the Eustachian tube facilitate negative pressure aspiration of nasopharyngeal bacteria into the middle ear cleft. Bacteria adhere to respiratory epithelial cells, replicating and shedding cell wall peptidoglycan fragments that stimulate toll-like receptors (TLRs). This unleashes high concentrations of pro-inflammatory cytokines (IL-1, IL-6, TNF-alpha), driving purulent middle ear effusion, tympanic membrane erythema and bulging, high pyrexia, and intense otalgia. Many strains produce beta-lactamase enzymes or alter penicillin-binding protein configurations, reducing the efficacy of early-generation aminopenicillins. Furthermore, traditional film-coated tablets present a major choking hazard in children and elderly patients with dysphagia, while liquid suspensions often suffer from poor parent reconstitution accuracy, short 7-day shelf-lives, and cold-chain storage failures. A fast-disintegrating dispersible tablet ensures accurate, weight-adjusted dosing with immediate liquid conversion without requiring continuous refrigeration.",
+    "how_this_medicine_fights_it": "Provides bactericidal cell wall synthesis inhibition via high-affinity PBP-3 transpeptidase acylation, delivered as a micro-encapsulated fast-dissolving prodrug matrix: (1) Rapid Aqueous Dispersion & Taste Masking: The dispersible tablet (DT) is formulated with superdisintegrants (such as crospovidone or sodium starch glycolate) and flavor-masking sweetening agents. When placed into 5 to 10 mL of water, capillary wicking causes rapid tablet swelling and complete disintegration within 60 seconds into a homogeneous, micro-fine suspension. Cefpodoxime proxetil particles are micro-encapsulated or cyclodextrin-complexed to mask the extreme intrinsic bitterness of the free drug, ensuring pediatric compliance. (2) Lipophilic Prodrug Absorption & Intestinal De-esterification: Cefpodoxime proxetil is the lipophilic 1-(isopropoxycarbonyloxy)ethyl ester prodrug of cefpodoxime. In the proximal gastrointestinal tract, the nonpolar proxetil ester facilitates passive mucosal uptake across the brush border. Within the intestinal mucosal cells, non-specific mucosal esterases rapidly cleave the proxetil ester into active free cefpodoxime, releasing carbon dioxide, acetaldehyde, and isopropanol. (3) Transpeptidase Acylation & Osmotic Lysis (Active Cefpodoxime): Free cefpodoxime diffuses into bacterial periplasmic spaces and binds with high affinity to essential Penicillin-Binding Proteins—principally PBP-3, PBP-1a, and PBP-1b in Gram-negative bacteria and PBP-2x/PBP-2a in Streptococci. It acylates the active-site serine transpeptidase domain, arresting the cross-linking of peptidoglycan pentapeptide chains. The weakened bacterial cell wall ruptures under internal osmotic turgor pressure, activating endogenous murein autolysins and causing rapid bacterial cell death. (4) Balanced Gram-Positive & Gram-Negative Activity: Unlike Cefixime, cefpodoxime possesses significant binding affinity for PBP-2 in Staphylococcus aureus, maintaining reliable bactericidal activity against Methicillin-Susceptible Staphylococcus aureus (MSSA) as well as Streptococcus pneumoniae.",
+    "drug_class": "Third-Generation Oral Cephalosporin (Ester Prodrug) / Fast-Disintegrating Dispersible Antibacterial",
+    "main_action": "Disintegrates rapidly in water for easy swallowing, absorbing as an ester prodrug that hydrolyzes to active cefpodoxime, which acylates bacterial PBP-3 to block peptidoglycan cross-linking and induce osmotic lysis.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Acute Otitis Media (AOM) in children (>= 2 months) failing or allergic to amoxicillin (10 mg/kg/day divided every 12 hours for 5 to 10 days)",
+      "Mild to moderate Community-Acquired Pneumonia (CAP) in pediatric and dysphagic adult patients (100mg to 200mg twice daily)",
+      "Acute bacterial maxillary sinusitis and recurrent streptococcal tonsillopharyngitis (100mg every 12 hours)",
+      "Uncomplicated urinary tract infections (cystitis) in pediatric patients",
+      "Uncomplicated skin and soft-tissue infections (impetigo, folliculitis, cellulitis caused by MSSA or Strep pyogenes)",
+      "Dysphagia-friendly oral continuation therapy following IV ceftriaxone stabilization in hospitalized patients"
+    ],
+    "how_patients_describe_symptoms": [
+      "My child had a high fever and was crying from severe ear pain due to an ear infection; this small tablet dissolved quickly in a spoonful of water and was easy to give without fighting.",
+      "My elderly mother has difficulty swallowing large capsules; dissolving this 100mg tablet in a little water cleared her bacterial chest infection smoothly.",
+      "The doctor prescribed these sweet-tasting dissolvable tablets for my child's severe strep throat; the fever cleared completely within three days."
+    ],
+    "reconstitution_and_dilution": "Supplied as round, white to off-white, fruit-flavored dispersible tablets containing Cefpodoxime Proxetil equivalent to 100 mg (or 50 mg in pediatric-specific packs) of anhydrous cefpodoxime. No complex pharmaceutical compounding required. Administration Preparation Mandate: DISPERSE THE TABLET IN 5 TO 10 ML (1 TO 2 TEASPOONS) OF BOILED AND COOLED WATER, MILK, OR INFANT FORMULA IMMEDIATELY BEFORE ADMINISTRATION. Gently swirl until completely and uniformly dispersed (disintegrates within 60 seconds). Administer the entire liquid dispersion immediately. DO NOT PREPARE IN ADVANCE OR STORE FOR FUTURE DOSES. Alternatively, in older children and adults capable of swallowing, the tablet may be swallowed whole with water. Storage Mandate: Store below 25°C in original aluminum-aluminum (Alu-Alu) moisture-barrier blister strips; protect from heat, humidity, and direct sunlight.",
+    "infusion_rate_and_timing": "Oral Administration Only. Administration Timing Rule: MUST BE ADMINISTERED WITH OR IMMEDIATELY FOLLOWING A MEAL (OR MILK FEEDING IN INFANTS). Co-administration with food enhances prodrug gastrointestinal dissolution and increases systemic bioavailability from ~50% fasting up to ~65% to 70%. Pediatric Dosing (2 months to 11 years): 10 mg/kg/day of cefpodoxime divided into two equal doses every 12 hours (maximum: 200 mg/dose, 400 mg/day). Dosing in Adolescents and Adults (>= 12 years): 100 mg to 200 mg orally every 12 hours with meals for 5 to 14 days based on clinical indication.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Pediatric patients aged 2 months and older presenting with acute otitis media, sinusitis, pharyngitis, or mild community-acquired pneumonia",
+        "Geriatric and adult patients with swallowing difficulties (dysphagia, post-stroke) requiring broad-spectrum oral cephalosporin coverage",
+        "Patients requiring outpatient step-down therapy following initial IV Ceftriaxone or Cefotaxime response",
+        "Pregnant women with susceptible respiratory or urinary infections when indicated (FDA Category B; crosses placenta safely)"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Absolute Contraindication: Infants younger than 2 months of age (safety and pharmacokinetics have not been established)",
+        "Absolute Contraindication: Severe, immediate IgE-mediated anaphylaxis, angioedema, or urticaria to cephalosporins or penicillins",
+        "Infections caused by Methicillin-Resistant Staphylococcus aureus (MRSA) or Pseudomonas aeruginosa (cefpodoxime is completely inactive)",
+        "Patients with severe renal impairment (Creatinine Clearance < 30 mL/min) without interval extension (prolong interval to every 24 hours)",
+        "Concurrent administration with high-dose antacids or H2-blockers without a minimum 2-hour interval separation"
+      ]
+    },
+    "common_side_effects": [
+      "Gastrointestinal: diarrhea (common in children, 5% to 10%), loose stools, and mild abdominal cramping",
+      "Nausea, vomiting, and decreased appetite in pediatric patients",
+      "Dermatologic: diaper rash (candidal superinfection in infants), maculopapular rash, and pruritus",
+      "Central nervous system: headache, irritability, or restlessness in young children",
+      "Oral candidiasis (oral thrush) secondary to commensal mucosal flora suppression",
+      "Transient biochemical shifts: asymptomatic elevation in serum ALT, AST, or eosinophilia"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "Immediate Administration Post-Dispersion Mandate: Dispersible tablets are designed to break down rapidly into an unstabilized micro-suspension. ONCE DISPERSED IN WATER OR MILK, THE MIXTURE MUST BE CONSUMED IMMEDIATELY (WITHIN 5 MINUTES). Leaving the dispersed mixture sitting in a cup or syringe leads to precipitation, agglomeration, and chemical hydrolysis of the proxetil ester, resulting in inaccurate dosing and poor absorption. Never save leftover dispersed liquid for the next dose.",
+      "Mandatory Co-Ingestion with Food or Milk: Cefpodoxime proxetil requires lipid- and protein-mediated gastric transit for optimal dissolution and transmucosal bioavailability. Fasting administration reduces systemic absorption by approximately 30% to 35%, which can lower serum and middle ear fluid levels below the minimum inhibitory concentration (MIC). INSTRUCT PARENTS AND CAREGIVERS TO ADMINISTER THE DISPERSED TABLET IMMEDIATELY AFTER A FEEDING OR MEAL.",
+      "Interaction with Gastric Acid Reducers: Absorption of cefpodoxime proxetil requires an acidic intragastric environment. Co-administration with aluminum/magnesium antacids, sodium bicarbonate, or H2-receptor antagonists (such as Famotidine) raises gastric pH, decreasing oral bioavailability and peak plasma concentrations by up to 30% to 40%. Separate administration by at least 2 hours.",
+      "Cefpodoxime vs. Cefixime (MSSA Coverage Advantage): In acute otitis media and respiratory infections, Staphylococcus aureus is a potential co-pathogen. While oral Cefixime has virtually no reliable bactericidal activity against S. aureus, Cefpodoxime Proxetil retains potent activity against Methicillin-Susceptible Staphylococcus aureus (MSSA) as well as higher affinity for Streptococcus pneumoniae PBPs, making it a stronger empirical choice for pediatric ENT and lower respiratory infections.",
+      "Strict Renal Dose Adjustment Schedule: Cefpodoxime is eliminated predominantly (>80%) unchanged by glomerular filtration. In pediatric or adult patients with significant renal impairment, dosing frequency must be extended: CrCl >= 30 mL/min: Standard dose every 12 hours; CrCl 10 to 29 mL/min: Extend interval to once every 24 hours (100mg once daily); CrCl < 10 mL/min: Extend interval to once every 48 hours; Hemodialysis: Administer standard dose once every 48 hours immediately following each dialysis session.",
+      "Clostridioides difficile Colitis Surveillance: Like all broad-spectrum third-generation cephalosporins, cefpodoxime disrupts normal gut anaerobes and commensal microflora. If a child or elderly patient develops persistent watery diarrhea, fever, or abdominal distension during or up to 6 weeks after treatment, evaluate immediately for C. difficile toxins; anti-motility agents (Loperamide) are strictly contraindicated."
+    ]
+  },
+  {
+    "id": "cefixime-tablets-ip-200mg",
+    "name": "Cefixime Tablets IP (200mg)",
+    "generic_names": [
+      "Cefixime Tablets IP 200mg",
+      "Cefixime Trihydrate 200mg",
+      "Zifi 200",
+      "Taxim-O 200",
+      "Mahacef 200",
+      "Cefolac 200",
+      "Omnix 200",
+      "Milixim 200",
+      "Suprax 200mg"
+    ],
+    "category": [
+      "Antibiotics",
+      "Infections & Parasites",
+      "Respiratory",
+      "Gastrointestinal"
+    ],
+    "sub_category": "Third-Generation Oral Extended-Spectrum Cephalosporin & Penicillin-Binding Protein-3 (PBP-3) Inhibitor",
+    "company_name": "CX2",
+    "amount": "105/- (Strip of 10 Film-Coated / Dispersible Tablets - 200mg)",
+    "routes_of_administration": [
+      "Oral (Per Os - Swallowed Whole with Water or Dispersed in Water if DT Formulation, With or Without Food)"
+    ],
+    "antimicrobial_spectrum": {
+      "gram_positive": [
+        "Streptococcus pneumoniae (penicillin-susceptible strains)",
+        "Streptococcus pyogenes (Group A beta-hemolytic Strep)",
+        "Streptococcus agalactiae (Group B Strep)"
+      ],
+      "gram_negative": [
+        "Salmonella enterica serovar Typhi (Enteric / Typhoid Fever)",
+        "Salmonella paratyphi A, B, C",
+        "Escherichia coli (uropathogenic strains)",
+        "Klebsiella pneumoniae",
+        "Proteus mirabilis",
+        "Haemophilus influenzae (ampicillin-susceptible and beta-lactamase positive)",
+        "Moraxella catarrhalis",
+        "Neisseria gonorrhoeae (including penicillinase-producing strains)",
+        "Shigella sonnei and flexneri"
+      ],
+      "anaerobic": false,
+      "atypical": false,
+      "pseudomonal": false,
+      "mrsa_active": false
+    },
+    "who_aware_classification": "Watch",
+    "pk_pd_index": "T > MIC (Time-dependent)",
+    "main_cause": "Uncomplicated and Complicated Enteric / Typhoid Fever (Salmonella enterica serovar Typhi), Acute Uncomplicated Urinary Tract Infections (Cystitis) & Pyelonephritis, Acute Exacerbations of Chronic Bronchitis (AECB), Acute Otitis Media & Maxillary Sinusitis, Uncomplicated Urogenital Gonococcal Infections (Neisseria gonorrhoeae), Outpatient Step-Down Therapy Following Parenteral Ceftriaxone",
+    "why_this_disease_happens": "Infectious enteric fever, ascending urinary tract infections, and acute respiratory tract exacerbations are driven by invasive Gram-negative Enterobacterales and mucosal pathogens. In typhoid fever, Salmonella enterica serovar Typhi penetrates the intestinal epithelial barrier via microfold (M) cells overlying Peyer's patches, surviving inside mesenteric macrophages to seed the bloodstream, liver, and biliary tree. Strains often carry plasmid-borne resistance determinants or single-point gyrA mutations that confer high-level resistance to older fluoroquinolones (NARST phenotypes). In acute cystitis and pyelonephritis, uropathogenic Escherichia coli (UPEC) utilize type 1 and P fimbriae to adhere to uroplakin receptors on uroepithelial umbrella cells, establishing intracellular bacterial communities. Replicating bacteria shed endotoxic lipopolysaccharide (LPS), stimulating TLR4 receptors and inducing intense mucosal neutrophil infiltration, dysuria, pyuria, and suprapubic pain. Furthermore, many outpatient strains produce classic plasmid-mediated TEM-1 and SHV-1 beta-lactamases that rapidly destroy simple aminopenicillins. Eradicating these mucosal and systemic pathogens requires an orally bioavailable, beta-lactamase-stable third-generation cephalosporin with prolonged serum elimination half-life and concentrated biliary and urinary excretion.",
+    "how_this_medicine_fights_it": "Provides bactericidal cell wall synthesis arrest via high-affinity PBP-3 transpeptidase acylation and osmotic lysis, mediated by its unique beta-lactamase-stable vinyl and oxyimino molecular configuration: Cefixime ((6R,7R)-7-[[(2Z)-2-(2-amino-1,3-thiazol-4-yl)-2-(carboxymethoxyimino)acetyl]amino]-3-ethenyl-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid) is an orally active third-generation cephalosporin: (1) Porin Translocation & High-Affinity PBP-3 Inactivation: Cefixime traverses outer membrane porin channels (OmpF and OmpC) in Gram-negative bacteria and binds covalently with high affinity to essential Penicillin-Binding Proteins—predominantly PBP-3, PBP-1a, and PBP-1b. Acylation of active-site serine transpeptidase domains halts cross-linking of adjacent peptidoglycan pentapeptide chains during bacterial septation. (2) Autolysin Induction & Osmotic Lysis: Arrest of peptidoglycan synthesis weakens the rigid bacterial sacculus against internal osmotic turgor pressure. This structural failure unmasks and activates endogenous bacterial murein autolysins and amidases, leading to filamentation, spheroplast formation, and rapid bactericidal osmotic lysis. (3) (Z)-Carboxymethoxyimino & Vinyl Group Stability: The presence of a syn-(Z)-carboxymethoxyimino group at the 7-position side chain provides steric hindrance that protects the core beta-lactam ring from catalytic hydrolysis by class A (TEM, SHV) and class C plasmid-mediated beta-lactamases. Concurrently, the 3-vinyl substituent at the cephem nucleus enhances chemical stability and facilitates non-prodrug oral absorption. (4) Extended Elimination Half-Life: Cefixime exhibits an elimination half-life of 3 to 4 hours in individuals with normal renal function (extended compared to other oral beta-lactams), enabling once-daily or twice-daily dosing regimens. (5) Staphylococcal Target Insufficiency: Cefixime exhibits poor binding affinity for PBP-2 in Staphylococcus aureus, rendering it essentially inactive against both MSSA and MRSA.",
+    "drug_class": "Third-Generation Oral Cephalosporin / Beta-Lactam Bactericidal Antibacterial",
+    "main_action": "Binds and acylates bacterial Penicillin-Binding Protein 3 (PBP-3) to halt peptidoglycan cell wall cross-linking and induce osmotic lysis, resisting beta-lactamases via its syn-oxyimino steric configuration.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Uncomplicated and multi-drug resistant Enteric (Typhoid) Fever (200mg orally twice daily or 400mg once daily for 7 to 14 days)",
+      "Acute uncomplicated urinary tract infections (cystitis) and acute uncomplicated pyelonephritis caused by E. coli or Proteus mirabilis (200mg twice daily or 400mg once daily)",
+      "Acute bacterial exacerbations of chronic bronchitis (AECB) caused by Streptococcus pneumoniae, Haemophilus influenzae, or Moraxella catarrhalis (400mg daily)",
+      "Acute otitis media and acute maxillary rhinosinusitis in adolescents and adults",
+      "Uncomplicated urogenital and anorectal Gonorrhea caused by Neisseria gonorrhoeae (single oral dose of 400mg or 800mg co-prescribed with azithromycin/doxycycline)",
+      "Outpatient oral step-down continuation therapy following initial stabilization on parenteral Ceftriaxone IV"
+    ],
+    "how_patients_describe_symptoms": [
+      "I had a continuous high fever, chills, and stomach pain diagnosed as typhoid; taking this tablet twice a day broke my fever within four days.",
+      "My severe bladder infection caused burning pain and constant urgency; this antibiotic cleared my urinary pain completely by the second day.",
+      "Following my hospital stay for a kidney infection where I received IV antibiotics, the physician gave me this oral tablet to finish my treatment safely at home."
+    ],
+    "reconstitution_and_dilution": "Supplied ready-to-administer as white to off-white, film-coated tablets or scored dispersible tablets containing Cefixime Trihydrate equivalent to 200 mg (also manufactured in 100 mg and 400 mg strengths) of anhydrous cefixime. Standard Film-Coated Tablets: Swallow whole with a glass of water; do not crush or chew. Dispersible Tablets (DT): If using a designated dispersible tablet (DT), disperse the tablet in 5 to 10 mL (1 to 2 teaspoons) of boiled and cooled drinking water immediately prior to administration; swirl gently until completely dispersed and drink immediately. Storage Mandate: Store below 25°C to 30°C in the original moisture-barrier aluminum-aluminum blister packs. Protect from excessive humidity and direct light.",
+    "infusion_rate_and_timing": "Oral Administration Only. Administration Timing Rule: May be taken with or without food. Unlike ester-prodrug cephalosporins (cefpodoxime proxetil, cefuroxime axetil) which require post-prandial ingestion for adequate bioavailability, native cefixime absorption is not significantly affected by food intake, though taking it with meals reduces potential gastrointestinal upset. Standard Adult Dosing (>= 12 years or body weight > 45 kg): 200 mg orally TWICE DAILY (every 12 hours) or 400 mg orally ONCE DAILY (every 24 hours) for 7 to 14 days based on clinical indication. Single-Dose Gonorrhea Protocol: 400 mg or 800 mg orally as a single stat dose.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adult and adolescent patients (>= 12 years) presenting with confirmed or suspected enteric fever, uncomplicated cystitis, or acute bronchitis",
+        "Patients with acute typhoid fever resistant to fluoroquinolones (NARST strains) where oral therapy is suitable",
+        "Hospitalized patients ready for oral discharge following successful treatment with intravenous ceftriaxone",
+        "Pregnant women presenting with uncomplicated urinary tract infections or acute bronchitis (FDA Pregnancy Category B; crosses placenta without teratogenicity)"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Absolute Contraindication: Severe, immediate IgE-mediated hypersensitivity (anaphylaxis, angioedema, urticaria) to cephalosporins or penicillins",
+        "Staphylococcal Infections: Cefixime lacks adequate intrinsic activity against Staphylococcus aureus (both MSSA and MRSA); contraindicated for staphylococcal skin infections or boils",
+        "Infections caused by Pseudomonas aeruginosa, Acinetobacter, or Enterococci (exhibits zero intrinsic activity)",
+        "Patients with severe renal impairment (Creatinine Clearance < 20 mL/min) without dose or interval reduction (delayed clearance increases neurotoxicity and seizure risk)",
+        "Pediatric patients under 6 months of age (safety and pharmacokinetic profiles have not been established)"
+      ]
+    },
+    "common_side_effects": [
+      "Gastrointestinal: diarrhea (common, 8% to 15%), loose stools, abdominal cramping, and flatulence",
+      "Gastrointestinal nausea, dyspepsia, epigastric discomfort, or mild vomiting",
+      "Central nervous system: headache, lightheadedness, or mild dizziness",
+      "Dermatologic: maculopapular rash, pruritus, or mild drug-induced urticaria",
+      "Oral or vaginal candidiasis (thrush) secondary to suppression of commensal microflora",
+      "Transient biochemical shifts: asymptomatic elevation in serum liver transaminases (ALT, AST), BUN, or mild eosinophilia"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "The Staphylococcal Gap Warning (MSSA Inactivity): Cefixime exhibits poor binding affinity for Penicillin-Binding Protein 2 (PBP-2) of Staphylococcus aureus. CEFIXIME POSSESSES VIRTUALLY NO RELIABLE CLINICAL ACTIVITY AGAINST STAPHYLOCOCCUS AUREUS (NEITHER MSSA NOR MRSA). Cefixime must NEVER be prescribed for cutaneous cellulitis, folliculitis, carbuncles, wound infections, or pneumonia where S. aureus is a suspected or confirmed pathogen; use Cefuroxime axetil, Cefpodoxime proxetil, or Amoxicillin-Clavulanate instead.",
+      "Clostridioides difficile Colitis Surveillance: Due to broad-spectrum suppression of gut commensal microflora and incomplete upper GI absorption (approx 40% to 50% unabsorbed drug reaches the colon), cefixime carries an established propensity to induce antibiotic-associated diarrhea and Clostridioides difficile-associated diarrhea (CDAD) / pseudomembranous colitis. If a patient develops persistent watery diarrhea (>4 to 6 loose stools/day), fever, or abdominal cramping during or up to 2 months post-therapy, evaluate for C. difficile toxins; anti-motility drugs (Loperamide) are contraindicated.",
+      "Strict Renal Dose Adjustment Titration: Cefixime is cleared approximately 50% unchanged by the kidneys via glomerular filtration. In patients with renal failure, the elimination half-life is extended from 3.5 hours up to 11.5 hours: CrCl >= 60 mL/min: Standard dose (200mg twice daily or 400mg once daily); CrCl 20 to 59 mL/min: Reduce dose to 200mg once every 24 hours (or 75% of standard dose); CrCl < 20 mL/min: Reduce dose to 200mg once every 48 hours (or 100mg once every 24 hours); Hemodialysis: 200mg once every 48 hours, administered post-dialysis on dialysis days (hemodialysis removes <10% of circulating cefixime).",
+      "Food Independence vs. Prodrug Cephalosporins: Unlike cefpodoxime proxetil and cefuroxime axetil (which are lipophilic ester prodrugs requiring food intake for acceptable bioavailability), cefixime is absorbed in its native active form. Food slightly delays the rate of absorption (Tmax increases by 0.8 hours) but does not significantly reduce total AUC. Cefixime can be administered without regard to meals, though taking it with food reduces gastrointestinal irritation.",
+      "WHO AWaRe Watch Group Antimicrobial Stewardship: Cefixime is categorized under the WHO 'Watch' classification. Oral third-generation cephalosporins should be preserved for clinical situations with documented resistance to first-line agents (such as fluoroquinolone-resistant enteric fever or complicated beta-lactamase uropathogens) to curb the emergence of Extended-Spectrum Beta-Lactamase (ESBL) Enterobacterales."
+    ]
+  },
+  {
+    "id": "tedizolid-phosphate-tablets-200mg",
+    "name": "Tedizolid Phosphate Tablets (200mg)",
+    "generic_names": [
+      "Tedizolid Phosphate Film-Coated Tablets 200mg",
+      "Sivextro 200mg Tablets",
+      "Tedizolid Oral",
+      "TR-701"
+    ],
+    "category": ["Antibiotics", "Infections & Parasites", "Dermatology"],
+    "sub_category": "Second-Generation Oxazolidinone Antibacterial & 50S Ribosomal 70S Initiation Complex Inhibitor Prodrug",
+    "company_name": "TZ1",
+    "amount": "2,450/- (Pack of 6 Film-Coated Tablets - 200mg)",
+    "routes_of_administration": [
+      "Oral (Per Os - Swallowed Whole with Water, With or Without Food)"
+    ],
+    "antimicrobial_spectrum": {
+      "gram_positive": [
+        "Staphylococcus aureus (including Methicillin-Resistant MRSA & MSSA)",
+        "Streptococcus pyogenes (Group A beta-hemolytic Strep)",
+        "Streptococcus agalactiae (Group B Strep)",
+        "Streptococcus anginosus group (S. anginosus, S. constellatus, S. intermedius)",
+        "Enterococcus faecalis (vancomycin-susceptible and select VRE strains)"
+      ],
       "gram_negative": [],
       "anaerobic": true,
       "atypical": false,
       "pseudomonal": false,
       "mrsa_active": true
     },
-    "main_cause": "HAP/VAP caused by MRSA, Vancomycin-Resistant Enterococcus (VRE) bacteremia",
-    "main_action": "Binds 23S rRNA of the 50S subunit, preventing 70S initiation complex assembly and halting toxin release.",
-    "routes_of_administration": [
-      "Slow IV Piggyback Infusion over 30 to 120 minutes"
+    "who_aware_classification": "Reserve",
+    "pk_pd_index": "AUC24 / MIC (4- to 8-fold greater in vitro potency than linezolid)",
+    "main_cause": "Acute Bacterial Skin and Skin Structure Infections (ABSSSI) Caused by Susceptible Gram-Positive Pathogens, Cellulitis / Erysipelas with Methicillin-Resistant Staphylococcus aureus (MRSA), Major Cutaneous Abscesses and Infected Surgical Incisions, Diabetic Foot Ulcers with Susceptible Staphylococci and Streptococci, Step-Down Oral Therapy Following Intravenous Tedizolid Phosphate Infusion",
+    "why_this_disease_happens": "Acute bacterial skin and skin structure infections (ABSSSI) present significant morbidity in ambulatory and hospitalized settings, predominantly driven by Methicillin-Resistant Staphylococcus aureus (MRSA) and pyogenic Streptococci. Pathogenic MRSA strains produce specialized adhesins (microbial surface components recognizing adhesive matrix molecules, MSCRAMMs) that mediate tight binding to exposed dermal extracellular fibronectin and collagen. Furthermore, virulent community-associated MRSA isolates frequently produce destructive exotoxins—specifically Panton-Valentine Leukocidin (PVL), alpha-hemolysin, and exfoliative toxins—which form heptameric transmembrane pores in polymorphonuclear leukocytes and dermal keratinocytes, precipitating rapid tissue necrosis, extensive microvascular thrombosis, purulence, and spreading erythema. First-generation oxazolidinones such as Linezolid require high, twice-daily dosing (600 mg every 12 hours) over 10 to 14 days, which is frequently limited by treatment-emergent mitochondrial protein synthesis inhibition, cumulative myelosuppression (thrombocytopenia, anemia), and non-selective monoamine oxidase (MAO) inhibition leading to drug-drug interactions with serotonergic agents. Resolving refractory MRSA skin infections while mitigating bone marrow toxicity and drug interactions necessitates a next-generation oxazolidinone with higher intrinsic binding potency, enabling once-daily micro-dosing (200 mg) over an ultra-short 6-day course.",
+    "how_this_medicine_fights_it": "Provides targeted bacterial protein translation arrest via high-affinity steric inhibition of the 50S ribosomal 70S initiation complex, mediated through rapid in vivo dephosphorylation of an ester prodrug: (1) In Vivo Prodrug Biotransformation: Tedizolid phosphate (TR-701) is the water-soluble dihydrogen phosphate ester prodrug of the microbiologically active moiety tedizolid (TR-700). Following oral administration, the polar phosphate group is rapidly and completely hydrolyzed by endogenous non-specific alkaline phosphatases present in the intestinal brush border membrane and vascular endothelium, releasing free, lipophilic tedizolid into the systemic circulation with an absolute oral bioavailability exceeding 90%. (2) High-Affinity 23S rRNA Binding on the 50S Ribosomal Subunit: Active tedizolid is a second-generation synthetic oxazolidinone featuring a modified C5-hydroxymethyl group and a biaryl pyridine ring system. It crosses bacterial cell envelopes and binds stereospecifically to domain V of the 23S ribosomal RNA within the peptidyl transferase center of the large 50S ribosomal subunit. The pyridine-isoxazole ring architecture provides additional hydrophobic and hydrogen-bonding interactions with ribosomal base pairs that are absent in linezolid, conferring a 4- to 8-fold higher binding affinity and in vitro potency against staphylococci, enterococci, and streptococci. (3) 70S Functional Initiation Complex Blockade: Binding within the ribosomal catalytic cleft sterically distorts the ribosomal P-site. This blocks the incoming N-formylmethionyl-tRNA (fMet-tRNA) from aligning with the 30S initiation subunit and mRNA transcript, terminating assembly of the functional 70S initiation complex before peptide chain translation can initiate. (4) Suppression of Virulence Factors: By halting protein translation at the initiation phase, tedizolid suppresses the de novo synthesis of critical staphylococcal exotoxins (PVL, alpha-toxin, toxic shock syndrome toxin-1), attenuating dermal tissue necrosis. (5) Linezolid Cross-Resistance Profile (Cfr Methyltransferase Stability): Because tedizolid establishes unique complementary bonding contacts within domain V of the 23S rRNA, it retains antimicrobial activity against select linezolid-resistant staphylococcal isolates carrying the plasmid-borne cfr chloramphenicol-florfenicol-oxazolidinone rRNA methyltransferase gene.",
+    "drug_class": "Second-Generation Oxazolidinone / Ribosomal 50S Protein Synthesis Inhibitor Prodrug",
+    "main_action": "Hydrolyzes rapidly in vivo to tedizolid, which binds domain V of the 23S rRNA on the 50S ribosomal subunit with 4- to 8-fold higher affinity than linezolid, blocking assembly of the functional 70S initiation complex in a once-daily, 6-day regimen.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Acute Bacterial Skin and Skin Structure Infections (ABSSSI) in adult and pediatric patients aged 12 years and older (200mg orally once daily for 6 consecutive days)",
+      "Complicated cellulitis, erysipelas, and spreading cutaneous wound infections caused by Methicillin-Resistant Staphylococcus aureus (MRSA) or Streptococcus pyogenes",
+      "Major cutaneous abscesses with surrounding cellulitis following surgical incision and drainage",
+      "Infected traumatic skin lesions and severe diabetic foot soft-tissue infections with documented Gram-positive pathogens",
+      "Oral step-down continuation therapy following initial intravenous Tedizolid Phosphate (200mg IV once daily) infusion",
+      "Alternative therapy for MRSA soft-tissue infections in patients at high risk of linezolid-induced thrombocytopenia or taking mild serotonergic agents under specialist supervision"
     ],
-    "reconstitution_and_dilution": "Ready-to-use 300 mL container (600 mg). Do not dilute further.",
-    "infusion_rate_and_timing": "600 mg IV every 12 hours infused over 60 minutes.",
+    "how_patients_describe_symptoms": [
+      "I had a rapidly spreading, painful, bright red skin infection on my leg caused by MRSA; taking just one small yellow tablet a day for six days cleared the swelling completely.",
+      "Following emergency drainage of a deep skin abscess, the surgeon prescribed this once-daily antibiotic instead of a two-week hospital drip, which cleared the wound cleanly.",
+      "My diabetic foot wound developed a resistant staph infection; this 6-day oral tablet course resolved the infection without upsetting my stomach or causing low blood platelet counts."
+    ],
+    "reconstitution_and_dilution": "Supplied ready-to-administer as yellow, oval, film-coated tablets debossed with 'TZD' on one side and '200' on the reverse, containing 200 mg Tedizolid Phosphate (equivalent to 175 mg of active free tedizolid). No liquid reconstitution or dissolution required. Storage Mandate: Store at 20°C to 25°C (excursions permitted between 15°C and 30°C) in the original blister packaging protected from high humidity and light. Tablets must be swallowed whole with water; do not crush, split, or chew.",
+    "infusion_rate_and_timing": "Oral Administration Only. Administration Timing Rule: Administer 200 mg orally ONCE DAILY (every 24 hours), with or without food. Bioavailability is independent of food intake (~91% fasting or fed). Mandatory Ultra-Short Treatment Duration: The standard approved course is exactly 6 CONSECUTIVE DAYS (Total = 6 tablets). Unlike linezolid (which requires 10 to 14 days of twice-daily therapy), extending tedizolid beyond 6 days has not been demonstrated to improve clinical cure rates in uncomplicated ABSSSI and increases unnecessary drug exposure.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults and adolescents (>= 12 years of age and body weight >= 35 kg) presenting with acute bacterial skin and skin structure infections caused by susceptible Gram-positive cocci",
+        "Patients requiring outpatient MRSA-active therapy with a convenient once-daily, short 6-day oral dosing schedule",
+        "Patients with mild, moderate, or severe renal impairment (including end-stage renal disease and hemodialysis; NO DOSE ADJUSTMENT IS REQUIRED)",
+        "Patients with mild, moderate, or severe hepatic impairment (Child-Pugh Class A, B, or C; NO DOSE ADJUSTMENT IS REQUIRED)",
+        "Patients who cannot tolerate vancomycin nephrotoxicity or who require rapid step-down discharge from inpatient intravenous therapy"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Absolute Contraindication: Known severe hypersensitivity to tedizolid phosphate, tedizolid, or other oxazolidinone class antibacterials",
+        "Pediatric patients under 12 years of age or weighing less than 35 kg (safety, pharmacokinetics, and dosing have not been established)",
+        "Patients with severe neutropenia (Absolute Neutrophil Count < 1000 cells/mcL; bactericidal efficacy is reduced in animal models of neutropenic infection, as oxazolidinones are predominantly bacteriostatic)",
+        "Gram-Negative Bacterial Infections: Tedizolid possesses zero antimicrobial activity against aerobic Gram-negative bacilli (Pseudomonas, Enterobacterales); empiric coverage for polymicrobial diabetic foot wounds requires co-prescription of a Gram-negative agent",
+        "Patients receiving concurrent high-dose monoamine oxidase inhibitors (MAOIs) or potent serotonergic regimens without close monitoring"
+      ]
+    },
     "common_side_effects": [
-      "Thrombocytopenia (>14 days)",
-      "Nausea",
-      "Headache",
-      "Optic/peripheral neuropathy (>28 days)"
+      "Gastrointestinal: nausea (common, ~8%), diarrhea (~4%), vomiting, and mild dyspepsia",
+      "Central nervous system: headache (common, ~6%), dizziness, and fatigue",
+      "Dermatologic: generalized pruritus, mild maculopapular rash, or hyperhidrosis",
+      "Oral fungal overgrowth / candidiasis (uncommon with the 6-day duration)",
+      "Transient laboratory shifts: asymptomatic mild elevations in serum ALT, AST, or bilirubin",
+      "Minimal hematologic shifts: substantially lower incidence of thrombocytopenia (<2%) compared to linezolid within the approved 6-day course"
     ],
     "important_cautions": [
-      "Serotonin Syndrome risk: Weak reversible MAO-inhibitor; avoid concurrent SSRIs/SNRIs.",
-      "Check weekly CBC for myelosuppression if therapy extends past 10–14 days."
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "The 6-Day Course Advantage & Myelosuppression Safety: A major limitation of linezolid is cumulative, time-dependent bone marrow suppression (thrombocytopenia, anemia, leukopenia), which escalates sharply after 10 to 14 days of therapy due to mitochondrial protein synthesis inhibition. Tedizolid phosphate achieves equivalent or superior microbiological cure in acute skin infections with an ULTRA-SHORT 6-DAY REGIMEN (200 mg once daily vs. Linezolid 600 mg twice daily for 10-14 days). Across phase-3 clinical trials (ESTABLISH-1 and ESTABLISH-2), treatment-emergent platelet drops below 100,000 cells/mcL were comparable to placebo and significantly lower than with linezolid.",
+      "Reversible MAO Inhibition & Serotonin Syndrome Surveillance: Like all oxazolidinones, tedizolid is a reversible, competitive inhibitor of Monoamine Oxidase (MAO-A and MAO-B) in vitro. However, because of its once-daily micro-dosing (200 mg/day vs. Linezolid 1200 mg/day) and lower steady-state plasma concentrations, the in vivo propensity to precipitate Serotonin Syndrome when co-administered with SSRIs, SNRIs, or triptans is substantially lower than with linezolid. Nevertheless, co-administration with serotonergic psychiatric medications, tricyclics, or indirect sympathomimetics requires monitoring for signs of serotonergic hyperactivity (tremor, clonus, diaphoresis, hyperpyrexia, agitation).",
+      "Absence of Significant Tyramine Pressor Sensitivity: In dedicated clinical pharmacology studies, therapeutic doses of tedizolid phosphate did NOT meaningful increase the pressor sensitivity to oral tyramine (the 'cheese effect'). Tyramine dietary restrictions (avoidance of aged cheeses, red wines, tap beers) are generally not required during the 6-day tedizolid treatment course, unlike linezolid.",
+      "Zero Renal & Hepatic Dose Adjustment Advantage: Tedizolid is eliminated primarily via the liver and biliary tract, undergoing non-CYP hepatic biotransformation to an inactive sulfate conjugate excreted in feces (~82%) and urine (~18%). Pharmacokinetic parameters are unaffected by moderate-to-severe renal impairment or advanced hepatic cirrhosis (Child-Pugh Class C). NO DOSAGE ADJUSTMENT OR POST-DIALYSIS SUPPLEMENTAL DOSE IS REQUIRED FOR ANY LEVEL OF RENAL OR HEPATIC DYSFUNCTION.",
+      "Gram-Negative Diagnostic Spectrum Gap: Tedizolid possesses ZERO activity against aerobic Gram-negative bacilli (Escherichia coli, Klebsiella, Pseudomonas aeruginosa). When treating mixed skin infections (such as infected diabetic foot ulcers, decubitus ulcers, or human/animal bite wounds), tedizolid MUST BE CO-PRESCRIBED with appropriate broad-spectrum Gram-negative and anaerobic coverage (e.g., Ceftriaxone, Piperacillin-Tazobactam, or Fluoroquinolones).",
+      "WHO AWaRe Reserve Classification: Tedizolid is categorized under the WHO 'Reserve' group. It represents a vital anti-MRSA therapeutic option that must be protected through active antimicrobial stewardship, reserved primarily for confirmed MRSA or resistant Gram-positive skin infections where first-line beta-lactams are ineffective or contraindicated."
+    ]
+  },
+  {
+    "id": "cefixime-dispersible-tablets-ip-200mg",
+    "name": "Cefixime Dispersible Tablets IP (200mg)",
+    "generic_names": [
+      "Cefixime DT 200mg",
+      "Cefixime Dispersible Tablets IP 200mg",
+      "Zifi 200 DT",
+      "Taxim-O 200 DT",
+      "Mahacef 200 DT",
+      "Cefolac 200 DT",
+      "Omnix 200 DT",
+      "Milixim 200 DT",
+      "Topcef 200 DT"
+    ],
+    "category": [
+      "Antibiotics",
+      "Infections & Parasites",
+      "Respiratory",
+      "Gastrointestinal"
+    ],
+    "sub_category": "Third-Generation Oral Cephalosporin & Penicillin-Binding Protein-3 (PBP-3) Inhibitor (Fast-Disintegrating Formulation)",
+    "company_name": "CX3",
+    "amount": "112/- (Strip of 10 Dispersible Tablets - 200mg)",
+    "routes_of_administration": [
+      "Oral (Per Os - Dispersed in 10 to 15 mL of Boiled and Cooled Water Immediately Prior to Ingestion, With or Without Food)"
+    ],
+    "antimicrobial_spectrum": {
+      "gram_positive": [
+        "Streptococcus pneumoniae (penicillin-susceptible strains)",
+        "Streptococcus pyogenes (Group A beta-hemolytic Strep)",
+        "Streptococcus agalactiae (Group B Strep)"
+      ],
+      "gram_negative": [
+        "Salmonella enterica serovar Typhi (Enteric / Typhoid Fever)",
+        "Salmonella paratyphi A, B, C",
+        "Escherichia coli (uropathogenic strains)",
+        "Klebsiella pneumoniae",
+        "Proteus mirabilis",
+        "Haemophilus influenzae (ampicillin-susceptible and beta-lactamase positive)",
+        "Moraxella catarrhalis",
+        "Neisseria gonorrhoeae (including penicillinase-producing strains)",
+        "Shigella sonnei and flexneri"
+      ],
+      "anaerobic": false,
+      "atypical": false,
+      "pseudomonal": false,
+      "mrsa_active": false
+    },
+    "who_aware_classification": "Watch",
+    "pk_pd_index": "T > MIC (Time-dependent)",
+    "main_cause": "Complicated and Uncomplicated Enteric / Typhoid Fever (Salmonella enterica serovar Typhi), Acute Uncomplicated Urinary Tract Infections (Cystitis) & Pyelonephritis, Acute Exacerbations of Chronic Bronchitis (AECB), Severe Bacterial Maxillary Sinusitis, Acute Otitis Media in Dysphagic Adults and Adolescents, Oral Step-Down Continuation Therapy Following Parenteral Ceftriaxone",
+    "why_this_disease_happens": "Infectious enteric fever and ascending urinary tract infections are driven by invasive Gram-negative Enterobacterales, predominantly Salmonella enterica serovar Typhi and uropathogenic Escherichia coli (UPEC). Salmonella typhi invades ileal Peyer's patches via microfold (M) cells, surviving inside mesenteric reticuloendothelial macrophages to induce prolonged bacteremia, sustained pyrexia, hepatosplenomegaly, and intestinal lymphoid ulceration. Strains in endemic settings frequently carry plasmid-mediated multi-drug resistance (MDR) or single-point gyrA mutations conferring resistance to fluoroquinolones (NARST phenotypes). In acute cystitis and pyelonephritis, UPEC adhere to transitional bladder epithelium via type 1 and P fimbriae, triggering intense urothelial inflammation, pyuria, dysuria, and flank pain. Furthermore, outpatient strains commonly express TEM-1 and SHV-1 beta-lactamases that rapidly hydrolyze aminopenicillins. Eradicating these mucosal and systemic infections requires an orally bioavailable, beta-lactamase-stable third-generation cephalosporin with an extended elimination half-life. Additionally, many adult and adolescent patients experience severe pill dysphagia or swallowing anxiety, making conventional large, chalky 200mg tablets difficult to swallow and causing poor compliance. A fast-disintegrating dispersible tablet provides instantaneous breakdown into a smooth liquid suspension without compromising pharmacokinetic bioavailability.",
+    "how_this_medicine_fights_it": "Provides bactericidal cell wall transpeptidation arrest via high-affinity PBP-3 acylation and osmotic lysis, delivered in a fast-dissolving micro-particulate matrix: (1) Rapid Capillary Disintegration & Taste Masking: The dispersible tablet (DT) formulation incorporates specialized superdisintegrants (such as crospovidone, sodium starch glycolate, or croscarmellose sodium) along with flavoring and sweetening excipients. When dropped into 10 to 15 mL of water, rapid water uptake through capillary action triggers swelling and disintegration within 60 seconds into a homogeneous, uniform, palatable suspension, avoiding the swallowing resistance of standard film-coated tablets. (2) Non-Prodrug Transcellular Absorption: Unlike cefpodoxime proxetil or cefuroxime axetil (which are lipophilic ester prodrugs), cefixime is absorbed in its native active acidic form via carrier-mediated dipeptide transporters (PEPT1) and passive paracellular transit in the small intestine, achieving an oral bioavailability of approximately 40% to 50%. (3) Penicillin-Binding Protein Acylation & Osmotic Lysis: Cefixime diffuses across outer-membrane porins (OmpF/OmpC) in Gram-negative bacteria and binds covalently with high affinity to essential Penicillin-Binding Proteins—predominantly PBP-3, PBP-1a, and PBP-1b. Acylation of active-site transpeptidase domains halts cross-linking of peptidoglycan pentapeptide chains during bacterial division. Weakened by high internal osmotic turgor pressure, the peptidoglycan wall ruptures, activating endogenous bacterial autolysins and murein hydrolases to cause rapid bactericidal cell lysis. (4) Beta-Lactamase Steric Shield & Extended Half-Life: The syn-(Z)-carboxymethoxyimino group at position 7 imparts steric hindrance that shields the core beta-lactam ring against catalytic hydrolysis by TEM, SHV, and OXA penicillinases. The 3-vinyl group extends its elimination half-life to 3.0 to 4.0 hours, supporting convenient twice-daily (or once-daily) dosing schedules. (5) Staphylococcal Gap: Cefixime has low binding affinity for PBP-2 in Staphylococcus aureus, rendering it inactive against both MSSA and MRSA.",
+    "drug_class": "Third-Generation Oral Cephalosporin / Beta-Lactam Bactericidal Antibacterial (Dispersible Formulation)",
+    "main_action": "Disintegrates in water within 60 seconds into a smooth suspension, absorbing to bind and acylate bacterial PBP-3, halting peptidoglycan cell wall cross-linking and triggering osmotic lysis while resisting beta-lactamase degradation.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Uncomplicated and fluoroquinolone-resistant Enteric (Typhoid / Paratyphoid) Fever (200mg orally twice daily for 7 to 14 days)",
+      "Acute uncomplicated urinary tract infections (cystitis) and acute pyelonephritis caused by E. coli or Proteus mirabilis (200mg twice daily or 400mg once daily)",
+      "Acute bacterial exacerbations of chronic bronchitis (AECB) caused by Streptococcus pneumoniae, Haemophilus influenzae, or Moraxella catarrhalis",
+      "Acute maxillary sinusitis and otitis media in patients with dysphagia",
+      "Uncomplicated urogenital gonococcal urethritis and cervicitis caused by Neisseria gonorrhoeae (single stat dose of 400mg co-administered with azithromycin)",
+      "Outpatient step-down continuation therapy following initial stabilization on parenteral Ceftriaxone IV"
+    ],
+    "how_patients_describe_symptoms": [
+      "I had a severe typhoid fever with constant chills and stomach cramps, but I cannot swallow large pills; this tablet dissolved completely in a little water and broke my fever within four days.",
+      "My severe bladder infection made urination agonizing; dissolving this tablet in water twice a day was very easy on my throat and cleared the burning pain quickly.",
+      "After being treated in the hospital with IV antibiotics for a kidney infection, the doctor gave me these dissolvable tablets to easily complete my therapy at home."
+    ],
+    "reconstitution_and_dilution": "Supplied as round, white to off-white, scored or unscored dispersible tablets containing Cefixime Trihydrate equivalent to 200 mg of anhydrous cefixime. Administration Preparation Mandate: DISPERSE THE TABLET IN 10 TO 15 ML (APPROXIMATELY 1 TO 2 TABLESPOONS) OF BOILED AND COOLED DRINKING WATER IMMEDIATELY PRIOR TO INGESTION. Gently swirl the cup until the tablet completely disintegrates into a uniform liquid suspension (typically within 30 to 60 seconds). Consume the entire dispersion immediately. Rinse the cup with an additional small volume of water and drink to ensure the full dose is administered. DO NOT PREPARE DISPERSIONS HOURS IN ADVANCE OR SAVE RESIDUAL LIQUID FOR LATER. Alternatively, in patients who have no swallowing difficulty, the tablet may be swallowed whole with water. Storage Mandate: Store below 25°C to 30°C in original aluminum-aluminum (Alu-Alu) moisture-barrier blister packs; protect from excessive humidity and direct light.",
+    "infusion_rate_and_timing": "Oral Administration Only. Administration Timing: May be administered with or without food. Unlike ester-prodrug cephalosporins (cefpodoxime proxetil, cefuroxime axetil) which require post-prandial lipid transit to achieve adequate bioavailability, native cefixime absorption is independent of meal timing. However, administering with meals reduces potential gastrointestinal upset. Standard Adult and Adolescent Dosing (>= 12 years or body weight > 45 kg): 200 mg orally TWICE DAILY (every 12 hours) or 400 mg orally ONCE DAILY (every 24 hours) for 7 to 14 days based on clinical indication. Single-Dose Gonorrhea Protocol: 400 mg orally as a single stat dose.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults, adolescents, and elderly patients presenting with enteric fever, uncomplicated cystitis, or acute bronchitis who experience swallowing difficulties (pill dysphagia)",
+        "Patients requiring outpatient step-down therapy following initial intravenous ceftriaxone stabilization",
+        "Patients with fluoroquinolone-resistant Salmonella typhi requiring an effective oral beta-lactam agent",
+        "Pregnant women presenting with uncomplicated urinary tract infections or acute bronchitis (FDA Category B; crosses placenta without teratogenic risk)"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Absolute Contraindication: Severe, immediate IgE-mediated anaphylaxis, angioedema, or urticaria to cephalosporins or penicillins",
+        "Staphylococcal Infections: Cefixime lacks adequate intrinsic activity against Staphylococcus aureus (both MSSA and MRSA); contraindicated for staphylococcal skin boils, abscesses, or cellulitis",
+        "Infections caused by Pseudomonas aeruginosa, Acinetobacter, or Enterococci (exhibits zero intrinsic activity)",
+        "Patients with severe renal impairment (Creatinine Clearance < 20 mL/min) without dose or interval reduction (prolong interval to every 24 to 48 hours)",
+        "Pediatric infants under 6 months of age (use pediatric drops or suspension formulations where weight-based dosing has been established)"
+      ]
+    },
+    "common_side_effects": [
+      "Gastrointestinal: diarrhea (common, 8% to 15%), loose stools, abdominal cramping, and flatulence",
+      "Gastrointestinal nausea, dyspepsia, epigastric fullness, or mild vomiting",
+      "Central nervous system: headache, lightheadedness, or mild dizziness",
+      "Dermatologic: maculopapular rash, pruritus, or mild drug-induced urticaria",
+      "Oral or vaginal candidiasis (thrush) secondary to suppression of commensal microflora",
+      "Transient biochemical shifts: asymptomatic elevation in serum liver transaminases (ALT, AST), BUN, or mild eosinophilia"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "Immediate Ingestion Post-Dispersion Mandate: Dispersible tablets lack suspension-stabilizing polymers present in commercial reconstituted syrups. ONCE THE TABLET IS DISPERSED IN WATER, THE RESULTING SUSPENSION MUST BE INGESTED IMMEDIATELY (WITHIN 5 MINUTES). Leaving the liquid standing causes rapid gravitational sedimentation, particle agglomeration, and gradual chemical hydrolysis of the beta-lactam ring, leading to under-dosing. Swirl or stir immediately before swallowing.",
+      "The Staphylococcal Gap Warning (MSSA Inactivity): Cefixime has low binding affinity for Penicillin-Binding Protein 2 (PBP-2) of Staphylococcus aureus. CEFIXIME EXHIBITS NO CLINICALLY MEANINGFUL ACTIVITY AGAINST STAPHYLOCOCCUS AUREUS (NEITHER MSSA NOR MRSA). Never prescribe cefixime for skin and soft-tissue cellulitis, folliculitis, carbuncles, or staphylococcal pneumonia; choose Cefuroxime axetil, Cefpodoxime proxetil, or Amoxicillin-Clavulanate instead.",
+      "Clostridioides difficile Colitis Surveillance: Broad-spectrum disruption of the colonic anaerobic microflora by unabsorbed cefixime carries an established risk of antibiotic-associated diarrhea and Clostridioides difficile-associated diarrhea (CDAD) / pseudomembranous colitis. If a patient develops persistent watery diarrhea (>4 to 6 loose stools/day), fever, or abdominal cramping during or up to 8 weeks post-treatment, evaluate immediately for C. difficile toxins; anti-motility agents (such as Loperamide) are contraindicated.",
+      "Strict Renal Dose Adjustment Protocol: Cefixime is cleared approximately 50% unchanged by the kidneys via glomerular filtration. In patients with significant renal impairment, the elimination half-life is extended from 3.5 hours up to 11.5 hours: CrCl >= 60 mL/min: Standard dose (200mg twice daily or 400mg once daily); CrCl 20 to 59 mL/min: Reduce dose to 200mg once every 24 hours (or 75% of standard dose); CrCl < 20 mL/min: Reduce dose to 200mg once every 48 hours (or 100mg once every 24 hours); Hemodialysis: 200mg once every 48 hours, administered post-dialysis on dialysis days.",
+      "Food Independence Advantage: Unlike cefpodoxime proxetil and cefuroxime axetil (which are lipophilic ester prodrugs that mandate meal co-ingestion for adequate absorption), native cefixime can be taken with or without food. Co-ingestion with meals slightly delays Tmax by ~0.8 hours but does not decrease total systemic AUC, making it versatile for nauseated patients.",
+      "WHO AWaRe Watch Group Antimicrobial Stewardship: Cefixime is classified under the WHO 'Watch' category. Third-generation cephalosporins should be reserved for culture-proven or highly suspected resistant Gram-negative infections (such as fluoroquinolone-resistant enteric fever or complicated uropathogens) to curb the emergence and spread of Extended-Spectrum Beta-Lactamase (ESBL) Enterobacterales."
+    ]
+  },
+  {
+    "id": "linezolid-tablets-ip-600mg",
+    "name": "Linezolid Tablets IP (600mg)",
+    "generic_names": [
+      "Linezolid Tablets IP 600mg",
+      "Zyvox 600mg",
+      "Linospan 600",
+      "Lizomac 600",
+      "Lizolid 600",
+      "Megazolid 600",
+      "Afunil 600"
+    ],
+    "category": [
+      "Antibiotics",
+      "Infections & Parasites",
+      "Respiratory",
+      "Dermatology"
+    ],
+    "sub_category": "Synthetic Oxazolidinone Antibacterial & Bacterial 50S Ribosomal 70S Initiation Complex Inhibitor",
+    "company_name": "LZ2",
+    "amount": "385/- (Strip of 10 Film-Coated Tablets - 600mg)",
+    "routes_of_administration": [
+      "Oral (Per Os - Swallowed Whole with Water, With or Without Food)"
+    ],
+    "antimicrobial_spectrum": {
+      "gram_positive": [
+        "Staphylococcus aureus (including Methicillin-Resistant MRSA, MSSA, and VISA/VRSA)",
+        "Enterococcus faecium (including Vancomycin-Resistant VRE VanA/VanB strains)",
+        "Enterococcus faecalis (vancomycin-susceptible isolates)",
+        "Streptococcus pneumoniae (including penicillin- and multidrug-resistant MDRSP strains)",
+        "Streptococcus pyogenes (Group A beta-hemolytic Strep)",
+        "Streptococcus agalactiae (Group B Strep)"
+      ],
+      "gram_negative": [],
+      "anaerobic": true,
+      "atypical": false,
+      "pseudomonal": false,
+      "mrsa_active": true
+    },
+    "who_aware_classification": "Reserve",
+    "pk_pd_index": "AUC24 / MIC (Time-dependent with concentration-dependent characteristics)",
+    "main_cause": "Complicated Skin and Skin Structure Infections (cSSSI / Severe Diabetic Foot Ulcers with MRSA), Nosocomial and Severe Community-Acquired MRSA Pneumonia (Oral Continuation / Step-Down), Vancomycin-Resistant Enterococcus faecium (VRE) Infections, Core Group A Second-Line Backbone Agent in WHO Multidrug-Resistant / Rifampicin-Resistant Tuberculosis (MDR/RR-TB Regimens)",
+    "why_this_disease_happens": "Invasive infections caused by resistant Gram-positive pathogens—specifically Methicillin-Resistant Staphylococcus aureus (MRSA) and Vancomycin-Resistant Enterococcus faecium (VRE)—are driven by structural resistance adaptations and destructive cytotoxins. MRSA acquires the mecA or mecC chromosomal cassette, producing Penicillin-Binding Protein 2a (PBP-2a), which has very low affinity for virtually all standard beta-lactams and carbapenems. Furthermore, MRSA strains producing Panton-Valentine Leukocidin (PVL) or alpha-hemolysin form destructive pores in human leukocytes and alveolar-capillary membranes, leading to necrotizing tissue ulceration and severe cavitary lung damage. In enterococci, vanA/vanB gene clusters replace the normal D-Ala-D-Ala cell-wall target with D-Ala-D-Lac, preventing glycopeptides (such as Vancomycin) from binding. While intravenous glycopeptides or lipopeptides are used initially in inpatient settings, they lack reliable oral bioavailability, have poor pulmonary epithelial lining fluid penetration (vancomycin ELF:plasma is <18%), and require invasive outpatient IV lines with therapeutic drug monitoring. Managing these resistant infections on an outpatient basis or transitioning patients out of the ICU requires an oral agent with ~100% systemic bioavailability, high lung penetration, and the ability to arrest exotoxin translation without inducing cross-resistance with cell-wall active drugs.",
+    "how_this_medicine_fights_it": "Provides targeted bacterial translation arrest via upstream blockade of the functional 70S initiation complex, coupled with complete oral systemic bioavailability: (1) Near-100% Oral Bioavailability & 1:1 IV-to-Oral Equivalence: Linezolid ((S)-N-((3-(3-fluoro-4-morpholinophenyl)-2-oxooxazolidin-5-yl)methyl)acetamide) is rapidly and almost completely absorbed from the gastrointestinal tract, achieving an absolute oral bioavailability of ~100%. Food does not alter the total extent of absorption (AUC), allowing direct, seamless 1:1 switching between IV infusion and oral tablets (600 mg IV q12h = 600 mg Oral q12h) without dosage recalculation. (2) Unique 23S rRNA Binding on the 50S Ribosomal Subunit: Unlike macrolides, clindamycin, or aminoglycosides (which interfere with elongation or misread mRNA), linezolid binds to a unique pocket within domain V of the 23S ribosomal RNA on the large 50S subunit. (3) Blockade of the 70S Functional Initiation Complex: Binding distorts the geometry of the ribosomal peptidyl transferase center and P-site, sterically preventing N-formylmethionyl-tRNA (fMet-tRNA) from coupling properly with the 30S initiation subunit and mRNA template. Consequently, the assembly of the functional 70S initiation complex is completely arrested before polypeptide synthesis can initiate. (4) Suppression of Virulence Factors and Exotoxins: By halting protein synthesis at the initiation stage, linezolid shuts down the translation of critical staphylococcal superantigens and pore-forming exotoxins—including Panton-Valentine Leukocidin (PVL), Toxic Shock Syndrome Toxin-1 (TSST-1), and alpha-hemolysin—decreasing tissue necrosis independent of bactericidal killing. (5) Alveolar Penetration & Mycobacterial Activity: Linezolid diffuses readily into pulmonary epithelial lining fluid (ELF-to-plasma ratio of 100% to 400%) and exerts strong antimycobacterial activity against Mycobacterium tuberculosis by targeting mycobacterial 23S rRNA, functioning as a WHO Group A priority medicine in MDR-TB regimens.",
+    "drug_class": "Oxazolidinone / Synthetic Ribosomal 50S Protein Synthesis Inhibitor",
+    "main_action": "Binds domain V of the 23S rRNA on the bacterial 50S ribosomal subunit to block assembly of the functional 70S initiation complex, halting protein translation and bacterial exotoxin synthesis with ~100% oral bioavailability.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Complicated skin and soft-tissue infections (cSSTI) caused by MRSA, Streptococcus pyogenes, or Enterococcus faecalis (600mg orally every 12 hours for 10 to 14 days)",
+      "Oral step-down continuation therapy for Hospital-Acquired Pneumonia (HAP) and Community-Acquired MRSA Pneumonia",
+      "Vancomycin-Resistant Enterococcus faecium (VRE) bacteremia and deep tissue infections (600mg every 12 hours)",
+      "Core Group A backbone agent in World Health Organization (WHO) treatment regimens for Multidrug-Resistant and Rifampicin-Resistant Tuberculosis (MDR/RR-TB, typically dosed at 600mg once daily)",
+      "Refractory MRSA osteomyelitis and prosthetic joint infections as long-term oral salvage therapy under specialist monitoring",
+      "Outpatient step-down discharge following initial stabilization on parenteral Linezolid 600mg IV infusion"
+    ],
+    "how_patients_describe_symptoms": [
+      "I had a deep diabetic foot ulcer infected with drug-resistant MRSA; these twice-daily tablets cleared the infection without requiring a daily IV drip at the hospital.",
+      "Following my hospital treatment for severe MRSA pneumonia, the doctor discharged me with these oral tablets to complete my two-week recovery at home.",
+      "During my specialized treatment for drug-resistant tuberculosis, I took this medicine daily along with other tablets to clear the persistent lung infection."
+    ],
+    "reconstitution_and_dilution": "Supplied ready-to-administer as white to off-white, oval, biconvex film-coated tablets debossed with '600' containing 600 mg of Linezolid (also available in 400 mg strengths). No reconstitution or dissolution required. Storage Mandate: Store below 25°C to 30°C in original moisture-barrier aluminum-aluminum blister packs. Protect from excessive heat, moisture, and direct light. Tablets must be swallowed whole with water; do not crush or chew. Oral Bioavailability Note: Displays ~100% oral bioavailability; pharmacokinetic exposure matches intravenous infusion (600 mg oral tablet is bioequivalent to 600 mg IV infusion).",
+    "infusion_rate_and_timing": "Oral Administration Only. Administration Timing: May be taken with or without food. Peak serum levels (Cmax) occur within 1 to 2 hours post-ingestion; meal intake slightly delays the rate of absorption but does not reduce the total extent of absorption (AUC). Standard Adult Dosing (>= 12 years): 600 mg orally TWICE DAILY (every 12 hours) for 10 to 14 days (maximum 28 days for standard non-mycobacterial indications). Pediatric Dosing (birth to 11 years): 10 mg/kg orally every 8 hours (due to higher clearance in children; liquid oral suspension 100mg/5mL preferred). MDR-TB Protocol: 600 mg orally ONCE DAILY (under strict therapeutic and hematologic surveillance).",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adult and adolescent patients presenting with documented or highly suspected severe MRSA skin infections or pneumonia suitable for oral therapy",
+        "Patients with invasive Vancomycin-Resistant Enterococcus faecium (VRE) infections where beta-lactams and glycopeptides are ineffective",
+        "Hospitalized patients ready for early discharge to complete anti-MRSA therapy at home via 1:1 oral bioequivalent step-down",
+        "Patients with mild, moderate, or severe renal impairment (including hemodialysis; NO DOSE REDUCTION IS REQUIRED)",
+        "Patients on WHO Group A all-oral treatment regimens for Multidrug-Resistant Tuberculosis (MDR-TB)"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Absolute Contraindication: Known hypersensitivity to linezolid or any excipients in the tablet core",
+        "Absolute Drug Interaction Contraindication: Concurrent administration with Monoamine Oxidase Inhibitors (MAOIs: phenelzine, isocarboxazid, tranylcypromine) or within 14 days of discontinuing an MAOI",
+        "Relative Contraindication / Precaution: Concurrent use with Serotonergic Psychiatric Medications (SSRIs, SNRIs, Tricyclics, Triptans, Meperidine, Tramadol) unless under close monitoring for serotonin toxicity",
+        "Patients with uncontrolled arterial hypertension, pheochromocytoma, or severe unmanaged thyrotoxicosis (weak reversible MAO inhibition potentiates adrenergic pressor responses)",
+        "Patients with pre-existing severe bone marrow suppression (baseline platelets < 100,000/mcL or absolute neutrophil count < 1000/mcL) without frequent CBC tracking"
+      ]
+    },
+    "common_side_effects": [
+      "Hematologic: myelosuppression, primarily reversible thrombocytopenia (platelet drop occurring typically after 10 to 14 days of therapy), anemia, and leukopenia",
+      "Gastrointestinal: nausea, diarrhea (common, 3% to 9%), loose stools, vomiting, or altered taste (dysgeusia)",
+      "Headache, dizziness, and mild insomnia",
+      "Oral or vaginal candidiasis (thrush) secondary to suppression of normal mucosal flora balance",
+      "Transient elevations in hepatic transaminases (ALT, AST), alkaline phosphatase, and serum bilirubin",
+      "Mild epigastric discomfort or dyspepsia"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "The 14-Day Bone Marrow Suppression Ceiling (Thrombocytopenia Alert): Linezolid induces reversible, time-dependent bone marrow suppression by inhibiting human mitochondrial ribosomes (specifically 16S-like mitochondrial rRNA). The incidence of thrombocytopenia (platelet count < 100,000/mcL), anemia, and leukopenia escalates sharply when therapy extends beyond 10 to 14 days. COMPLETE BLOOD COUNTS (CBC) WITH PLATELET COUNTS MUST BE MONITORED WEEKLY (or twice weekly in renal impairment, pre-existing cytopenias, or prolonged courses). Thrombocytopenia typically resolves within 7 to 14 days following drug discontinuation.",
+      "Potentially Fatal Serotonin Syndrome Warning: Linezolid is a reversible, non-selective inhibitor of Monoamine Oxidase (MAO-A and MAO-B). Co-administration with serotonergic psychiatric medications—including Selective Serotonin Reuptake Inhibitors (SSRIs: Fluoxetine, Sertraline, Paroxetine, Escitalopram), Serotonin-Norepinephrine Reuptake Inhibitors (SNRIs: Venlafaxine, Duloxetine), Tricyclic Antidepressants, Triptans, Tramadol, and Meperidine—can precipitate acute, life-threatening SEROTONIN SYNDROME (characterized by cognitive agitation, delirium, hyperreflexia, clonus, diaphoresis, hyperpyrexia, and autonomic instability). If linezolid is unavoidable in a patient taking an SSRI, discontinue the antidepressant immediately, monitor for serotonin toxicity, or select an alternative agent (e.g., Vancomycin, Daptomycin).",
+      "Dietary Tyramine & Sympathomimetic Pressor Interaction: Due to MAO-A inhibition, linezolid impairs the intestinal and hepatic breakdown of dietary tyramine and exogenous sympathomimetics. Ingestion of tyramine-rich foods (aged cheeses, red wine, tap beers, cured meats, soy sauce) or co-administration with indirect-acting sympathomimetics (pseudoephedrine, ephedrine) can provoke severe, sudden hypertensive crisis. Instruct ambulatory outpatients to avoid large quantities of tyramine-rich foods.",
+      "Long-Term Mitochondrial Neurotoxicity (Optic & Peripheral Neuropathy): Prolonged administration of linezolid (>28 days), such as in MDR-TB or refractory osteomyelitis protocols, frequently causes progressive, irreversible peripheral sensory neuropathy and optic neuropathy. Optic neuropathy can progress to bilateral loss of visual acuity, scotomas, and permanent blindness. Patients on prolonged regimens require baseline and monthly ophthalmologic visual acuity and color discrimination examinations; drug must be discontinued immediately upon emergence of visual changes.",
+      "Lactic Acidosis Alert: Unexplained high-anion-gap metabolic lactic acidosis occurring during linezolid therapy is a sign of mitochondrial toxicity resulting from translation arrest of mitochondrial respiratory chain subunits (complexes I, III, and IV). Patients presenting with recurrent nausea, vomiting, hyperventilation, or unexplained low bicarbonate levels require immediate serum lactate testing and prompt drug withdrawal.",
+      "Zero Renal Dose Adjustment Advantage: Linezolid is metabolized primarily by non-enzymatic chemical oxidation into two inactive carboxylic acid metabolites, with only ~30% excreted unchanged by the kidneys. CONSEQUENTLY, NO DOSAGE ADJUSTMENT IS REQUIRED IN MILD, MODERATE, OR SEVERE RENAL IMPAIRMENT, NOR IN DIALYSIS PATIENTS. In hemodialysis, roughly 30% of the dose is cleared during a 3-hour session; administer the scheduled dose post-hemodialysis.",
+      "100% Oral Bioavailability & 1:1 IV-to-Oral Switch Advantage: Linezolid exhibits complete gastrointestinal absorption, resulting in plasma concentration-time profiles virtually identical to intravenous administration. Patients stabilized on Linezolid 600 mg IV can be switched directly to Linezolid 600 mg oral tablets with ZERO DOSE ADJUSTMENT, facilitating earlier hospital discharge and reducing catheter-related bloodstream infection risks."
     ]
   }
 ]
