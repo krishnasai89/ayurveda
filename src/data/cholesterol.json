@@ -1,86 +1,505 @@
 [
   {
-    "id": "atorvastatin-tablets-ip-40mg",
-    "name": "Atorvastatin Tablets IP (40mg)",
+    "id": "rosuvastatin-calcium-tablets-ip-10mg-20mg",
+    "name": "Rosuvastatin Calcium Tablets IP (10mg / 20mg)",
     "generic_names": [
-      "Atorvastatin Calcium Tablets IP 40mg",
-      "Lipitor 40mg",
-      "Atorva 40",
-      "Storvas 40",
-      "Atocor 40",
-      "Tonact 40",
-      "Aztor 40"
+      "Rosuvastatin Calcium Tablets IP 10mg / 20mg",
+      "Crestor 10mg / 20mg",
+      "Rosuvas 10 / 20",
+      "Rozucor 10 / 20",
+      "Roseday 10 / 20",
+      "Rosave 10 / 20",
+      "Novastat 10 / 20",
+      "Turbovas 10 / 20"
     ],
-    "category": [
-      "Statins",
-      "Cardiovascular",
-      "Lipid-Lowering",
-      "Emergency & Critical Care"
-    ],
-    "sub_category": "Synthetic Second-Generation Lipophilic HMG-CoA Reductase Inhibitor & Pleiotropic Plaque Stabilizer",
-    "company_name": "AT1",
-    "amount": "195/- (Strip of 10 Film-Coated Tablets - 40mg)",
+    "category": ["Statins", "Cardiovascular", "Lipid-Lowering"],
+    "sub_category": "Synthetic Third-Generation Hydrophilic Polar HMG-CoA Reductase Inhibitor & Hepatic OATP1B1 Substrate",
+    "company_name": "RS1",
+    "amount": "240/- (Strip of 10 Film-Coated Tablets - 10mg) / 390/- (Strip of 10 Film-Coated Tablets - 20mg)",
     "routes_of_administration": [
       "Oral (Per Os - Swallowed Whole with Water Once Daily at Any Time of Day, With or Without Food)"
     ],
     "intensity_tier": "High-Intensity (≥50% LDL Drop)",
     "lipid_profile_impact": {
-      "ldl_reduction": "50% to 55%",
-      "tg_reduction": "20% to 30%",
-      "hdl_elevation": "5% to 9%",
+      "ldl_reduction": "52% to 63%",
+      "tg_reduction": "20% to 28%",
+      "hdl_elevation": "8% to 14%",
       "lpa_reduction": "Neutral"
     },
-    "main_cause": "Primary Prevention of Major Adverse Cardiac Events (MACE) in High-Risk Patients, Secondary Prevention in Established Atherosclerotic Cardiovascular Disease (ASCVD: Acute Coronary Syndrome, Myocardial Infarction, Stable Angina, Stroke, Peripheral Artery Disease), Heterozygous and Homozygous Familial Hypercholesterolemia (HeFH / HoFH), Severe Primary Hypercholesterolemia (Baseline LDL-C ≥ 190 mg/dL)",
-    "why_this_disease_happens": "Atherosclerotic cardiovascular disease (ASCVD) begins when circulating apolipoprotein B-containing lipoproteins—predominantly low-density lipoprotein particles (LDL-P)—cross dysfunctional arterial endothelium and become trapped within the subendothelial space of coronary, cerebral, or peripheral arteries. Trapped LDL particles undergo oxidation, glycation, and enzymatic modification into ox-LDL. Oxidized LDL stimulates overlying endothelial cells to express adhesion molecules (VCAM-1, ICAM-1) and chemokines (MCP-1), recruiting circulating blood monocytes. Transmigrated monocytes differentiate into macrophages that express scavenger receptors (CD36, SRA), engulfing ox-LDL to form lipid-laden foam cells. Progressive foam-cell necrosis drives the formation of a necrotic core covered by a thin fibrous cap. In acute coronary syndrome (ACS), macrophage-derived matrix metalloproteinases (MMPs) degrade the fibrous cap, triggering plaque rupture, acute platelet aggregation, and occlusive coronary thrombosis, precipitating myocardial infarction. Lowering atherogenic lipid burden and stabilizing vulnerable plaque requires potent inhibition of hepatic de novo cholesterol synthesis to upregulate hepatic LDL receptor expression.",
-    "how_this_medicine_fights_it": "Provides high-intensity cardiovascular risk reduction through competitive inhibition of rate-limiting cholesterol biosynthesis, clearing circulating atherogenic lipoproteins while exerting vascular pleiotropic plaque-stabilizing actions: (1) Reversible Competitive Inhibition of HMG-CoA Reductase: Atorvastatin is a synthetic, lipophilic heptanoic acid-substituted pyrrole derivative. It diffuses into hepatocytes and binds with nanomolar affinity to the catalytic domain of 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase, the rate-limiting enzyme in endogenous cholesterol biosynthesis. By sterically preventing HMG-CoA from converting into mevalonate, atorvastatin depletes intracellular hepatic cholesterol pools. (2) SREBP-2 Activation & Hepatic LDL Receptor Upregulation: In response to depleted microsomal cholesterol, the sterol regulatory element-binding protein-2 (SREBP-2) cleavage-activating protein (SCAP) complex translocates from the endoplasmic reticulum to the Golgi apparatus. Site-1 and Site-2 proteases cleave SREBP-2, allowing the active transcription factor to enter the nucleus and bind the Sterol Regulatory Element (SRE-1) in the promoter region of the LDL Receptor gene. This drives hepatic expression and cell-surface recycling of high-affinity LDL receptors, clearing ApoB-100-containing LDL, VLDL, and IDL particles from blood via receptor-mediated endocytosis, lowering serum LDL-C by 50% to 55%. (3) Extended Biological Half-Life & Circadian Independence: Unlike early statins with short elimination half-lives (lovastatin, pravastatin, simvastatin t1/2 ~1-3h) that mandate bedtime dosing, atorvastatin generates active ortho- and para-hydroxylated metabolites (via CYP3A4) that account for ~70% of total circulating HMG-CoA reductase inhibitory activity, providing an effective biological half-life of 20 to 30 hours that allows once-daily dosing at any time of day. (4) Endothelial & Plaque Pleiotropic Effects: By inhibiting mevalonate synthesis, atorvastatin depletes downstream isoprenoid intermediates (geranylgeranyl pyrophosphate, farnesyl pyrophosphate). This uncouples small G-proteins (Rho, Rac), upregulating endothelial nitric oxide synthase (eNOS), improving microvascular endothelial function, dampening pro-inflammatory vascular adhesion molecules (VCAM-1), suppressing macrophage MMP secretion, and thickening coronary fibrous caps to prevent acute plaque rupture.",
-    "drug_class": "Lipophilic HMG-CoA Reductase Inhibitor / High-Intensity Statin",
-    "main_action": "Inhibits hepatic HMG-CoA reductase to deplete intracellular cholesterol, upregulating hepatic LDL receptors to clear circulating LDL-C by ≥50%, while stabilizing vulnerable atherosclerotic plaques via isoprenoid-mediated pleiotropic pathways.",
+    "main_cause": "Primary Prevention of Major Adverse Cardiovascular Events (MACE: Cardiovascular Death, Stroke, Myocardial Infarction, Arterial Revascularization) in Individuals with Elevated High-Sensitivity C-Reactive Protein (hs-CRP ≥ 2 mg/L) or Elevated 10-Year ASCVD Risk, Secondary Prevention in Established Atherosclerotic Cardiovascular Disease (ASCVD), Severe Primary Hypercholesterolemia (Baseline LDL-C ≥ 190 mg/dL), Heterozygous and Homozygous Familial Hypercholesterolemia (HeFH / HoFH)",
+    "why_this_disease_happens": "Atherosclerotic cardiovascular disease (ASCVD) and progressive coronary stenosis arise from the retention and subendothelial oxidation of circulating apolipoprotein B-100-containing low-density lipoprotein (LDL) particles within medium- and large-sized arterial walls. Chronic endothelial injury—exacerbated by systemic vascular inflammation, shear stress, hypertension, and hyperlipidemia—increases arterial wall permeability. Circulating LDL particles permeate into the tunica intima, where they tether to extracellular matrix proteoglycans and undergo oxidative modification by lipoxygenases and reactive oxygen species into ox-LDL. Subendothelial ox-LDL acts as an inflammatory danger-associated molecular pattern (DAMP), stimulating endothelial cells to upregulate intercellular adhesion molecule-1 (ICAM-1) and monocyte chemoattractant protein-1 (MCP-1). Recruited monocytes differentiate into macrophages that express scavenger receptors (SR-A1, CD36) and ingest modified lipids without downregulatory feedback, becoming foam cells. Expanding necrotic lipid cores, chronic subclinical inflammation (quantified by elevated hs-CRP), and fibrous cap thinning by macrophage-derived matrix metalloproteinases (MMPs) place plaques at high risk for acute fibrous cap rupture and occlusive intra-arterial thrombosis. Halting plaque progression and stabilizing vascular endothelium requires maximal clearance of circulating atherogenic lipoproteins via selective hepatic HMG-CoA reductase inhibition and profound upregulation of hepatic LDL receptors.",
+    "how_this_medicine_fights_it": "Provides high-potency, concentration-dependent lipid-lowering and cardioprotective stabilization through stereospecific competitive inhibition of rate-limiting hepatic cholesterol synthesis, coupled with hydrophilic hepatoselectivity: (1) Hydrophilic Molecular Architecture & Hepatic OATP1B1 Uptake: Rosuvastatin ((3R,5S,6E)-7-[4-(4-fluorophenyl)-6-isopropyl-2-[methyl(methylsulfonyl)amino]pyrimidin-5-yl]-3,5-dihydroxyhept-6-enoic acid) is a synthetic, enantiopure, fluorinated pyrimidine-based statin. Unlike lipophilic statins (atorvastatin, simvastatin) that passively penetrate extrahepatic non-target tissues (such as skeletal muscle myocytes), rosuvastatin contains a polar methane-sulfonamide group, rendering it distinctly hydrophilic. Its cellular entry is driven selectively into hepatocytes via active carrier-mediated uptake through hepatic Organic Anion Transporting Polypeptide 1B1 and 1B3 (OATP1B1/OATP1B3) and sodium-taurocholate cotransporting polypeptide (NTCP), conferring high hepatoselectivity with reduced non-specific systemic skeletal myocyte exposure. (2) Nanomolar Reversible HMG-CoA Reductase Blockade: Once inside the hepatocyte, rosuvastatin binds with sub-nanomolar affinity (Ki ~0.1 nM; 4- to 8-fold higher binding affinity than atorvastatin) to the active catalytic pocket of 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase. Its fluorophenyl group and polar sulfonamide moiety establish multiple electrostatic hydrogen bonds and van der Waals interactions with target enzyme residues (Arg590, Ser684), blocking the four-electron reduction of HMG-CoA into mevalonate. (3) SCAP/SREBP-2 Activation & Hepatic LDL Receptor Endocytosis: Intracellular depletion of microsomal free cholesterol triggers conformational activation of the SCAP/SREBP-2 complex in the endoplasmic reticulum, facilitating its trafficking to the Golgi apparatus for proteolytic cleavage. Active SREBP-2 translocates to the nucleus, binding sterol regulatory elements (SRE-1) to upregulate transcription and cell-surface recycling of high-affinity LDL receptors (LDLR). Upregulated LDLRs clear ApoB-100 and ApoE-containing atherogenic lipoproteins (LDL, VLDL, and IDL) from circulating blood via clathrin-mediated endocytosis, achieving 52% to 63% reductions in plasma LDL-C alongside significant triglyceride lowering and HDL-C elevation. (4) Prolonged Half-Life & Circadian Flexibility: Rosuvastatin has a terminal plasma elimination half-life of approximately 19 hours, providing continuous 24-hour HMG-CoA reductase suppression and allowing flexible once-daily dosing at any time of day. (5) Non-Lipid Pleiotropic Cardioprotection: Beyond lipid reduction, by halting mevalonate production rosuvastatin depletes isoprenoid intermediates (farnesyl pyrophosphate, geranylgeranyl pyrophosphate), attenuating Rho/Rac GTPase activation. This upregulates endothelial nitric oxide synthase (eNOS), improves flow-mediated coronary vasodilation, reduces vascular smooth muscle proliferation, and significantly lowers systemic vascular inflammatory biomarkers (hs-CRP reduction of 37% to 44%, as established in the landmark JUPITER trial).",
+    "drug_class": "Hydrophilic Synthetic HMG-CoA Reductase Inhibitor / High-Intensity Statin",
+    "main_action": "Selectively enters hepatocytes via OATP1B1 to competitively inhibit HMG-CoA reductase, depleting intracellular cholesterol to upregulate hepatic LDL receptors and lower serum LDL-C by up to 63%, with minimal CYP3A4 metabolism and 24-hour circadian-independent coverage.",
     "diseases_and_conditions_it_may_be_used_for": [
-      "Secondary prevention following Acute Coronary Syndrome (STEMI, NSTEMI, Unstable Angina) initiated within 24 hours of admission (80mg daily, or 40mg daily if frail/elderly)",
-      "Established Atherosclerotic Cardiovascular Disease (ASCVD: prior MI, stable coronary disease, ischemic stroke/TIA, peripheral arterial disease)",
-      "Severe Primary Hypercholesterolemia with baseline LDL-C ≥ 190 mg/dL (40mg to 80mg daily)",
-      "High-risk Primary Prevention in Diabetes Mellitus (type 1 or type 2, age 40 to 75 years) with elevated 10-year ASCVD risk",
-      "Heterozygous Familial Hypercholesterolemia (HeFH) in adult and pediatric patients (≥10 years of age)",
-      "Adjunct to diet in primary hyperlipidemia and mixed dyslipidemia (Fredrickson Types IIa and IIb)"
+      "Primary prevention of Major Adverse Cardiovascular Events (MACE: stroke, MI, coronary revascularization) in individuals with elevated hs-CRP (≥2 mg/dL) plus at least one additional cardiovascular risk factor (20mg once daily; JUPITER trial indication)",
+      "Secondary prevention in established Atherosclerotic Cardiovascular Disease (ASCVD: prior myocardial infarction, coronary stenting, stable angina, peripheral arterial disease, or ischemic stroke; 20mg to 40mg once daily)",
+      "Severe primary hypercholesterolemia with baseline LDL-C ≥ 190 mg/dL (20mg to 40mg once daily)",
+      "Primary prevention in high-risk diabetic adults aged 40 to 75 years with multiple cardiovascular risk factors",
+      "Heterozygous and Homozygous Familial Hypercholesterolemia (HeFH / HoFH; up to 40mg daily as an adjunct to other lipid-lowering treatments such as LDL apheresis or PCSK9 inhibitors)",
+      "Adjunctive therapy to diet for the treatment of mixed dyslipidemia and primary dysbetalipoproteinemia (Fredrickson Type III)"
     ],
     "how_patients_describe_symptoms": [
-      "Following my heart stent procedure after a heart attack, the cardiologist prescribed this daily tablet to lower my bad cholesterol and protect my arteries from future blockages.",
-      "My routine blood test revealed a dangerously high LDL level over 200; taking this single daily tablet dropped my bad cholesterol by more than half within six weeks.",
-      "As a long-term diabetic with plaque in my neck carotid arteries, my doctor prescribed this medication once daily to stabilize the arterial walls and prevent a stroke."
+      "My cardiologist switched me to this once-daily tablet because my bad cholesterol was extremely high and my inflammation score was elevated; it dropped my LDL from 195 down to 72 within two months.",
+      "Following my coronary bypass surgery, I was prescribed this medication daily at any time of day to protect my graft vessels and keep my arteries clear.",
+      "I had muscle aches with another cholesterol medicine; my physician changed me to this water-soluble statin at a lower dose, and my numbers came down with no muscle cramps."
     ],
-    "reconstitution_and_dilution": "Supplied ready-to-administer as white to off-white, oval or round, biconvex film-coated tablets containing Atorvastatin Calcium IP equivalent to 40 mg (also manufactured in 10 mg, 20 mg, and 80 mg strengths) of anhydrous atorvastatin. No liquid reconstitution required. Storage Mandate: Store below 25°C to 30°C in original moisture-barrier blister packs or HDPE containers with desiccant. Protect from excessive moisture, heat, and direct light. Tablets must be swallowed whole with water; do not crush or chew.",
-    "infusion_rate_and_timing": "Oral Administration Only. Administration Timing Rule: Administer 40 mg orally ONCE DAILY (every 24 hours) at any time of day (morning, afternoon, or evening), with or without food. Because atorvastatin and its active metabolites maintain an extended inhibitory half-life of 20 to 30 hours, evening or bedtime administration offers no therapeutic advantage over morning dosing (unlike simvastatin or pravastatin). ACS Loading Protocol: In acute coronary syndrome admissions, initiate high-intensity 40mg or 80mg therapy immediately upon presentation, regardless of baseline lipid values.",
+    "reconstitution_and_dilution": "Supplied ready-to-administer as pink (10mg/20mg) or yellow (5mg), round or oval, biconvex, film-coated tablets debossed with the strength, containing Rosuvastatin Calcium IP equivalent to 10 mg or 20 mg (also available in 5 mg and 40 mg strengths) of anhydrous rosuvastatin. No liquid reconstitution required. Storage Mandate: Store below 25°C to 30°C in original moisture-barrier aluminum-aluminum blister packs. Protect from excessive moisture, heat, and direct light. Tablets must be swallowed whole with a glass of water; do not crush, chew, or split.",
+    "infusion_rate_and_timing": "Oral Administration Only. Administration Timing Rule: Administer orally ONCE DAILY (every 24 hours) AT ANY TIME OF DAY (morning or evening), with or without food. Because rosuvastatin possesses an extended elimination half-life of 19 hours, bedtime administration provides no clinical advantage over morning dosing. Standard Dosing Titration: High-Intensity Regimen: 20 mg to 40 mg orally once daily. Moderate-Intensity Regimen: 5 mg to 10 mg orally once daily. Asian Ancestry Starting Dose Mandate: Initiate at 5 mg orally once daily (due to 2-fold higher median plasma exposure; maximum recommended dose in Asian patients is 20 mg daily). Antacid Interaction Timing: If co-administered with aluminum- and magnesium-hydroxide antacids, separate administration by at least 2 hours after the antacid.",
     "patient_suitability": {
       "who_can_use_it": [
-        "Adult patients with documented ASCVD requiring high-intensity LDL-C reduction (target LDL-C < 55 mg/dL or ≥50% baseline reduction)",
-        "Diabetic adults aged 40 to 75 years with multiple cardiovascular risk factors",
-        "Patients with baseline LDL-C ≥ 190 mg/dL requiring primary prevention",
-        "Patients with renal impairment (Atorvastatin is cleared predominantly by biliary/fecal non-renal routes; NO DOSE ADJUSTMENT IS REQUIRED IN RENAL DISEASE)"
+        "Adults requiring high-intensity lipid lowering to achieve aggressive LDL-C targets (<55 mg/dL in very high-risk ASCVD)",
+        "Adults aged 50+ (men) or 60+ (women) with normal-to-moderate LDL-C but elevated cardiovascular inflammation (hs-CRP ≥ 2 mg/L)",
+        "Patients taking medications metabolized by Cytochrome P450 3A4 (Rosuvastatin does NOT rely on CYP3A4, avoiding interactions seen with atorvastatin and simvastatin)",
+        "Patients with heterozygous or homozygous familial hypercholesterolemia needing maximum non-invasive LDL clearance"
       ],
       "who_should_avoid_or_limit_it": [
-        "Absolute Contraindication: Active acute liver disease, acute hepatitis, unexplained persistent elevation of serum transaminases (>3x ULN), or decompensated cirrhosis",
-        "Absolute Contraindication: Pregnancy and breastfeeding mothers (cholesterol and mevalonate derivatives are essential for fetal organogenesis and brain myelination; statins are teratogenic)",
-        "Absolute Contraindication: Known severe hypersensitivity to atorvastatin or formulation excipients",
-        "Co-administration with potent CYP3A4 inhibitors (Ketoconazole, Itraconazole, Clarithromycin, HIV protease inhibitors) without dose reduction to 20mg or temporary statin pause",
-        "Patients with pre-existing unexplained generalized muscle pain, baseline severe CK elevation, or active rhabdomyolysis"
+        "Absolute Contraindication: Active acute liver disease, acute viral hepatitis, unexplained persistent transaminase elevations (>3x ULN), or decompensated hepatic failure",
+        "Absolute Contraindication: Pregnancy, planned pregnancy, and nursing mothers (cholesterol biosynthesis is critical for fetal membrane formation and brain myelination; statins carry teratogenic risk)",
+        "Absolute Contraindication: Severe renal impairment (Creatinine Clearance < 30 mL/min/1.73m²) not on dialysis: 40mg dose is strictly contraindicated; start at 5mg and do not exceed 10mg once daily",
+        "Absolute Contraindication: Concurrent administration with Cyclosporine (causes a 7- to 11-fold surge in rosuvastatin AUC; limit rosuvastatin to 5mg daily or avoid)",
+        "Patients of Asian ancestry receiving the 40mg maximum dose (contraindicated due to genetically mediated higher systemic drug exposure)",
+        "Patients with unexplained persistent muscle pain, baseline severe CK elevation, or active rhabdomyolysis"
       ]
     },
     "common_side_effects": [
-      "Musculoskeletal: myalgia (muscle soreness, stiffness, or weakness without CK elevation occurring in 5% to 8%), arthralgia, and limb discomfort",
-      "Gastrointestinal: mild dyspepsia, nausea, diarrhea, abdominal discomfort, flatulence, or constipation",
-      "Central nervous system: headache, fatigue, and mild dizziness",
-      "Metabolic: modest dose-dependent rise in HbA1c and fasting blood glucose (small increase in incident type 2 diabetes; cardiovascular benefit far outweighs risk)",
-      "Transient asymptomatic elevations in liver transaminases (ALT, AST occurring in <1% to 2% of patients)",
-      "Nasopharyngitis, epistaxis, or mild pharyngolaryngeal pain"
+      "Musculoskeletal: myalgia (muscle aches, soreness, or limb weakness without significant CK elevation in 3% to 5%), arthralgia, and muscle spasms",
+      "Gastrointestinal: abdominal pain, nausea, constipation, or mild dyspepsia",
+      "Central nervous system: headache, dizziness, and mild asthenia/fatigue",
+      "Metabolic: modest dose-dependent rise in HbA1c and fasting plasma glucose (cardiovascular MACE reduction far outweighs diabetes risk)",
+      "Renal laboratory shifts: transient dipstick-positive proteinuria (predominantly tubular) and microscopic hematuria (seen predominantly at the 40mg dose; usually non-progressive)",
+      "Transient biochemical elevations in serum liver transaminases (ALT, AST in <1% of patients)"
     ],
     "important_cautions": [
       "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
-      "Statin-Associated Muscle Symptoms (SAMS) & Rhabdomyolysis Surveillance: Statins carry a dose-dependent risk of muscle toxicity ranging from benign myalgias (5-10%) to severe myositis (CK > 10x ULN) and rare, life-threatening rhabdomyolysis (<1 in 10,000). Rhabdomyolysis is characterized by severe muscle pain, muscle weakness, marked CK elevation (>40x ULN), and myoglobinuria (tea-colored urine) causing acute kidney injury. Instruct patients to report unexplained muscle pain, tenderness, or weakness immediately. If rhabdomyolysis is suspected, DISCONTINUE ATORVASTATIN IMMEDIATELY and check serum CK, creatinine, and urine myoglobin.",
-      "Cytochrome P450 3A4 (CYP3A4) Drug Interactions: Atorvastatin is metabolized predominantly by hepatic CYP3A4. Concomitant administration with potent CYP3A4 inhibitors sharply decreases atorvastatin clearance, spiking plasma drug levels and multiplying myopathy/rhabdomyolysis risk: (1) Azole Antifungals: Itraconazole, Ketoconazole, Voriconazole (Avoid or limit atorvastatin to 20mg); (2) Macrolides: Clarithromycin (limit atorvastatin to 20mg daily); (3) Calcium Channel Blockers: Diltiazem and Verapamil (use caution); (4) Grapefruit Juice: Ingesting large quantities (>1 liter daily) inhibits intestinal CYP3A4 and increases atorvastatin AUC by up to 2.5-fold (advise moderate or no consumption).",
-      "Liver Transaminase Surveillance Protocol: Serum transaminases (ALT, AST) should be evaluated prior to initiating therapy and clinically thereafter if symptoms of hepatic injury arise (fatigue, anorexia, jaundice, right upper quadrant pain). Persistent elevations in ALT or AST > 3x the upper limit of normal warrant dose reduction or discontinuation.",
-      "Zero Renal Dose Adjustment Advantage: Unlike hydrophilic statins (pravastatin, rosuvastatin) that rely partially on renal elimination, atorvastatin undergoes extensive hepatic metabolism and is cleared predominantly (>98%) through biliary and fecal excretion, with less than 2% recovered in urine. NO DOSE ADJUSTMENT IS REQUIRED IN PATIENTS WITH MILD, MODERATE, OR SEVERE RENAL DYSFUNCTION, NOR IN PATIENTS UNDERGOING HEMODIALYSIS.",
-      "Glycemic Control & New-Onset Diabetes vs. ASCVD Benefit: High-intensity statin therapy is associated with a slight, statistically significant dose-dependent increase in HbA1c (0.1% to 0.3%) and risk of incident type 2 diabetes, predominantly in individuals with pre-existing metabolic syndrome or prediabetes. Clinical trials confirm that THE CARDIOVASCULAR MORTALITY AND STROKE REDUCTION BENEFITS OF STATIN THERAPY FAR OUTWEIGH THE MINIMAL RISK OF ELEVATED GLYCEMIA.",
-      "Rule of 6% (Statin Dose-Response Curve): In lipidology, doubling the statin dose (e.g., titrating from 20mg to 40mg, or 40mg to 80mg) produces an average incremental LDL-C reduction of only ~6% (the 'Rule of 6%'), while incrementally increasing myopathy risk. If LDL-C targets (<55 mg/dL) are not met on high-intensity monotherapy, contemporary guidelines recommend adding Ezetimibe 10mg rather than relying solely on statin escalation."
+      "Statin-Associated Muscle Symptoms (SAMS) & Rhabdomyolysis Surveillance: Like all statins, rosuvastatin carries a dose-dependent risk of muscle toxicity ranging from mild myalgias to myositis (CK > 10x ULN) and rare, potentially fatal rhabdomyolysis. Rhabdomyolysis manifests as generalized muscle pain, severe weakness, massive serum CK elevation (>40x ULN), and myoglobinuria causing acute renal failure. Instruct patients to report unexplained muscle soreness, tenderness, or dark brown urine immediately. DISCONTINUE ROSUVASTATIN IMMEDIATELY if markedly elevated CK levels occur or if myopathy is diagnosed or suspected.",
+      "Asian Pharmacogenomic Sensitivity Mandate (2-Fold AUC Surge): Extensive pharmacokinetic studies demonstrate that individuals of Asian descent (including South Asian, Indian, Chinese, Japanese, Korean, and Filipino populations) exhibit an approximate 2-FOLD ELEVATION IN MEDIAN ROSUVASTATIN AUC AND PEAK PLASMA CONCENTRATIONS compared to Caucasian controls, driven by higher prevalence of SLCO1B1 (OATP1B1) and ABCG2 (BCRP) genetic polymorphisms. IN ASIAN PATIENTS, INITIATE THERAPY AT 5 MG ONCE DAILY. THE MAXIMUM 40 MG DOSE IS GENERALLY CONTRAINDICATED OR AVOIDED IN THIS POPULATION; 20 MG ONCE DAILY SERVES AS THE CLINICAL CEILING FOR HIGH-INTENSITY MANAGEMENT.",
+      "Minimal CYP3A4 Metabolism Advantage (Reduced Drug Interactions): Unlike lipophilic statins (atorvastatin, simvastatin, lovastatin) that are heavily cleared by hepatic Cytochrome P450 3A4, rosuvastatin undergoes minimal (~10%) metabolism, mediated primarily by CYP2C9. IT DOES NOT INTERACT WITH POTENT CYP3A4 INHIBITORS (such as Clarithromycin, Itraconazole, Ketoconazole, or Grapefruit Juice). However, it remains a sensitive substrate for hepatic uptake transporter OATP1B1 and efflux transporter BCRP: co-administration with Cyclosporine (7-fold AUC surge), Fostamatinib, or specific antiviral regimens (Sofosbuvir/Velpatasvir) causes marked systemic drug surges requiring dose restrictions.",
+      "Renal Impairment Titration & Dose Ceiling Protocol: Unlike atorvastatin (which is cleared >98% through biliary/fecal pathways and needs no renal dose adjustment), rosuvastatin undergoes roughly 10% to 28% renal elimination. In patients with severe renal impairment (CrCl < 30 mL/min/1.73m² not on hemodialysis), plasma concentrations increase 3-fold: INITIATE AT 5 MG ONCE DAILY; DO NOT EXCEED 10 MG ONCE DAILY. The 40 mg dose is strictly contraindicated in severe renal disease.",
+      "Transient Dipstick Proteinuria & Tubular Handling: In clinical trials, dipstick-positive proteinuria (predominantly tubular microalbuminuria, shifting from negative/trace to ++ or greater) was observed in patients receiving high-dose rosuvastatin (particularly 40mg). This effect is related to inhibition of receptor-mediated endocytosis of low-molecular-weight proteins in proximal renal tubules rather than glomerular injury, and is typically transient without progressive renal decline. Routine dose reduction is not required unless sustained unexplained renal deterioration occurs.",
+      "High-Intensity LDL-C Drop Profile (Comparison to Atorvastatin): Milligram-for-milligram, rosuvastatin produces the deepest percentage LDL-C reduction among all oral statins. Rosuvastatin 10mg achieves an average LDL-C drop of ~46% to 50%, while Rosuvastatin 20mg and 40mg produce reductions of 52% to 63%, making 20mg a reliable first-line single agent to reach the stringent 2026 ESC/ACC LDL-C targets (<55 mg/dL) for extreme ASCVD risk.",
+      "Antacid Chelation & Dissolution Reduction: Concurrent ingestion with antacid suspensions containing aluminum and magnesium hydroxide decreases rosuvastatin plasma concentrations by approximately 50%. Administer antacids at least 2 hours after rosuvastatin intake."
+    ]
+  },
+  {
+    "id": "fenofibrate-tablets-ip-145mg-160mg",
+    "name": "Fenofibrate Tablets IP (145mg / 160mg)",
+    "generic_names": [
+      "Fenofibrate Nanocrystallized Tablets IP 145mg",
+      "Fenofibrate Micronized Tablets IP 160mg / 200mg",
+      "Tricor 145mg",
+      "Lipicard 160 / 200",
+      "Fibrocet 145",
+      "Fenolip 145",
+      "Stanlip 145",
+      "TriCor 48mg / 145mg"
+    ],
+    "category": [
+      "Fibrates",
+      "Cardiovascular",
+      "Lipid-Lowering",
+      "Endocrinology & Metabolism"
+    ],
+    "sub_category": "Peroxisome Proliferator-Activated Receptor-Alpha (PPAR-alpha) Nuclear Agonist & Fibric Acid Ester Prodrug",
+    "company_name": "FF1",
+    "amount": "210/- (Strip of 10 Film-Coated Nanocrystal Tablets - 145mg)",
+    "routes_of_administration": [
+      "Oral (Per Os - Swallowed Whole with Water Once Daily; 145mg Nanocrystal with or without food, 160mg/200mg Micronized with meals)"
+    ],
+    "intensity_tier": "Add-on Non-Statin",
+    "lipid_profile_impact": {
+      "ldl_reduction": "5% to 20% (Variable; may rise in severe hypertriglyceridemia)",
+      "tg_reduction": "30% to 55%",
+      "hdl_elevation": "10% to 25%",
+      "lpa_reduction": "Neutral"
+    },
+    "main_cause": "Severe and Very Severe Hypertriglyceridemia (Fasting Serum Triglycerides ≥ 500 mg/dL to > 1000 mg/dL) to Prevent Acute Pancreatitis, Mixed Dyslipidemia (Fredrickson Types IIb, III, IV, and V) in Patients with Residual High Triglycerides and Low HDL-C Despite Statin Therapy, Slowing the Progression of Diabetic Retinopathy in Adults with Type 2 Diabetes",
+    "why_this_disease_happens": "Severe hypertriglyceridemia (fasting serum triglycerides > 500 to 1000 mg/dL) arises from an overproduction or impaired peripheral catabolism of triglyceride-rich lipoproteins (TRLs)—predominantly chylomicrons and very-low-density lipoproteins (VLDL). When circulating triglycerides exceed the saturation threshold of microvascular lipoprotein lipase (LPL), large chylomicrons accumulate in high concentrations. As chylomicrons pass through the microvasculature of the pancreas, they are exposed to pancreatic lipase leaking from acinar cells. Lipase hydrolyzes triglycerides into large concentrations of toxic, unbound free fatty acids (FFAs) and lysolecithins. These excessive FFAs exceed the binding capacity of serum albumin, self-assembling into detergent-like micellar aggregates that disrupt pancreatic capillary endothelial membranes, triggering microvascular ischemia, platelet thrombosis, acinar cell necrosis, and acute necrotizing pancreatitis. In mixed atherogenic dyslipidemia, elevated small dense LDL (sdLDL) particles and low HDL-C accelerate coronary atherogenesis. Lowering circulating triglycerides to prevent pancreatitis and mitigate atherogenic risk requires accelerating intravascular lipolysis of VLDL and chylomicrons while suppressing hepatic VLDL synthesis.",
+    "how_this_medicine_fights_it": "Provides targeted lipolysis of triglyceride-rich lipoproteins and apolipoprotein transcriptional modulation through selective activation of the nuclear transcription factor PPAR-alpha: (1) Prodrug Hydrolysis & Nanocrystal Bioavailability: Fenofibrate is the lipophilic isopropyl ester prodrug of fenofibric acid. Following absorption, tissue and plasma esterases rapidly cleave the ester bond into active fenofibric acid. In modern nanocrystal formulations (145mg), nanoparticle milling enhances dissolution kinetics, allowing complete absorption independent of dietary fat intake, whereas older micronized formulations (160mg/200mg) require meal co-ingestion for adequate bioavailability. (2) Nuclear PPAR-alpha Agonism & RXR Heterodimerization: Fenofibric acid diffuses into hepatocyte nuclei and binds with high stereospecific affinity to the Peroxisome Proliferator-Activated Receptor-alpha (PPAR-alpha). Ligand binding induces a conformational shift that recruits coactivators and promotes heterodimerization with the Retinoid X Receptor (RXR). The active PPAR-alpha/RXR heterodimer binds specific Peroxisome Proliferator Response Elements (PPREs) within the promoter regions of target lipid-metabolism genes. (3) Lipoprotein Lipase (LPL) Activation & ApoC-III Repression: PPAR-alpha activation dramatically upregulates the transcription of Lipoprotein Lipase (LPL) while transcriptionally repressing Apolipoprotein C-III (ApoC-III), an endogenous LPL inhibitor. Uninhibited LPL anchored to vascular endothelial surfaces rapidly hydrolyzes core triglycerides in circulating chylomicrons and VLDL into free fatty acids and glycerol, accelerating triglyceride clearance from plasma by 30% to 55%. (4) Downregulation of Hepatic VLDL Assembly & Fatty Acid Beta-Oxidation: Fenofibrate upregulates genes encoding hepatic fatty acid transport proteins and mitochondrial beta-oxidation enzymes (acyl-CoA oxidase, carnitine palmitoyltransferase). This shunts free fatty acids into mitochondrial oxidation and away from diacylglycerol esterification, reducing hepatic VLDL-triglyceride synthesis and secretion. (5) Upregulation of ApoA-I, ApoA-II & Reverse Cholesterol Transport: PPAR-alpha stimulates hepatic gene expression of Apolipoprotein A-I and Apolipoprotein A-II, the structural apolipoproteins of High-Density Lipoprotein (HDL). This expands circulating HDL pools, elevates serum HDL-C by 10% to 25%, and enhances ATP-binding cassette transporter A1 (ABCA1)-mediated reverse cholesterol transport. (6) Microvascular Protection in Diabetic Retinopathy: As demonstrated in the landmark FIELD and ACCORD-Eye trials, fenofibrate reduces retinal capillary leakage, suppresses vascular endothelial growth factor (VEGF), downregulates retinal inflammation, and slows the progression of diabetic retinopathy independent of baseline lipid levels.",
+    "drug_class": "Fibric Acid Derivative / Peroxisome Proliferator-Activated Receptor-Alpha (PPAR-alpha) Agonist",
+    "main_action": "Binds nuclear PPAR-alpha to upregulate endothelial Lipoprotein Lipase (LPL) and suppress ApoC-III, accelerating triglyceride catabolism by up to 55% while stimulating ApoA-I/A-II synthesis to raise HDL-C.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Severe hypertriglyceridemia (fasting triglycerides ≥ 500 mg/dL, often > 1000 mg/dL) to prevent acute pancreatitis (145mg or 160mg once daily as first-line therapy)",
+      "Primary hyperlipidemia or mixed dyslipidemia (Fredrickson Types IIa, IIb, III, IV, and V) with high triglycerides and low HDL-C",
+      "Add-on combination therapy with a statin in high-risk ASCVD patients with persistent elevated triglycerides (> 200 mg/dL) and low HDL-C (< 35 mg/dL)",
+      "Dysbetalipoproteinemia (Fredrickson Type III hyperlipoproteinemia) unresponsive to dietary interventions",
+      "Slowing the progression of non-proliferative Diabetic Retinopathy in adult patients with Type 2 Diabetes Mellitus (FIELD / ACCORD-Eye indication)"
+    ],
+    "how_patients_describe_symptoms": [
+      "My blood test showed a dangerous triglyceride level over 900 that put me at risk for inflamed pancreas attacks; this once-daily tablet dropped my numbers down to safe levels within six weeks.",
+      "Even though my LDL was controlled on a statin, my triglycerides stayed high and my good cholesterol was low; adding this medicine normalized my lipid panel.",
+      "My eye specialist and endocrinologist prescribed this tablet to help protect the small blood vessels in my retinas from diabetic eye disease damage."
+    ],
+    "reconstitution_and_dilution": "Supplied ready-to-administer as white to off-white, film-coated tablets containing Fenofibrate IP equivalent to 145 mg (nanocrystallized) or 160 mg (micronized; also available in 48 mg, 54 mg, and 200 mg strengths). No liquid reconstitution required. Storage Mandate: Store below 25°C to 30°C in original moisture-barrier blister packs. Protect from moisture, excessive heat, and direct light. Tablets must be swallowed whole with water; do not crush, split, or chew.",
+    "infusion_rate_and_timing": "Oral Administration Only. Administration Timing Rule: Nanocrystallized Formulation (145 mg / 48 mg): May be administered orally ONCE DAILY AT ANY TIME OF DAY, WITH OR WITHOUT FOOD (nanoparticle formulation provides uniform absorption independent of dietary lipids). Micronized Formulation (160 mg / 200 mg / 67 mg): MUST BE INGESTED WITH OR IMMEDIATELY FOLLOWING A MEAL (food enhances the oral bioavailability of conventional micronized fenofibrate by ~35%). Standard Adult Dosing: 145 mg (nanocrystal) or 160 mg (micronized) orally ONCE DAILY. Renal Mild-to-Moderate Impairment Dosing: In patients with mild-to-moderate renal impairment (eGFR 30 to 59 mL/min/1.73m²), initiate at 48 mg or 54 mg once daily and titrate cautiously.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults presenting with severe fasting hypertriglyceridemia (≥ 500 mg/dL) requiring acute pancreatitis prophylaxis",
+        "Patients with mixed atherogenic dyslipidemia (elevated triglycerides + low HDL-C) needing non-statin targeted therapy",
+        "Patients on statin therapy who need a fibrate (Fenofibrate is the preferred fibrate with statins because it does NOT inhibit statin glucuronidation via UGT2B7, unlike Gemfibrozil)",
+        "Adults with type 2 diabetes mellitus experiencing early microvascular diabetic retinopathy progression"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Absolute Contraindication: Severe renal impairment or end-stage renal disease (eGFR < 30 mL/min/1.73m² or patients undergoing hemodialysis; fenofibric acid relies on renal tubular excretion and accumulates rapidly)",
+        "Absolute Contraindication: Active acute liver disease, unexplained persistent transaminase elevations (> 3x ULN), or biliary cirrhosis",
+        "Absolute Contraindication: Pre-existing gallbladder disease, cholelithiasis, or biliary colic (fibrates increase biliary cholesterol saturation)",
+        "Absolute Contraindication: Nursing mothers and pregnancy (lack of human safety data; potential disruption of neonatal lipid processing)",
+        "Absolute Contraindication: Known photoallergy or phototoxic reaction during prior treatment with fibrates or ketoprofen",
+        "Severe Contraindication: Combination with Gemfibrozil (never combine fibrates with each other; gemfibrozil must not be used with statins)"
+      ]
+    },
+    "common_side_effects": [
+      "Gastrointestinal: mild dyspepsia, abdominal discomfort, nausea, diarrhea, or flatulence",
+      "Laboratory / Renal: benign, reversible elevation in serum creatinine (typically 10% to 20% rise due to suppression of tubular creatinine secretion and altered intrarenal prostacyclin hemodynamics, which normalizes upon discontinuation)",
+      "Hepatic: transient, asymptomatic elevations in serum transaminases (ALT, AST occurring in 1% to 5%)",
+      "Musculoskeletal: myalgia, muscle stiffness, or limb discomfort (substantially lower incidence than statins alone, but additive in combination)",
+      "Dermatologic: cutaneous rash, pruritus, urticaria, or photosensitivity",
+      "Biliary: increased lithogenicity of bile with potential development of cholesterol gallstones (cholelithiasis)"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "Pancreatitis Prevention Threshold Mandate: The primary guideline-directed indication for fenofibrate monotherapy is FASTING TRIGLYCERIDES ≥ 500 MG/DL (5.6 MMOL/L). In patients with triglycerides above this threshold, fibrate initiation takes clinical precedence over statin therapy to prevent acute hypertriglyceridemic necrotizing pancreatitis. Once triglycerides drop below 500 mg/dL, statin therapy can be initiated or optimized for ASCVD risk reduction.",
+      "Fenofibrate vs. Gemfibrozil (Statin Safety Distinction): Gemfibrozil strongly inhibits the hepatic glucuronidation enzyme UGT2B7 (which clears active statin hydroxy acids) and blocks hepatic uptake transporter OATP1B1, driving up statin plasma concentrations by 2- to 6-fold and multiplying rhabdomyolysis risk. IN CONTRAST, FENOFIBRATE DOES NOT INHIBIT UGT2B7 OR OATP1B1. When a fibrate is clinically required in combination with a statin, FENOFIBRATE IS THE ONLY RECOMMENDED FIBRATE. Gemfibrozil combined with any statin is strictly contraindicated.",
+      "Reversible Serum Creatinine Elevation Protocol: Fenofibrate therapy induces a dose-dependent, reversible rise in serum creatinine (typically 0.1 to 0.3 mg/dL, or ~15%) within the first 6 to 8 weeks of therapy. This elevation reflects down-regulation of intrarenal vasodilatory prostaglandins and competitive inhibition of renal tubular creatinine excretion, rather than acute tubular necrosis or loss of true GFR. Serum creatinine typically returns to baseline within 2 to 4 weeks after drug withdrawal. Monitor baseline renal function: if serum creatinine rises persistently > 30% above baseline, or if eGFR drops below 30 mL/min/1.73m², DISCONTINUE FENOFIBRATE.",
+      "Severe Renal Contraindication & Elimination Route: Fenofibric acid is eliminated predominantly (> 80%) by the kidneys as fenofibric acid glucuronide via glomerular filtration and tubular excretion. IN PATIENTS WITH SEVERE RENAL DYSFUNCTION (eGFR < 30 ML/MIN/1.73M²), FENOFIBRATE IS STRICTLY CONTRAINDICATED due to significant systemic accumulation and severe muscle toxicity risk.",
+      "Warfarin Anticoagulant Potentiation (Severe Bleeding Hazard): Fenofibrate displaces warfarin from plasma albumin binding sites and mildly inhibits CYP2C9. When co-administered with oral vitamin K antagonists (Warfarin), IT STRONGLY POTENTIATES THE ANTICOAGULANT EFFECT AND ELEVATES THE INR. Reduce the initial warfarin dose by 30% to 50% upon initiating fenofibrate, and monitor prothrombin time/INR weekly until values stabilize.",
+      "Paradoxical LDL-C Elevation in Extreme Hypertriglyceridemia: In patients with baseline severe hypertriglyceridemia (chylomicronemia, triglycerides > 800 to 1000 mg/dL), rapid fenofibrate-mediated LPL activation accelerates the conversion of large VLDL into LDL particles faster than hepatic LDL receptors can clear them. Consequently, serum LDL-C may paradoxically rise by 15% to 35% as triglycerides drop. This represents a normal physiological shift from atherogenic remnant particles toward measurable LDL; if LDL-C rises above target once triglycerides are < 500 mg/dL, add low-dose statin or ezetimibe therapy.",
+      "Cholelithiasis (Gallstone Formation) Vigilance: Fibrate-mediated PPAR-alpha agonism downregulates cholesterol 7-alpha-hydroxylase (CYP7A1, the rate-limiting enzyme in bile acid synthesis) while stimulating ABCG5/G8-mediated biliary cholesterol excretion. This increases the cholesterol saturation index of bile, predisposing patients to cholesterol gallstones. Discontinue therapy if symptomatic cholelithiasis or cholecystitis is confirmed by gallbladder ultrasound."
+    ]
+  },
+  {
+    "id": "rosuvastatin-fenofibrate-tablets-ip-10mg-145mg",
+    "name": "Rosuvastatin & Fenofibrate Tablets IP (10mg / 145mg)",
+    "generic_names": [
+      "Rosuvastatin Calcium & Fenofibrate (Nanocrystallized) Tablets IP",
+      "Rosuvas-F 10/145",
+      "Rozucor-F 10/145",
+      "Roseday-F 10/145",
+      "Turbovas-F 10/145",
+      "Novastat-TG 10",
+      "Rosufit-F 10",
+      "Lipigo-F 10"
+    ],
+    "category": ["Statins", "Fibrates", "Cardiovascular", "Lipid-Lowering"],
+    "sub_category": "Dual-Mechanism Hydrophilic HMG-CoA Reductase Inhibitor & Nuclear PPAR-alpha Agonist Fixed-Dose Combination",
+    "company_name": "RF1",
+    "amount": "285/- (Strip of 10 Film-Coated Tablets - 10mg/145mg)",
+    "routes_of_administration": [
+      "Oral (Per Os - Swallowed Whole with Water Once Daily, With or Without Food)"
+    ],
+    "intensity_tier": "High-Intensity (≥50% LDL Drop)",
+    "lipid_profile_impact": {
+      "ldl_reduction": "46% to 52%",
+      "tg_reduction": "40% to 55%",
+      "hdl_elevation": "15% to 24%",
+      "lpa_reduction": "Neutral"
+    },
+    "main_cause": "Mixed Atherogenic Dyslipidemia (Fredrickson Type IIb & III) Characterized by Elevated LDL-C, Severe Hypertriglyceridemia, and Depressed HDL-C in High-Risk Atherosclerotic Cardiovascular Disease (ASCVD), Residual Cardiovascular Risk in Type 2 Diabetes Mellitus with Metabolic Syndrome Failing Statin Monotherapy, Microvascular Retinopathy and Nephropathy Risk Reduction in Diabetic Patients with Atherogenic Dyslipidemia",
+    "why_this_disease_happens": "Atherogenic mixed dyslipidemia presents a multifaceted vascular threat characterized by the 'atherogenic lipid triad': elevated low-density lipoprotein cholesterol (LDL-C), elevated triglyceride-rich remnant lipoproteins (VLDL, intermediate-density lipoproteins [IDL]), and low high-density lipoprotein cholesterol (HDL-C). In insulin-resistant states, metabolic syndrome, and type 2 diabetes mellitus, continuous adipocyte lipolysis floods the portal circulation with free fatty acids (FFAs). The liver overproduces large, triglyceride-rich VLDL1 particles. Elevated intravascular triglycerides trigger cholesteryl ester transfer protein (CETP) to exchange core triglycerides from VLDL into LDL and HDL particles in exchange for cholesteryl esters. Hepatic lipase subsequently hydrolyzes these triglyceride-enriched particles, generating small, dense LDL (sdLDL) particles and small, dysfunctional HDL that are cleared rapidly by the kidneys. Small dense LDL particles are highly atherogenic: they exhibit low affinity for the hepatic LDL receptor, prolonged circulatory residence time, enhanced susceptibility to oxidation into ox-LDL within the subendothelial space of coronary arteries, and avid binding to intimal proteoglycans. Standard statin monotherapy upregulates LDL receptors to clear buoyant LDL, but often leaves significant residual atherogenic triglyceride remnants and low HDL-C. Halting accelerated atherogenesis and reducing major adverse cardiac events (MACE) requires a dual-targeted approach: halting de novo cholesterol synthesis to upregulate LDL clearance while simultaneously activating nuclear transcription pathways to accelerate peripheral lipolysis of remnant triglycerides.",
+    "how_this_medicine_fights_it": "Provides simultaneous dual-target cellular lipid normalization and endothelial plaque protection via stereospecific HMG-CoA reductase arrest coupled with nuclear PPAR-alpha receptor transcriptional induction: (1) Formulation Synergy & Nanocrystal Kinetics: The fixed-dose combination pairs Rosuvastatin Calcium (10 mg) with Nanocrystallized Fenofibrate (145 mg). Nanoparticle milling of fenofibrate eliminates the need for co-administered dietary lipids, ensuring uniform systemic bioavailability alongside hydrophilic rosuvastatin, permitting once-daily ingestion at any time of day. (2) Competitive Hepatic HMG-CoA Reductase Inactivation (Rosuvastatin): Rosuvastatin enters hepatocytes via active OATP1B1 and NTCP transporters and binds with nanomolar affinity to the catalytic domain of 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase, halting mevalonate production. The resulting depletion of intracellular cholesterol activates SREBP-2 processing, upregulating cell-surface hepatic LDL receptor (LDLR) density. These receptors clear circulating ApoB-100 particles, reducing plasma LDL-C by 46% to 52%. (3) Nuclear PPAR-alpha Agonism & LPL Upregulation (Fenofibrate): In vivo esterases rapidly hydrolyze fenofibrate into active fenofibric acid, which binds the nuclear Peroxisome Proliferator-Activated Receptor-alpha (PPAR-alpha), forming an active heterodimer with the Retinoid X Receptor (RXR). This transcription complex binds Peroxisome Proliferator Response Elements (PPREs) to strongly upregulate Lipoprotein Lipase (LPL) and repress Apolipoprotein C-III (an endogenous LPL inhibitor). Enhanced endothelial LPL accelerates intravascular lipolysis of circulating VLDL and chylomicrons, reducing serum triglycerides by 40% to 55%. (4) ApoA-I/A-II Induction & Reverse Cholesterol Transport: Activated PPAR-alpha stimulates hepatic gene transcription of Apolipoprotein A-I and A-II, expanding functional HDL pools, raising HDL-C by 15% to 24%, and promoting ABCA1-mediated reverse cholesterol transport from vascular macrophages back to the liver. (5) Statin-Fibrate Metabolic Safety Profile: Unlike gemfibrozil (which inhibits the glucuronidation enzyme UGT2B7 and OATP1B1, causing statin accumulation and severe rhabdomyolysis), fenofibric acid does not inhibit UGT2B7 or OATP1B1. Furthermore, rosuvastatin undergoes minimal CYP3A4 metabolism, minimizing pharmacokinetic competition and offering a favorable safety profile compared to older statin-fibrate combinations.",
+    "drug_class": "Hydrophilic Statin + Fibric Acid Derivative / Dual-Action Lipid-Modulating Combination",
+    "main_action": "Rosuvastatin inhibits hepatic HMG-CoA reductase to upregulate LDL receptors and lower LDL-C, while fenofibrate activates nuclear PPAR-alpha to induce endothelial lipoprotein lipase and lower triglycerides, simultaneously addressing the complete atherogenic lipid triad.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Mixed dyslipidemia (Fredrickson Type IIb and Type III) in patients with elevated LDL-C, high triglycerides (> 200 mg/dL), and low HDL-C (< 40 mg/dL in men, < 50 mg/dL in women)",
+      "Residual cardiovascular risk reduction in high-risk diabetic patients with established ASCVD who remain hypertriglyceridemic despite maximally tolerated statin monotherapy",
+      "Severe primary hypercholesterolemia with concurrent hypertriglyceridemia unresponsive to single-agent therapy",
+      "Adjunctive therapy to slow the progression of diabetic microvascular complications (diabetic retinopathy and microalbuminuria; ACCORD / FIELD data)",
+      "Familial combined hyperlipidemia (FCH) in adult patients"
+    ],
+    "how_patients_describe_symptoms": [
+      "My lipid test showed both dangerous bad cholesterol and high triglycerides over 400 from my diabetes; this single combined daily pill brought both numbers into the safe zone within two months.",
+      "My cardiologist added this tablet because standard statins alone were not raising my good cholesterol or clearing my triglyceride levels.",
+      "I needed protection for my heart arteries and my diabetic eye vessels; taking this tablet once a day with water improved my complete lipid panel without muscle aches."
+    ],
+    "reconstitution_and_dilution": "Supplied ready-to-administer as film-coated, bilayered or homogeneous tablets containing Rosuvastatin Calcium IP equivalent to 10 mg (or 5 mg / 20 mg) of anhydrous rosuvastatin, paired with Fenofibrate IP equivalent to 145 mg (nanocrystallized) or 160 mg (micronized). No liquid reconstitution required. Storage Mandate: Store below 25°C to 30°C in original moisture-barrier aluminum-aluminum (Alu-Alu) blister packs. Protect from moisture, excessive heat, and direct light. Tablets must be swallowed whole with water; do not crush, split, or chew.",
+    "infusion_rate_and_timing": "Oral Administration Only. Administration Timing Rule: Administer 1 tablet orally ONCE DAILY (every 24 hours) at any time of day (morning or evening), with or without food. Because the combination uses nanocrystallized fenofibrate (145mg) and long-acting rosuvastatin (elimination half-life 19 hours), absorption is consistent regardless of meal timing. Asian Ancestry Precaution: In patients of South Asian, Indian, or East Asian ancestry, ensure baseline liver and muscle enzymes are assessed; start with 5mg/145mg or 10mg/145mg, avoiding higher statin strengths. Fluid Protocol: Patients should maintain standard daily hydration.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adult patients with documented mixed dyslipidemia failing to achieve non-HDL-C and triglyceride goals on statin monotherapy",
+        "Patients with type 2 diabetes and metabolic syndrome presenting with elevated small dense LDL particles and hypertriglyceridemia",
+        "Patients requiring dual LDL-C and triglyceride reduction who cannot tolerate multiple separate daily medication doses",
+        "Patients with mild renal impairment (eGFR 60 to 89 mL/min/1.73m²; standard dosing permitted)"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Absolute Contraindication: Severe renal impairment or end-stage renal disease (eGFR < 30 mL/min/1.73m² or patients on hemodialysis; fenofibric acid relies on renal elimination and accumulates rapidly)",
+        "Absolute Contraindication: Active acute liver disease, unexplained persistent transaminase elevations (> 3x ULN), or biliary cirrhosis",
+        "Absolute Contraindication: Pre-existing gallbladder disease, cholelithiasis, or history of biliary colic (fibrates increase biliary cholesterol saturation)",
+        "Absolute Contraindication: Pregnancy, planned pregnancy, and nursing mothers (statins disrupt embryonic cholesterol synthesis; contraindicated)",
+        "Absolute Contraindication: Known photoallergy or phototoxic skin reactions during previous treatment with fibrates or ketoprofen",
+        "Patients taking Cyclosporine (causes a severe 7- to 11-fold surge in rosuvastatin AUC and increases myotoxicity)"
+      ]
+    },
+    "common_side_effects": [
+      "Musculoskeletal: myalgia (muscle soreness, stiffness, or cramps occurring in 4% to 7%), arthralgia, and limb pain",
+      "Gastrointestinal: mild dyspepsia, abdominal pain, nausea, diarrhea, or flatulence",
+      "Renal laboratory shifts: mild, reversible elevation in serum creatinine (10% to 15% rise driven by fenofibrate, which typically stabilizes and reverses upon discontinuation)",
+      "Hepatic: asymptomatic, transient elevations in serum transaminases (ALT, AST occurring in 1% to 3%)",
+      "Central nervous system: headache, dizziness, or mild asthenia/fatigue",
+      "Dermatologic: cutaneous rash, pruritus, or mild urticaria"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "Dual Myotoxicity & Rhabdomyolysis Surveillance: Combining any statin with a fibrate carries an additive risk of skeletal muscle toxicity, ranging from myalgia to myositis and life-threatening rhabdomyolysis. Although Rosuvastatin + Fenofibrate is safer than statin-gemfibrozil combinations, CLINICAL VIGILANCE IS ESSENTIAL. Instruct patients to report unexplained muscle pain, tenderness, weakness, or tea-colored urine immediately. Discontinue this combination immediately if serum creatine kinase (CK) levels rise > 10x the upper limit of normal, or if rhabdomyolysis is suspected; evaluate renal function immediately.",
+      "Fenofibrate vs. Gemfibrozil Absolute Rule: GEMFIBROZIL MUST NEVER BE COMBINED WITH ROSUVASTATIN. Gemfibrozil strongly inhibits statin glucuronidation via UGT2B7 and blocks OATP1B1, driving rosuvastatin plasma concentrations up by 2- to 3-fold. In contrast, FENOFIBRATE DOES NOT INHIBIT UGT2B7 OR OATP1B1, making it the only fibrate considered appropriate for co-administration with rosuvastatin in clinical guidelines.",
+      "Strict Renal Contraindication (eGFR < 30 mL/min/1.73m²): Fenofibric acid is cleared predominantly (> 80%) by the kidneys as fenofibric acid glucuronide. In patients with severe renal dysfunction, fenofibrate accumulates to toxic concentrations, multiplying rhabdomyolysis risk. THIS FIXED-DOSE COMBINATION IS ABSOLUTELY CONTRAINDICATED IN PATIENTS WITH eGFR < 30 ML/MIN/1.73M² OR END-STAGE RENAL DISEASE.",
+      "Reversible Serum Creatinine Elevation Protocol: Fenofibrate commonly causes a dose-dependent, reversible rise in serum creatinine (typically 0.1 to 0.3 mg/dL) within 6 to 12 weeks of initiation. This occurs due to down-regulation of renal vasodilatory prostaglandins and competitive inhibition of tubular creatinine secretion, rather than intrinsic glomerular injury. Check baseline renal function: if serum creatinine rises persistently > 30% above baseline, or if eGFR falls below 30 mL/min/1.73m², DISCONTINUE THE MEDICATION.",
+      "Warfarin Anticoagulation Potentiation (Major Bleeding Warning): Fenofibrate displaces oral coumarin anticoagulants (Warfarin) from protein-binding sites and weakly inhibits clearance. Co-administration can significantly prolong prothrombin time and spike the INR. Reduce the initial warfarin dose by 30% to 50% upon starting this combination, and monitor INR weekly until a stable maintenance target is achieved.",
+      "Biliary Lithogenicity & Gallstone Vigilance: Fibrates increase biliary cholesterol saturation, raising the risk of cholelithiasis (gallstones). Discontinue therapy if symptomatic gallstones or acute cholecystitis is confirmed by abdominal ultrasonography.",
+      "Asian Pharmacogenomic Sensitivity: Patients of Asian ancestry display an approximate 2-fold higher median systemic exposure to rosuvastatin. The 10mg/145mg combination tablet provides effective high-intensity lipid modification; combinations containing 20mg or 40mg of rosuvastatin with fenofibrate should be used cautiously or avoided in this population to prevent hepatotoxicity and myopathy."
+    ]
+  },
+  {
+    "id": "rosuvastatin-calcium-ezetimibe-tablets-ip-10mg-10mg",
+    "name": "Rosuvastatin Calcium & Ezetimibe Tablets IP (10mg / 10mg)",
+    "generic_names": [
+      "Rosuvastatin & Ezetimibe Fixed-Dose Combination Tablets IP",
+      "Rosuvas-EZ 10/10",
+      "Rozucor-EZ 10/10",
+      "Roseday-EZ 10/10",
+      "Roszet 10mg/10mg",
+      "Novastat-EZ 10",
+      "Turbovas-EZ 10",
+      "Lipigo-EZ 10"
+    ],
+    "category": ["Statins", "Cardiovascular", "Lipid-Lowering"],
+    "sub_category": "Dual-Inhibition High-Intensity Lipid-Lowering Combination (Hepatic HMG-CoA Reductase Inhibitor + Intestinal NPC1L1 Transporter Blocker)",
+    "company_name": "RE1",
+    "amount": "298/- (Strip of 10 Film-Coated Tablets - 10mg/10mg)",
+    "routes_of_administration": [
+      "Oral (Per Os - Swallowed Whole with Water Once Daily at Any Time of Day, With or Without Food)"
+    ],
+    "intensity_tier": "High-Intensity (≥50% LDL Drop)",
+    "lipid_profile_impact": {
+      "ldl_reduction": "65% to 70%",
+      "tg_reduction": "22% to 32%",
+      "hdl_elevation": "8% to 14%",
+      "lpa_reduction": "Neutral"
+    },
+    "main_cause": "Intensive LDL-C Lowering in Extreme- and Very High-Risk Atherosclerotic Cardiovascular Disease (ASCVD: Post-Acute Coronary Syndrome, Prior Myocardial Infarction, Ischemic Stroke, Coronary Revascularization) Failing to Reach Stringent LDL-C Goals (< 55 mg/dL) on Statin Monotherapy, Severe Primary Hypercholesterolemia (Baseline LDL-C ≥ 190 mg/dL), Heterozygous Familial Hypercholesterolemia (HeFH), Statin-Dose Sparing Strategy to Mitigate Statin-Associated Muscle Symptoms (SAMS)",
+    "why_this_disease_happens": "Atherosclerotic plaque accumulation and acute cardiovascular events are fundamentally driven by the retention and oxidation of apolipoprotein B-100-containing low-density lipoprotein (LDL) particles within the coronary intima. In patients at very high or extreme cardiovascular risk, current clinical guidelines mandate aggressive target LDL-C thresholds (LDL-C < 55 mg/dL or < 1.4 mmol/L, with ≥ 50% baseline drop). However, when high-intensity statin monotherapy inhibits hepatic de novo cholesterol synthesis, hepatocytes activate a compensatory homeostatic reflex: they upregulate Niemann-Pick C1-Like 1 (NPC1L1) sterol transporter expression along the intestinal brush border membrane. This enhances fractional intestinal absorption of both dietary cholesterol and recirculating biliary cholesterol (which accounts for ~1000 mg/day of luminal cholesterol flux). Furthermore, under the pharmacological 'Rule of 6%', doubling a statin's dose yields only an incremental ~6% additional LDL-C lowering while exponentially increasing the risk of statin-associated muscle symptoms (SAMS) and transaminitis. Overcoming this compensatory hyper-absorption and breaking through the statin efficacy plateau requires dual-pathway inhibition: simultaneously arresting hepatic de novo cholesterol biosynthesis while blocking enterocyte cholesterol uptake from the gut lumen.",
+    "how_this_medicine_fights_it": "Delivers synergistic dual-pathway lipid lowering and arterial plaque regression by simultaneously halting hepatic de novo sterol synthesis and blocking intestinal sterol transport: (1) Intestinal NPC1L1 Receptor Inactivation (Ezetimibe): Ezetimibe ((3R,4S)-1-(4-fluorophenyl)-3-[(3S)-3-(4-fluorophenyl)-3-hydroxypropyl]-4-(4-hydroxyphenyl)azetidin-2-one) acts locally at the apical brush border microvilli of jejunal enterocytes. It binds stereospecifically to the Niemann-Pick C1-Like 1 (NPC1L1) transporter protein, inhibiting the clathrin-mediated endocytosis of both dietary and biliary cholesterol without impeding the absorption of fat-soluble vitamins (A, D, E, K), triglycerides, or bile acids. By reducing enterocyte cholesterol delivery into chylomicrons by ~54%, ezetimibe diminishes the flux of atherogenic remnant cholesterol entering the portal vein and delivered to the liver. (2) Hepatic HMG-CoA Reductase Blockade (Rosuvastatin): Concurrently, rosuvastatin selectively enters hepatocytes via OATP1B1 and NTCP uptake transporters, competitively binding the catalytic pocket of HMG-CoA reductase to inhibit mevalonate synthesis, shutting down endogenous hepatic cholesterol synthesis. (3) Synergistic Hepatic LDL Receptor Upregulation: Because the liver is simultaneously deprived of both internally synthesized cholesterol (via rosuvastatin) and exogenously absorbed intestinal cholesterol (via ezetimibe), microsomal sterol pools are depleted. This triggers SREBP-2 cleavage and nuclear translocation, maximally upregulating the density and recycling of high-affinity LDL receptors (LDLR) on hepatocyte sinusoidal membranes. Circulating ApoB-100 particles (LDL, VLDL remnants, IDL) are cleared from plasma via receptor-mediated endocytosis, yielding a profound 65% to 70% reduction in circulating LDL-C. (4) Plaque Regression & Endothelial Stabilization (RACING & IMPROVE-IT Trials): By slashing systemic atherogenic particle flux without requiring maximum statin titration, this combination thickens coronary fibrous caps, reduces necrotic lipid core volume, lowers vascular inflammation (hs-CRP), and achieves cardiovascular outcomes comparable to high-dose statin monotherapy with significantly lower rates of statin discontinuation.",
+    "drug_class": "Hydrophilic HMG-CoA Reductase Inhibitor + Intestinal Sterol Absorption Inhibitor Combination",
+    "main_action": "Simultaneously halts endogenous hepatic cholesterol synthesis via HMG-CoA reductase inhibition (rosuvastatin) and blocks intestinal/biliary cholesterol absorption via NPC1L1 blockade (ezetimibe), triggering synergistic hepatic LDL receptor upregulation to lower serum LDL-C by 65% to 70%.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Secondary prevention in extreme- and very high-risk ASCVD patients failing to reach target LDL-C < 55 mg/dL on statin monotherapy (10mg/10mg once daily; RACING trial strategy)",
+      "Primary prevention in severe primary hypercholesterolemia (baseline LDL-C ≥ 190 mg/dL)",
+      "Heterozygous Familial Hypercholesterolemia (HeFH) in adult and adolescent patients aged 10 years and older",
+      "Post-Acute Coronary Syndrome (ACS) stabilization initiated during inpatient hospital admission",
+      "Statin-sparing regimen in patients experiencing muscle intolerance on Rosuvastatin 20mg or 40mg (10mg/10mg provides equal or superior LDL-C reduction with fewer muscle symptoms)",
+      "Mixed dyslipidemia with elevated LDL-C and persistent ApoB burden"
+    ],
+    "how_patients_describe_symptoms": [
+      "Even on a strong statin, my bad cholesterol would not drop below 90; switching to this dual-action pill brought my LDL down to 42 within six weeks without any muscle soreness.",
+      "Following my heart attack, my cardiologist prescribed this combined pill to block both cholesterol production in my liver and cholesterol absorption from my food.",
+      "I had leg cramps when my doctor tried raising my statin dose; this combination gave me double the cholesterol drop while keeping my statin dose low and comfortable."
+    ],
+    "reconstitution_and_dilution": "Supplied ready-to-administer as white to off-white or pale pink, capsule-shaped, biconvex, film-coated tablets containing Rosuvastatin Calcium IP equivalent to 10 mg of anhydrous rosuvastatin, combined with Ezetimibe IP equivalent to 10 mg (also manufactured in 5mg/10mg and 20mg/10mg strengths). No liquid reconstitution required. Storage Mandate: Store below 25°C to 30°C in original aluminum-aluminum (Alu-Alu) moisture-barrier blister packs. Protect from moisture, high heat, and direct light. Tablets must be swallowed whole with water; do not crush, split, or chew.",
+    "infusion_rate_and_timing": "Oral Administration Only. Administration Timing Rule: Administer 1 tablet orally ONCE DAILY (every 24 hours) AT ANY TIME OF DAY (morning, afternoon, or evening), with or without food. Because rosuvastatin has a 19-hour elimination half-life and ezetimibe undergoes extensive enterohepatic recirculation as active ezetimibe-glucuronide (half-life ~22 hours), absorption is completely circadian- and food-independent. Bile Acid Sequestrant Rule: If co-prescribed with Colestyramine or Colesevelam, administer this tablet at least 2 hours before or at least 4 hours after the bile acid sequestrant to avoid ezetimibe chelation.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults with established ASCVD who require aggressive LDL-C lowering to reach < 55 mg/dL",
+        "Patients with HeFH requiring maximal non-invasive LDL clearance",
+        "Patients unable to tolerate high-dose statin monotherapy (Rosuvastatin 40mg or Atorvastatin 80mg) due to muscle stiffness or myalgias (RACING trial demonstrated non-inferiority with superior tolerability)",
+        "Diabetic patients with metabolic syndrome requiring dual clearance of circulating ApoB particles"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Absolute Contraindication: Active acute liver disease, acute viral hepatitis, unexplained persistent transaminase elevations (> 3x ULN), or decompensated cirrhosis",
+        "Absolute Contraindication: Pregnancy, planned conception, and breastfeeding mothers (fetal cholesterol biosynthesis is critical for membrane formation and sonic hedgehog signaling; teratogenic)",
+        "Absolute Contraindication: Known severe hypersensitivity to rosuvastatin, ezetimibe, or formulation excipients",
+        "Moderate-to-Severe Hepatic Impairment (Child-Pugh Class B or C; ezetimibe exposure surges 3- to 4-fold due to disrupted enterohepatic recirculation; not recommended)",
+        "Severe Renal Impairment (Creatinine Clearance < 30 mL/min/1.73m² not on dialysis; limit rosuvastatin component to 5mg or 10mg maximum daily)",
+        "Patients concurrently taking Cyclosporine (causes a 7- to 11-fold surge in rosuvastatin AUC and 12-fold increase in ezetimibe exposure; avoid combination)"
+      ]
+    },
+    "common_side_effects": [
+      "Musculoskeletal: mild myalgia (muscle soreness or stiffness in 3% to 5%; significantly lower incidence than high-dose statin monotherapy), arthralgia, or muscle spasms",
+      "Gastrointestinal: abdominal discomfort, diarrhea, mild nausea, or flatulence",
+      "Central nervous system: headache, dizziness, and mild fatigue",
+      "Hepatic: transient, asymptomatic elevations in serum transaminases (ALT, AST occurring in ~1% to 2%)",
+      "Metabolic: minor dose-dependent rise in HbA1c (cardiovascular MACE reduction far outweighs diabetes risk)",
+      "Upper respiratory symptoms: nasopharyngitis or sinusitis"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "Superiority Over Statin Dose Doubling (The RACING Trial Paradigm): The landmark randomized RACING trial established that combining moderate-intensity Rosuvastatin (10mg) with Ezetimibe (10mg) achieves cardiovascular risk reduction equivalent to high-intensity Rosuvastatin (20mg) monotherapy, but with A SIGNIFICANTLY HIGHER PROPORTION OF PATIENTS ACHIEVING LDL-C < 55 MG/DL (73% vs. 55%) AND SIGNIFICANTLY LOWER RATES OF INTOLERANCE, MYALGIA, OR DISCONTINUATION (4.8% vs. 8.2%). It is the preferred regimen for patients at high risk of statin-associated muscle symptoms.",
+      "Statin-Associated Muscle Symptoms (SAMS) & Rhabdomyolysis Surveillance: Although better tolerated than 40mg statin monotherapy, any statin-containing regimen carries a risk of skeletal muscle injury, ranging from benign myalgias to myositis (CK > 10x ULN) and rare rhabdomyolysis. Instruct patients to report unexplained muscle pain, tenderness, weakness, or brown tea-colored urine immediately. Discontinue medication if marked CK elevation or myopathy is diagnosed.",
+      "Hepatic Transaminase Monitoring & Baseline Evaluation: Liver function tests (ALT, AST, alkaline phosphatase, bilirubin) should be performed at baseline and clinically thereafter. Persistent elevations in serum transaminases > 3x the upper limit of normal warrant dose reduction or discontinuation. The combination is not recommended in moderate-to-severe hepatic impairment (Child-Pugh Class B or C) because ezetimibe exposure increases up to 4-fold.",
+      "Bile Acid Sequestrant Binding Warning (Chelation Interaction): Bile acid sequestrants (Colestyramine, Colestipol) bind ezetimibe in the intestinal lumen, reducing its AUC by 55% to 80% and compromising its efficacy. ADMINISTER THIS COMBINATION TABLET AT LEAST 2 HOURS BEFORE OR AT LEAST 4 HOURS AFTER BILE ACID SEQUESTRANTS.",
+      "Fibrate Co-Administration Rule: Ezetimibe combined with Fenofibrate is clinically permitted with careful gallbladder ultrasound monitoring. However, EZETIMIBE COMBINED WITH GEMFIBROZIL IS CONTRAINDICATED (gemfibrozil increases ezetimibe AUC and independently spikes statin levels, multiplying myopathy and cholelithiasis risks).",
+      "Asian Pharmacogenomic Starting Dose Rule: Patients of Asian descent (South Asian, Indian, East Asian) have approximately 2-fold higher median systemic exposure to rosuvastatin compared to Caucasian patients. The 10mg/10mg combination is the standard high-intensity ceiling for most Asian patients, providing deep LDL-C drops without requiring higher statin doses (such as 20mg/10mg or 40mg/10mg) that elevate myopathy and hepatic transaminase risks."
+    ]
+  },
+  {
+    "id": "atorvastatin-clopidogrel-capsules-ip-10mg-75mg",
+    "name": "Atorvastatin & Clopidogrel Capsules IP (10mg / 75mg or 20mg / 75mg)",
+    "generic_names": [
+      "Atorvastatin Calcium & Clopidogrel Bisulphate Capsules IP",
+      "Atorva-TG / Atorlip-CV 10/75",
+      "Clopivas-AP 10/75",
+      "Deplatt-CV 10/75",
+      "Storvas-CV 10/75",
+      "Tonact-TG 10/75",
+      "Atocor-CV 10/75",
+      "Lipikind-CV 10/75"
+    ],
+    "category": [
+      "Statins",
+      "Antiplatelet & Antithrombotic",
+      "Cardiovascular",
+      "Lipid-Lowering"
+    ],
+    "sub_category": "Dual Cardioprotective Fixed-Dose Combination (Hepatic HMG-CoA Reductase Inhibitor + P2Y12 Platelet Receptor Antagonist)",
+    "company_name": "AC4",
+    "amount": "180/- (Strip of 10 Hard Gelatin Capsules - 10mg/75mg) / 245/- (20mg/75mg)",
+    "routes_of_administration": [
+      "Oral (Per Os - Swallowed Whole with Water Once Daily at the Same Time Every Day, With or Without Food)"
+    ],
+    "intensity_tier": "Moderate-Intensity (30–49% LDL Drop)",
+    "lipid_profile_impact": {
+      "ldl_reduction": "36% to 45% (10mg/20mg Atorvastatin component)",
+      "tg_reduction": "15% to 25%",
+      "hdl_elevation": "5% to 9%",
+      "lpa_reduction": "Neutral"
+    },
+    "main_cause": "Secondary Prevention of Atherothrombotic Events (Myocardial Infarction, Ischemic Stroke, Cardiovascular Death) in Adult Patients with Established Atherosclerotic Cardiovascular Disease (ASCVD), Acute Coronary Syndrome (Unstable Angina, NSTEMI, STEMI), Prevention of Subacute Stent Thrombosis Following Percutaneous Coronary Intervention (PCI) with Coronary Stent Implantation, Symptomatic Peripheral Arterial Disease (PAD) or Recent Non-Cardioembolic Ischemic Stroke/TIA",
+    "why_this_disease_happens": "Atherothrombotic vascular occlusion and recurrent acute coronary syndrome (ACS) represent the combined consequence of subendothelial atherogenesis and intravascular platelet activation. In diseased arterial walls, high concentrations of circulating apolipoprotein B-containing low-density lipoprotein (LDL) particles infiltrate the damaged coronary tunica intima, becoming oxidized into pro-inflammatory ox-LDL. Macrophages ingest ox-LDL to form foam cells, generating lipid-rich necrotic cores covered by a thin collagen fibrous cap. When shear stress or matrix metalloproteinases degrade this cap, the plaque fissures or ruptures. Rupture exposes subendothelial collagen and tissue factor directly to circulating blood. Circulating platelets instantly adhere via glycoprotein Ib/IX/V complexes to exposed von Willebrand factor, undergo shape change, and degranulate. Dense granules secrete adenosine diphosphate (ADP), which binds autocrine and paracrine P2Y1 and P2Y12 purinergic G-protein coupled receptors on adjacent platelets. Sustained P2Y12 activation inhibits adenylyl cyclase, lowering cyclic AMP (cAMP) and driving inside-out signaling that activates glycoprotein IIb/IIIa integrin receptors. Activated GPIIb/IIIa receptors bind circulating fibrinogen molecules, cross-linking hundreds of platelets into an occlusive, white atherothrombus that abruptly cuts off downstream coronary perfusion, precipitating acute myocardial infarction or fatal stent thrombosis. Halting post-PCI ischemic recurrence requires simultaneous dual intervention: stabilizing the underlying plaque by lowering circulating atherogenic cholesterol, while irreversibly blocking ADP-dependent platelet cross-linking.",
+    "how_this_medicine_fights_it": "Provides dual-pathway atherothrombotic risk reduction by combining hepatic HMG-CoA reductase arrest with irreversible platelet P2Y12 purinergic blockade: (1) Formulation Synergy: Co-formulates the synthetic lipophilic statin Atorvastatin Calcium (10 mg or 20 mg) with the thienopyridine prodrug Clopidogrel Bisulphate (75 mg) into a single once-daily capsule, eliminating pill burden and improving compliance in secondary prevention. (2) Endogenous Hepatic Cholesterol Depletion (Atorvastatin): Atorvastatin enters hepatocytes and competitively inhibits 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase, the rate-limiting enzyme in de novo cholesterol biosynthesis. Intracellular cholesterol depletion triggers the SREBP-2 cleavage pathway, driving nuclear transcription and cell-surface upregulation of high-affinity LDL receptors. These receptors clear circulating LDL and intermediate-density atherogenic particles from plasma via endocytosis, reducing plasma LDL-C by 36% to 45%. Furthermore, atorvastatin depletes downstream isoprenoid intermediates (geranylgeranyl pyrophosphate), upregulating endothelial nitric oxide synthase (eNOS), reducing vascular inflammation (hs-CRP), and preventing further fibrous cap degradation. (3) Hepatic Cytochrome P450 Biotransformation (Clopidogrel): Clopidogrel is an inactive thienopyridine prodrug. Following intestinal absorption, roughly 85% is inactivated by human carboxylesterase-1 (CES1) into inactive carboxylic acid derivatives. The remaining 15% undergoes a two-step oxidative bioactivation in the liver mediated primarily by CYP2C19, CYP1A2, CYP2B6, CYP3A4, and CYP3A5 into a highly labile active thiol metabolite (R-130964). (4) Irreversible P2Y12 Purinergic Receptor Inactivation: The active thiol metabolite forms a covalent disulfide bridge with free cysteine residues (Cys17 and Cys270) within the extracellular loops of the platelet P2Y12 ADP receptor. This permanently locks the receptor in an inactive conformation for the remaining lifespan of the platelet (7 to 10 days). Inactivation prevents ADP from inhibiting adenylyl cyclase, maintaining elevated intracellular cAMP levels, blocking intracellular calcium release, preventing conformational activation of the GPIIb/IIIa receptor complex, and halting platelet aggregation and thrombus propagation. (5) Resolved Pharmacokinetic Controversy: While early in vitro studies suggested competitive CYP3A4 inhibition between atorvastatin and clopidogrel, large post-hoc analyses of landmark clinical trials (including CREDO, CHARISMA, and PRONTO) confirmed that co-administration of atorvastatin with clopidogrel produces NO CLINICALLY SIGNIFICANT ATTENUATION OF ANTIPLATELET EFFICACY and demonstrates superior reduction in composite cardiovascular death, MI, and stroke.",
+    "drug_class": "Lipophilic HMG-CoA Reductase Inhibitor + Thienopyridine P2Y12 Antiplatelet Combination",
+    "main_action": "Atorvastatin competitively inhibits hepatic HMG-CoA reductase to lower LDL-C and stabilize plaques, while clopidogrel's active metabolite irreversibly blocks platelet P2Y12 receptors to prevent ADP-mediated platelet aggregation and stent thrombosis.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Secondary prevention of major adverse cardiovascular events (MACE: MI, ischemic stroke, vascular death) in established ASCVD (1 capsule orally once daily)",
+      "Acute Coronary Syndrome (ACS: unstable angina, NSTEMI, STEMI) as part of dual antiplatelet and high-intensity lipid-lowering protocols",
+      "Post-Percutaneous Coronary Intervention (PCI) with bare-metal or drug-eluting stent (DES) placement to prevent acute and subacute stent thrombosis",
+      "Secondary prevention of non-cardioembolic ischemic stroke or transient ischemic attack (TIA)",
+      "Symptomatic peripheral arterial disease (PAD: intermittent claudication, prior peripheral bypass, or angioplasty)"
+    ],
+    "how_patients_describe_symptoms": [
+      "Following my coronary stent placement after a heart attack, the cardiologist discharged me with this daily combination capsule to keep my stent from clotting off and lower my bad cholesterol.",
+      "I had a mild ischemic stroke from plaque buildup in my neck arteries; taking this single capsule every morning prevents blood clots and stabilizes my arterial walls.",
+      "My legs had poor circulation and cramping pain when walking due to peripheral artery disease; this combined medicine helped improve my blood flow and keep my cholesterol in target."
+    ],
+    "reconstitution_and_dilution": "Supplied ready-to-administer as two-piece hard gelatin capsules (often with distinct cap and body colors, such as blue/white or orange/white) containing Atorvastatin Calcium IP equivalent to 10 mg or 20 mg of anhydrous atorvastatin, alongside Clopidogrel Bisulphate IP equivalent to 75 mg of clopidogrel base. No reconstitution required. Storage Mandate: Store below 25°C to 30°C in original moisture-barrier aluminum-aluminum (Alu-Alu) blister packs. Protect from excessive moisture, heat, and direct sunlight. Swallow capsules whole with a full glass of water; do not open, crush, or dissolve contents.",
+    "infusion_rate_and_timing": "Oral Administration Only. Administration Timing Rule: Administer 1 capsule orally ONCE DAILY AT THE SAME TIME EVERY DAY (morning or evening), with or without food. Because atorvastatin has an effective active metabolite half-life of 20 to 30 hours and clopidogrel irreversibly inactivates platelets, dosing is circadian-independent. Elective Surgery Discontinuation Mandate: IF A PATIENT IS SCHEDULED FOR ELECTIVE SURGERY (WHERE AN ANTIPLATELET EFFECT IS UNDESIRABLE), DISCONTINUE CLOPIDOGREL-CONTAINING THERAPY AT LEAST 5 DAYS PRIOR TO SURGERY TO RESTORE NORMAL HEMOSTASIS (UNLESS DELAY CARRIES PROHIBITIVE STENT THROMBOSIS RISK).",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adult patients with documented coronary artery disease, post-PCI stenting, or peripheral arterial disease requiring dual lipid-lowering and antiplatelet coverage",
+        "Patients requiring secondary prevention of atherothrombotic ischemic events who have trouble adhering to multiple separate tablets",
+        "Patients with mild-to-severe renal impairment (Atorvastatin is cleared via non-renal biliary routes; Clopidogrel does not require renal dose adjustment)",
+        "Patients with aspirin intolerance or aspirin-induced peptic ulcer disease needing a clopidogrel-based antiplatelet backbone"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Absolute Contraindication: Active pathological bleeding (acute peptic ulcer disease, intracranial hemorrhage, severe gastrointestinal hemorrhage, retroperitoneal bleeding)",
+        "Absolute Contraindication: Active acute liver disease, acute viral hepatitis, unexplained persistent transaminase elevations (> 3x ULN), or decompensated hepatic failure",
+        "Absolute Contraindication: Pregnancy, planned conception, and breastfeeding mothers (atorvastatin is teratogenic; fetal cholesterol biosynthesis is essential for development)",
+        "Absolute Contraindication: Concurrent administration with Omeprazole or Esomeprazole (potent CYP2C19 inhibitors that significantly decrease clopidogrel active metabolite formation and antiplatelet efficacy)",
+        "Severe Contraindication: Patients known to be CYP2C19 Poor Metabolizers (*2/*2, *2/*3, *3/*3 loss-of-function alleles) due to high risk of clopidogrel non-responsiveness and stent thrombosis (Ticagrelor or Prasugrel preferred)"
+      ]
+    },
+    "common_side_effects": [
+      "Hematologic / Bleeding: minor bleeding tendencies (easy bruising, cutaneous ecchymoses, hematoma formation, epistaxis/nosebleeds, or prolonged bleeding from minor cuts)",
+      "Gastrointestinal: dyspepsia, abdominal pain, nausea, diarrhea, constipation, or flatulence",
+      "Musculoskeletal: mild myalgia (muscle soreness or stiffness in 4% to 7%), arthralgia, or limb discomfort",
+      "Central nervous system: headache, dizziness, and mild fatigue",
+      "Hepatic: transient, asymptomatic elevations in serum transaminases (ALT, AST occurring in 1% to 2%)",
+      "Metabolic: modest dose-dependent rise in HbA1c and fasting blood glucose (cardiovascular MACE reduction far outweighs diabetes risk)"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "CYP2C19 Pharmacogenomics & Poor Metabolizer Black Box Alert: Clopidogrel is an inactive prodrug requiring bioactivation by hepatic CYP2C19 into its active thiol metabolite. Individuals who carry two loss-of-function alleles of the CYP2C19 gene (e.g., CYP2C19*2 or *3, classified as 'CYP2C19 Poor Metabolizers', highly prevalent in Asian and South Asian populations: 15% to 30%) FORM SIGNIFICANTLY LESS ACTIVE THIOL METABOLITE AND EXHIBIT INADEQUATE PLATELET INHIBITION. Poor metabolizers with ACS or post-PCI stenting experience higher rates of cardiovascular death, recurrent MI, and catastrophic stent thrombosis. In verified poor metabolizers, switch antiplatelet therapy to a non-CYP2C19-dependent agent (such as Ticagrelor or Prasugrel).",
+      "Proton Pump Inhibitor (PPI) Interaction (Omeprazole / Esomeprazole Avoidance): Omeprazole and Esomeprazole are potent competitive inhibitors of CYP2C19. Co-administration significantly diminishes clopidogrel active metabolite generation, reducing platelet inhibition by up to 40% and increasing recurrent ischemic cardiac events. AVOID OMEPRAZOLE AND ESOMEPRAZOLE. If gastroprotection is required to prevent bleeding, USE PANTOPRAZOLE OR RABEPRAZOLE (which have minimal CYP2C19 inhibition) or an H2-receptor antagonist (Famotidine).",
+      "Premature Discontinuation Stent Thrombosis Warning: Premature cessation of clopidogrel, particularly in the first 6 to 12 months following drug-eluting stent (DES) placement, is the strongest independent predictor of CATASTROPHIC SUBACUTE STENT THROMBOSIS, resulting in massive anterior MI or sudden cardiac death. Instruct patients never to stop taking this medication without consulting their cardiologist, even for routine dental or minor procedures.",
+      "Statin-Associated Muscle Symptoms (SAMS) & Rhabdomyolysis Surveillance: Like all statins, the atorvastatin component carries a dose-dependent risk of muscle toxicity ranging from mild myalgias to myositis (CK > 10x ULN) and rare, potentially fatal rhabdomyolysis. Instruct patients to report unexplained muscle pain, tenderness, weakness, or brown tea-colored urine immediately. Discontinue this combination immediately if myopathy or marked CK elevation occurs.",
+      "Bleeding Vigilance with Dual Antiplatelet / Anticoagulant Therapy: Co-administration with Aspirin (triple therapy when added to this capsule), Non-Steroidal Anti-Inflammatory Drugs (NSAIDs: Ibuprofen, Naproxen), or Direct Oral Anticoagulants (DOACs: Apixaban, Rivaroxaban) significantly multiplies gastrointestinal and intracranial bleeding risks. Avoid routine over-the-counter NSAIDs.",
+      "Potent CYP3A4 Inhibitor Interactions: Atorvastatin is metabolized predominantly by hepatic CYP3A4. Concomitant administration with potent CYP3A4 inhibitors (Itraconazole, Ketoconazole, Clarithromycin, HIV protease inhibitors) reduces atorvastatin clearance and spikes systemic exposure, multiplying myopathy risk. Use with caution or consider temporarily holding statin therapy during short antimicrobial courses."
+    ]
+  },
+  {
+    "id": "atorvastatin-aspirin-clopidogrel-capsules-ip-10mg-75mg-75mg",
+    "name": "Atorvastatin, Aspirin & Clopidogrel Capsules IP (10mg / 75mg / 75mg)",
+    "generic_names": [
+      "Atorvastatin, Enteric-Coated Aspirin & Clopidogrel Capsules IP",
+      "Atorva-Gold 10 / 20",
+      "Deplatt-CV 10 Gold",
+      "Clavix-Gold 10 / 20",
+      "Storvas-CV 10 Gold",
+      "Tonact-TG Gold",
+      "Atocor-CV Gold",
+      "Ecosprin-AV 75/10/75",
+      "Triple Cardioprotective Polypill"
+    ],
+    "category": [
+      "Statins",
+      "Antiplatelet & Antithrombotic",
+      "Cardiovascular",
+      "Lipid-Lowering",
+      "Emergency & Critical Care"
+    ],
+    "sub_category": "Triple-Action Cardioprotective Polypill (Hepatic HMG-CoA Reductase Inhibitor + COX-1 Inhibitor + P2Y12 ADP Antagonist)",
+    "company_name": "AC5",
+    "amount": "235/- (Strip of 10 Hard Gelatin Capsules - 10mg/75mg/75mg) / 295/- (20mg/75mg/75mg)",
+    "routes_of_administration": [
+      "Oral (Per Os - Swallowed Whole with Water Immediately Following a Main Meal, Once Daily at the Same Time Every Day)"
+    ],
+    "intensity_tier": "Moderate-Intensity (30–49% LDL Drop)",
+    "lipid_profile_impact": {
+      "ldl_reduction": "36% to 45% (10mg/20mg Atorvastatin component)",
+      "tg_reduction": "15% to 25%",
+      "hdl_elevation": "5% to 9%",
+      "lpa_reduction": "Neutral"
+    },
+    "main_cause": "Comprehensive Secondary Prevention of Acute Coronary Syndrome (ACS: STEMI, NSTEMI, and High-Risk Unstable Angina), Prevention of Subacute and Late Stent Thrombosis Following Percutaneous Coronary Intervention (PCI) with Drug-Eluting Stents (DES), Secondary Prevention in Multi-Vessel Coronary Artery Disease (CAD) and Prior Coronary Artery Bypass Graft (CABG), Combined DAPT and Lipid Stabilization for Severe Atherothrombotic Cerebrovascular Disease or High-Risk TIA",
+    "why_this_disease_happens": "Atherothrombotic vascular catastrophe and post-stent occlusion arise from the interplay of fibrous plaque disruption and platelet-mediated microthrombus propagation. In advanced coronary atherosclerosis, continuous subendothelial entrapment of apolipoprotein B-100-containing low-density lipoproteins (LDL) triggers local lipid oxidation, recruitment of monocyte-derived macrophages, and necrotic lipid core expansion. Foam-cell secretion of inflammatory matrix metalloproteinases (MMPs) thins the collagenous fibrous cap. When mechanical shear stress or cap erosion causes plaque rupture, subendothelial collagen, fibronectin, and tissue factor are exposed directly to arterial blood. Circulating blood platelets instantly tether and activate via dual complementary signaling cascades: (1) In the Cyclooxygenase-1 (COX-1) pathway, platelet membrane phospholipase A2 liberates arachidonic acid, which COX-1 converts into prostaglandin H2 and subsequently thromboxane A2 (TXA2)—a potent platelet activator and local vasoconstrictor; (2) In the purinergic pathway, dense granules secrete adenosine diphosphate (ADP), which binds autocrine G-protein coupled P2Y12 receptors, shutting down adenylyl cyclase and lowering cyclic AMP. Both pathways converge on the final common pathway of thrombosis: inside-out activation of platelet Glycoprotein IIb/IIIa (GPIIb/IIIa, integrin alphaIIb-beta3) receptors. Activated GPIIb/IIIa binds multivalent plasma fibrinogen, cross-linking circulating platelets into a mechanical platelet plug that causes coronary artery occlusion or acute stent thrombosis. Solely blocking one pathway leaves the alternative activation loop vulnerable to ischemic breakthrough. Maximal secondary cardioprotection requires triple synergy: depleting circulating atherogenic sterols to stabilize the fibrous plaque while simultaneously shutting down both independent platelet activation pathways (COX-1 and P2Y12).",
+    "how_this_medicine_fights_it": "Provides synchronized triple-pathway secondary cardioprotection by combining hepatic cholesterol biosynthesis arrest with complementary dual-pathway antiplatelet blockade (DAPT): (1) Enteric-Coated Polypill Engineering: Combines Atorvastatin Calcium (10 mg or 20 mg), Enteric-Coated Aspirin (75 mg), and Clopidogrel Bisulphate (75 mg) into a single capsule. The enteric polymer coating on the aspirin pellets prevents gastric dissolution, releasing aspirin only within the neutral pH of the duodenum to reduce direct gastric mucosal ulceration, while single-capsule co-formulation resolves post-MI non-adherence. (2) Endogenous Hepatic Sterol Biosynthesis Arrest (Atorvastatin): Atorvastatin enters hepatocytes and competitively inhibits 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase, preventing mevalonate synthesis. Intracellular sterol depletion activates SREBP-2 cleavage and nuclear translocation, upregulating hepatic LDL receptors (LDLR) to clear circulating ApoB particles from plasma, lowering serum LDL-C by 36% to 45%. Atorvastatin also depletes downstream geranylgeranyl pyrophosphate, upregulating endothelial nitric oxide synthase (eNOS), dampening vascular cell adhesion molecules (VCAM-1), reducing CRP, and inhibiting macrophage MMP production, preventing cap thinning. (3) Irreversible Platelet COX-1 Inactivation (Aspirin): Aspirin (acetylsalicylic acid) permanently inactivates the cyclooxygenase-1 (COX-1) enzyme in portal and systemic platelets by acetylating a specific serine residue (Ser-529) located deep within the hydrophobic catalytic channel. Because mature platelets lack nuclei and cannot synthesize new enzymes, COX-1 is irreversibly inhibited for the platelet's entire 7- to 10-day circulatory lifespan. This blocks the conversion of arachidonic acid to Thromboxane A2 (TXA2), suppressing TXA2-mediated platelet shape change, degranulation, and coronary vasoconstriction. (4) Irreversible P2Y12 Purinergic Blockade (Clopidogrel): Clopidogrel is an inactive thienopyridine prodrug bioactivated in the liver by CYP2C19, CYP1A2, and CYP3A4 into an active thiol metabolite. The reactive thiol forms a covalent disulfide bridge with free cysteine residues (Cys17, Cys270) on the platelet P2Y12 purinergic receptor, permanently preventing ADP binding. This preserves intracellular cyclic AMP (cAMP) levels, halts intracellular calcium mobilization, and prevents conformational activation of the GPIIb/IIIa receptor complex. (5) Synergistic DAPT Antithrombotic Power: By simultaneously blocking Thromboxane A2 production (via Aspirin) and ADP purinergic signaling (via Clopidogrel), this combination provides comprehensive Dual Antiplatelet Therapy (DAPT), preventing stent thrombosis, recurrent infarction, and cardiovascular mortality post-PCI.",
+    "drug_class": "Lipophilic Statin + Irreversible COX-1 Inhibitor + Thienopyridine P2Y12 Antiplatelet / Triple Cardioprotective Polypill",
+    "main_action": "Atorvastatin competitively inhibits hepatic HMG-CoA reductase to lower LDL-C and stabilize arterial plaques, aspirin permanently acetylates platelet COX-1 to block Thromboxane A2, and clopidogrel irreversibly inactivates platelet P2Y12 receptors to block ADP-mediated cross-linking, providing complete dual antiplatelet and lipid protection.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Post-Percutaneous Coronary Intervention (PCI) with Drug-Eluting Stents (DES) requiring guideline-directed Dual Antiplatelet Therapy (DAPT) plus statin therapy for 6 to 12 months (1 capsule daily)",
+      "Acute Coronary Syndrome (STEMI, NSTEMI, Unstable Angina) initiated within 24 hours of hospital presentation",
+      "Secondary prevention in severe Multi-Vessel Coronary Artery Disease with prior Myocardial Infarction or CABG",
+      "High-risk non-cardioembolic ischemic stroke or transient ischemic attack (TIA) during the acute 21- to 90-day dual antiplatelet window (CHANCE / POINT protocol)",
+      "Severe symptomatic peripheral arterial disease (PAD) with prior peripheral revascularization or bypass stenting"
+    ],
+    "how_patients_describe_symptoms": [
+      "After my emergency heart stent procedure for a major heart attack, my doctor gave me this single daily 3-in-1 capsule to prevent blood clots in the stent, keep my blood thin, and lower my bad cholesterol.",
+      "Taking this combination capsule after my main meal keeps my heart protected without me having to remember three separate pills every day.",
+      "My cardiologist prescribed this triple medicine to stabilize my blocked coronary arteries, lower my cholesterol, and stop blood clots from causing another heart attack."
+    ],
+    "reconstitution_and_dilution": "Supplied ready-to-administer as hard gelatin capsules (frequently distinct two-tone color-coded, such as maroon/gold, red/white, or orange/silver) containing Atorvastatin Calcium IP equivalent to 10 mg or 20 mg of anhydrous atorvastatin, Enteric-Coated Aspirin IP equivalent to 75 mg, and Clopidogrel Bisulphate IP equivalent to 75 mg of clopidogrel base. No reconstitution required. Storage Mandate: Store below 25°C to 30°C in original moisture-barrier aluminum-aluminum (Alu-Alu) blister packaging. Protect from excessive moisture, heat, and direct light. Tablets/pellets inside the capsule MUST NOT be emptied, crushed, or chewed; swallow the capsule whole with a full glass of water.",
+    "infusion_rate_and_timing": "Oral Administration Only. Administration Timing Rule: Administer 1 capsule orally ONCE DAILY AT THE SAME TIME EVERY DAY (morning or evening), IMMEDIATELY FOLLOWING A SUBSTANTIAL MEAL WITH A FULL GLASS OF WATER (200 TO 250 ML). Post-prandial administration minimizes direct gastrointestinal mucosal irritation from aspirin and promotes smooth intestinal transit. Elective Surgery Discontinuation Mandate: IF THE PATIENT IS SCHEDULED FOR ELECTIVE SURGERY (WHERE ANTIPLATELET BLEEDING IS UNACCEPTABLE), DISCONTINUE THIS CAPSULE AT LEAST 5 TO 7 DAYS PRIOR TO SURGERY TO ALLOW NEW UNINHIBITED PLATELETS TO RESTORE NORMAL HEMOSTASIS (MANDATORY CARDIOLOGY CLEARANCE REQUIRED TO ASSESS STENT THROMBOSIS RISK).",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adult patients with acute coronary syndrome or post-PCI stenting requiring guideline-directed Dual Antiplatelet Therapy (DAPT) alongside statin therapy",
+        "Post-MI patients with complex multi-drug regimens who benefit from a single daily polypill to prevent non-compliance and stent thrombosis",
+        "Patients with multi-vessel CAD or prior CABG requiring long-term secondary atherothrombotic prevention",
+        "Patients with non-cardioembolic ischemic stroke/TIA eligible for short-term dual antiplatelet and statin secondary prevention"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Absolute Contraindication: Active pathological bleeding (acute peptic ulcer hemorrhage, intracranial hemorrhage, severe gastrointestinal bleeding, retroperitoneal hematoma)",
+        "Absolute Contraindication: Active acute liver disease, acute viral hepatitis, unexplained persistent transaminase elevations (> 3x ULN), or decompensated hepatic cirrhosis",
+        "Absolute Contraindication: Known hypersensitivity to aspirin, other salicylates, NSAIDs, clopidogrel, or atorvastatin (includes aspirin-exacerbated respiratory disease / Samter's Triad: asthma, nasal polyps, bronchospasm)",
+        "Absolute Contraindication: Pregnancy, planned conception, and breastfeeding mothers (atorvastatin is teratogenic; third-trimester aspirin causes premature closure of the fetal ductus arteriosus and maternal-fetal hemorrhage)",
+        "Absolute Contraindication: Children and adolescents under 18 years of age (aspirin carries the risk of Reye's syndrome)",
+        "Absolute Contraindication: Concurrent administration with Omeprazole or Esomeprazole (potent CYP2C19 inhibitors that impair clopidogrel bioactivation; use Pantoprazole instead)",
+        "Severe Contraindication: Severe, uncontrolled arterial hypertension (systolic BP > 180 mmHg or diastolic BP > 110 mmHg; exponentially increases intracranial hemorrhage risk)"
+      ]
+    },
+    "common_side_effects": [
+      "Hematologic / Bleeding: minor bleeding tendencies (easy bruising, cutaneous petechiae, ecchymoses, epistaxis/nosebleeds, gingival bleeding during tooth brushing, or prolonged bleeding from skin abrasions)",
+      "Gastrointestinal: dyspepsia, epigastric heartburn, abdominal discomfort, nausea, flatulence, diarrhea, or mild constipation",
+      "Musculoskeletal: mild myalgia (muscle soreness, stiffness, or limb discomfort in 4% to 7%), arthralgia, or back pain",
+      "Central nervous system: headache, mild dizziness, and fatigue",
+      "Hepatic: transient, asymptomatic elevations in serum transaminases (ALT, AST occurring in 1% to 2%)",
+      "Metabolic: modest dose-dependent rise in HbA1c and fasting blood glucose (cardiovascular benefit far outweighs risk)"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "Major Gastrointestinal & Intracranial Bleeding Vigilance (DAPT Burden): Combining two potent antiplatelet agents (Aspirin + Clopidogrel) significantly multiplies gastrointestinal mucosal ulceration and major systemic hemorrhage risks compared to antiplatelet monotherapy. Monitor for occult bleeding: coffee-ground emesis, black tarry stools (melena), hematochezia, unexplained anemia, or sudden focal neurological deficits. IN PATIENTS WITH HIGH GASTROINTESTINAL BLEEDING RISK (AGE > 65, PRIOR PEPTIC ULCER, CONCURRENT ANTICOAGULANT USE), CO-PRESCRIBE A GASTROPROTECTIVE PROTON PUMP INHIBITOR (SPECIFICALLY PANTOPRAZOLE OR RABEPRAZOLE).",
+      "Proton Pump Inhibitor (PPI) Selection Rule (Omeprazole / Esomeprazole Prohibition): Clopidogrel requires hepatic CYP2C19 for conversion to its active antiplatelet thiol metabolite. Omeprazole and Esomeprazole are potent CYP2C19 inhibitors that significantly decrease clopidogrel active metabolite formation, reducing platelet inhibition by up to 40% and increasing recurrent stent thrombosis and MI. CO-ADMINISTRATION WITH OMEPRAZOLE OR ESOMEPRAZOLE IS STRONGLY DISCOURAGED. IF A PPI IS INDICATED, USE PANTOPRAZOLE OR RABEPRAZOLE (which have minimal CYP2C19 interaction) or H2-receptor antagonists (Famotidine).",
+      "CYP2C19 Pharmacogenomic Non-Responsiveness Alert: Patients carrying two loss-of-function alleles for CYP2C19 (*2 or *3, classified as 'CYP2C19 Poor Metabolizers', found in 15% to 30% of Asian/South Asian populations) have significantly impaired clopidogrel bioactivation. Poor metabolizers post-PCI stenting have a higher risk of catastrophic stent thrombosis. In known poor metabolizers, avoid clopidogrel-based polypills and switch to Ticagrelor- or Prasugrel-based regimens.",
+      "Catastrophic Stent Thrombosis from Premature Cessation: Premature discontinuation of this triple polypill during the mandatory DAPT window (typically 6 to 12 months post-DES placement) is the single most dangerous trigger of ACUTE SUBACUTE STENT THROMBOSIS, leading to fatal anterior wall myocardial infarction. PATIENTS MUST BE WARNED NEVER TO STOP TAKING THIS MEDICATION WITHOUT DIRECT CARDIOLOGY CONSULTATION, even before minor dental or elective surgical procedures.",
+      "Statin-Associated Muscle Symptoms (SAMS) & Rhabdomyolysis Surveillance: Like all statins, the atorvastatin component carries a dose-dependent risk of muscle toxicity ranging from mild myalgias to myositis (CK > 10x ULN) and rare, life-threatening rhabdomyolysis. Instruct patients to report unexplained muscle pain, tenderness, weakness, or brown tea-colored urine immediately. Discontinue this combination immediately if myopathy or marked CK elevation occurs.",
+      "Avoidance of Concomitant NSAIDs (Triple Renal & Bleeding Insult): Co-administration of over-the-counter Non-Steroidal Anti-Inflammatory Drugs (Ibuprofen, Naproxen, Diclofenac) with this triple capsule competitively displaces aspirin from platelet COX-1 (attenuating cardioprotection), triples gastrointestinal bleeding risk, and impairs renal hemodynamics. Instruct patients to use Paracetamol/Acetaminophen for mild pain instead of NSAIDs.",
+      "Mandatory Post-Meal Ingestion Rule: To protect the gastric mucosa from aspirin-mediated mucosal erosion, this capsule MUST BE INGESTED IMMEDIATELY AFTER A MAIN MEAL WITH A FULL GLASS OF WATER (200-250 mL), and the patient should remain upright for at least 30 minutes."
     ]
   }
 ]
