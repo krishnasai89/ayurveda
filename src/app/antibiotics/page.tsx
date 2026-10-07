@@ -29,11 +29,15 @@ export default function AntibioticsPage() {
   const [searchQuery, setSearchQuery] = useState<string>("");
 
   // Unique drug categories/classes
-  const categories = useMemo(() => {
-    const tags = antibiotics.flatMap((abx) =>
-      Array.isArray(abx.category) ? abx.category : [abx.category],
+  const categories: string[] = useMemo(() => {
+    const tags = antibiotics.flatMap((abx) => {
+      if (!abx?.category) return [];
+      return Array.isArray(abx.category) ? abx.category : [abx.category];
+    });
+    const uniqueTags = Array.from(new Set(tags)).filter(
+      (t): t is string => typeof t === "string" && Boolean(t),
     );
-    return ["All", ...Array.from(new Set(tags.filter(Boolean)))];
+    return ["All", ...uniqueTags];
   }, [antibiotics]);
 
   // WHO AWaRe Classifications
