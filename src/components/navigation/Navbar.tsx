@@ -11,6 +11,7 @@ const NAV_LINKS = [
   { name: "INJECTIONS", href: "/injections" },
   { name: "ANTIBIOTICS", href: "/antibiotics" },
   { name: "CHOLESTEROL", href: "/cholesterol" },
+  { name: "HYPERTENSION", href: "/hypertension" },
   { name: "APOTHECARY", href: "#apothecary" },
   { name: "TREATMENTS", href: "#treatments" },
   { name: "ABOUT", href: "#about" },
