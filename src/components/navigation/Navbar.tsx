@@ -134,7 +134,7 @@ export default function Navbar() {
                 className={`font-serif tracking-[0.25em] text-sm md:text-base transition-colors ${
                   isScrolled
                     ? "text-stone-100"
-                    : "text-stone-100 md:text-stone-300"
+                    : "text-stone-100 md:text-stone-900"
                 }`}
               >
                 AYURVEDA
@@ -165,7 +165,7 @@ export default function Navbar() {
                       className={`relative flex items-center gap-1.5 text-xs font-sans tracking-[0.22em] uppercase font-medium transition-colors ${
                         isScrolled
                           ? "text-stone-300 hover:text-amber-200"
-                          : "text-stone-900/90 hover:text-stone-950"
+                          : "text-stone-900/90 hover:text-stone-900"
                       } ${dropdownOpen ? "text-amber-300" : ""}`}
                     >
                       <span>{link.name}</span>
@@ -257,7 +257,7 @@ export default function Navbar() {
               className={`p-2 rounded-xl md:hidden transition-colors border ${
                 isScrolled
                   ? "bg-white/5 border-amber-500/20 text-stone-200 hover:bg-white/10"
-                  : "bg-black/10 border-black/10 text-stone-900 hover:bg-black/20"
+                  : "bg-black/10 border-black/10 text-stone-200 hover:bg-black/20"
               }`}
             >
               {mobileOpen ? (
