@@ -132,9 +132,7 @@ export default function Navbar() {
             <div className="flex flex-col">
               <span
                 className={`font-serif tracking-[0.25em] text-sm md:text-base transition-colors ${
-                  isScrolled
-                    ? "text-stone-100"
-                    : "text-stone-100 md:text-stone-900"
+                  isScrolled ? "text-stone-100" : "from-amber-600 via-amber-400"
                 }`}
               >
                 AYURVEDA
