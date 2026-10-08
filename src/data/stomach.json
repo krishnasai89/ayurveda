@@ -1,0 +1,847 @@
+[
+  {
+    "id": "vonoprazan-tablets-ip-10mg-20mg",
+    "name": "Vonoprazan Fumarate Tablets (10mg / 20mg)",
+    "generic_names": [
+      "Vonoprazan Fumarate Tablets",
+      "Voquezna",
+      "Vonopraz",
+      "Vono-20",
+      "P-CAB"
+    ],
+    "category": ["Gastrointestinal", "Acid Suppression", "Antisecretory"],
+    "sub_category": "First-in-Class Potassium-Competitive Acid Blocker (P-CAB)",
+    "company_name": "VN1",
+    "amount": "210/- (Strip of 10 Tablets - 20mg)",
+    "routes_of_administration": [
+      "Oral (Per Os - Swallowed Whole With or Without Food)"
+    ],
+    "anatomical_region": "Corpus (Body)",
+    "histological_layer": "Mucosa & Epithelium",
+    "primary_gi_symptom": "Antacids & Acid Suppression",
+    "hemodynamic_or_secretory_impact": {
+      "acid_secretion_reduction": "> 95% 24-hr pH > 4 control",
+      "gastric_emptying_acceleration": false,
+      "spasmolytic_tone_reduction": "Neutral",
+      "mucosal_cytoprotection": true
+    },
+    "main_cause": "Erosive Esophagitis, Resistant Gastroesophageal Reflux Disease (GERD), Gastric and Duodenal Peptic Ulcers, First-Line Component for Helicobacter pylori Eradication Triple/Quadruple Therapy",
+    "why_this_disease_happens": "In severe peptic ulcer disease and erosive GERD, gastric parietal cells located within the oxyntic glands of the stomach fundus and corpus over-secrete hydrochloric acid via apical H+/K+-ATPase pumps. Excessive acid overwhelms mucosal bicarbonate and mucus barriers, causing mucosal ulceration and painful acid reflux. Conventional Proton Pump Inhibitors (PPIs) require acidic pre-activation, only inhibit actively pumping enzymes, and exhibit short plasma half-lives, leaving a nocturnal acid breakthrough window. Complete healing requires immediate, long-acting, acid-independent proton pump arrest.",
+    "how_this_medicine_fights_it": "Vonoprazan competitively and reversibly inhibits the K+-binding site of the gastric H+/K+-ATPase enzyme in gastric parietal cells without requiring acid pre-activation. With a high pKa of 9.37, it concentrates up to 100,000-fold in parietal cell secretory canaliculi, arresting both active and resting proton pumps for over 24 hours.",
+    "drug_class": "Potassium-Competitive Acid Blocker (P-CAB)",
+    "main_action": "Binds reversibly to the potassium-binding channel of the parietal cell H+/K+-ATPase pump to halt gastric hydrochloric acid secretion instantly without requiring meal stimulation or acidic pre-activation.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Healing of all grades of Erosive Esophagitis (20mg once daily for 8 weeks)",
+      "Maintenance of healed Erosive Esophagitis (10mg once daily)",
+      "Helicobacter pylori eradication regimens (20mg twice daily combined with amoxicillin/clarithromycin)",
+      "Gastric and duodenal ulcer healing"
+    ],
+    "how_patients_describe_symptoms": [
+      "I suffered from fiery acid burning in my chest and throat that PPIs could not fix; this new medicine stopped the burning on the very first day and protected me all night."
+    ],
+    "reconstitution_and_dilution": "Supplied as 10 mg or 20 mg film-coated tablets. Store below 25°C protected from moisture.",
+    "infusion_rate_and_timing": "Oral once daily, independent of meals.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults with severe erosive esophagitis, refractory GERD, or H. pylori infection"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Severe hepatic impairment",
+        "Concurrent administration with rilpivirine"
+      ]
+    },
+    "common_side_effects": [
+      "Gastritis",
+      "Diarrhea",
+      "Abdominal distension",
+      "Nausea"
+    ],
+    "important_cautions": [
+      "Prolonged profound acid suppression can elevate serum gastrin levels.",
+      "Does not require meal timing, unlike conventional PPIs."
+    ]
+  },
+  {
+    "id": "sucralfate-oxetacaine-suspension-500mg-10mg",
+    "name": "Sucralfate & Oxetacaine Suspension (500mg / 10mg per 5mL)",
+    "generic_names": [
+      "Sucralfate and Oxetacaine Oral Suspension",
+      "Sucrafil-O",
+      "Mucaine Alternative"
+    ],
+    "category": ["Gastrointestinal", "Mucosal Protectant", "Local Anesthetic"],
+    "sub_category": "Cytoprotective Ulcer Barrier Complex + Acid-Stable Local Mucosal Anesthetic",
+    "company_name": "SC1",
+    "amount": "195/- (200 mL Suspension Bottle)",
+    "routes_of_administration": [
+      "Oral (Per Os - Ingested on an Empty Stomach 1 Hour Before Meals and Bedtime)"
+    ],
+    "anatomical_region": "Corpus (Body)",
+    "histological_layer": "Mucosa & Epithelium",
+    "primary_gi_symptom": "Antacids & Acid Suppression",
+    "hemodynamic_or_secretory_impact": {
+      "acid_secretion_reduction": "Neutral",
+      "gastric_emptying_acceleration": false,
+      "spasmolytic_tone_reduction": "Local mucosal sensory blockade",
+      "mucosal_cytoprotection": true
+    },
+    "main_cause": "Acute Peptic Ulcer Pain, Erosive Gastritis, Esophageal Acid Burns, Radiation Proctitis/Esophagitis, Biliary Reflux Gastritis",
+    "why_this_disease_happens": "Denuded gastric or duodenal mucosa exposes underlying sensory nerve endings directly to concentrated hydrochloric acid, pepsin, and bile salts. This triggers severe burning pain and delays tissue healing.",
+    "how_this_medicine_fights_it": "In acidic pH (< 4), sucralfate cross-links into a viscous, sticky paste that adheres electrostatically to positively charged protein exudates in ulcer craters, forming a physical barrier against acid and pepsin. Concurrently, oxetacaine acts as an acid-stable local anesthetic, blocking mucosal sensory nerve conduction to relieve burning pain within 2 to 5 minutes.",
+    "drug_class": "Basic Aluminum Octasulfate Complex + Aminoamide Local Anesthetic",
+    "main_action": "Forms a physical paste over ulcerated mucosa while anesthetizing exposed gastric sensory nerves to relieve acute burning ulcer pain.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Symptomatic relief of active gastric and duodenal ulcers (10 mL four times daily on an empty stomach)",
+      "Acute erosive gastritis and severe reflux esophagitis",
+      "NSAID-induced mucosal erosions"
+    ],
+    "how_patients_describe_symptoms": [
+      "My stomach ulcer felt like raw fire; taking two spoonfuls of this soothing liquid numbed the pain within minutes and coated my stomach."
+    ],
+    "reconstitution_and_dilution": "Ready-to-use oral suspension. Shake bottle vigorously before each dose.",
+    "infusion_rate_and_timing": "Administer 10 mL 1 hour before meals and at bedtime on an empty stomach.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults with painful gastric ulcers or erosive esophagitis"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Severe renal failure on dialysis (aluminum accumulation risk)"
+      ]
+    },
+    "common_side_effects": [
+      "Constipation (aluminum-induced)",
+      "Dry mouth",
+      "Mild nausea"
+    ],
+    "important_cautions": [
+      "Aluminum toxicity risk in advanced renal failure.",
+      "Separate from other oral medications by at least 2 hours to avoid binding and impaired absorption."
+    ]
+  },
+  {
+    "id": "acotiamide-hydrochloride-hydrate-sr-tablets-300mg",
+    "name": "Acotiamide Hydrochloride Hydrate SR Tablets (300mg)",
+    "generic_names": [
+      "Acotiamide Hydrochloride Hydrate Sustained Release Tablets 300mg",
+      "Acogut-SR",
+      "Actapro-SR"
+    ],
+    "category": ["Gastrointestinal", "Prokinetics", "Motility Stimulants"],
+    "sub_category": "First-in-Class Selective Acetylcholinesterase Inhibitor & Enteric Prokinetic",
+    "company_name": "AC1",
+    "amount": "260/- (Strip of 10 SR Tablets - 300mg)",
+    "routes_of_administration": [
+      "Oral (Per Os - Swallowed Whole Once Daily Before Breakfast)"
+    ],
+    "anatomical_region": "Fundus",
+    "histological_layer": "Muscularis Externa (Motility)",
+    "primary_gi_symptom": "Trapped Gas & Bloating",
+    "hemodynamic_or_secretory_impact": {
+      "acid_secretion_reduction": "Neutral",
+      "gastric_emptying_acceleration": true,
+      "spasmolytic_tone_reduction": "Restores physiological gastric accommodation",
+      "mucosal_cytoprotection": false
+    },
+    "main_cause": "Functional Dyspepsia (Postprandial Distress Syndrome - PDS), Impaired Gastric Accommodation of the Fundus, Delayed Gastric Emptying with Early Satiety, Postprandial Fullness, and Upper Abdominal Distension",
+    "why_this_disease_happens": "In functional dyspepsia, impaired vagal cholinergic signaling and deficient acetylcholine release in the gastric muscularis externa prevent fundic adaptive relaxation after eating. The fundus fails to accommodate incoming food volumes, while the antrum exhibits sluggish contractility, producing distressing postprandial fullness, early satiety, and trapped gas.",
+    "how_this_medicine_fights_it": "Acotiamide selectively inhibits acetylcholinesterase (AChE) in the enteric nervous system of the stomach wall, preventing breakdown of endogenous acetylcholine (ACh). Elevated ACh stimulates muscarinic M1 and M2 receptors on gastric smooth muscle, restoring fundic accommodation and accelerating antral motility and gastric emptying.",
+    "drug_class": "Selective Enteric Acetylcholinesterase (AChE) Inhibitor / Upper GI Prokinetic",
+    "main_action": "Inhibits gastric acetylcholinesterase to amplify physiological acetylcholine activity, restoring gastric fundus accommodation and accelerating antral emptying to relieve postprandial fullness and bloating.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Functional Dyspepsia characterized by postprandial fullness and early satiety (300mg SR once daily before breakfast)",
+      "Impaired gastric accommodation in non-ulcer dyspepsia",
+      "Diabetic gastroparesis upper abdominal distension"
+    ],
+    "how_patients_describe_symptoms": [
+      "After just a few bites of food, my upper stomach felt bloated like a balloon for hours; taking this morning pill before breakfast let my stomach expand naturally and digest meals normally."
+    ],
+    "reconstitution_and_dilution": "Supplied as 300 mg sustained-release film-coated tablets. Swallow whole; do not crush or chew.",
+    "infusion_rate_and_timing": "Take orally once daily before breakfast.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults with Rome IV Functional Dyspepsia (Postprandial Distress Syndrome)"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Mechanical gastrointestinal obstruction, perforation, or active hemorrhage"
+      ]
+    },
+    "common_side_effects": [
+      "Mild headache",
+      "Diarrhea",
+      "Transient transaminase elevations"
+    ],
+    "important_cautions": [
+      "Does not stimulate dopamine or 5-HT4 receptors, avoiding the extrapyramidal and QT-prolongation risks of older prokinetics.",
+      "Must take before meals to align with mealtime cholinergic demand."
+    ]
+  },
+  {
+    "id": "domperidone-dispersible-tablets-5mg",
+    "name": "Domperidone Dispersible Tablets (5mg)",
+    "generic_names": [
+      "Domperidone DT 5mg",
+      "Motilium DT",
+      "Domstal DT",
+      "Vomistop DT"
+    ],
+    "category": ["Gastrointestinal", "Antiemetics", "Prokinetics"],
+    "sub_category": "Peripheral Dopamine D2 Receptor Antagonist & Gastric Prokinetic",
+    "company_name": "DM1",
+    "amount": "45/- (Strip of 10 Dispersible Tablets)",
+    "routes_of_administration": [
+      "Oral (Per Os - Dispersed in 5-10 mL Water or Swallowed 15-30 Minutes Before Meals)"
+    ],
+    "anatomical_region": "Pylorus / Antrum",
+    "histological_layer": "Muscularis Externa (Motility)",
+    "primary_gi_symptom": "Nausea & Delayed Gastric Emptying",
+    "hemodynamic_or_secretory_impact": {
+      "acid_secretion_reduction": "Neutral",
+      "gastric_emptying_acceleration": true,
+      "spasmolytic_tone_reduction": "Enhances antro-duodenal coordination",
+      "mucosal_cytoprotection": false
+    },
+    "main_cause": "Nausea and Vomiting Associated with Gastroparesis, Delayed Gastric Emptying, Gastroesophageal Reflux, Levodopa-Induced Nausea in Parkinson's Disease",
+    "why_this_disease_happens": "Excessive dopamine activity in the gastrointestinal tract inhibits gastric smooth muscle motility, relaxes the lower esophageal sphincter (LES), and delays pyloric emptying. Concurrently, dopamine stimulates D2 receptors in the chemoreceptor trigger zone (CTZ) of the area postrema, inducing nausea and vomiting.",
+    "how_this_medicine_fights_it": "Selectively blocks peripheral dopamine D2 and D3 receptors. In the stomach, it increases lower esophageal sphincter tone, enhances antro-duodenal contractions, and coordinates pyloric relaxation, accelerating gastric emptying. Because it does not cross the blood-brain barrier, it antagonizes CTZ receptors to stop nausea without central extrapyramidal side effects.",
+    "drug_class": "Peripheral Dopamine D2 Receptor Antagonist",
+    "main_action": "Blocks peripheral D2 receptors to promote pyloric emptying, increase antro-duodenal coordination, and halt nausea at the area postrema without central neurological side effects.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Relief of nausea, vomiting, epigastric fullness, and upper abdominal discomfort (5mg to 10mg up to three times daily, 15-30 min before meals)",
+      "Delayed gastric emptying in diabetic gastroparesis",
+      "Nausea induced by dopaminergic agonists (Levodopa/Pramipexole)"
+    ],
+    "how_patients_describe_symptoms": [
+      "I felt constantly nauseated with heavy food sitting like a rock in my upper stomach; dissolving this small tablet before eating cleared the nausea and helped my stomach empty."
+    ],
+    "reconstitution_and_dilution": "Disperse tablet in a teaspoonful (5-10 mL) of water before swallowing.",
+    "infusion_rate_and_timing": "Take 15 to 30 minutes before meals.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults and pediatric patients (>35 kg) requiring antiemetic motility support"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Patients with pre-existing cardiac conduction abnormalities or prolonged QTc interval (>450ms)",
+        "Prolactinoma"
+      ]
+    },
+    "common_side_effects": [
+      "Dry mouth",
+      "Hyperprolactinemia (galactorrhea, gynecomastia)",
+      "Mild headache"
+    ],
+    "important_cautions": [
+      "Dose-dependent cardiac QTc interval prolongation risk; do not exceed 30mg daily.",
+      "Avoid concurrent administration with potent CYP3A4 inhibitors (ketoconazole, erythromycin)."
+    ]
+  },
+  {
+    "id": "mebeverine-hydrochloride-retard-capsules-200mg",
+    "name": "Mebeverine Hydrochloride Retard Capsules (200mg)",
+    "generic_names": [
+      "Mebeverine Hydrochloride Sustained Release Capsules 200mg",
+      "Colofac Retard",
+      "Mebiz-SR",
+      "Morease-SR"
+    ],
+    "category": ["Gastrointestinal", "Antispasmodics", "IBS Therapeutics"],
+    "sub_category": "Direct Musculotropic Myorelaxant & Voltage-Gated Sodium Channel Modulator",
+    "company_name": "MB1",
+    "amount": "230/- (Strip of 10 Retard Capsules - 200mg)",
+    "routes_of_administration": [
+      "Oral (Per Os - Swallowed Whole with Water 20 Minutes Before Meals Twice Daily)"
+    ],
+    "anatomical_region": "Large Intestine / Colon",
+    "histological_layer": "Muscularis Externa (Motility)",
+    "primary_gi_symptom": "Stomach Pain & Cramping",
+    "hemodynamic_or_secretory_impact": {
+      "acid_secretion_reduction": "Neutral",
+      "gastric_emptying_acceleration": false,
+      "spasmolytic_tone_reduction": "Normalizes hyperactive colonic smooth muscle spasms",
+      "mucosal_cytoprotection": false
+    },
+    "main_cause": "Irritable Bowel Syndrome (IBS-Spastic Colon), Chronic Functional Abdominal Cramping, Spastic Colitis, Mucous Colitis",
+    "why_this_disease_happens": "In irritable bowel syndrome and spastic colon, visceral hypersensitivity and uncoordinated smooth muscle contractions cause hyper-motility spasms, generating severe colonic cramping, bloating, and fluctuating bowel habits without structural inflammation.",
+    "how_this_medicine_fights_it": "Acts directly on smooth muscle cells of the gastrointestinal tract (especially the colon) without antimuscarinic side effects. It blocks voltage-gated sodium channels to inhibit depolarizing inward currents, reduces cellular calcium influx, and regulates calcium exchange at sarcoplasmic reticulum membranes, relieving spasms while preserving normal peristalsis.",
+    "drug_class": "Direct Musculotropic Antispasmodic",
+    "main_action": "Directly relaxes colonic smooth muscle spasms by modulating sodium and calcium ion channels without antimuscarinic side effects like dry mouth or constipation.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Symptomatic treatment of Irritable Bowel Syndrome (200mg SR twice daily, morning and evening, 20 min before meals)",
+      "Abdominal pain, cramping, and flatulence associated with spastic colon",
+      "Post-diverticulitis spastic discomfort"
+    ],
+    "how_patients_describe_symptoms": [
+      "My lower belly was seized by painful gut cramps and urgent spasms after eating; taking these sustained capsules settled the cramping without drying out my mouth or making me constipated."
+    ],
+    "reconstitution_and_dilution": "Supplied as 200 mg retard capsules containing sustained-release pellets. Swallow whole; do not chew.",
+    "infusion_rate_and_timing": "Take 1 capsule twice daily, 20 minutes before breakfast and dinner.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults and adolescents aged 12+ with Irritable Bowel Syndrome"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Paralytic ileus",
+        "Known hypersensitivity"
+      ]
+    },
+    "common_side_effects": [
+      "Mild dizziness",
+      "Allergic skin reactions (urticaria, rash)",
+      "Nausea"
+    ],
+    "important_cautions": [
+      "Does not exhibit atropine-like anticholinergic side effects; safe in glaucoma and prostatic hypertrophy.",
+      "Capsule pellets must not be chewed to maintain sustained-release kinetics."
+    ]
+  },
+  {
+    "id": "chlordiazepoxide-clidinium-bromide-tablets",
+    "name": "Chlordiazepoxide & Clidinium Bromide Tablets (5mg / 2.5mg)",
+    "generic_names": [
+      "Chlordiazepoxide and Clidinium Bromide Tablets",
+      "Librax",
+      "Spasmonil-C",
+      "Clozep-C"
+    ],
+    "category": [
+      "Gastrointestinal",
+      "Antispasmodics",
+      "Psychotropic & Anxiolytic"
+    ],
+    "sub_category": "Dual-Action Brain-Gut Axis Modulator (Synthetic Quaternary Anticholinergic + Benzodiazepine Anxiolytic)",
+    "company_name": "LB1",
+    "amount": "145/- (Strip of 10 Tablets)",
+    "routes_of_administration": [
+      "Oral (Per Os - Swallowed Whole with Water 30-60 Minutes Before Meals and at Bedtime)"
+    ],
+    "anatomical_region": "Pan-GI Tract",
+    "histological_layer": "Submucosa & Enteric Plexus",
+    "primary_gi_symptom": "Stomach Pain & Cramping",
+    "hemodynamic_or_secretory_impact": {
+      "acid_secretion_reduction": "Mild (decreases basal gastric secretion)",
+      "gastric_emptying_acceleration": false,
+      "spasmolytic_tone_reduction": "Suppresses neurogenic hypermotility spasms",
+      "mucosal_cytoprotection": false
+    },
+    "main_cause": "Stress-Induced Irritable Bowel Syndrome (IBS), Neurogenic Peptic Ulcer Disease, Psychosomatic Gastrointestinal Spasms, Spastic Enterocolitis",
+    "why_this_disease_happens": "Psychological stress and emotional distress trigger the central nervous system to fire excessive parasympathetic impulses along the brain-gut axis via the vagus nerve and enteric plexuses, causing painful visceral smooth muscle spasms and heightened pain perception.",
+    "how_this_medicine_fights_it": "Provides dual brain-gut suppression: Clidinium bromide acts as a quaternary ammonium antimuscarinic agent, blocking muscarinic M1 and M3 receptors in the gut wall to suppress smooth muscle spasms and gastrointestinal secretions. Concurrently, chlordiazepoxide binds central GABA-A receptors, enhancing chloride conductance to calm emotional anxiety and visceral hypersensitivity.",
+    "drug_class": "Quaternary Anticholinergic + Benzodiazepine Combination",
+    "main_action": "Relieves stress-triggered gut spasms and hypermotility by simultaneously blunting central anxiety (GABA-A) and blocking peripheral enteric muscarinic receptors (M1/M3).",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Adjunctive therapy in peptic ulcer disease and stress-associated spastic colon (1-2 tablets 3-4 times daily before meals and bedtime)",
+      "Neurogenic gastrointestinal hypermotility",
+      "Acute stress-induced abdominal cramping"
+    ],
+    "how_patients_describe_symptoms": [
+      "Whenever I had stress or anxiety at work, my stomach would knot up with severe cramps; this pill calmed my nervous tension and relaxed my painful stomach spasms."
+    ],
+    "reconstitution_and_dilution": "Supplied as oral film-coated tablets. Store protected from moisture and light.",
+    "infusion_rate_and_timing": "Take 30 to 60 minutes before meals and at bedtime.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults with severe stress-reactive IBS or painful gut hypermotility"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Narrow-angle glaucoma",
+        "Prostatic hypertrophy / urinary retention",
+        "Myasthenia gravis"
+      ]
+    },
+    "common_side_effects": [
+      "Drowsiness",
+      "Dry mouth",
+      "Blurred vision",
+      "Urinary hesitancy",
+      "Constipation"
+    ],
+    "important_cautions": [
+      "Contains a benzodiazepine; carries a risk of physical dependence and withdrawal upon abrupt cessation.",
+      "Caution regarding sedation when driving or operating machinery."
+    ]
+  },
+  {
+    "id": "clidinium-chlordiazepoxide-dicyclomine-capsules",
+    "name": "Clidinium, Chlordiazepoxide & Dicyclomine Capsules",
+    "generic_names": [
+      "Clidinium Bromide, Chlordiazepoxide & Dicyclomine Hydrochloride Capsules",
+      "Spasmo-Proxyvon Alternative",
+      "Cyclopam-Plus"
+    ],
+    "category": [
+      "Gastrointestinal",
+      "Antispasmodics",
+      "Combination Therapeutics"
+    ],
+    "sub_category": "Triple Neurogenic & Musculotropic Antispasmodic Complex",
+    "company_name": "CD1",
+    "amount": "175/- (Strip of 10 Capsules)",
+    "routes_of_administration": [
+      "Oral (Per Os - Swallowed with Water Before Meals)"
+    ],
+    "anatomical_region": "Pan-GI Tract",
+    "histological_layer": "Muscularis Externa (Motility)",
+    "primary_gi_symptom": "Stomach Pain & Cramping",
+    "hemodynamic_or_secretory_impact": {
+      "acid_secretion_reduction": "Mild",
+      "gastric_emptying_acceleration": false,
+      "spasmolytic_tone_reduction": "Maximal dual antimuscarinic and musculotropic spasmolysis",
+      "mucosal_cytoprotection": false
+    },
+    "main_cause": "Severe Visceral Gastrointestinal Colic, Acute Intestinal Spasms, Spastic Biliary Colic, Refractory Irritable Bowel Spasms",
+    "why_this_disease_happens": "Intense gastrointestinal colic is triggered by coordinated firing of central anxiety pathways and localized hyperactive enteric smooth muscle contractions.",
+    "how_this_medicine_fights_it": "Dicyclomine provides dual-action antispasmodic activity by blocking muscarinic M3 receptors and directly relaxing gastrointestinal smooth muscle via non-competitive antagonism. Clidinium provides peripheral quaternary anticholinergic blockade, while chlordiazepoxide calms central stress signals along the brain-gut axis.",
+    "drug_class": "Dual Anticholinergic + Benzodiazepine Visceral Spasmolytic",
+    "main_action": "Combines direct musculotropic relaxation, dual peripheral muscarinic receptor blockade, and central GABAergic anxiolysis to terminate severe abdominal and intestinal colic.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Severe acute gastrointestinal colic and painful spastic intestinal episodes (1 capsule twice or thrice daily)",
+      "Refractory spastic colon episodes",
+      "Adjunctive relief of biliary colic spasms"
+    ],
+    "how_patients_describe_symptoms": [
+      "I had sudden, gripping gut colic that bent me double; this combination capsule released the spasm and calmed the sharp gripping pain within half an hour."
+    ],
+    "reconstitution_and_dilution": "Hard gelatin capsules. Swallow whole.",
+    "infusion_rate_and_timing": "Take before meals as clinically directed.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults with severe refractory functional bowel colic"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Glaucoma",
+        "Severe ulcerative colitis",
+        "Obstructive uropathy"
+      ]
+    },
+    "common_side_effects": [
+      "Dry mouth",
+      "Dizziness",
+      "Drowsiness",
+      "Visual accommodation paralysis"
+    ],
+    "important_cautions": [
+      "Avoid alcohol due to additive central nervous system depression.",
+      "Contraindicated in patients with bowel obstruction or toxic megacolon."
+    ]
+  },
+  {
+    "id": "camylofin-dihydrochloride-mefenamic-acid-tablets",
+    "name": "Camylofin Dihydrochloride & Mefenamic Acid Tablets (50mg / 250mg)",
+    "generic_names": [
+      "Camylofin and Mefenamic Acid Tablets",
+      "Anafortan Plus",
+      "Camylofin-MF",
+      "Spasfree-M"
+    ],
+    "category": ["Gastrointestinal", "Antispasmodics", "Analgesics"],
+    "sub_category": "Dual Phosphodiesterase-4 Inhibiting Antispasmodic + NSAID Prostaglandin Synthetase Inhibitor",
+    "company_name": "CF1",
+    "amount": "125/- (Strip of 10 Tablets)",
+    "routes_of_administration": [
+      "Oral (Per Os - Swallowed with Water Immediately After Meals)"
+    ],
+    "anatomical_region": "Pan-GI Tract",
+    "histological_layer": "Muscularis Externa (Motility)",
+    "primary_gi_symptom": "Stomach Pain & Cramping",
+    "hemodynamic_or_secretory_impact": {
+      "acid_secretion_reduction": "Neutral",
+      "gastric_emptying_acceleration": false,
+      "spasmolytic_tone_reduction": "Potent PDE-4 smooth muscle relaxation",
+      "mucosal_cytoprotection": false
+    },
+    "main_cause": "Acute Spasmodic Abdominal Pain, Intestinal Colic, Biliary Colic, Ureteric / Renal Colic, Severe Dysmenorrhea",
+    "why_this_disease_happens": "Visceral inflammation and mechanical irritation upregulate Cyclooxygenase-2 (COX-2), synthesizing prostaglandins (PGE2, PGF2-alpha) that sensitize visceral pain nociceptors and trigger sustained smooth muscle contraction.",
+    "how_this_medicine_fights_it": "Camylofin acts as a direct phosphodiesterase-4 (PDE-4) inhibitor, elevating intracellular cyclic AMP (cAMP) and blocking muscarinic receptors to relax contracted visceral smooth muscle. Concurrently, mefenamic acid inhibits cyclooxygenase (COX-1/COX-2) enzymes and directly antagonizes prostaglandin receptors, stopping inflammatory pain signaling.",
+    "drug_class": "PDE-4 Inhibiting Antispasmodic + Anthranilic Acid Derivative NSAID",
+    "main_action": "Camylofin relaxes visceral smooth muscle via PDE-4 inhibition and muscarinic blockade, while mefenamic acid halts prostaglandin synthesis to provide relief from acute visceral colic.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Acute intestinal colic and spastic stomach pain (1 tablet 2-3 times daily after meals)",
+      "Biliary and renal colic spasm relief",
+      "Spastic dysmenorrhea pain"
+    ],
+    "how_patients_describe_symptoms": [
+      "I had sharp, twisting belly cramps and pain; taking this tablet after food stopped the muscle spasms and provided lasting pain relief."
+    ],
+    "reconstitution_and_dilution": "Supplied as film-coated oral tablets.",
+    "infusion_rate_and_timing": "Take immediately after meals with a full glass of water.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults and adolescents with acute spasmodic abdominal pain"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Active peptic ulcer bleeding",
+        "Severe renal or hepatic failure",
+        "Aspirin-sensitive asthma"
+      ]
+    },
+    "common_side_effects": [
+      "Epigastric discomfort",
+      "Nausea",
+      "Dry mouth",
+      "Transient dizziness"
+    ],
+    "important_cautions": [
+      "Always take after food to prevent NSAID gastric mucosal erosion.",
+      "Do not combine with other systemic NSAIDs."
+    ]
+  },
+  {
+    "id": "hyoscyamine-sulphate-odt-0-125mg",
+    "name": "Hyoscyamine Sulphate Orally Disintegrating Tablets (0.125mg)",
+    "generic_names": [
+      "Hyoscyamine Sulfate ODT 0.125mg",
+      "Levsin ODT",
+      "Anaspaz",
+      "Hyosyne"
+    ],
+    "category": ["Gastrointestinal", "Anticholinergics", "Antispasmodics"],
+    "sub_category": "Pure Levorotatory Belladonna Alkaloid & Rapid-Onset Sublingual Antimuscarinic",
+    "company_name": "HS1",
+    "amount": "180/- (Strip of 10 Orally Disintegrating Tablets)",
+    "routes_of_administration": [
+      "Sublingual / Buccal (Placed on Tongue to Disintegrate Rapidly Without Water)"
+    ],
+    "anatomical_region": "Cardia",
+    "histological_layer": "Muscularis Externa (Motility)",
+    "primary_gi_symptom": "Stomach Pain & Cramping",
+    "hemodynamic_or_secretory_impact": {
+      "acid_secretion_reduction": "Suppresses basal and cephalic gastric secretions",
+      "gastric_emptying_acceleration": false,
+      "spasmolytic_tone_reduction": "Immediate muscarinic M1/M3 gastrointestinal spasmolysis",
+      "mucosal_cytoprotection": false
+    },
+    "main_cause": "Sudden Acute Gastrointestinal Spasms, Cardiospasm, Pylorospasm, Hyper-motility Colic, Tenesmus, Sialorrhea, Visceral Biliary Cramping",
+    "why_this_disease_happens": "Acute visceral hyper-motility episodes stem from excessive localized parasympathetic acetylcholine exocytosis onto postganglionic muscarinic receptors.",
+    "how_this_medicine_fights_it": "Hyoscyamine is the active levorotatory isomer of atropine, possessing twice the antimuscarinic potency of racemic atropine. It competitively inhibits postganglionic muscarinic (M1, M2, M3) acetylcholine receptors. The sublingual ODT formulation disintegrates within seconds, absorbing pre-gastrically for rapid visceral spasm relief.",
+    "drug_class": "Pure Levo-Alkaloid Antimuscarinic Agent",
+    "main_action": "Competitively blocks postganglionic muscarinic acetylcholine receptors via sublingual absorption, halting smooth muscle hypermotility and cardiospasm within 3 to 5 minutes.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Acute relief of functional gastrointestinal spasms, pylorospasm, and spastic colitis (0.125mg to 0.25mg sublingually every 4 hours as needed; max 1.5mg/day)",
+      "Cardiospasm and esophageal dysmotility",
+      "Excessive gastric hypersecretion and tenesmus"
+    ],
+    "how_patients_describe_symptoms": [
+      "I had sudden, intense gut spasms; dissolving this tiny tablet under my tongue stopped the clamping pain in my stomach within three minutes."
+    ],
+    "reconstitution_and_dilution": "Orally disintegrating tablet. Place directly on tongue or under tongue; dissolves in saliva.",
+    "infusion_rate_and_timing": "Take 30 to 60 minutes before meals or at the onset of acute spasms.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults and children aged 12+ requiring rapid visceral spasmolysis"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Glaucoma",
+        "Obstructive uropathy",
+        "Myasthenia gravis",
+        "Tachyarrhythmias"
+      ]
+    },
+    "common_side_effects": [
+      "Dry mouth (xerostomia)",
+      "Blurred vision",
+      "Urinary retention",
+      "Tachycardia"
+    ],
+    "important_cautions": [
+      "Potent anticholinergic; may precipitate acute angle-closure glaucoma in predisposed individuals.",
+      "Can reduce perspiration, predisposing to hyperthermia in warm environments."
+    ]
+  },
+  {
+    "id": "loperamide-hydrochloride-tablets-2mg",
+    "name": "Loperamide Hydrochloride Tablets IP (2mg)",
+    "generic_names": [
+      "Loperamide Hydrochloride Tablets IP 2mg",
+      "Imodium",
+      "Lopamide",
+      "Eldoper",
+      "Roko 2"
+    ],
+    "category": ["Gastrointestinal", "Antidiarrheals", "Motility Suppressants"],
+    "sub_category": "Synthetic Peripheral Mu-Opioid Receptor Agonist & Intestinal Transit Retarder",
+    "company_name": "LP1",
+    "amount": "25/- (Strip of 10 Tablets - 2mg)",
+    "routes_of_administration": [
+      "Oral (Per Os - Swallowed Whole with Water After Each Unformed Stool)"
+    ],
+    "anatomical_region": "Large Intestine / Colon",
+    "histological_layer": "Muscularis Externa (Motility)",
+    "primary_gi_symptom": "Diarrhea & Hyper-Motility",
+    "hemodynamic_or_secretory_impact": {
+      "acid_secretion_reduction": "Neutral",
+      "gastric_emptying_acceleration": false,
+      "spasmolytic_tone_reduction": "Inhibits propulsive colonic peristalsis while increasing anal sphincter tone",
+      "mucosal_cytoprotection": false
+    },
+    "main_cause": "Acute Non-Specific Diarrhea, Traveler's Diarrhea, Chronic Diarrhea Associated with Inflammatory Bowel Disease or IBS-D, High-Output Ileostomies",
+    "why_this_disease_happens": "Excessive secretomotor drive in the small and large intestines produces rapid transit and mucosal hypersecretion, preventing fluid and electrolyte reabsorption and causing frequent watery stools.",
+    "how_this_medicine_fights_it": "Acts as a selective agonist at mu-opioid receptors in the myenteric plexus of the intestinal circular and longitudinal muscularis externa. It inhibits presynaptic acetylcholine and prostaglandin release, arresting propulsive peristalsis and prolonging transit time. It also increases anal sphincter resting tone, reducing fecal incontinence. High P-glycoprotein efflux keeps it out of the central nervous system at clinical doses.",
+    "drug_class": "Peripheral Mu-Opioid Receptor Agonist",
+    "main_action": "Binds enteric mu-opioid receptors to slow intestinal peristalsis, prolong transit time, and enhance water and electrolyte reabsorption, solidifying stool consistency.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Control and symptomatic relief of acute non-specific diarrhea (Initial 4mg, followed by 2mg after each unformed stool; max 16mg/day in adults, max 8mg/day for OTC)",
+      "Chronic diarrhea associated with IBS-D",
+      "Reducing volume output in ileostomies"
+    ],
+    "how_patients_describe_symptoms": [
+      "I had sudden, watery diarrhea running every twenty minutes; taking two tablets stopped the cramping urgency and settled my bowel movements."
+    ],
+    "reconstitution_and_dilution": "Supplied as 2 mg tablets or capsules. Swallow whole with water.",
+    "infusion_rate_and_timing": "Take 4mg initially, then 2mg after each loose stool.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults and children over 2 years of age (under strict clinical guidance) with non-invasive diarrhea"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Invasive bacterial enteritis (dysentery with bloody stools and high fever)",
+        "Clostridioides difficile colitis"
+      ]
+    },
+    "common_side_effects": [
+      "Constipation",
+      "Abdominal cramps",
+      "Nausea",
+      "Dizziness"
+    ],
+    "important_cautions": [
+      "Black Box Warning: Supratherapeutic doses or abuse can trigger QT prolongation, Torsades de Pointes, and cardiac arrest.",
+      "Strictly avoid in acute dysentery (bloody stool) or toxic megacolon."
+    ]
+  },
+  {
+    "id": "sodium-picosulfate-tablets-10mg",
+    "name": "Sodium Picosulfate Tablets IP (10mg)",
+    "generic_names": [
+      "Sodium Picosulfate Tablets IP 10mg",
+      "Dulcolax SP",
+      "Picoship",
+      "Cremalax",
+      "Picofast"
+    ],
+    "category": ["Gastrointestinal", "Laxatives", "Bowel Evacuants"],
+    "sub_category": "Microbiome-Activated Stimulant Diphenylmethane Laxative",
+    "company_name": "SP1",
+    "amount": "65/- (Strip of 10 Tablets - 10mg)",
+    "routes_of_administration": [
+      "Oral (Per Os - Swallowed Whole with Water at Bedtime)"
+    ],
+    "anatomical_region": "Large Intestine / Colon",
+    "histological_layer": "Muscularis Externa (Motility)",
+    "primary_gi_symptom": "Constipation & Bowel Prep",
+    "hemodynamic_or_secretory_impact": {
+      "acid_secretion_reduction": "Neutral",
+      "gastric_emptying_acceleration": false,
+      "spasmolytic_tone_reduction": "Stimulates colonic mass peristalsis and mucosal fluid secretion",
+      "mucosal_cytoprotection": false
+    },
+    "main_cause": "Chronic or Occasional Constipation, Bowel Cleansing Prior to Colonoscopy or Radiologic Examinations, Post-Operative Bowel Evacuation",
+    "why_this_disease_happens": "In slow-transit constipation, suppressed colonic motor complexes and excessive mucosal water reabsorption lead to dry, hard fecal impactions in the rectosigmoid colon.",
+    "how_this_medicine_fights_it": "Sodium picosulfate is an inactive prodrug that passes unabsorbed through the stomach and small intestine. Upon reaching the large intestine, bacterial sulfatases produced by colonic microflora cleave off the sulfate groups, converting it into the active free diphenol compound (bis-(p-hydroxyphenyl)-pyridyl-2-methane / BHPM). BHPM directly stimulates sensory nerve endings in the colonic mucosa, inducing peristalsis and reducing water reabsorption to produce bowel evacuation within 6 to 12 hours.",
+    "drug_class": "Colonic Flora-Activated Stimulant Laxative",
+    "main_action": "Bacterial enzymes in the colon convert the prodrug into active BHPM, stimulating colonic submucosal nerve endings to trigger peristalsis and promote fluid accumulation for bowel evacuation.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Treatment of acute or chronic constipation (5mg to 10mg orally at bedtime)",
+      "Colonoscopy bowel preparation regimens (in combination with magnesium citrate)",
+      "Post-surgical bowel clearing"
+    ],
+    "how_patients_describe_symptoms": [
+      "I had not passed stools in four days; taking this tablet at bedtime provided comfortable bowel relief the following morning without violent stomach griping."
+    ],
+    "reconstitution_and_dilution": "Film-coated or sugar-coated tablets. Swallow whole with a full glass of water.",
+    "infusion_rate_and_timing": "Take once daily at bedtime; produces evacuation in 6 to 12 hours.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults and children over 10 years with functional constipation"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Intestinal obstruction, acute surgical abdomen, severe dehydration"
+      ]
+    },
+    "common_side_effects": [
+      "Abdominal discomfort",
+      "Mild cramps",
+      "Diarrhea",
+      "Nausea"
+    ],
+    "important_cautions": [
+      "Chronic daily use may lead to laxative dependency, electrolyte imbalances, and hypokalemia.",
+      "Antibiotics can decrease efficacy by diminishing colonic bacterial sulfatase activity."
+    ]
+  },
+  {
+    "id": "albendazole-ivermectin-tablets-400mg-6mg",
+    "name": "Albendazole & Ivermectin Tablets (400mg / 6mg)",
+    "generic_names": [
+      "Albendazole and Ivermectin Dispersible/Chewable Tablets",
+      "Bandicandy-Plus",
+      "Ivecop-AB",
+      "Zentel-Plus",
+      "Noworm-Plus"
+    ],
+    "category": [
+      "Gastrointestinal",
+      "Anthelmintics",
+      "Antiparasitic Therapeutics"
+    ],
+    "sub_category": "Dual-Mechanism Broad-Spectrum Anthelmintic & Nematocidal Combination",
+    "company_name": "AI1",
+    "amount": "38/- (Single-Tablet Blister Pack)",
+    "routes_of_administration": [
+      "Oral (Per Os - Chewed or Crushed and Swallowed with a Fatty Meal)"
+    ],
+    "anatomical_region": "Small Intestine",
+    "histological_layer": "Mucosa & Epithelium",
+    "primary_gi_symptom": "Intestinal Parasites",
+    "hemodynamic_or_secretory_impact": {
+      "acid_secretion_reduction": "Neutral",
+      "gastric_emptying_acceleration": false,
+      "spasmolytic_tone_reduction": "Paralyzes parasitic worm musculature",
+      "mucosal_cytoprotection": false
+    },
+    "main_cause": "Enteric Parasitic Helminth Infections, Mixed Nematode and Cestode Infestations (Ascaris lumbricoides, Enterobius vermicularis, Ancylostoma duodenale, Trichuris trichiura, Strongyloides stercoralis, Taenia solium), Cutaneous Larva Migrans, Lymphatic Filariasis",
+    "why_this_disease_happens": "Parasitic worms colonize the small and large intestines, anchoring into mucosal epithelium to ingest host nutrients and blood, provoking abdominal cramping, malabsorption, eosinophilic enteritis, and chronic anemia.",
+    "how_this_medicine_fights_it": "Albendazole binds to parasite beta-tubulin, inhibiting microtubule polymerization and blocking glucose uptake, depleting parasite ATP stores. Ivermectin binds selectively to glutamate-gated chloride ion channels in nematode nerve and muscle cells, increasing membrane chloride permeability, causing hyperpolarization and flaccid neuromuscular paralysis. The immobilized parasites are then cleared via natural peristalsis.",
+    "drug_class": "Benzimidazole Carbamate + Avermectin Antiparasitic Complex",
+    "main_action": "Starves parasites by blocking tubulin-dependent glucose uptake (albendazole) while paralyzing their nervous systems via glutamate-gated chloride channels (ivermectin) for expulsion from the gut.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Single-dose deworming for mixed intestinal roundworm, hookworm, whipworm, and pinworm infections (1 chewable tablet as a single dose)",
+      "Strongyloidiasis and microfilaremia clearance",
+      "Neurocysticercosis and hydatid disease adjunctive protocols"
+    ],
+    "how_patients_describe_symptoms": [
+      "I had stomach rumbling, loss of appetite, and anal itching from intestinal parasites; chewing this single tablet cleared the parasites and stopped the symptoms."
+    ],
+    "reconstitution_and_dilution": "Chewable or dispersible tablet. Chew thoroughly before swallowing with water.",
+    "infusion_rate_and_timing": "Take as a single dose with a fatty meal to enhance systemic tissue penetration when treating tissue nematodes.",
+    "patient_suitability": {
+      "who_can_use_it": ["Adults and children over 2 years (weight >15 kg)"],
+      "who_should_avoid_or_limit_it": [
+        "Pregnancy (teratogenic potential of albendazole)",
+        "Severe liver dysfunction"
+      ]
+    },
+    "common_side_effects": [
+      "Transient epigastric discomfort",
+      "Nausea",
+      "Headache",
+      "Mazzotti-like reaction"
+    ],
+    "important_cautions": [
+      "Contraindicated during the first trimester of pregnancy.",
+      "Check liver transaminases in prolonged high-dose therapy for hydatid disease."
+    ]
+  },
+  {
+    "id": "cow-colostrum-capsules-500mg",
+    "name": "Cow Colostrum Capsules (500mg)",
+    "generic_names": [
+      "Bovine Colostrum Capsules 500mg",
+      "Colostrum-G",
+      "Immuno-Colostrum",
+      "Boviglobin"
+    ],
+    "category": [
+      "Gastrointestinal",
+      "Nutraceuticals",
+      "Mucosal Immunoglobulins"
+    ],
+    "sub_category": "Natural Bovine First-Milk Immunoglobulin (IgG) & Lactoferrin Enteric Repair Complex",
+    "company_name": "CC1",
+    "amount": "340/- (Bottle of 30 Capsules - 500mg)",
+    "routes_of_administration": [
+      "Oral (Per Os - Swallowed with Water on an Empty Stomach 30 Minutes Before Meals)"
+    ],
+    "anatomical_region": "Small Intestine",
+    "histological_layer": "Mucosa & Epithelium",
+    "primary_gi_symptom": "Microbiome & Barrier Repair",
+    "hemodynamic_or_secretory_impact": {
+      "acid_secretion_reduction": "Neutral",
+      "gastric_emptying_acceleration": false,
+      "spasmolytic_tone_reduction": "Neutral",
+      "mucosal_cytoprotection": true
+    },
+    "main_cause": "Increased Intestinal Permeability ('Leaky Gut Syndrome'), NSAID-Induced Enteropathy, Chemotherapy-Induced Gastrointestinal Mucositis, Chronic Infectious Diarrhea, Secretory IgA Deficiency",
+    "why_this_disease_happens": "Chronic non-steroidal anti-inflammatory drug (NSAID) use, gut dysbiosis, and physiological stress degrade the apical tight junctions (claudin, occludin) between intestinal enterocytes. This barrier breakdown allows bacterial endotoxins (LPS) and antigens to cross into the submucosa, driving gut inflammation and malabsorption.",
+    "how_this_medicine_fights_it": "Supplies concentrated natural bovine immunoglobulins (IgG1, IgG2, secretory IgA), lactoferrin, and epidermal/transforming growth factors (EGF, TGF-beta). These immunoglobulins bind and neutralize luminal pathogens and endotoxins, while growth factors stimulate enterocyte proliferation, upregulate tight junction proteins, and restore the mucosal barrier.",
+    "drug_class": "Bioactive Bovine Immunoglobulin & Enteric Growth Factor Complex",
+    "main_action": "Provides bioactive immunoglobulins to neutralize luminal toxins while delivering growth factors (EGF/TGF-beta) to repair mucosal tight junctions and seal intestinal permeability.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Repair of intestinal mucosal permeability and NSAID enteropathy (500mg to 1000mg twice daily on an empty stomach)",
+      "Adjunctive management of chronic gastrointestinal mucositis",
+      "Supportive therapy in infectious and traveler's diarrhea"
+    ],
+    "how_patients_describe_symptoms": [
+      "Long-term pain medicines tore up my intestinal lining and left me with bloating and poor digestion; taking these colostrum capsules helped repair my gut and reduce inflammation."
+    ],
+    "reconstitution_and_dilution": "Hard gelatin capsules containing dried bovine colostrum powder.",
+    "infusion_rate_and_timing": "Take 1 to 2 capsules twice daily on an empty stomach with room-temperature water.",
+    "patient_suitability": {
+      "who_can_use_it": ["Adults and children seeking gut barrier repair"],
+      "who_should_avoid_or_limit_it": [
+        "Severe dairy or cow's milk protein allergy"
+      ]
+    },
+    "common_side_effects": [
+      "Mild bloating or flatulence during first days",
+      "Transient nausea"
+    ],
+    "important_cautions": [
+      "Avoid taking with hot liquids, which can denature the bioactive immunoglobulins and growth factors.",
+      "Contains dairy proteins; contraindicated in true IgE-mediated milk allergy."
+    ]
+  },
+  {
+    "id": "lactobacillus-paracasei-lactobacillus-fermentum-capsules",
+    "name": "Lactobacillus paracasei & Lactobacillus fermentum Capsules",
+    "generic_names": [
+      "L. paracasei & L. fermentum Probiotic Complex",
+      "Darolac Alternative",
+      "Pro-Flora Gut",
+      "Bifilac Complex"
+    ],
+    "category": ["Gastrointestinal", "Probiotics", "Microbiome Restoratives"],
+    "sub_category": "Dual-Strain Lactic Acid Producing Synbiotic & Gut Barrier Restorative",
+    "company_name": "LF1",
+    "amount": "190/- (Strip of 10 Capsules - 5 Billion CFU)",
+    "routes_of_administration": [
+      "Oral (Per Os - Swallowed with Water During or Immediately After Meals)"
+    ],
+    "anatomical_region": "Large Intestine / Colon",
+    "histological_layer": "Mucosa & Epithelium",
+    "primary_gi_symptom": "Microbiome & Barrier Repair",
+    "hemodynamic_or_secretory_impact": {
+      "acid_secretion_reduction": "Lowers luminal pH via lactic and short-chain fatty acid synthesis",
+      "gastric_emptying_acceleration": false,
+      "spasmolytic_tone_reduction": "Neutralizes dysbiotic cramping and bloating",
+      "mucosal_cytoprotection": true
+    },
+    "main_cause": "Antibiotic-Associated Diarrhea, Intestinal Dysbiosis, Post-Infectious IBS Bloating and Flatulence, Small Intestinal Bacterial Overgrowth (SIBO) Recovery, Chronic Gut Inflammation",
+    "why_this_disease_happens": "Broad-spectrum antibiotics and gastrointestinal infections deplete commensal lactic acid-producing bacteria, allowing opportunistic pathogens to colonize the gut. Pathogen overgrowth degrades the protective mucin layer and causes gas fermentation and loose stools.",
+    "how_this_medicine_fights_it": "Delivers viable strains of Lactobacillus paracasei and Lactobacillus fermentum that adhere to enterocytes, outcompeting pathogens for mucosal binding sites. They ferment dietary oligosaccharides into lactic acid, acetic acid, and short-chain fatty acids (SCFAs like butyrate), lowering colonic luminal pH to suppress pathogen growth, reinforce tight junctions, and nourish colonocytes.",
+    "drug_class": "Live Lactic Acid Bacteria Probiotic Complex",
+    "main_action": "Colonizes the mucosal epithelium, outcompetes pathogenic bacteria, produces lactic acid and short-chain fatty acids, and reinforces intestinal tight junctions to restore healthy gut ecology.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Prevention and treatment of Antibiotic-Associated Diarrhea (1 capsule twice daily during antibiotic therapy and for 1 week after)",
+      "Restoration of microflora in IBS-related bloating and dysbiosis",
+      "Acute infectious gastroenteritis recovery"
+    ],
+    "how_patients_describe_symptoms": [
+      "After finishing heavy antibiotics, my stomach was full of gas and loose stools; taking these probiotic capsules restored my normal digestion and cleared the rumbling bloating."
+    ],
+    "reconstitution_and_dilution": "Enteric-coated capsules containing lyophilized bacterial cultures. Store in a cool, dry place.",
+    "infusion_rate_and_timing": "Take twice daily with meals; separate from oral antibiotics by at least 2 to 3 hours.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults and children with gut dysbiosis or antibiotic-associated loose stools"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Severely immunocompromised patients",
+        "Patients with indwelling central venous catheters"
+      ]
+    },
+    "common_side_effects": ["Mild transient flatulence", "Abdominal rumbling"],
+    "important_cautions": [
+      "Separate from antibiotic doses by at least 2 to 3 hours to prevent bactericidal killing of the probiotic strains.",
+      "Use cautiously in critically ill or neutropenic patients due to rare reports of probiotic bacteremia."
+    ]
+  }
+]
