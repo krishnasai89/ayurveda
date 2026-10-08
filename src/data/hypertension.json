@@ -1,0 +1,163 @@
+[
+  {
+    "id": "telmisartan-tablets-ip-40mg",
+    "name": "Telmisartan Tablets IP (40mg)",
+    "generic_names": [
+      "Telmisartan Tablets IP 40mg",
+      "Micardis 40mg",
+      "Telma 40",
+      "Telmikind 40",
+      "Telvas 40",
+      "Telsartan 40",
+      "Arbitel 40"
+    ],
+    "category": ["Antihypertensives", "Cardiovascular", "Renal & Nephrology"],
+    "sub_category": "Selective Non-Peptide Angiotensin II Type 1 (AT1) Receptor Blocker & Partial PPAR-gamma Modulator",
+    "company_name": "TL1",
+    "amount": "115/- (Strip of 15 Tablets in Alu-Alu Blister)",
+    "routes_of_administration": [
+      "Oral (Per Os - Swallowed Whole with Water Once Daily, With or Without Food)"
+    ],
+    "blocker_type": "Angiotensin Receptor Blocker (ARB)",
+    "hemodynamic_impact": {
+      "systolic_bp_drop": "12 to 18 mmHg",
+      "heart_rate_effect": "Neutral",
+      "systemic_vascular_resistance": "Decreased",
+      "renal_protective": true
+    },
+    "main_cause": "Essential Hypertension (Stage 1 and Stage 2 High Blood Pressure), Cardiovascular Risk Reduction in Patients Unable to Tolerate ACE Inhibitors with Established Atherothrombotic Disease or Type 2 Diabetes with End-Organ Damage (ONTARGET Trial), Diabetic Nephropathy and Reduction of Microalbuminuria",
+    "why_this_disease_happens": "Sustained arterial hypertension arises from hyperactivation of the Renin-Angiotensin-Aldosterone System (RAAS) and elevated systemic vascular resistance (SVR). Renal juxtaglomerular cells secrete renin in response to decreased renal perfusion or sympathetic stimulation. Renin cleaves circulating angiotensinogen into angiotensin I, which Angiotensin-Converting Enzyme (ACE) converts into the octapeptide Angiotensin II (Ang II). Ang II binds G-protein-coupled Angiotensin II Type 1 (AT1) receptors on vascular smooth muscle, activating phospholipase C and inositol triphosphate (IP3) to trigger intracellular calcium release, producing intense systemic arteriolar vasoconstriction and raising systemic blood pressure. Simultaneously, AT1 activation stimulates adrenal cortical secretion of aldosterone, promoting renal distal tubular sodium and water retention at the expense of potassium excretion, expanding extracellular volume. Chronic AT1 signaling also promotes vascular smooth muscle hypertrophy, glomerular efferent arteriolar constriction (transmitting high intraglomerular capillary pressure and driving proteinuria), and cardiac interstitial fibrosis. Reversing these pathological hemodynamic changes requires an insurmountable, selective antagonist that blocks AT1 receptors while preserving protective AT2 receptor signaling.",
+    "how_this_medicine_fights_it": "Provides sustained 24-hour hemodynamic vasodilation and metabolic cardioprotection via insurmountable AT1 receptor blockade and partial PPAR-gamma nuclear agonism: (1) Insurmountable AT1 Receptor Antagonism: Telmisartan ((4'-[(1,4'-dimethyl-2'-propyl[2,6'-bi-1H-benzimidazol]-1-yl)methyl][1,1'-biphenyl]-2-carboxylic acid) is a non-peptide benzimidazole derivative that selectively binds the AT1 receptor with an affinity >3000 times greater than for the AT2 receptor. It displays slow dissociation kinetics ('insurmountable antagonism'), displacing Ang II and preventing receptor activation even during surge renin states. This blocks Ang II-mediated vascular smooth muscle contraction, reducing systemic vascular resistance and lowering both systolic and diastolic blood pressure. (2) Unopposed AT2 Receptor Vasodilatory Cascade: By selectively blocking the AT1 subtype without inhibiting ACE, telmisartan allows unbound Ang II to bind uninhibited AT2 receptors. AT2 stimulation activates the bradykinin-nitric oxide-cyclic GMP and prostacyclin pathways, producing physiological vasodilation, anti-proliferative actions, and natriuresis. (3) 24-Hour Circadian Blood Pressure Control: Telmisartan possesses the longest terminal elimination half-life among all ARBs (~24 hours) and high lipophilicity, maintaining a trough-to-peak ratio >80%. This prevents the early morning blood pressure surge that frequently triggers ischemic strokes and myocardial infarctions. (4) Partial PPAR-gamma Agonism (Metabolic Benefit): Uniquely among sartans, telmisartan's molecular structure functions as a selective partial agonist of Peroxisome Proliferator-Activated Receptor-gamma (PPAR-gamma). It enhances insulin sensitivity, stimulates adiponectin expression, and lowers glucose and triglyceride levels without the fluid-retention liability of full thiazolidinediones (glitazones). (5) Renoprotection via Glomerular Efferent Arteriolar Dilation: By dilating post-capillary efferent arterioles in the renal nephron, telmisartan decreases intraglomerular hydraulic pressure, reducing urinary albumin excretion in diabetic kidney disease.",
+    "drug_class": "Angiotensin II Receptor Blocker (ARB) / Antihypertensive",
+    "main_action": "Insurmountably blocks vascular AT1 receptors to cause systemic vasodilation and suppress aldosterone secretion, maintaining a 24-hour blood pressure reduction with a 24-hour half-life, while partially activating PPAR-gamma to enhance insulin sensitivity.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Essential Hypertension in adult patients (40mg to 80mg orally once daily)",
+      "Cardiovascular risk reduction in patients aged 55+ with established coronary artery disease, stroke, peripheral arterial disease, or diabetes with target organ damage who cannot tolerate ACE inhibitors (80mg once daily; ONTARGET trial)",
+      "Diabetic Nephropathy with microalbuminuria or overt proteinuria in Type 2 Diabetes Mellitus",
+      "Left ventricular hypertrophy (LVH) regression in chronic hypertensive heart disease",
+      "Heart failure with reduced ejection fraction (HFrEF) as an alternative to ACE inhibitors"
+    ],
+    "how_patients_describe_symptoms": [
+      "My blood pressure was consistently running high at 160/100; taking this single tablet every morning brought it down into the normal 120s without giving me the dry throat cough I had on another medicine.",
+      "As a diabetic with early kidney strain, my physician prescribed this once-daily pill to keep my blood pressure steady around the clock and protect my kidneys.",
+      "This tablet keeps my blood pressure controlled even when I wake up in the morning, which was when my readings used to spike."
+    ],
+    "reconstitution_and_dilution": "Supplied ready-to-administer as white to off-white, oblong or circular, biconvex, uncoated or film-coated tablets containing Telmisartan IP equivalent to 40 mg (also manufactured in 20 mg and 80 mg strengths). No liquid reconstitution required. Severe Hygroscopicity Mandate: Telmisartan tablets are exceptionally moisture-sensitive and degrade on exposure to ambient humidity. TABLETS MUST REMAIN IN ORIGINAL ALUMINUM-ALUMINUM (ALU-ALU) BLISTER PACKAGING UNTIL IMMEDIATELY BEFORE SWALLOWING. Do not store in daily pill boxes. Swallow whole with water; do not crush or chew.",
+    "infusion_rate_and_timing": "Oral Administration Only. Administration Timing Rule: Administer 40 mg orally ONCE DAILY AT THE SAME TIME EVERY DAY (morning or evening), with or without food. Peak antihypertensive efficacy is reached within 4 to 8 weeks of consistent daily therapy. Dose Titration: May be increased to 80 mg once daily if blood pressure target is not achieved. Food slightly decreases the Cmax and AUC of telmisartan (by ~6% to 20%), but this is clinically insignificant.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults with essential hypertension needing once-daily 24-hour blood pressure control",
+        "Patients who develop an intractable dry cough on ACE Inhibitors (Enalapril, Ramipril) due to bradykinin accumulation (Telmisartan does not inhibit kininase II and produces zero bradykinin cough)",
+        "Hypertensive patients with metabolic syndrome, insulin resistance, or type 2 diabetes (benefits from PPAR-gamma activity)",
+        "Patients with mild-to-moderate renal impairment (Telmisartan is cleared >98% non-renally via biliary excretion; no dose adjustment needed in renal failure or dialysis)"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Absolute Black Box Contraindication: Pregnancy (RAAS-acting drugs cause direct fetal renal dysgenesis, oligohydramnios, skull hypoplasia, and intrauterine fetal death; discontinue immediately if pregnancy is detected)",
+        "Absolute Contraindication: Bilateral renal artery stenosis or severe stenosis of an artery to a solitary functioning kidney (Ang II maintains efferent tone; blockade induces acute renal shutdown)",
+        "Absolute Contraindication: Concomitant use with Aliskiren in patients with diabetes mellitus or renal impairment (eGFR < 60 mL/min)",
+        "Absolute Contraindication: Biliary obstructive disorders or severe hepatic insufficiency (telmisartan is eliminated almost exclusively in bile)",
+        "Severe Precaution: Patients with baseline hyperkalemia (serum K+ > 5.0 mEq/L) or those taking potassium-sparing diuretics (Spironolactone) without close electrolyte tracking"
+      ]
+    },
+    "common_side_effects": [
+      "Central nervous system: mild dizziness, lightheadedness, or fatigue (typically during initial titration)",
+      "Upper respiratory: nasopharyngitis, sinus congestion, or pharyngitis",
+      "Gastrointestinal: mild diarrhea, dyspepsia, or abdominal discomfort",
+      "Metabolic / Electrolyte: mild hyperkalemia (especially in diabetic nephropathy or baseline CKD)",
+      "Musculoskeletal: back pain, leg cramps, or myalgia",
+      "Renal laboratory shift: transient modest increase in serum creatinine (up to 20% to 30% acceptable in renal artery adaptation)"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "Fetal Toxicity Black Box Warning: Drugs that act directly on the renin-angiotensin system can cause serious injury and fetal death when administered during the second and third trimesters of pregnancy. Consequences include renal agenesis, oligohydramnios, neonatal anuria, skull hypoplasia, and limb contractures. DISCONTINUE TELMISARTAN IMMEDIATELY AS SOON AS PREGNANCY IS DETECTED. Women of childbearing age must use reliable contraception.",
+      "Zero Bradykinin Dry Cough Advantage over ACE Inhibitors: ACE inhibitors prevent the breakdown of substance P and bradykinin in the pulmonary mucosa, causing an intractable dry cough in up to 15% to 20% of patients. Because telmisartan selectively blocks the AT1 receptor downstream without inhibiting kininase II/ACE, IT DOES NOT ELEVATE BRADYKININ AND DOES NOT PRODUCE THE DRY COUGH, making it the preferred first-line alternative.",
+      "Dual RAAS Blockade Prohibition (No ACEi + ARB Combinations): Combining an ARB (Telmisartan) with an ACE Inhibitor (Ramipril) or a Direct Renin Inhibitor (Aliskiren)—as evaluated in the ONTARGET and ALTITUDE trials—does not provide additional cardiovascular mortality benefit but MULTIPLIES THE INCIDENCE OF SYNCOPE, HYPERKALEMIA, AND ACUTE RENAL FAILURE. Dual RAAS blockade is strictly contraindicated.",
+      "Hyperkalemia Surveillance (Potassium-Sparing Interactions): Suppressing aldosterone reduces renal cortical collecting duct potassium excretion. Concomitant administration with potassium supplements, potassium-containing salt substitutes, or potassium-sparing diuretics (Spironolactone, Eplerenone, Amiloride) can trigger life-threatening hyperkalemia. Monitor serum potassium and creatinine within 2 to 4 weeks of initiation, especially in patients with diabetic nephropathy.",
+      "Biliary Excretion Advantage in Renal Impairment: Unlike many antihypertensives that rely on renal excretion, telmisartan undergoes almost exclusive (>98%) hepatic biliary clearance and fecal elimination, with less than 1% excreted in urine. NO DOSAGE ADJUSTMENT IS REQUIRED IN PATIENTS WITH RENAL IMPAIRMENT OR PATIENTS ON HEMODIALYSIS.",
+      "Alu-Alu Blister Storage Mandate: Telmisartan tablets are highly hygroscopic and absorb atmospheric moisture, resulting in softening and degradation. TABLETS MUST NOT BE REMOVED FROM THE BLISTER IN ADVANCE FOR WEEKLY DISPENSING BOXES."
+    ]
+  },
+  {
+    "id": "amlodipine-besylate-tablets-ip-5mg",
+    "name": "Amlodipine Besylate Tablets IP (5mg)",
+    "generic_names": [
+      "Amlodipine Besylate Tablets IP 5mg",
+      "Norvasc 5mg",
+      "Amlong 5",
+      "Amlopres 5",
+      "Stamlo 5",
+      "Amlovas 5",
+      "Amlopin 5"
+    ],
+    "category": [
+      "Antihypertensives",
+      "Calcium Channel Blockers",
+      "Cardiovascular",
+      "Antianginal"
+    ],
+    "sub_category": "Third-Generation Long-Acting Dihydropyridine L-Type Calcium Channel Blocker & Coronary/Peripheral Vasodilator",
+    "company_name": "AM1",
+    "amount": "45/- (Strip of 15 Tablets - 5mg)",
+    "routes_of_administration": [
+      "Oral (Per Os - Swallowed Whole with Water Once Daily at Any Time of Day, With or Without Food)"
+    ],
+    "blocker_type": "Calcium Channel Blocker (CCB)",
+    "hemodynamic_impact": {
+      "systolic_bp_drop": "14 to 20 mmHg",
+      "heart_rate_effect": "Neutral",
+      "systemic_vascular_resistance": "Decreased",
+      "renal_protective": false
+    },
+    "main_cause": "First-Line Monotherapy and Combination Therapy for Essential Hypertension, Chronic Stable Angina Pectoris (Effort-Induced Angina), Vasospastic Angina (Prinzmetal's or Variant Angina), Angiographically Documented Coronary Artery Disease (CAD)",
+    "why_this_disease_happens": "In systemic arterial hypertension and chronic stable angina, peripheral vascular tone and coronary resistance are elevated due to increased resting tone in vascular smooth muscle cells (VSMCs). Intracellular calcium ions (Ca2+) serve as the primary messenger triggering vascular smooth muscle contraction. Depolarization of the VSMC sarcolemmal membrane opens voltage-gated L-type (long-lasting) calcium channels, allowing extracellular Ca2+ to enter down an electrochemical gradient. Influxed calcium binds calmodulin, and the Ca2+-calmodulin complex activates myosin light-chain kinase (MLCK). MLCK phosphorylates regulatory light chains of myosin, enabling cross-bridge cycling with actin filaments, producing sustained arterial vasoconstriction and elevating Systemic Vascular Resistance (SVR) and arterial blood pressure. In coronary vasospasm or coronary artery stenosis, this restricted lumen reduces oxygen delivery to cardiac myocytes relative to myocardial oxygen demand, precipitating subendocardial ischemia and anginal chest pain. Lowering systemic afterload and preventing coronary vasospasm requires selective, sustained blockade of voltage-gated calcium channels without triggering negative cardiac inotropy or reflex tachycardia.",
+    "how_this_medicine_fights_it": "Provides sustained 24-hour peripheral and coronary arteriolar dilation through selective allosteric inhibition of voltage-gated L-type calcium channels, lowering systemic afterload without cardiac conduction suppression: (1) Slow-Onset Dihydropyridine Kinetics: Amlodipine ((RS)-3-ethyl 5-methyl 2-[(2-aminoethoxy)methyl]-4-(2-chlorophenyl)-6-methyl-1,4-dihydropyridine-3,5-dicarboxylate) is a third-generation dihydropyridine. Due to a basic aminoethoxy side chain that is largely protonated at physiological pH and high lipophilicity, amlodipine associates slowly with cellular membranes and binds allosterically to the alpha-1 subunit of L-type calcium channels. Its slow association and dissociation kinetics prevent the abrupt vasodilation and reflex tachycardia characteristic of short-acting dihydropyridines (e.g., immediate-release nifedipine). (2) Blockade of Extracellular Calcium Influx: By stabilizing the inactive/closed conformation of L-type calcium channels in arterial smooth muscle, amlodipine halts extracellular Ca2+ influx. Intracellular calcium remains depleted, preventing MLCK activation and inducing arterial relaxation. This dilates peripheral arterioles, lowering total peripheral resistance (afterload) and decreasing mean arterial blood pressure. (3) Coronary Vasodilation & Antianginal Action: Amlodipine dilates epicardial coronary arteries and arterioles in both normal and ischemic zones, preventing coronary vasospasm (Prinzmetal's angina) and increasing subendocardial oxygen delivery. In chronic stable angina, by reducing peripheral vascular resistance (afterload), it reduces the myocardial rate-pressure product and oxygen consumption at any given level of exercise. (4) Extended Elimination Half-Life (30 to 50 Hours): Amlodipine has the longest elimination half-life among calcium channel blockers (30 to 50 hours), maintaining consistent 24-hour blood pressure reduction with a single daily dose and forgiving missed doses without rebound hypertension. (5) Vascular Selectivity over Myocardium: Amlodipine displays marked vascular selectivity (roughly 10-fold higher for vascular smooth muscle over cardiac myocytes), exerting no clinically significant negative inotropic effect or sinoatrial/atrioventricular nodal conduction suppression at standard clinical doses.",
+    "drug_class": "Dihydropyridine Calcium Channel Blocker (CCB) / Peripheral Vasodilator",
+    "main_action": "Inhibits transmembrane calcium influx through L-type calcium channels in vascular smooth muscle to produce sustained peripheral arteriolar vasodilation and lower systemic blood pressure without reflex tachycardia or cardiac conduction depression.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Essential Hypertension in adults and children aged 6+ (initial dose 5mg once daily; maximum 10mg once daily; preferred first-line agent in elderly and Black populations)",
+      "Chronic Stable Angina Pectoris (5mg to 10mg once daily as monotherapy or combined with beta-blockers or nitrates)",
+      "Vasospastic (Prinzmetal's or Variant) Angina (5mg to 10mg once daily to prevent coronary spasm)",
+      "Coronary Artery Disease with confirmed angina or recent revascularization to reduce hospitalization and revascularization risks (CAMELOT trial)",
+      "Hypertension in isolated systolic hypertension (ISH) in elderly individuals"
+    ],
+    "how_patients_describe_symptoms": [
+      "My blood pressure was staying around 155/95; taking this small tablet once a day in the morning brought it down to 125/80 smoothly without giving me heart palpitations.",
+      "I used to get squeezing chest tightness when walking uphill; this medication opened up my heart arteries and stopped the chest pain from coming on.",
+      "My doctor chose this pill because it works around the clock for 24 hours even if I take it a couple of hours late."
+    ],
+    "reconstitution_and_dilution": "Supplied ready-to-administer as white to off-white, round or eight-sided flat biconvex tablets containing Amlodipine Besylate IP equivalent to 5 mg (also manufactured in 2.5 mg and 10 mg strengths) of amlodipine base. No liquid reconstitution required. Storage Mandate: Store below 25°C to 30°C in original blister packs protected from light and moisture. Swallow whole with a glass of water; may be split along score lines if specified by the manufacturer.",
+    "infusion_rate_and_timing": "Oral Administration Only. Administration Timing Rule: Administer 5 mg orally ONCE DAILY AT ANY TIME OF DAY (morning or evening), with or without food. Peak plasma concentrations are achieved in 6 to 12 hours, and steady-state plasma levels are reached after 7 to 8 consecutive days of daily dosing. Dose Titration: Titrate to 10 mg once daily after 1 to 2 weeks if blood pressure or antianginal goals are not met. Elderly or Frail Starting Dose: In elderly patients or those with hepatic insufficiency, initiate at 2.5 mg once daily.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adults with essential hypertension (recommended as first-line monotherapy or in combination with an ARB/ACEi)",
+        "Elderly patients presenting with Isolated Systolic Hypertension (ISH)",
+        "Patients with chronic stable angina or confirmed Prinzmetal's variant angina",
+        "Patients with co-existing asthma or COPD (unlike beta-blockers, CCBs do not induce bronchospasm)",
+        "Patients with renal impairment (Amlodipine undergoes extensive hepatic metabolism to inactive metabolites; no dose adjustment needed in CKD or dialysis)"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Absolute Contraindication: Severe hypotension (systolic BP < 90 mmHg) or cardiogenic shock",
+        "Absolute Contraindication: Known hypersensitivity to amlodipine or other dihydropyridine calcium channel blockers",
+        "Severe Precaution: Severe aortic stenosis (causes excessive afterload reduction, compromising coronary perfusion across the fixed stenotic valve)",
+        "Severe Precaution: Uncompensated acute heart failure with pulmonary edema (avoid dihydropyridines during acute decompensation)",
+        "Severe Hepatic Impairment without dose reduction (terminal half-life extends up to 60 hours; start at 2.5mg daily)"
+      ]
+    },
+    "common_side_effects": [
+      "Cardiovascular / Vascular: peripheral edema (bilateral dependent ankle/foot edema occurring in 5% to 10%, dose-dependent; caused by preferential precapillary arteriolar dilation without postcapillary venular dilation, driving fluid extravasation into interstitial spaces)",
+      "Vascular flushing and warm sensation",
+      "Central nervous system: headache, dizziness, and mild somnolence",
+      "Gastrointestinal: abdominal pain, nausea, and dyspepsia",
+      "Cardiovascular: mild palpitations (uncommon compared to short-acting CCBs)",
+      "Oral: rare gingival hyperplasia with prolonged multi-year therapy"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "Peripheral Ankle Edema Mechanism & Combination Remedy: Dependent ankle edema from amlodipine is NOT caused by generalized fluid retention, renal impairment, or heart failure. It is a LOCAL HEMODYNAMIC PHENOMENON caused by selective precapillary arteriolar vasodilation. Elevated hydrostatic pressure inside capillary beds forces fluid out into surrounding interstitial tissues. Diuretics (such as Furosemide) are generally ineffective for this edema. THE PHYSIOLOGICAL REMEDY IS CO-ADMINISTERING AN ARB (SUCH AS TELMISARTAN) OR ACE INHIBITOR, which dilates the post-capillary venules, normalizes intracapillary hydrostatic pressure, and resolves the edema.",
+      "Zero Reflex Tachycardia Advantage over Short-Acting CCBs: Short-acting dihydropyridines (e.g., immediate-release nifedipine) cause rapid vasodilation, precipitating baroreceptor-mediated reflex sympathetic tachycardia that can trigger myocardial ischemia. In contrast, amlodipine's slow membrane-binding kinetics produce a gradual, sustained blood pressure reduction without reflex tachycardia, making it safe in coronary artery disease.",
+      "Simvastatin Dose Limitation Mandate: Amlodipine is a weak inhibitor of CYP3A4 and increases systemic simvastatin exposure by ~77%. WHEN CO-ADMINISTERING AMLODIPINE WITH SIMVASTATIN, THE SIMVASTATIN DOSE MUST NOT EXCEED 20 MG DAILY to prevent rhabdomyolysis and myopathy. (Rosuvastatin, which does not rely on CYP3A4, carries no such restriction).",
+      "Hepatic Clearance & Extended Half-Life in Liver Disease: Amlodipine is cleared almost exclusively (>95%) by hepatic CYP3A4 oxidation into inactive metabolites. In patients with cirrhosis or severe hepatic impairment, clearance is decreased and the elimination half-life prolongs up to 60 hours. INITIATE AT 2.5 MG ONCE DAILY IN HEPATIC DYSFUNCTION.",
+      "Safety in Compensated Heart Failure (PRAISE Trials): Unlike non-dihydropyridine CCBs (Verapamil, Diltiazem) which exert negative inotropic effects and worsen heart failure, the PRAISE trials demonstrated that amlodipine did not increase cardiovascular mortality or morbidity in patients with NYHA Class III-IV heart failure, making it a safe choice for BP control in compensated cardiomyopathy."
+    ]
+  }
+]
