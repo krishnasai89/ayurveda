@@ -13,8 +13,8 @@
     ],
     "category": ["Antihypertensives", "Cardiovascular", "Renal & Nephrology"],
     "sub_category": "Selective Non-Peptide Angiotensin II Type 1 (AT1) Receptor Blocker & Partial PPAR-gamma Modulator",
-    "company_name": "TL1",
-    "amount": "115/- (Strip of 15 Tablets in Alu-Alu Blister)",
+    "company_name": "Tsart 40 | telzox 40 | Tazloc-40",
+    "amount": "108/- | 108/- | 96/- (Strip of 15 Tablets in Alu-Alu Blister)",
     "routes_of_administration": [
       "Oral (Per Os - Swallowed Whole with Water Once Daily, With or Without Food)"
     ],
@@ -92,8 +92,8 @@
     ],
     "category": ["Antihypertensives", "Cardiovascular", "Renal & Nephrology"],
     "sub_category": "Selective Non-Peptide Angiotensin II Type 1 (AT1) Receptor Blocker & Low-Dose Titration Formulation",
-    "company_name": "TL1",
-    "amount": "68/- (Strip of 15 Tablets in Alu-Alu Blister)",
+    "company_name": "Tsart 20 | Telnyle 20",
+    "amount": "62/- | 61/- (Strip of 15 Tablets in Alu-Alu Blister)",
     "routes_of_administration": [
       "Oral (Per Os - Swallowed Whole with Water Once Daily, With or Without Food)"
     ],
@@ -176,8 +176,8 @@
       "Renal & Nephrology"
     ],
     "sub_category": "Dual-Mechanism Renoprotective Antihypertensive Combination (Dual L/N-Type Calcium Channel Blocker + AT1 Receptor Blocker)",
-    "company_name": "CT1",
-    "amount": "175/- (Strip of 10 Bilayered Tablets in Alu-Alu Blister)",
+    "company_name": "Telinor-CL 40 | Cilidin T | Lndip-T",
+    "amount": "178/- | 229/- | 142/- (Strip of 10 Bilayered Tablets in Alu-Alu Blister)",
     "routes_of_administration": [
       "Oral (Per Os - Swallowed Whole with Water Once Daily at the Same Time Every Day, With or Without Food)"
     ],
@@ -244,7 +244,7 @@
   },
   {
     "id": "amlodipine-besylate-tablets-ip-2-5mg-5mg",
-    "name": "Amlodipine Besylate Tablets IP (2.5mg / 5mg)",
+    "name": "Amlodipine Tablets IP (2.5mg / 5mg)",
     "generic_names": [
       "Amlodipine Besylate Tablets IP 2.5mg / 5mg",
       "Norvasc 2.5mg / 5mg",
@@ -262,8 +262,8 @@
       "Antianginal"
     ],
     "sub_category": "Third-Generation Long-Acting Dihydropyridine L-Type Calcium Channel Blocker & Vascular Vasodilator",
-    "company_name": "AM1",
-    "amount": "28/- (Strip of 15 Tablets - 2.5mg) / 45/- (Strip of 15 Tablets - 5mg)",
+    "company_name": "Amlosafe 2.5 | Amlosafe 5",
+    "amount": "28/- | 40/-  (Strip of 15 Tablets - 2.5mg) / 45/- (Strip of 15 Tablets - 5mg)",
     "routes_of_administration": [
       "Oral (Per Os - Swallowed Whole with Water Once Daily at Any Time of Day, With or Without Food)"
     ],
@@ -349,8 +349,8 @@
       "Renal & Nephrology"
     ],
     "sub_category": "Triple-Action Single-Pill Combination (Angiotensin II Receptor Blocker + Dihydropyridine CCB + Thiazide Diuretic)",
-    "company_name": "TA1",
-    "amount": "195/- (Strip of 10 Trilayered/Bilayered Tablets in Alu-Alu Blister)",
+    "company_name": "Telsyd AM",
+    "amount": "102/- (Strip of 10 Trilayered/Bilayered Tablets in Alu-Alu Blister)",
     "routes_of_administration": [
       "Oral (Per Os - Swallowed Whole with Water Once Daily in the Morning, With or Without Food)"
     ],
@@ -435,8 +435,8 @@
       "Heart Failure"
     ],
     "sub_category": "Third-Generation Highly Selective Beta-1 Adrenergic Receptor Antagonist & Endothelial Nitric Oxide (eNOS) Vasodilator",
-    "company_name": "NB1",
-    "amount": "118/- (Strip of 10 Tablets - 2.5mg) / 195/- (Strip of 10 Tablets - 5mg)",
+    "company_name": "Nebijoy 2.5 | Nebijoy-AM",
+    "amount": "120/- | 180/- (Strip of 10 Tablets - 2.5mg) / 195/- (Strip of 10 Tablets - 5mg)",
     "routes_of_administration": [
       "Oral (Per Os - Swallowed Whole with Water Once Daily at the Same Time Every Day, With or Without Food)"
     ],
@@ -523,8 +523,8 @@
       "Antianginal"
     ],
     "sub_category": "Dual-Mechanism Complementary Hemodynamic Antihypertensive Combination (Dihydropyridine CCB + Cardioselective Beta-1 Adrenoceptor Antagonist)",
-    "company_name": "AA1",
-    "amount": "82/- (Strip of 14 Film-Coated Tablets - 5mg/50mg)",
+    "company_name": "Amlosafe-AT",
+    "amount": "126/- (Strip of 14 Film-Coated Tablets - 5mg/50mg)",
     "routes_of_administration": [
       "Oral (Per Os - Swallowed Whole with Water Once Daily at the Same Time Every Day, With or Without Food)"
     ],
