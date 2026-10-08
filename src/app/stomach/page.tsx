@@ -12,9 +12,7 @@ import {
   Activity,
 } from "lucide-react";
 import stomachData from "@/data/stomach.json";
-import StomachCard, {
-  StomachDrugItem,
-} from "@/components/injections/StomachCard";
+import StomachCard, { StomachDrugItem } from "@/components/stomach/StomachCard";
 
 export default function StomachPage() {
   const medications: StomachDrugItem[] = useMemo(() => {
