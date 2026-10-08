@@ -165,7 +165,7 @@ export default function Navbar() {
                       className={`relative flex items-center gap-1.5 text-xs font-sans tracking-[0.22em] uppercase font-medium transition-colors ${
                         isScrolled
                           ? "text-stone-300 hover:text-amber-200"
-                          : "text-stone-900/90 hover:text-stone-900"
+                          : "text-stone-400/90 hover:text-stone-400"
                       } ${dropdownOpen ? "text-amber-300" : ""}`}
                     >
                       <span>{link.name}</span>
