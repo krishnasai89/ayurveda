@@ -134,7 +134,7 @@ export default function Navbar() {
                 className={`font-serif tracking-[0.25em] text-sm md:text-base transition-colors ${
                   isScrolled
                     ? "text-stone-100"
-                    : "text-stone-100 md:text-stone-900"
+                    : "text-stone-100 md:text-stone-300"
                 }`}
               >
                 AYURVEDA
