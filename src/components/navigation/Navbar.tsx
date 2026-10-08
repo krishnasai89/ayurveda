@@ -228,7 +228,7 @@ export default function Navbar() {
                   className={`relative text-xs font-sans tracking-[0.22em] uppercase font-medium transition-colors group py-2 ${
                     isScrolled
                       ? "text-stone-300 hover:text-amber-200"
-                      : "text-stone-900/90 hover:text-stone-950"
+                      : "text-stone-400/90 hover:text-stone-500"
                   }`}
                 >
                   {link.name}
