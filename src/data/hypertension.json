@@ -1294,5 +1294,183 @@
       "Digoxin & Antiarrhythmic Interaction Vigilance: Diuretic-induced hypokalemia and hypomagnesemia sensitize cardiac myocardium to digitalis toxicity, predisposing patients to fatal ventricular arrhythmias. If co-prescribing with Digoxin, evaluate serum potassium weekly until stable, maintaining serum K+ > 4.0 mEq/L.",
       "Morning Ingestion Mandate: Administering torsemide after 2:00 PM will cause heavy nocturia and severe sleep disruption. TABLETS MUST ALWAYS BE TAKEN IN THE MORNING UPON WAKING."
     ]
+  },
+  {
+    "id": "cilnidipine-telmisartan-metoprolol-succinate-er-tablets-10mg-40mg-25mg",
+    "name": "Cilnidipine, Telmisartan & Metoprolol Succinate (ER) Tablets IP (10mg / 40mg / 25mg)",
+    "generic_names": [
+      "Cilnidipine, Telmisartan & Metoprolol Succinate Extended Release Tablets",
+      "Telnyle-LNB 25",
+      "Cilaheart-TM 25",
+      "Cilacar-TM 25",
+      "Telma-LN Beta 25",
+      "Twincal-TM 25",
+      "Triple Neurovascular & Sympathetic Antihypertensive Combination"
+    ],
+    "category": [
+      "Antihypertensives",
+      "Calcium Channel Blockers",
+      "Beta Blockers",
+      "Cardiovascular",
+      "Renal & Nephrology"
+    ],
+    "sub_category": "Triple-Action Cardiorenal & Sympatholytic Combination (Dual L/N-Type CCB + AT1 Blocker + Zero-Order Beta-1 Blocker)",
+    "company_name": "Telnyle-LNB 25",
+    "amount": "218/- (Strip of 10 Trilayered/Bilayered Tablets in Alu-Alu Blister)",
+    "routes_of_administration": [
+      "Oral (Per Os - Swallowed Whole with Water Once Daily in the Morning, With or Without Food)"
+    ],
+    "blocker_type": "Angiotensin Receptor Blocker (ARB)",
+    "hemodynamic_impact": {
+      "systolic_bp_drop": "24 to 34 mmHg",
+      "heart_rate_effect": "Decreased",
+      "systemic_vascular_resistance": "Decreased",
+      "renal_protective": true
+    },
+    "main_cause": "Severe or Resistant Essential Hypertension Accompanied by High Resting Sympathetic Tone or Sinus Tachycardia (Heart Rate > 80 bpm), Hypertension in Patients with Chronic Kidney Disease (CKD Stages 1-3) or Diabetic Nephropathy Requiring Reduction of Proteinuria and Intraglomerular Pressure, Hypertensive Coronary Artery Disease (CAD) or Post-Myocardial Infarction Requiring Rate-Limiting Cardioprotection, Abolition of Dihydropyridine-Induced Reflex Tachycardia and Conventional CCB-Induced Pedal Edema",
+    "why_this_disease_happens": "In severe and resistant arterial hypertension complicated by sympathetic hyperdrive or microvascular renal damage, cardiovascular deterioration is accelerated by three interconnected pathophysiological axes: (1) Sympathetic Hyperactivation & Adrenergic Cardiotoxicity: Elevated central and cardiac sympathetic outflow floods myocardial beta-1 adrenergic receptors with catecholamines, increasing resting heart rate (chronotropy), contractility (inotropy), and cardiac oxygen consumption ($MVO_2$), while triggering renal juxtaglomerular beta-1 receptors to hypersecrete renin; (2) Vascular Calcium Influx & SVR Elevation: Pathological extracellular calcium influx through voltage-gated L-type channels maintains arteriolar smooth muscle contraction, raising Systemic Vascular Resistance (SVR); (3) RAAS Axis Vasoconstriction & Efferent Glomerular Strain: Angiotensin II stimulates vascular AT1 receptors, producing peripheral vasoconstriction, aldosterone release, and selective post-capillary efferent arteriolar constriction. Conventional two-drug combinations often fail: pure L-type calcium channel blockers (Amlodipine) dilate only afferent arterioles, transmitting high systemic pressures into renal glomeruli, worsening microalbuminuria, and causing dependent pedal edema via capillary fluid transudation. Furthermore, pure vasodilators provoke baroreceptor reflex tachycardia. Controlling severe hypertension in sympathetically active patients requires a triple regimen: combining an insurmountable AT1 blocker to suppress RAAS, an L/N-type dual calcium channel blocker to dilate both afferent/efferent arterioles and suppress sympathetic norepinephrine release (preventing pedal edema), and a zero-order extended-release beta-1 blocker to control heart rate and reduce myocardial workload.",
+    "how_this_medicine_fights_it": "Provides synchronized, triple-pathway hemodynamic vasodilation, sympathetic stabilization, and cardiorenal protection: (1) Insurmountable AT1 Receptor Blockade (Telmisartan 40mg): Telmisartan selectively binds the vascular Angiotensin II Type 1 (AT1) receptor with sub-nanomolar affinity (>3000-fold selectivity over AT2), displacing Ang II with slow dissociation kinetics. It blocks Ang II-mediated vasoconstriction, reduces systemic vascular resistance, inhibits adrenal aldosterone secretion, provides partial PPAR-gamma insulin-sensitizing benefits, and maintains 24-hour trough blood pressure control via its 24-hour elimination half-life. (2) Dual L-Type & Neuronal N-Type Calcium Blockade (Cilnidipine 10mg): Cilnidipine blocks both vascular L-type and sympathetic neuronal N-type voltage-gated calcium channels. L-type blockade relaxes arteriolar smooth muscle to reduce afterload. Crucially, N-type blockade inhibits the exocytotic release of norepinephrine from sympathetic nerve terminals, suppressing reflex sympathetic activation and dilating postcapillary venules to prevent dependent pedal edema. (3) Controlled-Release Zero-Order Beta-1 Blockade (Metoprolol Succinate 25mg ER): Formulated as a micro-pellet extended-release matrix (CR/ZOK), metoprolol succinate provides constant beta-1 antagonism over 24 hours (~74-fold selectivity over beta-2). It suppresses intracellular cyclic AMP (cAMP) and PKA signaling in cardiac pacemaker and myocardial tissue, slowing sinoatrial nodal depolarization, reducing resting and exercise heart rate, dampening myocardial contractility, decreasing myocardial oxygen demand ($MVO_2$), and suppressing renal renin secretion at the source. (4) Dual Renoprotection & Balanced Glomerular Hemodynamics: In the renal microcirculation, L-type blockade dilates afferent arterioles, while N-type blockade (cilnidipine) and AT1 blockade (telmisartan) dilate efferent arterioles. Dilating both afferent and efferent vessels normalizes intraglomerular hydraulic pressure ($P_{GC}$), reduces filtration barrier shear stress, and significantly lowers urinary albumin excretion in diabetic and hypertensive nephropathy. (5) Prevention of Reflex Tachycardia & Pedal Edema: Metoprolol controls cardiac rate while cilnidipine's N-type inhibition suppresses norepinephrine release, completely abolishing reflex tachycardia. Cilnidipine's venular dilation combined with telmisartan's efferent/venular dilation normalizes capillary hydrostatic pressure, keeping ankle edema rates below 2%.",
+    "drug_class": "Dual L/N-Type CCB + ARB + Cardioselective Beta-1 Blocker (ER) / Triple Cardiorenal Antihypertensive Combination",
+    "main_action": "Cilnidipine blocks L/N-type calcium channels to lower arterial resistance and suppress norepinephrine release, telmisartan insurmountably blocks AT1 receptors to neutralize RAAS and dilate efferent arterioles, and metoprolol succinate ER delivers continuous 24-hour beta-1 blockade to lower heart rate and reduce myocardial workload.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Severe Stage 2 Essential Hypertension or Resistant Hypertension uncontrolled on dual therapy (1 tablet orally once daily in the morning)",
+      "Hypertension accompanied by high resting heart rate (> 80 bpm), palpitations, or hyperdynamic circulation",
+      "Hypertension in Chronic Kidney Disease (CKD Stages 1-3) and Diabetic Nephropathy with microalbuminuria or overt proteinuria",
+      "Hypertension with co-existing Coronary Artery Disease (CAD), stable exertional angina, or prior myocardial infarction",
+      "Hypertensive patients who developed intolerable pedal edema on conventional amlodipine-based combinations"
+    ],
+    "how_patients_describe_symptoms": [
+      "My blood pressure was still high in the 160s, my pulse was racing at 95, and my ankles were swollen on my older pills; switching to this morning 3-in-1 tablet brought my pressure down to 122/78, calmed my heart rate to 68, and cleared the ankle swelling within two weeks.",
+      "This single morning tablet replaced three separate prescriptions, stopped my heart palpitations, and protected my kidney filters.",
+      "My blood pressure would spike dangerously in the morning with a pounding pulse; taking this medication once a day kept both my pressure and my heart rate steady around the clock."
+    ],
+    "reconstitution_and_dilution": "Supplied ready-to-administer as trilayered or bilayered, film-coated tablets containing Cilnidipine IP equivalent to 10 mg, Telmisartan IP equivalent to 40 mg, and Metoprolol Succinate IP equivalent to 23.75 mg (equivalent to 25 mg of metoprolol tartrate) in prolonged-release form (also manufactured in 10mg/40mg/50mg strengths). No liquid reconstitution required. Physical Integrity & Storage Mandates: (1) Do Not Crush or Chew: TABLETS MUST BE SWALLOWED WHOLE WITH WATER; NEVER CRUSH, CHEW, DISSOLVE, OR GRIND. Crushing destroys the micro-pellet extended-release membrane of the metoprolol layer, causing immediate dose-dumping of the 24-hour beta-blocker payload and precipitating severe bradycardia, AV block, and acute hypotension. (2) Alu-Alu Blister Integrity: The telmisartan component is highly hygroscopic; tablets must remain in original moisture-barrier blister packaging until immediately prior to ingestion. Store below 25°C to 30°C.",
+    "infusion_rate_and_timing": "Oral Administration Only. Administration Timing Rule: Administer 1 tablet orally ONCE DAILY IN THE MORNING AT THE SAME TIME EVERY DAY, with or without food. Morning dosing directly counters the circadian surge of sympathetic drive, blood pressure, and heart rate. Maintenance Protocol: Standard daily dose is 1 tablet (10mg/40mg/25mg) once daily; patients requiring deeper rate control or further pressure reduction can be titrated to 10mg/40mg/50mg based on blood pressure response and resting heart rate (maintain resting pulse >= 55-60 bpm).",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adult patients with severe or resistant essential hypertension requiring triple-pathway blood pressure reduction",
+        "Hypertensive patients presenting with resting sinus tachycardia, palpitations, or documented coronary artery disease",
+        "Hypertensive patients with diabetic nephropathy or CKD requiring balanced pre- and post-capillary glomerular dilation",
+        "Patients who developed peripheral pedal edema or reflex tachycardia on amlodipine monotherapy or amlodipine-based combinations",
+        "Patients with mild-to-moderate renal impairment (telmisartan is eliminated >98% in bile; cilnidipine and metoprolol undergo hepatic metabolism; no dosage adjustment needed in renal failure or hemodialysis)"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Absolute Black Box Contraindication: Pregnancy (Telmisartan acts directly on RAAS, causing fetal renal dysgenesis, oligohydramnios, skull hypoplasia, and intrauterine death; discontinue immediately if pregnancy is detected)",
+        "Absolute Contraindication: Severe resting sinus bradycardia (heart rate < 50 bpm) or sick sinus syndrome without a functioning artificial pacemaker",
+        "Absolute Contraindication: Second- or third-degree atrioventricular (AV) heart block without an artificial pacemaker",
+        "Absolute Contraindication: Cardiogenic shock or acutely decompensated heart failure requiring intravenous inotropic support",
+        "Absolute Contraindication: Severe, uncontrolled active bronchial asthma with bronchospasm",
+        "Absolute Contraindication: Bilateral renal artery stenosis or severe stenosis of an artery to a solitary functioning kidney (risk of acute renal shutdown due to efferent arteriolar dilation)",
+        "Absolute Contraindication: Severe hepatic impairment, biliary cirrhosis, or cholestasis (telmisartan undergoes biliary clearance; metoprolol and cilnidipine rely on hepatic metabolism)"
+      ]
+    },
+    "common_side_effects": [
+      "Cardiovascular: resting sinus bradycardia (slow pulse, ~4% to 7%), mild hypotension, or postural lightheadedness",
+      "Central nervous system: dizziness, fatigue, lassitude, and mild headache (mostly during initial dose titration)",
+      "Gastrointestinal: nausea, dyspepsia, mild diarrhea, or abdominal discomfort",
+      "Systemic / Vascular: cold extremities (hands and feet due to mild unopposed alpha-1 peripheral tone)",
+      "Metabolic / Electrolyte: mild hyperkalemia (primarily in patients with baseline diabetic kidney disease or concomitant potassium supplements)",
+      "Peripheral vascular: cutaneous flushing (pedal edema is rare, occurring in <2% due to cilnidipine's N-type venular dilation)"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "Fetal Toxicity Black Box Warning: Drugs acting directly on the renin-angiotensin system (Telmisartan) cause severe injury and death to the developing fetus when administered during the second and third trimesters of pregnancy. Manifestations include renal agenesis, oligohydramnios, neonatal anuria, skull hypoplasia, and pulmonary hypoplasia. DISCONTINUE THIS MEDICATION IMMEDIATELY AS SOON AS PREGNANCY IS CONFIRMED. Women of childbearing potential must use reliable contraception.",
+      "Abrupt Discontinuation & Rebound Ischemia Black Box Warning: Chronic administration of beta-blockers leads to compensatory upregulation of cardiac beta-1 receptors. ABRUPT WITHDRAWAL OF THIS COMBINATION CAN TRIGGER SEVERE REBOUND SYMPATHETIC HYPERACTIVITY, PRECIPITATING ACCELERATED ANGINA, VENTRICULAR ARRHYTHMIAS, ACUTE MYOCARDIAL INFARCTION, OR HYPERTENSIVE CRISIS. If therapy must be stopped, taper the dose gradually over at least 1 to 2 weeks under close physician monitoring.",
+      "Extended-Release Matrix Integrity (Never Crush or Chew): The metoprolol succinate layer utilizes a micro-pellet extended-release delivery system. TABLETS MUST NEVER BE CRUSHED, CHEWED, DISSOLVED, OR GROUND. Crushing ruptures the polymeric membrane, releasing the entire 24-hour payload immediately ('dose dumping'), which can cause profound bradycardia, high-grade AV block, and severe hypotension.",
+      "Elimination of Pedal Edema (Cilnidipine Advantage over Amlodipine): Conventional triple combinations containing amlodipine frequently cause pedal edema because amlodipine dilates precapillary arterioles selectively, raising intracapillary hydrostatic pressure. Cilnidipine's N-type calcium channel blockade dilates sympathetic postcapillary venules in tandem with telmisartan's efferent/venular dilation. This normalizes microvascular pressure and ELIMINATES PEDAL EDEMA IN OVER 80% OF AMLODIPINE-INTOLERANT PATIENTS.",
+      "Bilateral Renal Arteriolar Protection (Afferent + Efferent Dilation): Pure L-type blockers dilate only the afferent arteriole, which can transmit systemic hypertension directly into the glomerulus. The combination of Cilnidipine (L/N-type) and Telmisartan (AT1 blocker) dilates BOTH the afferent arteriole (via L-channel block) and the efferent arteriole (via N-channel and AT1 block). This lowers intraglomerular hydraulic pressure ($P_{GC}$), reduces podocyte shear stress, and provides superior reduction of microalbuminuria in diabetic nephropathy.",
+      "Hyperkalemia Surveillance (Electrolyte Tracking): Suppressing aldosterone reduces renal cortical collecting duct potassium excretion. Concomitant administration with potassium supplements, potassium-containing salt substitutes, or potassium-sparing diuretics (Spironolactone, Eplerenone) can trigger life-threatening hyperkalemia. Monitor serum potassium and creatinine within 2 to 4 weeks of initiation, especially in patients with diabetic nephropathy.",
+      "Alu-Alu Blister Moisture Mandate: Telmisartan is extremely hygroscopic and softens rapidly upon exposure to ambient humidity. TABLETS MUST NEVER BE DE-BLISTERED IN ADVANCE FOR WEEKLY ORGANIZERS; remove from the blister pack only immediately prior to swallowing."
+    ]
+  },
+  {
+    "id": "telmisartan-chlorthalidone-tablets-ip-40mg-12-5mg",
+    "name": "Telmisartan & Chlorthalidone Tablets IP (40mg / 12.5mg)",
+    "generic_names": [
+      "Telmisartan & Chlorthalidone Fixed-Dose Combination Tablets IP",
+      "cirqtel CT 40",
+      "Telnyle-CH",
+      "Telma-CT 40/12.5",
+      "Telvas-CT 40/12.5",
+      "Cresar-CT 40/12.5",
+      "Telmikind-CT 40/12.5",
+      "Arbitel-CT 40/12.5",
+      "Dual ARB & Long-Acting Thiazide-Like Diuretic Combination"
+    ],
+    "category": [
+      "Antihypertensives",
+      "Diuretics",
+      "Cardiovascular",
+      "Renal & Nephrology"
+    ],
+    "sub_category": "Dual-Mechanism Synergistic Antihypertensive Combination (Long-Acting AT1 Receptor Blocker + Long-Acting Thiazide-Like Diuretic)",
+    "company_name": "cirqtel CT 40 | Telnyle-CH",
+    "amount": "142/- | 138/- (Strip of 15 Bilayered Tablets in Alu-Alu Blister)",
+    "routes_of_administration": [
+      "Oral (Per Os - Swallowed Whole with Water Once Daily in the Morning, With or Without Food)"
+    ],
+    "blocker_type": "Angiotensin Receptor Blocker (ARB)",
+    "hemodynamic_impact": {
+      "systolic_bp_drop": "20 to 30 mmHg",
+      "heart_rate_effect": "Neutral",
+      "systemic_vascular_resistance": "Decreased",
+      "renal_protective": true
+    },
+    "main_cause": "Essential Hypertension Uncontrolled on Monotherapy (Stage 2 Hypertension), Severe Arterial Hypertension Requiring Sustained 24-Hour Ambulatory Blood Pressure Reductions, Hypertension with High Volume Sensitivity or Salt Retention (Elderly, Obese, and Metabolic Syndrome Patients), Blunting of Early Morning Blood Pressure Surges, Countering Diuretic-Induced Reactive Hyperreninemia While Preventing Thiazide Potassium Wasting",
+    "why_this_disease_happens": "In stage 2 and resistant essential hypertension, persistent blood pressure elevation is sustained by two interacting physiological mechanisms: elevated peripheral vascular resistance and inappropriate renal tubular volume retention. Hyperactivation of the Renin-Angiotensin-Aldosterone System (RAAS) causes Angiotensin II (Ang II) to stimulate vascular AT1 receptors, eliciting potent systemic vasoconstriction and driving adrenal aldosterone secretion. Concurrently, excessive renal distal tubular sodium and water reabsorption expands extracellular fluid and intravascular plasma volume. When thiazide diuretics are administered as monotherapy, the resulting natriuresis and volume contraction trigger a physiological counter-regulatory reflex: renal juxtaglomerular cells perceive decreased tubular delivery and lower perfusion pressure, driving a compensatory surge in renin release. This reactive hyperreninemia elevates circulating Angiotensin II, which blunts the diuretic's blood pressure reduction and accelerates distal nephron potassium wasting (predisposing patients to hypokalemia and metabolic alkalosis). Conversely, ARB monotherapy often fails when volume expansion or high dietary sodium intake sustains blood pressure independently of circulating angiotensin levels. Achieving comprehensive, round-the-clock blood pressure normalization requires pairing a high-affinity, long-acting AT1 blocker with a long-acting thiazide-like diuretic to abolish the compensatory hyperreninemic feedback loop.",
+    "how_this_medicine_fights_it": "Provides synchronized dual-axis hemodynamic normalization by combining insurmountable AT1 receptor blockade with prolonged renal distal tubular natriuresis: (1) Insurmountable AT1 Receptor Blockade (Telmisartan 40mg): Telmisartan selectively binds the vascular Angiotensin II Type 1 (AT1) receptor with sub-nanomolar affinity (>3000-fold selectivity over AT2), displacing Ang II and acting as an insurmountable antagonist. It halts Ang II-mediated vasoconstriction, reduces systemic vascular resistance, and suppresses adrenal aldosterone synthesis. Uniquely, telmisartan neutralizes the reactive hyperreninemic surge triggered by chlorthalidone. Furthermore, telmisartan provides partial PPAR-gamma nuclear agonism (enhancing insulin sensitivity and lipid metabolism) and possesses a 24-hour elimination half-life that prevents the early morning blood pressure surge. (2) Sustained Distal Tubule Natriuresis (Chlorthalidone 12.5mg): Chlorthalidone is a long-acting monosulfonamyl phthalimidine-derivative thiazide-like diuretic. It selectively inhibits the electroneutral Na+/Cl- cotransporter (NCCT) on the luminal membrane of early distal convoluted tubules in renal nephrons. By blocking sodium and chloride reabsorption, it promotes urinary excretion of sodium, chloride, and water, reducing extracellular fluid volume, plasma volume, and cardiac output. Over chronic administration (>4 to 6 weeks), chlorthalidone reduces systemic vascular resistance via direct vascular smooth muscle desensitization. (3) Superior Half-Life Synergy of Chlorthalidone over HCTZ: Unlike hydrochlorothiazide (which has an elimination half-life of 6 to 9 hours and often fails to provide overnight BP control), chlorthalidone binds strongly to red blood cell carbonic anhydrase, establishing an erythrocyte reservoir that yields a prolonged elimination half-life of 40 to 60 hours. Co-formulated with telmisartan (24-hour half-life), this combination delivers sustained 24-hour ambulatory blood pressure reduction with a high trough-to-peak ratio (>85%), as validated in the ALLHAT and SHEP landmark trials. (4) Self-Balancing Potassium Homeostasis: Chlorthalidone increases distal nephron sodium delivery, which stimulates sodium-potassium exchange and aldosterone-mediated potassium wasting, risking hypokalemia. Concurrently, telmisartan suppresses adrenal aldosterone synthesis, decreasing potassium excretion. This produces a counter-balancing potassium effect that preserves normokalemia in the majority of patients.",
+    "drug_class": "Angiotensin II Receptor Blocker (ARB) + Thiazide-Like Diuretic / Dual Antihypertensive Combination",
+    "main_action": "Telmisartan insurmountably blocks vascular AT1 receptors to lower arterial resistance and suppress aldosterone, while chlorthalidone inhibits distal tubular Na+/Cl- cotransporters to reduce plasma volume, delivering an additive 20 to 30 mmHg systolic blood pressure reduction over a full 24- to 48-hour duration.",
+    "diseases_and_conditions_it_may_be_used_for": [
+      "Stage 2 Essential Hypertension inadequately controlled on ARB or diuretic monotherapy (1 tablet orally once daily in the morning)",
+      "Hypertension with high sodium sensitivity, obesity-related hypertension, or high extracellular fluid volume",
+      "Hypertension with excessive early morning ambulatory blood pressure surge (ALLHAT trial backbone evidence for chlorthalidone)",
+      "Hypertensive patients with left ventricular hypertrophy (LVH) requiring sustained 24-hour afterload and volume reduction",
+      "Step-down maintenance therapy in patients requiring potent dual-drug blood pressure control in a single daily tablet"
+    ],
+    "how_patients_describe_symptoms": [
+      "My systolic blood pressure was staying high around 165 on single-pill treatments; switching to this combination tablet every morning brought it down into the normal 120s around the clock.",
+      "This morning tablet kept my blood pressure steady all day and prevented the high spikes I used to get first thing in the morning when I woke up.",
+      "My previous water pill caused my blood potassium levels to drop too low; this combined pill keeps my blood pressure controlled while keeping my potassium numbers balanced."
+    ],
+    "reconstitution_and_dilution": "Supplied ready-to-administer as bilayered, circular or oblong, biconvex, film-coated tablets containing Telmisartan IP equivalent to 40 mg and Chlorthalidone IP equivalent to 12.5 mg (also manufactured in 80mg/12.5mg and 40mg/6.25mg strengths). No liquid reconstitution required. Severe Hygroscopicity Mandate: The telmisartan layer is exceptionally moisture-sensitive and degrades rapidly upon exposure to ambient atmospheric moisture. TABLETS MUST REMAIN IN ORIGINAL ALUMINUM-ALUMINUM (ALU-ALU) BLISTER PACKAGING UNTIL IMMEDIATELY PRIOR TO INGESTION. Do not store in daily pill boxes. Store below 25°C to 30°C in a dry place protected from light and moisture. Swallow whole with a full glass of water; do not crush, chew, or split.",
+    "infusion_rate_and_timing": "Oral Administration Only. Administration Timing Rule: Administer 1 tablet orally ONCE DAILY IN THE MORNING, with or without food. Morning administration is strongly advised to synchronize diuresis with waking hours and prevent nocturia-induced sleep fragmentation caused by the chlorthalidone diuretic component. Dosing Titration: Standard maintenance dose is 40mg/12.5mg once daily; in patients with higher baseline blood pressure, the dose may be escalated to 80mg/12.5mg once daily under clinical supervision if target blood pressure is not achieved after 2 to 4 weeks.",
+    "patient_suitability": {
+      "who_can_use_it": [
+        "Adult patients with essential hypertension whose blood pressure is not adequately controlled on single-agent therapy",
+        "Hypertensive patients with elevated pulse pressure or high ambulatory morning blood pressure surges",
+        "Patients requiring the documented cardiovascular morbidity benefits of Chlorthalidone (proven in the ALLHAT and SHEP trials)",
+        "Patients with mild-to-moderate essential hypertension who develop hypokalemia on thiazide monotherapy (telmisartan buffers potassium loss)",
+        "Hypertensive patients with metabolic syndrome or type 2 diabetes mellitus (benefits from telmisartan's partial PPAR-gamma insulin-sensitizing action)"
+      ],
+      "who_should_avoid_or_limit_it": [
+        "Absolute Black Box Contraindication: Pregnancy (Telmisartan acts directly on the RAAS, causing fetal renal dysgenesis, oligohydramnios, skull hypoplasia, and intrauterine death; discontinue immediately if pregnancy is detected)",
+        "Absolute Contraindication: Anuria or severe renal impairment (eGFR < 30 mL/min/1.73m²; thiazide-like diuretics lose tubular efficacy at low filtration rates and can precipitate progressive azotemia; loop diuretics like torsemide required instead)",
+        "Absolute Contraindication: Refractory hyponatremia, hypokalemia, hypercalcemia, or symptomatic hyperuricemia with acute gout",
+        "Absolute Contraindication: Severe hepatic impairment, biliary cirrhosis, or cholestasis (telmisartan undergoes almost exclusive biliary excretion; diuretic-induced electrolyte shifts can precipitate hepatic encephalopathy)",
+        "Absolute Contraindication: Bilateral renal artery stenosis or severe stenosis of an artery to a solitary functioning kidney",
+        "Absolute Contraindication: Concomitant use with Aliskiren in patients with diabetes mellitus or renal impairment (eGFR < 60 mL/min)",
+        "Precaution / Limit: Patients with symptomatic hyperuricemia or acute gouty arthritis (chlorthalidone competitively inhibits proximal tubular uric acid secretion)"
+      ]
+    },
+    "common_side_effects": [
+      "Central nervous system: dizziness, postural lightheadedness, or fatigue (more prominent during initial titration)",
+      "Metabolic / Electrolyte shifts: mild hypokalemia, hyponatremia, hyperuricemia (elevated serum uric acid), and mild hyperglycemia",
+      "Gastrointestinal: nausea, dyspepsia, abdominal pain, or mild diarrhea",
+      "Upper respiratory: nasopharyngitis, sinus congestion, or pharyngitis",
+      "Musculoskeletal: muscle cramps or back pain",
+      "Renal laboratory shift: transient elevation in serum creatinine and blood urea nitrogen (BUN) secondary to volume contraction"
+    ],
+    "important_cautions": [
+      "Strict JSON & Syntax Integrity: Clean standard formatting without unescaped special characters or raw LaTeX backslashes to ensure complete build stability in Next.js and Turbopack.",
+      "Fetal Toxicity Black Box Warning: Drugs that act directly on the renin-angiotensin system (Telmisartan) cause severe injury and death to the developing fetus when administered during the second and third trimesters of pregnancy. Manifestations include renal agenesis, oligohydramnios, neonatal anuria, skull hypoplasia, and intrauterine death. DISCONTINUE THIS MEDICATION IMMEDIATELY AS SOON AS PREGNANCY IS CONFIRMED. Women of childbearing potential must use reliable contraception.",
+      "Chlorthalidone vs. Hydrochlorothiazide Superiority (The ALLHAT Advantage): Chlorthalidone is roughly 1.5 to 2 times more potent than hydrochlorothiazide milligram-for-milligram and has a significantly longer half-life (40 to 60 hours vs. 6 to 9 hours). Large randomized landmark trials (ALLHAT, SHEP) established chlorthalidone's superior 24-hour ambulatory blood pressure reduction and significant reductions in stroke, heart failure, and cardiovascular events compared to short-acting diuretics.",
+      "Dual 24-Hour Half-Life Matching: Unlike combinations of short-acting diuretics with ARBs that leave an untreated window, telmisartan (~24-hour half-life) and chlorthalidone (40- to 60-hour half-life) represent the most pharmacokinetically aligned dual antihypertensive combination available, providing a trough-to-peak ratio exceeding 85% and preventing the early morning blood pressure surge.",
+      "Electrolyte Surveillance (Potassium and Sodium Shifts): Although telmisartan mitigates diuretic-induced potassium wasting, chlorthalidone's prolonged duration of action carries a documented risk of hypokalemia, hyponatremia, and hypomagnesemia, particularly in elderly patients or those on low-salt diets. EVALUATE SERUM ELECTROLYTES (SODIUM, POTASSIUM) AND RENAL FUNCTION (CREATININE, BUN) AT BASELINE AND WITHIN 2 TO 4 WEEKS AFTER STARTING THERAPY.",
+      "Inefficacy in Severe Renal Impairment (eGFR < 30 mL/min): Thiazide and thiazide-like diuretics require adequate glomerular filtration to enter the renal tubular lumen and reach the luminal Na+/Cl- cotransporter. IN PATIENTS WITH SEVERE RENAL DYSFUNCTION (eGFR < 30 ML/MIN/1.73M²), CHLORTHALIDONE LOSES CLINICAL EFFICACY and can exacerbate azotemia. Loop diuretics (Torsemide or Furosemide) are required in advanced renal disease.",
+      "Hyperuricemia and Gout Precipitation Hazard: Chlorthalidone competes with uric acid for organic anion transporters in the proximal renal tubule, raising serum uric acid levels. Exercise caution in patients with a history of gout or hyperuricemia; acute gouty arthritis flares may be precipitated.",
+      "Morning Ingestion Mandate: Due to the sustained diuretic properties of chlorthalidone, PATIENTS MUST INGEST THIS TABLET IN THE MORNING TO PREVENT NOCTURIA and sleep interruption.",
+      "Alu-Alu Blister Moisture Mandate: Telmisartan is extremely hygroscopic and softens rapidly upon exposure to ambient humidity. TABLETS MUST NEVER BE DE-BLISTERED IN ADVANCE FOR WEEKLY ORGANIZERS; remove from the blister pack only immediately prior to swallowing."
+    ]
   }
 ]
